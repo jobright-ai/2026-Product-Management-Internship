@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product growth intern](https://jobright.ai/jobs/info/695167d729655e4dd65a6c85?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 28 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 28 |
 | **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/693e74e549a7695fbd049dd0?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
 | ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/693a9715d4054a2bc024a53b?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 28 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6933716d764507023d1b5b50?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/693347eca0dde7020e2ec1cb?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Dec 27 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Digital Innovation & Strategy Internship](https://jobright.ai/jobs/info/694b157a3019f50a4fe626c3?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2726fa28370be26a1cdd?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
