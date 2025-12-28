@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 28 |
+| **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/693e74e549a7695fbd049dd0?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/693a9715d4054a2bc024a53b?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 28 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/693e5ca4aa598a08c3eeae5f?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Dec 28 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/693171dd4c474121999ef465?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Dec 28 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Dec 28 |
@@ -76,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6933716d764507023d1b5b50?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/693347eca0dde7020e2ec1cb?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Dec 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2726fa28370be26a1cdd?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
-| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/694a683931c12007d3b91c5c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 22 |
-| **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a113a63141d188459b90b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc39c6f0e2546ceed4f0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
