@@ -72,7 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/693d34b050bbaf7650505e42?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d34dc50bbaf7650505efe?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 28 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334d49764507023d1b3e86?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69335064f131d96e48461ce9?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334d49764507023d1b3e86?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/693351d5f131d96e48461e4e?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Dec 27 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69336bd1a0dde7020e2edc80?utm_campaign=1047&utm_source=git)** | Durham, NC | Remote | Dec 27 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Digital Innovation & Strategy Internship](https://jobright.ai/jobs/info/694b157a3019f50a4fe626c3?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2726fa28370be26a1cdd?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
