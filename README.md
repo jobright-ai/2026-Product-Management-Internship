@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695223fd29655e4dd65af2e5?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[Product Analyst Intern/Co-op, Acquisition & Engagement, CPJ, Credit Cards (SUMMER 2026)](https://jobright.ai/jobs/info/6952230cce13cd105659a71c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952222fa2668b7f5454b0b3?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| **[TD](https://www.td.com)** | **[Product Analyst Intern/Co-op, Acquisition & Engagement, CPJ, Credit Cards (SUMMER 2026)](https://jobright.ai/jobs/info/6952169ea2668b7f5454acdf?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/6952167ca2668b7f5454acd1?utm_campaign=1047&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695215f729655e4dd65aeee1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952147ace13cd105659a2a7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 28 |
@@ -83,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6933716d764507023d1b5b50?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/693347eca0dde7020e2ec1cb?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Dec 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RapidSOS](https://rapidsos.com)** | **[Product MBA Intern - Summer 2026](https://jobright.ai/jobs/info/694b1b413019f50a4fe6343a?utm_campaign=1047&utm_source=git)** | New York City or Boston | On Site | Dec 23 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 23 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Product Management Intern (Summer)](https://jobright.ai/jobs/info/694b10ae3019f50a4fe61b4f?utm_campaign=1047&utm_source=git)** | Oil-Dri Corporation of America, 410 N Michigan Ave, Chicago, Illinois, United States of America | On Site | Dec 23 |
-| **[Seaman Corporation](http://www.seamancorp.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/694b004d3019f50a4fe607c4?utm_campaign=1047&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Global Product Intern - Summer 2026](https://jobright.ai/jobs/info/694acac33019f50a4fe5dbde?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Dec 23 |
-| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Digital Innovation & Strategy Internship](https://jobright.ai/jobs/info/694b157a3019f50a4fe626c3?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
-| ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
