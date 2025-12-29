@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6933716d764507023d1b5b50?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/693347eca0dde7020e2ec1cb?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Dec 27 |
@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 27 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/694f195fce13cd105657484f?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Dec 26 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/694e9dd4a2668b7f5451fa11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/692293c1c0cefa13343d85c4?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development  Intern](https://jobright.ai/jobs/info/694b0a3b3019f50a4fe60ff5?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 23 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/694b02a33019f50a4fe609e2?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
+| **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Product Management Intern (Summer)](https://jobright.ai/jobs/info/694aff6b67a69734cac611ee?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
