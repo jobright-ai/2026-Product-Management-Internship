@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 29 |
+| **[Zynga](http://www.zynga.com)** | **[Product Manager Intern -  Harry Potter Puzzles and Spells](https://jobright.ai/jobs/info/69448aad94730b739877c3cb?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69363d5ea0dde7020e2fa51a?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Dec 29 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 29 |
 | **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cf575f846f0b04af68151e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 29 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694fbaf4ce13cd105657d87e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 27 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
-| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/694f195fce13cd105657484f?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Dec 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/692293c1c0cefa13343d85c4?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development  Intern](https://jobright.ai/jobs/info/694b0a3b3019f50a4fe60ff5?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 23 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/694b02a33019f50a4fe609e2?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
-| **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Product Management Intern (Summer)](https://jobright.ai/jobs/info/694aff6b67a69734cac611ee?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
