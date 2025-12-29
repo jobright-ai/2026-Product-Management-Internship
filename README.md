@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Commercial Lines Product Analyst Intern](https://jobright.ai/jobs/info/6952d7515bb7de448ef5e8ac?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
+| **[BMO](http://www.bmo.com)** | **[Product Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6952c07e935649778e2087f4?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 29 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 29 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern -  Harry Potter Puzzles and Spells](https://jobright.ai/jobs/info/69448aad94730b739877c3cb?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69363d5ea0dde7020e2fa51a?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b11401224705e9002286e?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 23 |
 | **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
 | ↳ | **[Product Development  Intern](https://jobright.ai/jobs/info/694b0a3b3019f50a4fe60ff5?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
-| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 23 |
-| **[IEEE](http://www.ieee.org)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/694b02a33019f50a4fe609e2?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
