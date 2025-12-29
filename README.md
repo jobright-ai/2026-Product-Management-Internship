@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 29 |
+| ↳ | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952ef69f1f8465b79ea42f2?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Commercial Lines Product Analyst Intern](https://jobright.ai/jobs/info/6952d7515bb7de448ef5e8ac?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 | **[BMO](http://www.bmo.com)** | **[Product Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6952c07e935649778e2087f4?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 29 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5e2dd64ebf28d82111fb?utm_campaign=1047&utm_source=git)** | West Hollywood, CA | On Site | Dec 23 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b37a84b53a1551f94ef6d?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 23 |
 | ↳ | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b11401224705e9002286e?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 23 |
-| **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
-| ↳ | **[Product Development  Intern](https://jobright.ai/jobs/info/694b0a3b3019f50a4fe60ff5?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
