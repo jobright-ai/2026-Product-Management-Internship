@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/695310075bb7de448ef621cd?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Dec 29 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 29 |
 | ↳ | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952ef69f1f8465b79ea42f2?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Commercial Lines Product Analyst Intern](https://jobright.ai/jobs/info/6952d7515bb7de448ef5e8ac?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RapidSOS](https://rapidsos.com)** | **[Product MBA Intern - Summer 2026](https://jobright.ai/jobs/info/694b514dd64ebf28d8210a90?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5e2dd64ebf28d82111fb?utm_campaign=1047&utm_source=git)** | West Hollywood, CA | On Site | Dec 23 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b37a84b53a1551f94ef6d?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 23 |
-| ↳ | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b11401224705e9002286e?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
