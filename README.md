@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manor AI](https://www.manorai.xyz)** | **[Product Growth Intern — AI Property Management System](https://jobright.ai/jobs/info/6953a56ff1f8465b79eaefb5?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Remote | Dec 30 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 29 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Dec 29 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/695334f15bb7de448ef64d76?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Dec 24 |
 | **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b481e3019f50a4fe66291?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Align Technology](http://www.aligntech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6923c8d47795cd460c83946c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
