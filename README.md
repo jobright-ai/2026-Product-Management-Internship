@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KEEN](http://www.keenfootwear.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69374bf8aabec14a727c61dd?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 30 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Process Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/6953cba3aa05c26e7aae5df2?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
+| **[KEEN](http://www.keenfootwear.com)** | **[Product Development Operations Intern](https://jobright.ai/jobs/info/69373ef7a0dde7020e3006aa?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Manor AI](https://www.manorai.xyz)** | **[Product Growth Intern — AI Property Management System](https://jobright.ai/jobs/info/6953a56ff1f8465b79eaefb5?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Remote | Dec 30 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 29 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Dec 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fc351ef4b48533d148b03?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
-| ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Dec 24 |
-| **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b481e3019f50a4fe66291?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
