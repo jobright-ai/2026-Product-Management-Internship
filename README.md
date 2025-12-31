@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 31 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 31 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Dec 31 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 31 |
 | **[Numerix](http://www.numerix.com)** | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/695462bcaa05c26e7aaedb22?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 30 |
@@ -111,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
@@ -149,7 +151,4 @@ For a complete list, click the following sortable link below:
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694ca94cd4a7df7a0671e1d4?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c71f7d64ebf28d82204c0?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
-| ↳ | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c591bd64ebf28d821f8eb?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Dec 24 |
-| **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694c588dd64ebf28d821f73d?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
-| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
