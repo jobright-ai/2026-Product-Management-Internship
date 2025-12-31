@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c591bd64ebf28d821f8eb?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Dec 24 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694c588dd64ebf28d821f73d?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 24 |
-| **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9d36fa28370be26ac146?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
