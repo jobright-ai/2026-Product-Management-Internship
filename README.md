@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938faeaa0dde7020e31985f?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 31 |
+| **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691b8ce922a2cb4b9bd1383b?utm_campaign=1047&utm_source=git)** | Sycamore, IL | On Site | Dec 31 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 31 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 31 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Dec 31 |
@@ -150,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Digital Product Management Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/69354a75f131d96e4846dd4a?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694ca94cd4a7df7a0671e1d4?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
-| **[HeyGen](https://www.heygen.com)** | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c71f7d64ebf28d82204c0?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
