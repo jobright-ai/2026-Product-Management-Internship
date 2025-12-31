@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Numerix](http://www.numerix.com)** | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/695462bcaa05c26e7aaedb22?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[2026 Summer Product Management Intern](https://jobright.ai/jobs/info/695441925bb7de448ef731a9?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/695437ef5bb7de448ef7205e?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Dec 30 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/6953e992f1f8465b79eb1cce?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 30 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/6952167ca2668b7f5454acd1?utm_campaign=1047&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695215f729655e4dd65aeee1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | ↳ | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952147ace13cd105659a2a7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/695464cdf1f8465b79eb8e51?utm_campaign=1047&utm_source=git)** | 441 E Jefferson Ave, Detroit, MI, 48226, US | On Site | Dec 28 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 28 |
 | **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/693e74e549a7695fbd049dd0?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
 | ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/693a9715d4054a2bc024a53b?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 28 |
@@ -102,8 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/693d34b050bbaf7650505e42?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d34dc50bbaf7650505efe?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 28 |
-| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69335064f131d96e48461ce9?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334d49764507023d1b3e86?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334d49764507023d1b3e86?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 27 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/693351d5f131d96e48461e4e?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Dec 27 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Dec 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Ninja (February to July)](https://jobright.ai/jobs/info/6933f2f3764507023d1bae16?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fc351ef4b48533d148b03?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
