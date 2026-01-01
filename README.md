@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (May and August hires)](https://jobright.ai/jobs/info/6956af7f9f1b381eb26ff106?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Jan 01 |
 | **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 01 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/6939f7e156b68f3dc4e746aa?utm_campaign=1047&utm_source=git)** | Foster City, CA | Remote | Jan 01 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - ACS Portfolio Product Management](https://jobright.ai/jobs/info/69010b30d5259a1b3cff0bbb?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 01 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/695634c39f1b381eb26f67dd?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Jan 01 |
+| ↳ | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6956a637f1f8465b79ed8c30?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Jan 01 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Product Management](https://jobright.ai/jobs/info/6955dc8daa05c26e7ab011a4?utm_campaign=1047&utm_source=git)** | Kansas City, MO | On Site | Dec 31 |
 | ↳ | **[Embark Intern - Product Management](https://jobright.ai/jobs/info/69558c989f1b381eb26eceeb?utm_campaign=1047&utm_source=git)** | US-MO-KANSAS CITY | On Site | Dec 31 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/69555846aa05c26e7aafa952?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916e6349c388539cbdff77c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Dec 27 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694fbaf4ce13cd105657d87e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Dec 27 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 27 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
