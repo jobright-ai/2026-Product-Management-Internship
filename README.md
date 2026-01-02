@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jan 02 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Application Intern](https://jobright.ai/jobs/info/6957b332f1f8465b79ee604f?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Jan 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/690276d698707b2b0fe6fa45?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 02 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cea171846f0b04af67bbb1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 02 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 02 |
@@ -147,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | On Site | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Dec 27 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6944678e94730b7398778f4f?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Dec 27 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | On Site | Dec 27 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334fdd764507023d1b40c9?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
