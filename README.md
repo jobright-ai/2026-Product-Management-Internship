@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 03 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[MarTech Digital Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/6902bc2000a1816c41ea0fdc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Jan 03 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Intern: Business and General Aviation](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 03 |
 | **[Insight](https://www.insight.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/693174fd3b6d6f265f4e9caa?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Jan 03 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693ce24a49a7695fbd039166?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 03 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | On Site | Jan 03 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Launch Intern](https://jobright.ai/jobs/info/693c825950bbaf76504fbaf7?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Jan 03 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/693e412950bbaf7650510630?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 03 |
