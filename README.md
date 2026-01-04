@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[GTM Intern](https://jobright.ai/jobs/info/6959e2649f1b381eb2728931?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 03 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[MarTech Digital Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/6902bc2000a1816c41ea0fdc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Jan 03 |
@@ -76,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[J. Jill](http://www.jjill.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693cbffcaa598a08c3ed94d7?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Jan 03 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Jan 03 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/6920350fa49a885af9a37746?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Jan 03 |
+| **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 02 |
 | **[Broadridge](http://www.broadridge.com)** | **[Wealth Product COE Intern (Hybrid)](https://jobright.ai/jobs/info/69586d5aaa05c26e7ab25b31?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[Fortuna Future Ventures](https://fortunafuture.com)** | **[Intern](https://jobright.ai/jobs/info/695868f4f1f8465b79ef06ef?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Broadridge](http://www.broadridge.com)** | **[Wealth Product COE Intern (Hybrid)](https://jobright.ai/jobs/info/69584c8e9f1b381eb2713758?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Jan 02 |
@@ -142,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Product Analyst Intern/Co-op, Acquisition & Engagement, CPJ, Credit Cards (SUMMER 2026)](https://jobright.ai/jobs/info/695243845bb7de448ef56c24?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952431e5bb7de448ef56a92?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695242ce935649778e200e8e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/695a1a1ef1f8465b79f06c7e?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695223fd29655e4dd65af2e5?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Product Analyst Intern/Co-op, Acquisition & Engagement, CPJ, Credit Cards (SUMMER 2026)](https://jobright.ai/jobs/info/6952230cce13cd105659a71c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952222fa2668b7f5454b0b3?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
