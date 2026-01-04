@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Zscaler Internet Access](https://jobright.ai/jobs/info/6921201b3f782d2f1afcf69e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - Ideation](https://jobright.ai/jobs/info/691abc5115b415636718a46d?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 04 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 03 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[MarTech Digital Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/6902bc2000a1816c41ea0fdc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Jan 03 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Intern: Business and General Aviation](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 03 |
+| ↳ | **[Product Line Intern: Business and General Aviation](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 03 |
 | **[Insight](https://www.insight.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/693174fd3b6d6f265f4e9caa?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Jan 03 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693ce24a49a7695fbd039166?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 03 |
