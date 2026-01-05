@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b8413aa05c26e7ab4d76c?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b7f72aa05c26e7ab4cec0?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
+| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7e20f1f8465b79f18e14?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7968aa05c26e7ab4c9bb?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Jan 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/695a7bbdaa05c26e7ab41629?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Jan 04 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 04 |
@@ -146,7 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 29 |
 | ↳ | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952ef69f1f8465b79ea42f2?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Commercial Lines Product Analyst Intern](https://jobright.ai/jobs/info/6952d7515bb7de448ef5e8ac?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
-| **[BMO](http://www.bmo.com)** | **[Product Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6952c07e935649778e2087f4?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 29 |
-| **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 29 |
-| **[Zynga](http://www.zynga.com)** | **[Product Manager Intern -  Harry Potter Puzzles and Spells](https://jobright.ai/jobs/info/69448aad94730b739877c3cb?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
