@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695bf599f1f8465b79f2068c?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | Remote | Jan 05 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Education and Product Management (Shared Intern) - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69437aee50bbaf7650556d60?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Jan 05 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/695bd84aaa05c26e7ab52487?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 05 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 05 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b898df1f8465b79f19a2c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b7f72aa05c26e7ab4cec0?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7e20f1f8465b79f18e14?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7968aa05c26e7ab4c9bb?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Jan 04 |
@@ -142,7 +144,4 @@ For a complete list, click the following sortable link below:
 | **[KEEN](http://www.keenfootwear.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69374bf8aabec14a727c61dd?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Process Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/6953cba3aa05c26e7aae5df2?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Dec 30 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Product Development Operations Intern](https://jobright.ai/jobs/info/69373ef7a0dde7020e3006aa?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 30 |
-| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 29 |
-| **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Dec 29 |
-| **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/695334f15bb7de448ef64d76?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
