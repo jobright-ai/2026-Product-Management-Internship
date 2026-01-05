@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b8413aa05c26e7ab4d76c?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b7f72aa05c26e7ab4cec0?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7e20f1f8465b79f18e14?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7968aa05c26e7ab4c9bb?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
@@ -149,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/695310075bb7de448ef621cd?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Dec 29 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 29 |
 | ↳ | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952ef69f1f8465b79ea42f2?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Dec 29 |
-| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Commercial Lines Product Analyst Intern](https://jobright.ai/jobs/info/6952d7515bb7de448ef5e8ac?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
