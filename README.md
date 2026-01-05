@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KIKI DE MONTPARNASSE](https://kikidm.com)** | **[Design / Product Development Intern](https://jobright.ai/jobs/info/695c1633f1f8465b79f22138?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 05 |
+| **[Markel](http://www.markel.com)** | **[MPL Product Management Intern](https://jobright.ai/jobs/info/695c04a8aa05c26e7ab55871?utm_campaign=1047&utm_source=git)** | Milwaukee WI | Hybrid | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
+| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner & Digital Animation](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 05 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695bf599f1f8465b79f2068c?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | Remote | Jan 05 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Education and Product Management (Shared Intern) - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69437aee50bbaf7650556d60?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Jan 05 |
+| **[Brother USA](https://brother-usa.com)** | **[Product Planning Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695c04d2aa05c26e7ab5588a?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/695bd84aaa05c26e7ab52487?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 05 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 05 |
