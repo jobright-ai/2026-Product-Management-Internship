@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/695d4741fbd62a0a6565cd34?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 06 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4268f5f3c43f38e1fb25?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Jan 06 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Jan 06 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/694033c249a7695fbd05b6ff?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
 | **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/695d1a50f1f8465b79f34898?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
@@ -108,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 03 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | On Site | Jan 03 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 03 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Launch Intern](https://jobright.ai/jobs/info/693c825950bbaf76504fbaf7?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Jan 03 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/693e412950bbaf7650510630?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 03 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Electric Measurement Product Management Intern](https://jobright.ai/jobs/info/691f5151a49a885af9a2e2bc?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f62b23f782d2f1afbb3f5?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938faeaa0dde7020e31985f?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 31 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691b8ce922a2cb4b9bd1383b?utm_campaign=1047&utm_source=git)** | Sycamore, IL | On Site | Dec 31 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 31 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
