@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/695d4741fbd62a0a6565cd34?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4268f5f3c43f38e1fb25?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Jan 06 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Jan 06 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/695bd84aaa05c26e7ab52487?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 05 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 05 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b898df1f8465b79f19a2c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b7f72aa05c26e7ab4cec0?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7e20f1f8465b79f18e14?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7968aa05c26e7ab4c9bb?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/69555846aa05c26e7aafa952?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 31 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938faeaa0dde7020e31985f?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 31 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691b8ce922a2cb4b9bd1383b?utm_campaign=1047&utm_source=git)** | Sycamore, IL | On Site | Dec 31 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
