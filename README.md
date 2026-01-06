@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/695ca161f1f8465b79f2d98e?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Jan 05 |
 | **[Schneider Electric](https://www.se.com)** | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c575eaa05c26e7ab5c32e?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | ↳ | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c541aaa05c26e7ab5bba5?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/695c74d95e4962051b5992d9?utm_campaign=1047&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Jan 05 |
