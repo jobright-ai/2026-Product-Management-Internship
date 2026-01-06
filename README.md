@@ -59,6 +59,11 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Schneider Electric](https://www.se.com)** | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c575eaa05c26e7ab5c32e?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | ↳ | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c541aaa05c26e7ab5bba5?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/695c74d95e4962051b5992d9?utm_campaign=1047&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Jan 05 |
+| **[Schneider Electric](https://www.se.com)** | **[Graduate Product Manager Intern- AI & Data Analysis](https://jobright.ai/jobs/info/695c6ee45e4962051b598b71?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
+| ↳ | **[Graduate Product Manager Intern- AI & Data Analysis](https://jobright.ai/jobs/info/695c6b87f1f8465b79f28ff4?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 05 |
+| ↳ | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c6ced5e4962051b59893e?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 05 |
+| ↳ | **[Graduate Product Manager Intern- AI & Data Analysis](https://jobright.ai/jobs/info/695c697bf1f8465b79f28df7?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | **[Markel](http://www.markel.com)** | **[MPL Product Management Intern](https://jobright.ai/jobs/info/695c41e3f1f8465b79f24a5f?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Experience Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/695c395bf1f8465b79f24371?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 05 |
 | **[KIKI DE MONTPARNASSE](https://kikidm.com)** | **[Design / Product Development Intern](https://jobright.ai/jobs/info/695c1633f1f8465b79f22138?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 05 |
@@ -84,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Jan 04 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Jan 04 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | Hybrid | Jan 04 |
-| **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Zscaler Internet Access](https://jobright.ai/jobs/info/6921201b3f782d2f1afcf69e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 04 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 04 |
 | ↳ | **[Product Intern - Ideation](https://jobright.ai/jobs/info/691abc5115b415636718a46d?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 04 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
