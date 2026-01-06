@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/695cc9201dfa954d1c46e64a?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/695ca161f1f8465b79f2d98e?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Jan 05 |
 | **[Schneider Electric](https://www.se.com)** | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c575eaa05c26e7ab5c32e?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | ↳ | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c541aaa05c26e7ab5bba5?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 05 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/695bd84aaa05c26e7ab52487?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 05 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 05 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b898df1f8465b79f19a2c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b7f72aa05c26e7ab4cec0?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7e20f1f8465b79f18e14?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7968aa05c26e7ab4c9bb?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Jan 04 |
