@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Product Management Intern (33774)](https://jobright.ai/jobs/info/695d83b5fbd62a0a65662132?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jan 06 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product Intern 4 Months - Summer 2026](https://jobright.ai/jobs/info/695d9d56fbd62a0a6566511c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
 | ↳ | **[Product & AI Intern 4 or 8 months - Summer 2026](https://jobright.ai/jobs/info/695d98bbf1f8465b79f3dffc?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
-| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695d7b2bfbd62a0a65661463?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 06 |
 | **[Welldoc](https://www.welldoc.com)** | **[Bilingual Clinical Content Intern](https://jobright.ai/jobs/info/695d9573f1f8465b79f3dcd1?utm_campaign=1047&utm_source=git)** | Columbia, MD | Hybrid | Jan 06 |
 | **[RELX](https://www.relx.com)** | **[Product Management Intern- Government](https://jobright.ai/jobs/info/695d8b17f5f3c43f38e2673c?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Jan 06 |
 | **[SAS](http://www.sas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695d67d2fbd62a0a6565fd0e?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Jan 06 |
@@ -100,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/695bd84aaa05c26e7ab52487?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 05 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 05 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 05 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b7f72aa05c26e7ab4cec0?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695b898df1f8465b79f19a2c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7e20f1f8465b79f18e14?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/695b7968aa05c26e7ab4c9bb?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Jan 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Transport Product Line Management Co-op/Intern](https://jobright.ai/jobs/info/6956580daa05c26e7ab09657?utm_campaign=1047&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 01 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/693a0c6656b68f3dc4e76b46?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, ZPA](https://jobright.ai/jobs/info/693a411048a8ce22990e3f96?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693b0865d4054a2bc024e909?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
