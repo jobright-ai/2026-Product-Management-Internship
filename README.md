@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Broadridge](http://www.broadridge.com)** | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695db39ffbd62a0a65666647?utm_campaign=1047&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 06 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Sinks](https://jobright.ai/jobs/info/695db11bf1f8465b79f3f922?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 06 |
+| **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - Batch II)](https://jobright.ai/jobs/info/695da7eaf5f3c43f38e28e02?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Remote | Jan 06 |
+| ↳ | **[Product Management / Intern (Summer 2026 - Batch II)](https://jobright.ai/jobs/info/695da8d2f1f8465b79f3f1d3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 06 |
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Product Management Intern (33774)](https://jobright.ai/jobs/info/695d83b5fbd62a0a65662132?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jan 06 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product Intern 4 Months - Summer 2026](https://jobright.ai/jobs/info/695d9d56fbd62a0a6566511c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
 | ↳ | **[Product & AI Intern 4 or 8 months - Summer 2026](https://jobright.ai/jobs/info/695d98bbf1f8465b79f3dffc?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
@@ -72,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4268f5f3c43f38e1fb25?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Jan 06 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Jan 06 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/694033c249a7695fbd05b6ff?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 06 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/695d1a50f1f8465b79f34898?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | **[Corsair](http://www.corsair.com)** | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69407e8650bbaf7650528269?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Jan 06 |
 | **[Corsair](http://www.corsair.com)** | **[Systems Product Intern](https://jobright.ai/jobs/info/69406da449a7695fbd05ef6a?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Jan 06 |
 | ↳ | **[Software Product Manager Intern](https://jobright.ai/jobs/info/69406d22aa598a08c3f00be4?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/695da0ebf1f8465b79f3e7fb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 06 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/695cc9201dfa954d1c46e64a?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/695ca161f1f8465b79f2d98e?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Jan 05 |
 | **[Schneider Electric](https://www.se.com)** | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/695c575eaa05c26e7ab5c32e?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lumentum](https://www.lumentum.com/en)** | **[Transport Product Line Management Co-op/Intern](https://jobright.ai/jobs/info/6956580daa05c26e7ab09657?utm_campaign=1047&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 01 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/693a0c6656b68f3dc4e76b46?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, ZPA](https://jobright.ai/jobs/info/693a411048a8ce22990e3f96?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693b0865d4054a2bc024e909?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 01 |
-| **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/695653b9f1f8465b79ed41fe?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 01 |
-| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 01 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
