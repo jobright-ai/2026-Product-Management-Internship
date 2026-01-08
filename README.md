@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/695ee8b908ab990f282a395a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | Jan 07 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Underwriting Product & Training Intern](https://jobright.ai/jobs/info/695ed82b0badca5763af4f58?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jan 07 |
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP Summer 2026 Intern – Product Management](https://jobright.ai/jobs/info/695ed7e30badca5763af4efb?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 07 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program – Product Design and Strategy Research Intern](https://jobright.ai/jobs/info/695ed49308ab990f282a1f36?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Jan 07 |
 | **[LearnToDrill](https://www.learntodrill.com)** | **[Product Intern / Analyst - E-Learning](https://jobright.ai/jobs/info/695ed2ada112b402660d87ac?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 07 |
+| **[PayPal](https://www.paypal.com/home)** | **[Technical Product Manager Intern - MBA](https://jobright.ai/jobs/info/695ee4c60badca5763af6226?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 07 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/695edb52a112b402660d92d3?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 07 |
+| **[Alstom](https://www.alstom.com/)** | **[Product Management Intern (Winter 2026)](https://jobright.ai/jobs/info/694afe143019f50a4fe605c0?utm_campaign=1047&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Jan 07 |
+| **[PayPal](https://www.paypal.com/home)** | **[Technical Product Manager Intern - MBA](https://jobright.ai/jobs/info/695ee09fa112b402660d9a7b?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Jan 07 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695eac86a112b402660d52ec?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 07 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/695e9da10badca5763af0a14?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f62b23f782d2f1afbb3f5?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 03 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/691fe6be3f782d2f1afc14bc?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Jan 03 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693c81e649a7695fbd0341b6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 03 |
-| **[J. Jill](http://www.jjill.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693cbffcaa598a08c3ed94d7?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Jan 03 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Jan 03 |
-| **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/6920350fa49a885af9a37746?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Jan 03 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 02 |
-| **[Broadridge](http://www.broadridge.com)** | **[Wealth Product COE Intern (Hybrid)](https://jobright.ai/jobs/info/69586d5aaa05c26e7ab25b31?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
