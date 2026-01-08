@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shop Online New York](https://www.topofny.com)** | **[Non-Paid Internship for Product Owner](https://jobright.ai/jobs/info/695ff35fa112b402660ea834?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 08 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/695fdf6da112b402660e815b?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 08 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/695fd007a112b402660e770b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 08 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 08 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Transamerica](http://www.transamerica.com)** | **[Product Internship - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f07cc0badca5763af8030?utm_campaign=1047&utm_source=git)** | Cedar Rapids, Iowa | Hybrid | Jan 07 |
 | **[Cuisinart](https://www.cuisinart.com/)** | **[2026 Product Developer - Cuisinart](https://jobright.ai/jobs/info/695f1b420badca5763afa620?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Jan 07 |
 | **[Transamerica](http://www.transamerica.com)** | **[Product Internship - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f1b93a1bbea1d9a79fa14?utm_campaign=1047&utm_source=git)** | Chicago, Illinois | Hybrid | Jan 07 |
-| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Intern – Product Management](https://jobright.ai/jobs/info/695f18620badca5763afa013?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 07 |
-| ↳ | **[JMP Summer 2026 Intern – Product Management](https://jobright.ai/jobs/info/695f12aca112b402660dd460?utm_campaign=1047&utm_source=git)** | North Carolina | Hybrid | Jan 07 |
+| **[SAS](http://www.sas.com)** | **[JMP Summer 2026 Intern – Product Management](https://jobright.ai/jobs/info/695f12aca112b402660dd460?utm_campaign=1047&utm_source=git)** | North Carolina | Hybrid | Jan 07 |
+| ↳ | **[JMP Summer 2026 Intern – Product Management](https://jobright.ai/jobs/info/695f18620badca5763afa013?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 07 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/695ee8b908ab990f282a395a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | Jan 07 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Product Development & Design Internship](https://jobright.ai/jobs/info/695f0403a1bbea1d9a79cfff?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 07 |
 | **[Snorkel AI](https://www.snorkel.ai/)** | **[Product Manager —  Summer Intern](https://jobright.ai/jobs/info/695ef7e8a112b402660db319?utm_campaign=1047&utm_source=git)** | Redwood City, CA (Hybrid) | Hybrid | Jan 07 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 07 |
 | ↳ | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 07 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/695b4226aa05c26e7ab498c1?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Jan 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941ef8914ee092a69000aed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 07 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product & AI Intern 4 months - Summer 2026](https://jobright.ai/jobs/info/695d98bbf1f8465b79f3dffc?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 07 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Welldoc](https://www.welldoc.com)** | **[Bilingual Clinical Content Intern](https://jobright.ai/jobs/info/695d9573f1f8465b79f3dcd1?utm_campaign=1047&utm_source=git)** | Columbia, MD | Hybrid | Jan 06 |
 | **[RELX](https://www.relx.com)** | **[Product Management Intern- Government](https://jobright.ai/jobs/info/695d8b17f5f3c43f38e2673c?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Jan 06 |
 | **[SAS](http://www.sas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695d67d2fbd62a0a6565fd0e?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Jan 06 |
-| **[Broadridge](http://www.broadridge.com)** | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d809ef5f3c43f38e25150?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Jan 06 |
-| ↳ | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d8554f1f8465b79f3ba42?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Jan 06 |
+| **[Broadridge](http://www.broadridge.com)** | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d8554f1f8465b79f3ba42?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Jan 06 |
+| ↳ | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d809ef5f3c43f38e25150?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Jan 06 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
 | **[SAS](http://www.sas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695d6f5ef5f3c43f38e23ae3?utm_campaign=1047&utm_source=git)** | Minnesota | Hybrid | Jan 06 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/695de5a262ca9111e7825ee8?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Jan 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Product Manager Intern- AI & Data Analysis](https://jobright.ai/jobs/info/695c697bf1f8465b79f28df7?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | **[Markel](http://www.markel.com)** | **[MPL Product Management Intern](https://jobright.ai/jobs/info/695c41e3f1f8465b79f24a5f?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Experience Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/695c395bf1f8465b79f24371?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 05 |
-| **[Markel](http://www.markel.com)** | **[MPL Product Management Intern](https://jobright.ai/jobs/info/695c04a8aa05c26e7ab55871?utm_campaign=1047&utm_source=git)** | Milwaukee WI | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
