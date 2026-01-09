@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696126f1f3f4cd132506235e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 09 |
+| **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69615ee3a112b402660fe310?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
+| **[Rivian](http://www.rivian.com)** | **[Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69615db5f3f4cd1325065597?utm_campaign=1047&utm_source=git)** | US-CA-Palo Alto | On Site | Jan 09 |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/69614ecea112b402660fd3a0?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Jan 09 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69611db0a112b402660fa845?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Jan 09 |
+| **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Jan 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, New Product Planning, AIR - Summer 2026](https://jobright.ai/jobs/info/694496bb50bbaf7650569ff7?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/6960e177f3f4cd132505f099?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Jan 09 |
 | ↳ | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/6960e05df3f4cd132505efa6?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Jan 09 |
@@ -77,10 +80,10 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Wallet Intern - MBA](https://jobright.ai/jobs/info/696028c7a1bbea1d9a7afafc?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/696023b2a1bbea1d9a7af444?utm_campaign=1047&utm_source=git)** | Plantation, FL | On Site | Jan 08 |
 | **[Numerator](http://numerator.com)** | **[Machine Learning Product Intern](https://jobright.ai/jobs/info/696022aca1bbea1d9a7af2dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/6960224ca1bbea1d9a7af25b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6960151b7ebc25398eb60209?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Jan 08 |
 | **[Numerator](http://numerator.com)** | **[Data Product Intern](https://jobright.ai/jobs/info/69602d4b7ebc25398eb620c6?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 08 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/695fdf6da112b402660e815b?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 08 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/695da0ebf1f8465b79f3e7fb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 08 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 08 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
 | **[Flaire](https://flaire.me)** | **[Social & Product Advisor (intern)](https://jobright.ai/jobs/info/695fae2ca1bbea1d9a7a7811?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 08 |
@@ -126,9 +129,12 @@ For a complete list, click the following sortable link below:
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695eac86a112b402660d52ec?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 07 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/695e9da10badca5763af0a14?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst, Intern  (Business Insights Analyst, Intern)](https://jobright.ai/jobs/info/69615a19f3f4cd132506519a?utm_campaign=1047&utm_source=git)** | NJM - Trenton | On Site | Jan 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941ef8914ee092a69000aed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 07 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 07 |
 | ↳ | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 07 |
+| **[Dayforce](https://www.dayforce.com)** | **[Product & AI Intern 4 months - Summer 2026](https://jobright.ai/jobs/info/695d98bbf1f8465b79f3dffc?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 07 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
@@ -136,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 07 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 07 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941ef8914ee092a69000aed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 07 |
 | **[Southwest Airlines](http://www.southwest.com/)** | **[Product Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/695e062832718e2b8ddbfa9b?utm_campaign=1047&utm_source=git)** | TX-Dallas | On Site | Jan 06 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Sinks](https://jobright.ai/jobs/info/695def834b7a590c5b9556c9?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 06 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Jan 06 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management / Intern (Summer 2026 - Batch II)](https://jobright.ai/jobs/info/695da8d2f1f8465b79f3f1d3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 06 |
 | **[KLS Martin Group](https://www.klsmartin.com/de/)** | **[Product Management Intern (33774)](https://jobright.ai/jobs/info/695d83b5fbd62a0a65662132?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jan 06 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product Intern 4 Months - Summer 2026](https://jobright.ai/jobs/info/695d9d56fbd62a0a6566511c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
-| ↳ | **[Product & AI Intern 4 or 8 months - Summer 2026](https://jobright.ai/jobs/info/695d98bbf1f8465b79f3dffc?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 06 |
 | **[Welldoc](https://www.welldoc.com)** | **[Bilingual Clinical Content Intern](https://jobright.ai/jobs/info/695d9573f1f8465b79f3dcd1?utm_campaign=1047&utm_source=git)** | Columbia, MD | Hybrid | Jan 06 |
 | **[RELX](https://www.relx.com)** | **[Product Management Intern- Government](https://jobright.ai/jobs/info/695d8b17f5f3c43f38e2673c?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Jan 06 |
 | **[SAS](http://www.sas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695d67d2fbd62a0a6565fd0e?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Jan 06 |
-| **[Broadridge](http://www.broadridge.com)** | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d809ef5f3c43f38e25150?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Jan 06 |
-| ↳ | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d8554f1f8465b79f3ba42?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Jan 06 |
-| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 06 |
-| **[SAS](http://www.sas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695d6f5ef5f3c43f38e23ae3?utm_campaign=1047&utm_source=git)** | Minnesota | Hybrid | Jan 06 |
-| **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/695de5a262ca9111e7825ee8?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Jan 06 |
+| **[Broadridge](http://www.broadridge.com)** | **[Jr. Analyst, Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/695d8554f1f8465b79f3ba42?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
