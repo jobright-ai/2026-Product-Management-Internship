@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69616edaf3f4cd13250665f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/6941ed9850bbaf765053bb34?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 09 |
-| **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69615ee3a112b402660fe310?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Rivian](http://www.rivian.com)** | **[Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69615db5f3f4cd1325065597?utm_campaign=1047&utm_source=git)** | US-CA-Palo Alto | On Site | Jan 09 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6961772ae7ed9a5731ba3ee9?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jan 09 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/69614ecea112b402660fd3a0?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 09 |
@@ -92,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
 | **[Flaire](https://flaire.me)** | **[Social & Product Advisor (intern)](https://jobright.ai/jobs/info/695fae2ca1bbea1d9a7a7811?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 08 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Jan 08 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Jan 08 |
 | **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 08 |
 | **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Jan 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Intern Opportunities, Vancouver, BC](https://jobright.ai/jobs/info/695fcea4a1bbea1d9a7a8c98?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 08 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Jan 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Jan 08 |
