@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69616edaf3f4cd13250665f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/6941ed9850bbaf765053bb34?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 09 |
+| **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69615ee3a112b402660fe310?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Rivian](http://www.rivian.com)** | **[Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69615db5f3f4cd1325065597?utm_campaign=1047&utm_source=git)** | US-CA-Palo Alto | On Site | Jan 09 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6961772ae7ed9a5731ba3ee9?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jan 09 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/69614ecea112b402660fd3a0?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 09 |
@@ -81,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Management Intern- Holland, MI](https://jobright.ai/jobs/info/6960650fa112b402660f2780?utm_campaign=1047&utm_source=git)** | Holland, MI | On Site | Jan 08 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Digital Product Management Intern (AI & UX)](https://jobright.ai/jobs/info/696029c97ebc25398eb61c0b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Jan 08 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Wallet Intern - MBA](https://jobright.ai/jobs/info/696028c7a1bbea1d9a7afafc?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 08 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/696023b2a1bbea1d9a7af444?utm_campaign=1047&utm_source=git)** | Plantation, FL | On Site | Jan 08 |
 | **[Numerator](http://numerator.com)** | **[Machine Learning Product Intern](https://jobright.ai/jobs/info/696022aca1bbea1d9a7af2dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
 | **[S&P Global](https://www.spglobal.com)** | **[Fixed Income Pricing - Product Analyst Intern](https://jobright.ai/jobs/info/696038437ebc25398eb6373c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 08 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/696016307ebc25398eb603d0?utm_campaign=1047&utm_source=git)** | Plantation, FL | On Site | Jan 08 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6960151b7ebc25398eb60209?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Jan 08 |
 | **[Numerator](http://numerator.com)** | **[Data Product Intern](https://jobright.ai/jobs/info/69602d4b7ebc25398eb620c6?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 08 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/695fdf6da112b402660e815b?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 08 |
