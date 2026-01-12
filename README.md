@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654dd7a112b4026613244e?utm_campaign=1047&utm_source=git)** | McKinney, Texas | On Site | Jan 12 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[AI Product Intern – Summer 2026](https://jobright.ai/jobs/info/6965492ca112b40266131e71?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Jan 12 |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69654371a112b402661317e3?utm_campaign=1047&utm_source=git)** | Chicago, IL 60607, United States | Hybrid | Jan 12 |
+| **[TD](https://www.td.com)** | **[Customer Communications & Engagement - Product Analyst Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696536dea112b402661311a1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Jan 12 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Product Management Summer Intern](https://jobright.ai/jobs/info/6965293da112b40266130448?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 12 |
 | **[TD](https://www.td.com)** | **[Colleague Readiness & Communications - Product Analyst Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696527fca112b4026612fdff?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Jan 12 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696522122cbf4e44756e8942?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 12 |
+| **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6960151b7ebc25398eb60209?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Jan 12 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 12 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 12 |
 | **[Ampliwork](https://qlytics.com/)** | **[AI Associate Product Manager Intern](https://jobright.ai/jobs/info/692e7dc94c474121999d9d51?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jan 12 |
@@ -84,12 +89,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6178c62e63bc7feb37f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 10 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6961c8e9e7ed9a5731ba99b1?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Jan 09 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 09 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Product Development - Women's Intern](https://jobright.ai/jobs/info/6961c0f5a112b40266105120?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Crane Company](http://www.craneco.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6961ce71e7ed9a5731ba9cc8?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 09 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6961a6a2e7ed9a5731ba7c09?utm_campaign=1047&utm_source=git)** | Lehi, Utah | On Site | Jan 09 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Product Development - Women's Intern](https://jobright.ai/jobs/info/69619793f3f4cd132506a586?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Crane Company](http://www.craneco.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69618ee9a112b40266102631?utm_campaign=1047&utm_source=git)** | Los Angeles, California | On Site | Jan 09 |
 | **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/69618e77a112b402661025e2?utm_campaign=1047&utm_source=git)** | Hybrid - San Francisco, CA | Hybrid | Jan 09 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: CRM Product Manager](https://jobright.ai/jobs/info/6961ae30e7ed9a5731ba8320?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Jan 09 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/69619c5af3f4cd132506a90f?utm_campaign=1047&utm_source=git)** | Green Bay, WI | On Site | Jan 09 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/6941ed9850bbaf765053bb34?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69615ee3a112b402660fe310?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Digital Product Management Intern (AI & UX)](https://jobright.ai/jobs/info/696029c97ebc25398eb61c0b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Jan 08 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Wallet Intern - MBA](https://jobright.ai/jobs/info/696028c7a1bbea1d9a7afafc?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/696023b2a1bbea1d9a7af444?utm_campaign=1047&utm_source=git)** | Plantation, FL | On Site | Jan 08 |
-| **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6960151b7ebc25398eb60209?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Jan 08 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/695fdf6da112b402660e815b?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 08 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/695da0ebf1f8465b79f3e7fb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 08 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program – Product Design and Strategy Research Intern](https://jobright.ai/jobs/info/695ed49308ab990f282a1f36?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Jan 07 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/695edb52a112b402660d92d3?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 07 |
 | **[Alstom](https://www.alstom.com/)** | **[Product Management Intern (Winter 2026)](https://jobright.ai/jobs/info/694afe143019f50a4fe605c0?utm_campaign=1047&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Jan 07 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/695eac86a112b402660d52ec?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 07 |
-| **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/695e9da10badca5763af0a14?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 07 |
-| **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
