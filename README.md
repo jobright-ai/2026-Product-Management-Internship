@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69682331f25a380066967a3e?utm_campaign=1047&utm_source=git)** | Burlington, Ontario | On Site | Jan 14 |
+| **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/6968251f1703f05405a9c57b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 14 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Intern: Electronics](https://jobright.ai/jobs/info/69681471639b452fb57da2c0?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 14 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Growth MBA Intern](https://jobright.ai/jobs/info/69680d5ff25a3800669661df?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Jan 14 |
 | **[1KOMMA5°](https://www.1komma5grad.com)** | **[Internship Product Portfolio Management (m/f/d)](https://jobright.ai/jobs/info/69680636639b452fb57d9460?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 14 |
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6967ca62f25a380066962018?utm_campaign=1047&utm_source=git)** | Austin, TX, USA | On Site | Jan 14 |
@@ -128,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654e57a112b402661324f9?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Jan 12 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654dd7a112b4026613244e?utm_campaign=1047&utm_source=git)** | McKinney, Texas | On Site | Jan 12 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[AI Product Intern – Summer 2026](https://jobright.ai/jobs/info/6965492ca112b40266131e71?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Jan 12 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/696554be2cbf4e44756ecae2?utm_campaign=1047&utm_source=git)** | McKinney, Texas | On Site | Jan 12 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69655591a112b40266132ea3?utm_campaign=1047&utm_source=git)** | McKinney, Texas | On Site | Jan 12 |
 | **[TD](https://www.td.com)** | **[Customer Communications & Engagement - Product Analyst Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696536dea112b402661311a1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Jan 12 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Product Management Summer Intern](https://jobright.ai/jobs/info/6965293da112b40266130448?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 12 |
 | **[TD](https://www.td.com)** | **[Colleague Readiness & Communications - Product Analyst Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/696527fca112b4026612fdff?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | On Site | Jan 12 |
@@ -144,6 +147,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Product Management Intern - Hair Accessories & Cos Bags](https://jobright.ai/jobs/info/69644b732cbf4e44756ddd98?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 11 |
 | ↳ | **[2026 Product Management Intern - Men's and Women's Grooming Appliances](https://jobright.ai/jobs/info/6964498aa112b402661241f4?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 11 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 11 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Brushes](https://jobright.ai/jobs/info/6963fe65a112b4026612040d?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Jan 11 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 11 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6959f5cfaa05c26e7ab3a57c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/696792d0639b452fb57d222a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 10 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d712d4a1b456627b215e5?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Jan 10 |
-| **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6961a6a2e7ed9a5731ba7c09?utm_campaign=1047&utm_source=git)** | Lehi, Utah | On Site | Jan 09 |
-| **[Consumers Credit Union](http://myconsumers.org)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6965ab052cbf4e44756f58c1?utm_campaign=1047&utm_source=git)** | Lake Forest, Illinois, United States | On Site | Jan 09 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Product Development - Women's Intern](https://jobright.ai/jobs/info/69619793f3f4cd132506a586?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
-| **[Crane Company](http://www.craneco.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69618ee9a112b40266102631?utm_campaign=1047&utm_source=git)** | Los Angeles, California | On Site | Jan 09 |
-| **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/69618e77a112b402661025e2?utm_campaign=1047&utm_source=git)** | Hybrid - San Francisco, CA | Hybrid | Jan 09 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Product Development - Women's Intern](https://jobright.ai/jobs/info/6961c0f5a112b40266105120?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
