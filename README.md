@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/6969d1471703f05405abe043?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Jan 15 |
+| **[GenPark](https://genpark.ai)** | **[Product Developer Intern](https://jobright.ai/jobs/info/6969e340f25a38006698a9e0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/6969b1e1639b452fb57fa1a2?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 15 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Product Development Internship with  Victoria's Secret & Co.](https://jobright.ai/jobs/info/6969c6af1703f05405abc2cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/6969c4e6f25a380066987a98?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 15 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Colleague Readiness & Communications - Product Analyst Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69666f7a7a34f5392054ed23?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 13 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/69498fd27d506e3808f4b517?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Jan 13 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/6966004e5ad3a93f823168e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/6968b60c1703f05405aa8943?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 12 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/695f77870badca5763afde6d?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
-| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/695a1f619f1b381eb272bf6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Jan 12 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6961fb65a112b40266106f09?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Jan 12 |
 | ↳ | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/69603f8aa1bbea1d9a7b2632?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Jan 12 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/6965bd18a112b4026613c738?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
