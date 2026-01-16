@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69331a08764507023d1b228f?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Jan 16 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/696a1e7a5fc8624185391d92?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Jan 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Technical Product Owner](https://jobright.ai/jobs/info/6969fd48f25a38006698c2eb?utm_campaign=1047&utm_source=git)** | North Carolina, United States | Hybrid | Jan 16 |
@@ -96,13 +98,13 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 14 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/696884441703f05405aa4394?utm_campaign=1047&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69684527f25a38006696aebb?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Jan 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688d3d639b452fb57e458b?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688683f25a38006696fde0?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/696857661703f05405aa074d?utm_campaign=1047&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 14 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | ↳ | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
+| ↳ | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69685644f25a38006696bcc5?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | ↳ | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696863b3639b452fb57e0863?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Product Intern (Unpaid Internship for Credit Only)](https://jobright.ai/jobs/info/696857d7639b452fb57dfa62?utm_campaign=1047&utm_source=git)** | Culver City, California, United States | Hybrid | Jan 14 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok LIVE Content Diversification Operations Project Intern [User Product-Lead Generation] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696854d9f25a38006696baca?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Colleague Readiness & Communications - Product Analyst Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69666f7a7a34f5392054ed23?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 13 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/69498fd27d506e3808f4b517?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 13 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Jan 13 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/6966079ca112b40266140dcb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/6968b60c1703f05405aa8943?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 12 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/6966004e5ad3a93f823168e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
