@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/69699235f25a380066984c88?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/69696a851703f05405ab4a8b?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Jan 15 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Technical Product Intern](https://jobright.ai/jobs/info/696989231703f05405ab7429?utm_campaign=1047&utm_source=git)** | Canada, Quebec, Montreal | Remote | Jan 15 |
+| **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/696988df639b452fb57f655e?utm_campaign=1047&utm_source=git)** | Tysons Corner, VA | On Site | Jan 15 |
+| **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Jan 15 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
 | ↳ | **[Technology Product Intern - State Examiner System](https://jobright.ai/jobs/info/69696cf4639b452fb57f44ea?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | ↳ | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69685644f25a38006696bcc5?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | ↳ | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696863b3639b452fb57e0863?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/69695437f25a38006697e79b?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 14 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Product Intern (Unpaid Internship for Credit Only)](https://jobright.ai/jobs/info/696857d7639b452fb57dfa62?utm_campaign=1047&utm_source=git)** | Culver City, California, United States | Hybrid | Jan 14 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok LIVE Content Diversification Operations Project Intern [User Product-Lead Generation] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696854d9f25a38006696baca?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 | **[FlairX](https://www.flairx.ai/)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69686aa01703f05405aa1d60?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 14 |
@@ -146,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/6966004e5ad3a93f823168e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/6968b60c1703f05405aa8943?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 12 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/695f77870badca5763afde6d?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
-| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6961fb65a112b40266106f09?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Jan 12 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/695a1f619f1b381eb272bf6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Jan 12 |
 | ↳ | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/69603f8aa1bbea1d9a7b2632?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Jan 12 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/6965bd18a112b4026613c738?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Jan 12 |
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6965b9602cbf4e44756f6636?utm_campaign=1047&utm_source=git)** | Lake Forest, IL | On Site | Jan 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Wind Product Management Leadership Program Intern - Summer 2026](https://jobright.ai/jobs/info/6965b3a0a112b4026613be4d?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Jan 12 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6965a89c5ad3a93f82310b05?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Product Manager Intern (May - September Internship)](https://jobright.ai/jobs/info/6965a3e8a112b4026613ac72?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 12 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/69659ec02cbf4e44756f474b?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | Jan 12 |
-| ↳ | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/69659b63a112b4026613a212?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Jan 12 |
-| **[Kapitus](https://kapitus.com/)** | **[Intern, Product](https://jobright.ai/jobs/info/696592ba5ad3a93f8230ef9e?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Jan 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
