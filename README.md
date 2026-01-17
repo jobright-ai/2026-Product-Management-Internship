@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Jan 17 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 17 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967ec10f25a380066964269?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 17 |
+| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967f78b1703f05405a9944b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
+| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Jan 17 |
+| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69677cb1639b452fb57d1569?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
@@ -79,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- North Hills Summer 2026](https://jobright.ai/jobs/info/696a9eb1db26b618950dc6e6?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Jan 16 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696a9d8b5fc8624185399758?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Jan 16 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6941db26b618950d8a3a?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6a6bdb26b618950d91cf?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 16 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 16 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/69676ea51703f05405a91edb?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (SMB Product - Growth) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/694b821b1a572a617dddeac5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 14 |
-| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 14 |
-| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/6967cca4f25a3800669624e2?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 14 |
-| **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b481e3019f50a4fe66291?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 14 |
-| ↳ | **[Product Management Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5e2dd64ebf28d82111fb?utm_campaign=1047&utm_source=git)** | West Hollywood, CA | On Site | Jan 14 |
-| **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Product Management/ Marketing Intern](https://jobright.ai/jobs/info/696761eb639b452fb57cf9e1?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Jan 13 |
-| **[Sanctuary AI](https://www.sanctuary.ai)** | **[Product Management Intern (May 2026)](https://jobright.ai/jobs/info/6966f9ff639b452fb57c88f2?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Jan 13 |
-| **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6967268cf25a38006695849d?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Jan 13 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69670929639b452fb57c9d48?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 13 |
-| **[Kimray, Inc](https://www.kimray.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69686b37639b452fb57e1211?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
