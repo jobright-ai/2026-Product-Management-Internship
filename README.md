@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com/)** | **[Intern Product](https://jobright.ai/jobs/info/696bbc0f5fc86241853b1777?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 17 |
+| **[CLEAR](http://www.clearme.com)** | **[Product Intern (Summer 2026)](https://jobright.ai/jobs/info/696bb4b3350cf4380312f9b8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 17 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Jan 17 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
@@ -67,8 +69,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967f78b1703f05405a9944b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Jan 17 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967a690f25a380066960196?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Jan 17 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335f33a0dde7020e2ed206?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Jan 17 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335f33a0dde7020e2ed206?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Jan 17 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Jan 17 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Manager, Aftermarket Parts Intern](https://jobright.ai/jobs/info/6932e52a764507023d1b0fc0?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69677cb1639b452fb57d1569?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
@@ -92,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- North Hills Summer 2026](https://jobright.ai/jobs/info/696a9eb1db26b618950dc6e6?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Jan 16 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696a9d8b5fc8624185399758?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Jan 16 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6941db26b618950d8a3a?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6a6bdb26b618950d91cf?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 16 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 16 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Product Growth MBA Intern](https://jobright.ai/jobs/info/69680d5ff25a3800669661df?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Jan 14 |
 | **[1KOMMA5°](https://www.1komma5grad.com)** | **[Internship Product Portfolio Management (m/f/d)](https://jobright.ai/jobs/info/69680636639b452fb57d9460?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 14 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Intern: Electronics](https://jobright.ai/jobs/info/6967e5c5639b452fb57d79cb?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Jan 14 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Jan 14 |
-| **[Ergodyne](https://www.ergodyne.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/696807a3639b452fb57d95a2?utm_campaign=1047&utm_source=git)** | Twin Cities Area | On Site | Jan 14 |
-| **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9d36fa28370be26ac146?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 14 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
