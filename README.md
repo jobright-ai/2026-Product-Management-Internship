@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 16 |
+| **[Boring Mattress Co.](https://www.boring.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/696ae6efdb26b618950e4b07?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Jan 16 |
 | **[Relatable (Previously What Do You Meme?)](https://relatable.com/)** | **[Intern - Product Development,  Content](https://jobright.ai/jobs/info/696ab811350cf4380311bf03?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/696acacfdb26b618950e1615?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern Austin, TX - Summer 2026](https://jobright.ai/jobs/info/696aa352350cf438031191fe?utm_campaign=1047&utm_source=git)** | Austin TX | Hybrid | Jan 16 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/696aa0255fc8624185399985?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 16 |
+| **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 16 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- North Hills Summer 2026](https://jobright.ai/jobs/info/696a9eb1db26b618950dc6e6?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Jan 16 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696a9d8b5fc8624185399758?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Jan 16 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6a6bdb26b618950d91cf?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6941db26b618950d8a3a?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 16 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 16 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/69699235f25a380066984c88?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/69696a851703f05405ab4a8b?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Jan 15 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Technical Product Intern](https://jobright.ai/jobs/info/696989231703f05405ab7429?utm_campaign=1047&utm_source=git)** | Canada, Quebec, Montreal | Remote | Jan 15 |
-| **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/696999421703f05405ab994b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Jan 15 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Jan 15 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- Burlington Summer 2026](https://jobright.ai/jobs/info/69668102a112b4026614704d?utm_campaign=1047&utm_source=git)** | Burlington VT | Hybrid | Jan 13 |
 | **[Visa](https://www.visa.com)** | **[Technical Product/Project Management Intern - Summer 2026, Highlands Ranch](https://jobright.ai/jobs/info/69664f5ba112b40266145777?utm_campaign=1047&utm_source=git)** | Highlands Ranch, CO | On Site | Jan 13 |
 | **[Norwood Medical](http://norwoodmedical.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a3624c6f0e2546cef4ab9?utm_campaign=1047&utm_source=git)** | Dayton, OH | Hybrid | Jan 13 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2726fa28370be26a1cdd?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Jan 13 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/695dcb00403df63191d5b61b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 13 |
-| ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
