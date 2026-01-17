@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/696af3af350cf4380312300d?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 16 |
+| **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Product Development Intern](https://jobright.ai/jobs/info/696af2a25fc86241853a37f2?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 16 |
-| **[Boring Mattress Co.](https://www.boring.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/696ae6efdb26b618950e4b07?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Jan 16 |
+| **[Generac](https://www.generac.com/)** | **[Intern Product](https://jobright.ai/jobs/info/696aeaa1350cf43803121e16?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jan 16 |
+| **[Oracle](https://www.oracle.com/)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696aec59db26b618950e5612?utm_campaign=1047&utm_source=git)** | KITCHENER, ON, Canada | Hybrid | Jan 16 |
 | **[Relatable (Previously What Do You Meme?)](https://relatable.com/)** | **[Intern - Product Development,  Content](https://jobright.ai/jobs/info/696ab811350cf4380311bf03?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/696acacfdb26b618950e1615?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 16 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern Austin, TX - Summer 2026](https://jobright.ai/jobs/info/696aa352350cf438031191fe?utm_campaign=1047&utm_source=git)** | Austin TX | Hybrid | Jan 16 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Management Intern- Holland, MI](https://jobright.ai/jobs/info/6960650fa112b402660f2780?utm_campaign=1047&utm_source=git)** | Holland, MI | On Site | Jan 14 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 14 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 14 |
+| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/696afa0d350cf438031236e7?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/696884441703f05405aa4394?utm_campaign=1047&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Jan 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688d3d639b452fb57e458b?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 14 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Product Intern (Unpaid Internship for Credit Only)](https://jobright.ai/jobs/info/69683ad9f25a38006696a0e8?utm_campaign=1047&utm_source=git)** | Culver City, CA | Remote | Jan 14 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 14 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/696aa6a85fc8624185399eb7?utm_campaign=1047&utm_source=git)** | Sandy,UT,US | On Site | Jan 14 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69682331f25a380066967a3e?utm_campaign=1047&utm_source=git)** | Burlington, Ontario | On Site | Jan 14 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69682e8f639b452fb57dc628?utm_campaign=1047&utm_source=git)** | New York, NY, US | On Site | Jan 14 |
 | **[Sanctuary AI](https://www.sanctuary.ai)** | **[Product Management Intern (May 2026)](https://jobright.ai/jobs/info/69683964639b452fb57dd97d?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Salesforce (Summer 2026)](https://jobright.ai/jobs/info/6966c4375ad3a93f82321b64?utm_campaign=1047&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 13 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- Burlington Summer 2026](https://jobright.ai/jobs/info/69668102a112b4026614704d?utm_campaign=1047&utm_source=git)** | Burlington VT | Hybrid | Jan 13 |
 | **[Visa](https://www.visa.com)** | **[Technical Product/Project Management Intern - Summer 2026, Highlands Ranch](https://jobright.ai/jobs/info/69664f5ba112b40266145777?utm_campaign=1047&utm_source=git)** | Highlands Ranch, CO | On Site | Jan 13 |
-| **[Norwood Medical](http://norwoodmedical.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a3624c6f0e2546cef4ab9?utm_campaign=1047&utm_source=git)** | Dayton, OH | Hybrid | Jan 13 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/695dcb00403df63191d5b61b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 13 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
