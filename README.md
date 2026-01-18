@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Technology & Product Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/696d08615fc86241853c035d?utm_campaign=1047&utm_source=git)** | Superior, MI | Hybrid | Jan 18 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 18 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[TikTok LIVE Content Diversification Operations Project Intern [User Product-Lead Generation] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696854d9f25a38006696baca?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/696884991703f05405aa43c9?utm_campaign=1047&utm_source=git)** | Burlington, Ontario, Canada | On Site | Jan 14 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 14 |
-| **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Product Intern (Unpaid Internship for Credit Only)](https://jobright.ai/jobs/info/69683ad9f25a38006696a0e8?utm_campaign=1047&utm_source=git)** | Culver City, CA | Remote | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
