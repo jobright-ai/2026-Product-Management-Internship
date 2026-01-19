@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696e8023350cf4380315367a?utm_campaign=1047&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
-| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/696e7158db26b61895115972?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jan 19 |
 | **[TD](https://www.td.com)** | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952431e5bb7de448ef56a92?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | ↳ | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695242ce935649778e200e8e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | ↳ | **[Product Analyst Intern/Co-op, Acquisition & Engagement, CPJ, Credit Cards (SUMMER 2026)](https://jobright.ai/jobs/info/696b1570350cf43803125ad2?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
@@ -115,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- North Hills Summer 2026](https://jobright.ai/jobs/info/696a9eb1db26b618950dc6e6?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Jan 16 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696a9d8b5fc8624185399758?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Jan 16 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6941db26b618950d8a3a?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6a6bdb26b618950d91cf?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 16 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 16 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
@@ -149,12 +148,13 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/6968d3a2639b452fb57e9ce9?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Jan 15 |
 | ↳ | **[ALM Product Management Intern](https://jobright.ai/jobs/info/6968cbb31703f05405aaa3bd?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 15 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Management Intern- Holland, MI](https://jobright.ai/jobs/info/6960650fa112b402660f2780?utm_campaign=1047&utm_source=git)** | Holland, MI | On Site | Jan 14 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/696dce4f350cf4380314a0fb?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 14 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/696884441703f05405aa4394?utm_campaign=1047&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69684527f25a38006696aebb?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Jan 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688d3d639b452fb57e458b?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688683f25a38006696fde0?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/696857661703f05405aa074d?utm_campaign=1047&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 14 |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
+| ↳ | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
+| ↳ | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69685644f25a38006696bcc5?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
