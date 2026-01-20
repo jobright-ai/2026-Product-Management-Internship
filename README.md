@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/696fd43e82817106e976d96a?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Jan 20 |
+| **[Endeavor Ukraine](https://endeavor.org/ukraine/)** | **[Product Management Intern, Platforms &amp; Operations (Summer 2026)](https://jobright.ai/jobs/info/696fcb7a3ed06875134ab883?utm_campaign=1047&utm_source=git)** | Utica-Rome Area | Hybrid | Jan 20 |
+| **[Electrify America](https://www.electrifyamerica.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696fcaef82817106e976d624?utm_campaign=1047&utm_source=git)** | Ashburn, VA | Hybrid | Jan 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa2db0f4e0f657ea3e9d8?utm_campaign=1047&utm_source=git)** | New York, NY (55th St) | On Site | Jan 20 |
 | ↳ | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/696fb4373ed06875134aa0fe?utm_campaign=1047&utm_source=git)** | Saint-Laurent, QC | Hybrid | Jan 20 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/6969d1471703f05405abe043?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Jan 15 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Product Development Internship with  Victoria's Secret & Co.](https://jobright.ai/jobs/info/6969c6af1703f05405abc2cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a1b977d506e3808f55714?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jan 15 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6969a443f25a380066985c09?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 15 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Summer 2026)](https://jobright.ai/jobs/info/69699fe7f25a38006698589b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 15 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Marketplace Operations](https://jobright.ai/jobs/info/69699235f25a380066984c88?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/69696a851703f05405ab4a8b?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Jan 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/6968d3a2639b452fb57e9ce9?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Jan 15 |
 | ↳ | **[ALM Product Management Intern](https://jobright.ai/jobs/info/6968cbb31703f05405aaa3bd?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 15 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Management Intern- Holland, MI](https://jobright.ai/jobs/info/6960650fa112b402660f2780?utm_campaign=1047&utm_source=git)** | Holland, MI | On Site | Jan 14 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/696eeec6350cf4380315e2d1?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 14 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
