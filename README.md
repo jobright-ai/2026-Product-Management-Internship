@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Enterprise Connectivity](https://jobright.ai/jobs/info/696ebdbc5fc86241853dabef?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696e8023350cf4380315367a?utm_campaign=1047&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
 | **[TD](https://www.td.com)** | **[Canadian Card Payments, Loyalty & Personal Lending (CCPL&PL) Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952431e5bb7de448ef56a92?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | ↳ | **[Everyday Savings & Investing (ES&I), Everyday Advice Journey Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/695242ce935649778e200e8e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
@@ -84,13 +85,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967ec10f25a380066964269?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 17 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967f78b1703f05405a9944b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Jan 17 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967a690f25a380066960196?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Jan 17 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Jan 17 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335f33a0dde7020e2ed206?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Jan 17 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Jan 17 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Manager, Aftermarket Parts Intern](https://jobright.ai/jobs/info/6932e52a764507023d1b0fc0?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69677cb1639b452fb57d1569?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
@@ -114,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- North Hills Summer 2026](https://jobright.ai/jobs/info/696a9eb1db26b618950dc6e6?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Jan 16 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696a9d8b5fc8624185399758?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 16 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Jan 16 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6a6bdb26b618950d91cf?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
+| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/696a6941db26b618950d8a3a?utm_campaign=1047&utm_source=git)** | Arlington | Remote | Jan 16 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 16 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 16 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/696857661703f05405aa074d?utm_campaign=1047&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 14 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 | ↳ | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
-| ↳ | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69685644f25a38006696bcc5?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
