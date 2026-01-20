@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Jan 20 |
 | **[Relativity](http://www.relativity.com)** | **[Product Intern - Data Processing](https://jobright.ai/jobs/info/696f2c030f4e0f657ea388f8?utm_campaign=1047&utm_source=git)** | Illinois | Hybrid | Jan 19 |
 | ↳ | **[Product Intern - Data Processing](https://jobright.ai/jobs/info/696f216a82817106e97647ac?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Jan 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688d3d639b452fb57e458b?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688683f25a38006696fde0?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
-| **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/696857661703f05405aa074d?utm_campaign=1047&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
