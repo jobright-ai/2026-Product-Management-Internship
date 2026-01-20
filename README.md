@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa2db0f4e0f657ea3e9d8?utm_campaign=1047&utm_source=git)** | New York, NY (55th St) | On Site | Jan 20 |
+| ↳ | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 20 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/6961d2a4f3f4cd132506d12e?utm_campaign=1047&utm_source=git)** | United States | On Site | Jan 20 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/696f88d70f4e0f657ea3dc71?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Jan 20 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Jan 20 |
 | **[Relativity](http://www.relativity.com)** | **[Product Intern - Data Processing](https://jobright.ai/jobs/info/696f2c030f4e0f657ea388f8?utm_campaign=1047&utm_source=git)** | Illinois | Hybrid | Jan 19 |
 | ↳ | **[Product Intern - Data Processing](https://jobright.ai/jobs/info/696f216a82817106e97647ac?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/696eeec6350cf4380315e2d1?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 14 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 14 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/696884441703f05405aa4394?utm_campaign=1047&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69684527f25a38006696aebb?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Jan 14 |
-| **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Jan 14 |
-| **[Princess Cruises](http://www.princess.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688d3d639b452fb57e458b?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner Intern](https://jobright.ai/jobs/info/69688683f25a38006696fde0?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
