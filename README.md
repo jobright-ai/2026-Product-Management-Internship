@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Education and Product Management (Shared Intern) - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69437aee50bbaf7650556d60?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Jan 21 |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697121e4587dfa0bb55eac40?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Jan 21 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Product & AI Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/69711e2c51f726477183562f?utm_campaign=1047&utm_source=git)** | Montreal, QC | Hybrid | Jan 21 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/6970fae751f7264771832b2f?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 21 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
+| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d407daa598a08c3ee01ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967eddef25a380066964602?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967ededf25a380066964650?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/696aa0255fc8624185399985?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 16 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- North Hills Summer 2026](https://jobright.ai/jobs/info/696a9eb1db26b618950dc6e6?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Jan 16 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/696a9d8b5fc8624185399758?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 16 |
-| **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
