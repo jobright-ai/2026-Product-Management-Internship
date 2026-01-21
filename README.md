@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern - Transform Review](https://jobright.ai/jobs/info/696f213c9c3c52633455dbb9?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/6966004e5ad3a93f823168e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 19 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Jan 19 |
+| **[Brain Co.](https://brain.co)** | **[AI Product 2026 Internship](https://jobright.ai/jobs/info/69702775587dfa0bb55daa2f?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696ec52a350cf4380315afe9?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Jan 19 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Enterprise Connectivity](https://jobright.ai/jobs/info/696ebdbc5fc86241853dabef?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696e8023350cf4380315367a?utm_campaign=1047&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/69696a851703f05405ab4a8b?utm_campaign=1047&utm_source=git)** | Remote-USA | Remote | Jan 15 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Technical Product Intern](https://jobright.ai/jobs/info/696989231703f05405ab7429?utm_campaign=1047&utm_source=git)** | Canada, Quebec, Montreal | Remote | Jan 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager - Engage Point](https://jobright.ai/jobs/info/6952f29b5bb7de448ef60d8c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 15 |
-| **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
