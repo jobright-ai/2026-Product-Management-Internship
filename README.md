@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[2026 Summer Product Management Intern](https://jobright.ai/jobs/info/695ff6b97ebc25398eb5e1b9?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Jan 21 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69709148587dfa0bb55e2529?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/69705172333b6343a14cbec5?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 20 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69331a08764507023d1b228f?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Jan 16 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/696a1e7a5fc8624185391d92?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Jan 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
