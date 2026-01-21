@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/697047e9333b6343a14cb7e3?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 20 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/69705172333b6343a14cbec5?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 20 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 20 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - AI/ML Product Manager Intern](https://jobright.ai/jobs/info/697039e5333b6343a14ca309?utm_campaign=1047&utm_source=git)** | Renton, WA | On Site | Jan 20 |
 | **[Brain Co.](https://brain.co)** | **[AI Product 2026 Internship](https://jobright.ai/jobs/info/6970390151f72647718269af?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 20 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Endeavor Kenya](https://endeavor.org/location/kenya/)** | **[Product Management Intern, Platforms & Operations (Summer 2026)](https://jobright.ai/jobs/info/69700b4e3ed06875134b0938?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/696ffcdc82817106e9771705?utm_campaign=1047&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Jan 20 |
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Product & Business Development](https://jobright.ai/jobs/info/696ffc850f4e0f657ea45891?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 20 |
+| **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69611db0a112b402660fa845?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Jan 20 |
 | **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/696ff75082817106e97707da?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
 | **[Datavalet](http://datavalet.com)** | **[Stagiaire gestion de produit - Product Management Intern](https://jobright.ai/jobs/info/696ff61d0f4e0f657ea44742?utm_campaign=1047&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jan 20 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa2db0f4e0f657ea3e9d8?utm_campaign=1047&utm_source=git)** | New York, NY (55th St) | On Site | Jan 20 |
 | ↳ | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 20 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/696fb4373ed06875134aa0fe?utm_campaign=1047&utm_source=git)** | Saint-Laurent, QC | Hybrid | Jan 20 |
-| **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/697047a5587dfa0bb55dccbd?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Jan 20 |
 | **[Visa](https://www.visa.com)** | **[Technical Product/Project Management Intern - Summer 2026, Highlands Ranch](https://jobright.ai/jobs/info/69664f5ba112b40266145777?utm_campaign=1047&utm_source=git)** | Highlands Ranch, CO | On Site | Jan 20 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/6961d2a4f3f4cd132506d12e?utm_campaign=1047&utm_source=git)** | United States | On Site | Jan 20 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
@@ -105,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
+| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d407daa598a08c3ee01ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967eddef25a380066964602?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967ededf25a380066964650?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
