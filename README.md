@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697296d64ccbf64f8df29121?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Business Strategy and Product Management - MBA (New York City)](https://jobright.ai/jobs/info/6972959d9b83b424830e8c69?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6972944b584a1c1ef6fd942c?utm_campaign=1047&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
 | **[Expedia Group](https://www.expediagroup.com)** | **[Product Management MBA Intern - 2026 - Seattle](https://jobright.ai/jobs/info/697293a14ccbf64f8df28b21?utm_campaign=1047&utm_source=git)** | Washington - Seattle Campus | Hybrid | Jan 22 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697285419b83b424830e75bc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Technical Product/Project Owner Intern](https://jobright.ai/jobs/info/69726a8a4ccbf64f8df261b8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Copeland](https://www.copeland.com)** | **[2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/6972a3bc9b83b424830eac8d?utm_campaign=1047&utm_source=git)** | St. Louis, MO, USA | On Site | Jan 22 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/69727c7e4ccbf64f8df26eb5?utm_campaign=1047&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Commercial Products Intern](https://jobright.ai/jobs/info/697297bf9b83b424830e914c?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Menu Planning Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/6972952b9b83b424830e8b56?utm_campaign=1047&utm_source=git)** | Glendale, CA, USA | Hybrid | Jan 22 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69718e3651f726477183e99d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences and Analytics](https://jobright.ai/jobs/info/69718da6587dfa0bb55f3e86?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69717be5587dfa0bb55f2e2b?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
+| **[Andis Company](https://andis.com)** | **[Product Management Intern/Co-op- Summer 2026](https://jobright.ai/jobs/info/69729c1c9b83b424830e9b56?utm_campaign=1047&utm_source=git)** | Sturtevant, WI, US | On Site | Jan 21 |
 | **[Nirvana Consulting Company](https://www.nirvanaconsultingcompany.com/)** | **[AI Product Builder Internship](https://jobright.ai/jobs/info/69716922587dfa0bb55f097f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 21 |
 | **[Colonist](https://colonist.io/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/69727ee6584a1c1ef6fd79e5?utm_campaign=1047&utm_source=git)** | Any Location | Remote | Jan 21 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Enterprise Connectivity](https://jobright.ai/jobs/info/696ebdbc5fc86241853dabef?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696e8023350cf4380315367a?utm_campaign=1047&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Jan 19 |
-| **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cf575f846f0b04af68151e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 19 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
-| **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
