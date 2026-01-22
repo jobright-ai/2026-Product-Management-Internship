@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Jan 22 |
+| **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, ZPA](https://jobright.ai/jobs/info/693a411048a8ce22990e3f96?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/693a0c6656b68f3dc4e76b46?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Jan 22 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 22 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
+| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69721ba1cda18b7438648284?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Jan 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - ACS Portfolio Product Management](https://jobright.ai/jobs/info/69010b30d5259a1b3cff0bbb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark (July to December)](https://jobright.ai/jobs/info/6971e4c8b707bf728a4b8100?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | ↳ | **[Fall 2026: Product Development Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e404b707bf728a4b80b4?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
+| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d407daa598a08c3ee01ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967eddef25a380066964602?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967ededf25a380066964650?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694a49253019f50a4fe56efa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Ecosystem Governance Strategy & Operations Intern [TikTok-Product-Content Ecosystem] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[CLEAR](http://www.clearme.com)** | **[Product Intern (Summer 2026)](https://jobright.ai/jobs/info/696bb4b3350cf4380312f9b8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 17 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Jan 17 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
