@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e404b707bf728a4b80b4?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark (July to December)](https://jobright.ai/jobs/info/6971e4c8b707bf728a4b8100?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
+| ↳ | **[Fall 2026: Product Development Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e404b707bf728a4b80b4?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971c60a587dfa0bb55f8f3f?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
 | **[Siemens](https://www.siemens.com)** | **[Product Lifecycle Management internship](https://jobright.ai/jobs/info/6971b18851f7264771842479?utm_campaign=1047&utm_source=git)** | Wendell, NC | On Site | Jan 21 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/6971ad3551f726477184218c?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967f78b1703f05405a9944b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Jan 17 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967a690f25a380066960196?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
