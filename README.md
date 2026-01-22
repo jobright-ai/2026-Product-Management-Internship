@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69718e3651f726477183e99d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences and Analytics](https://jobright.ai/jobs/info/69718da6587dfa0bb55f3e86?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69717be5587dfa0bb55f2e2b?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[SprintRay Inc.](http://sprintray.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69717a2351f726477183d5ff?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[Nirvana Consulting Company](https://www.nirvanaconsultingcompany.com/)** | **[AI Product Builder Internship](https://jobright.ai/jobs/info/69716922587dfa0bb55f097f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 21 |
@@ -126,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
+| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d407daa598a08c3ee01ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967eddef25a380066964602?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967ededf25a380066964650?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696837ecf25a380066969b4a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Jan 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696dbdf3350cf438031494c9?utm_campaign=1047&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Jan 16 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/696af3af350cf4380312300d?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 16 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696ca8825fc86241853bd45d?utm_campaign=1047&utm_source=git)** | KITCHENER, ON, Canada | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
