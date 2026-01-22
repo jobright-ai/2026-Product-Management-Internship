@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program - Product Management (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/6971519651f7264771839d6e?utm_campaign=1047&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69714e41587dfa0bb55eec2f?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 21 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6959e5709f1b381eb27289b6?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 21 |
+| **[Andis Company](https://andis.com)** | **[Product Management Intern/Co-op- Summer 2026](https://jobright.ai/jobs/info/69715713333b6343a14de0e7?utm_campaign=1047&utm_source=git)** | Sturtevant, WI | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Data Sciences and Analytics](https://jobright.ai/jobs/info/69714fcc333b6343a14dd74f?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Digital Product Manager, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69714f5a51f7264771839903?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 21 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Education and Product Management (Shared Intern) - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69437aee50bbaf7650556d60?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Jan 21 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6959d5eaf1f8465b79f0354d?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jan 18 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
+| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967f7fa1703f05405a9954c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d407daa598a08c3ee01ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967eddef25a380066964602?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967ededf25a380066964650?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Product Development Intern](https://jobright.ai/jobs/info/696af2a25fc86241853a37f2?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 16 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/696c44ca350cf43803136a43?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 16 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/696b04c55fc86241853a4f12?utm_campaign=1047&utm_source=git)** | West Greenwich, RI, US, 02817 | Hybrid | Jan 16 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 16 |
-| **[Oracle](https://www.oracle.com/)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696caefbdb26b618951002ae?utm_campaign=1047&utm_source=git)** | KITCHENER, ON, Canada | Hybrid | Jan 16 |
-| **[Relatable (Previously What Do You Meme?)](https://relatable.com/)** | **[Intern - Product Development,  Content](https://jobright.ai/jobs/info/696ab811350cf4380311bf03?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
