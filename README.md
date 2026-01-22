@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/69727c7e4ccbf64f8df26eb5?utm_campaign=1047&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Technical Product/Project Owner Intern](https://jobright.ai/jobs/info/69726a8a4ccbf64f8df261b8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69726842584a1c1ef6fd698c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Technical Product/Project Owner Intern](https://jobright.ai/jobs/info/69725cf4584a1c1ef6fd63f8?utm_campaign=1047&utm_source=git)** | United States Virtual | Remote | Jan 22 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences and Analytics](https://jobright.ai/jobs/info/69718da6587dfa0bb55f3e86?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69717be5587dfa0bb55f2e2b?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[SprintRay Inc.](http://sprintray.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69717a2351f726477183d5ff?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69719226587dfa0bb55f42ae?utm_campaign=1047&utm_source=git)** | 2710 Media Center Dr, Los Angeles, Americas, 90065, US | On Site | Jan 21 |
 | **[Nirvana Consulting Company](https://www.nirvanaconsultingcompany.com/)** | **[AI Product Builder Internship](https://jobright.ai/jobs/info/69716922587dfa0bb55f097f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 21 |
+| **[Colonist](https://colonist.io/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/69727ee6584a1c1ef6fd79e5?utm_campaign=1047&utm_source=git)** | Any Location | Remote | Jan 21 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program - Product Management (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/6971519651f7264771839d6e?utm_campaign=1047&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/696798ad1703f05405a93978?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d407daa598a08c3ee01ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967eddef25a380066964602?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
-| ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967ededf25a380066964650?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
