@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern Lowell MA 2026](https://jobright.ai/jobs/info/697197d851f726477183f291?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 21 |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/697193ae333b6343a14e2e93?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69718e3651f726477183e99d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences and Analytics](https://jobright.ai/jobs/info/69718da6587dfa0bb55f3e86?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69717be5587dfa0bb55f2e2b?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
 | **[SprintRay Inc.](http://sprintray.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69717a2351f726477183d5ff?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69719226587dfa0bb55f42ae?utm_campaign=1047&utm_source=git)** | 2710 Media Center Dr, Los Angeles, Americas, 90065, US | On Site | Jan 21 |
 | **[Nirvana Consulting Company](https://www.nirvanaconsultingcompany.com/)** | **[AI Product Builder Internship](https://jobright.ai/jobs/info/69716922587dfa0bb55f097f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 21 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Manager, Aftermarket Parts Intern](https://jobright.ai/jobs/info/6932e52a764507023d1b0fc0?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69677cb1639b452fb57d1569?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
-| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696837ecf25a380066969b4a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Jan 17 |
-| **[Oracle](https://www.oracle.com/)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696dbdf3350cf438031494c9?utm_campaign=1047&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
