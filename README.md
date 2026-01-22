@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69717be5587dfa0bb55f2e2b?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
+| **[SprintRay Inc.](http://sprintray.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69717a2351f726477183d5ff?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[Nirvana Consulting Company](https://www.nirvanaconsultingcompany.com/)** | **[AI Product Builder Internship](https://jobright.ai/jobs/info/69716922587dfa0bb55f097f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 21 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696dbdf3350cf438031494c9?utm_campaign=1047&utm_source=git)** | Kitchener, Ontario, Canada | Hybrid | Jan 16 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/696af3af350cf4380312300d?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 16 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Product Manager - NetSuite - Full time Intern Conversion](https://jobright.ai/jobs/info/696ca8825fc86241853bd45d?utm_campaign=1047&utm_source=git)** | KITCHENER, ON, Canada | Hybrid | Jan 16 |
-| **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Product Development Intern](https://jobright.ai/jobs/info/696af2a25fc86241853a37f2?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 16 |
-| **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/696c44ca350cf43803136a43?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
