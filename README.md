@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/69727c7e4ccbf64f8df26eb5?utm_campaign=1047&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697285419b83b424830e75bc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Technical Product/Project Owner Intern](https://jobright.ai/jobs/info/69726a8a4ccbf64f8df261b8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/69727c7e4ccbf64f8df26eb5?utm_campaign=1047&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69726842584a1c1ef6fd698c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Technical Product/Project Owner Intern](https://jobright.ai/jobs/info/69725cf4584a1c1ef6fd63f8?utm_campaign=1047&utm_source=git)** | United States Virtual | Remote | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69718e3651f726477183e99d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences and Analytics](https://jobright.ai/jobs/info/69718da6587dfa0bb55f3e86?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69717be5587dfa0bb55f2e2b?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 21 |
-| **[SprintRay Inc.](http://sprintray.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69717a2351f726477183d5ff?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | **[Nirvana Consulting Company](https://www.nirvanaconsultingcompany.com/)** | **[AI Product Builder Internship](https://jobright.ai/jobs/info/69716922587dfa0bb55f097f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Jan 21 |
 | **[Colonist](https://colonist.io/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/69727ee6584a1c1ef6fd79e5?utm_campaign=1047&utm_source=git)** | Any Location | Remote | Jan 21 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
