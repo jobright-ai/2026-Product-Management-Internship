@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/69731ffb694e99351d1478ca?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Jan 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
-| ↳ | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| ↳ | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6973048d206da320f49cfb8a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972f4bc206da320f49cec54?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | ↳ | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972ef130488fd59f7d5ea40?utm_campaign=1047&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Assurant](https://www.assurant.com/)** | **[Summer 2026: Technical Product/Project Owner Intern](https://jobright.ai/jobs/info/69725cf4584a1c1ef6fd63f8?utm_campaign=1047&utm_source=git)** | United States Virtual | Remote | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Jan 22 |
-| **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, ZPA](https://jobright.ai/jobs/info/693a411048a8ce22990e3f96?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jan 22 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/693a0c6656b68f3dc4e76b46?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Jan 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 20 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/6970125882817106e9772dad?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Jan 20 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Product Management (eCommerce)](https://jobright.ai/jobs/info/69700da182817106e977297f?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
+| **[Endeavor Kenya](https://endeavor.org/location/kenya/)** | **[Product Management Intern, Platforms & Operations (Summer 2026)](https://jobright.ai/jobs/info/69700b4e3ed06875134b0938?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
