@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invesco](https://www.invesco.com)** | **[Summer 2026 ETF Product Development Internship - Early Careers](https://jobright.ai/jobs/info/6972d3580488fd59f7d5cb9d?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2026 Summer Internship, Business Strategy and Product Management - MBA (New York City)](https://jobright.ai/jobs/info/6972959d9b83b424830e8c69?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/6972aabf4ccbf64f8df2b59b?utm_campaign=1047&utm_source=git)** | Dayton, OH, USA | On Site | Jan 22 |
+| **[CoreSite](http://www.coresite.com)** | **[Summer Intern - Product Strategy & Product Development (1842)](https://jobright.ai/jobs/info/6972c76c4ccbf64f8df2d2cd?utm_campaign=1047&utm_source=git)** | Denver, CO | Remote | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697296d64ccbf64f8df29121?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6972944b584a1c1ef6fd942c?utm_campaign=1047&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern - Transform Review](https://jobright.ai/jobs/info/696f213c9c3c52633455dbb9?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Jan 19 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Jan 19 |
 | **[Brain Co.](https://brain.co)** | **[AI Product 2026 Internship](https://jobright.ai/jobs/info/69702775587dfa0bb55daa2f?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 19 |
-| **[Concora Credit](https://about.concoracredit.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696ec52a350cf4380315afe9?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Jan 19 |
-| **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Enterprise Connectivity](https://jobright.ai/jobs/info/696ebdbc5fc86241853dabef?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
