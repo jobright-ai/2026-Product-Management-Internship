@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/690276d698707b2b0fe6fa45?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
+| **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693b0865d4054a2bc024e909?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Product Analyst](https://jobright.ai/jobs/info/696feff03ed06875134add76?utm_campaign=1047&utm_source=git)** | CT Southington | On Site | Jan 20 |
 | **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Product Development Intern, NOYZ](https://jobright.ai/jobs/info/696ff1ff0f4e0f657ea43dfb?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 20 |
 | **[Endeavor Ukraine](https://endeavor.org/ukraine/)** | **[Product Management Intern, Platforms &amp; Operations (Summer 2026)](https://jobright.ai/jobs/info/696fcb7a3ed06875134ab883?utm_campaign=1047&utm_source=git)** | Utica-Rome Area | Hybrid | Jan 20 |
-| **[Electrify America](https://www.electrifyamerica.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696fcaef82817106e976d624?utm_campaign=1047&utm_source=git)** | Ashburn, VA | Hybrid | Jan 20 |
-| **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/696fe33f0f4e0f657ea4294a?utm_campaign=1047&utm_source=git)** | Milwaukee 111 Kilbourn | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
