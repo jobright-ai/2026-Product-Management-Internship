@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Menu Planning Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/697369df206da320f49d5ec8?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cea171846f0b04af67bbb1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
+| ↳ | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
+| ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/690276d698707b2b0fe6fa45?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 23 |
+| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693a0353ac80bb5492bc846b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Jan 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693b0865d4054a2bc024e909?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/69731ffb694e99351d1478ca?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Jan 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
-| ↳ | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| ↳ | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6973048d206da320f49cfb8a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972f4bc206da320f49cec54?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | ↳ | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972ef130488fd59f7d5ea40?utm_campaign=1047&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69611db0a112b402660fa845?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Jan 20 |
 | **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/696ff75082817106e97707da?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
-| **[Datavalet](http://datavalet.com)** | **[Stagiaire gestion de produit - Product Management Intern](https://jobright.ai/jobs/info/696ff61d0f4e0f657ea44742?utm_campaign=1047&utm_source=git)** | Montréal-Ouest, Quebec, Canada | On Site | Jan 20 |
-| **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/696fd43e82817106e976d96a?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Jan 20 |
-| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Product Analyst](https://jobright.ai/jobs/info/696feff03ed06875134add76?utm_campaign=1047&utm_source=git)** | CT Southington | On Site | Jan 20 |
-| **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Product Development Intern, NOYZ](https://jobright.ai/jobs/info/696ff1ff0f4e0f657ea43dfb?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 20 |
-| **[Endeavor Ukraine](https://endeavor.org/ukraine/)** | **[Product Management Intern, Platforms &amp; Operations (Summer 2026)](https://jobright.ai/jobs/info/696fcb7a3ed06875134ab883?utm_campaign=1047&utm_source=git)** | Utica-Rome Area | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
