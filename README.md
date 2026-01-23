@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973f587bc8e722e7b18dbbe?utm_campaign=1047&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 23 |
+| **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6973f163206da320f49ded00?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jan 23 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 23 |
+| **[Bayer](https://www.bayer.com)** | **[Product Supply Controlling Intern](https://jobright.ai/jobs/info/6973f1dbbc8e722e7b18d7a6?utm_campaign=1047&utm_source=git)** | Creve Coeur, MO | On Site | Jan 23 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973eee0bc8e722e7b18d465?utm_campaign=1047&utm_source=git)** | West Greenwich, RI, US, 02817 | Hybrid | Jan 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6973c9dc37785856350d9b3e?utm_campaign=1047&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 23 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69739a71206da320f49d8efe?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 23 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Jan 23 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/6970fae751f7264771832b2f?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 21 |
 | **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[productions and product development intern](https://jobright.ai/jobs/info/6970f5ab333b6343a14d6334?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 21 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6970cd9b51f7264771831089?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Jan 21 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Jan 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b4125bb7de448ef7bf0e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b079f1f8465b79ebf2d2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/69703d3951f7264771826e43?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Jan 20 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/6970143b82817106e9772fb5?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 20 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/6970125882817106e9772dad?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Jan 20 |
-| **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Product Management (eCommerce)](https://jobright.ai/jobs/info/69700da182817106e977297f?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
-| **[Endeavor Kenya](https://endeavor.org/location/kenya/)** | **[Product Management Intern, Platforms & Operations (Summer 2026)](https://jobright.ai/jobs/info/69700b4e3ed06875134b0938?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
