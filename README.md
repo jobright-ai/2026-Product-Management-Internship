@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6973c9dc37785856350d9b3e?utm_campaign=1047&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 23 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69739a71206da320f49d8efe?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 23 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Jan 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd2faa05c26e7ab111c2?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/6970125882817106e9772dad?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Jan 20 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Product Management (eCommerce)](https://jobright.ai/jobs/info/69700da182817106e977297f?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
 | **[Endeavor Kenya](https://endeavor.org/location/kenya/)** | **[Product Management Intern, Platforms & Operations (Summer 2026)](https://jobright.ai/jobs/info/69700b4e3ed06875134b0938?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/696ffcdc82817106e9771705?utm_campaign=1047&utm_source=git)** | Saint-Laurent, Quebec, Canada | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
