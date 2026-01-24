@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern Product](https://jobright.ai/jobs/info/69753f5337785856350f31e8?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 24 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6974ed27bc8e722e7b19e3a1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Specialist (4-month) - Winnipeg, MB, Canada](https://jobright.ai/jobs/info/6974e8b037785856350ee974?utm_campaign=1047&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 24 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern, Core Team (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945e07663141d1884557f2f?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program - Product Management (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/6971519651f7264771839d6e?utm_campaign=1047&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69714e41587dfa0bb55eec2f?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 21 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6959e5709f1b381eb27289b6?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
