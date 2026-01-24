@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Jan 24 |
+| **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/6920350fa49a885af9a37746?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/69746871bc8e722e7b197e2c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974447137785856350e3c33?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974414e206da320f49e65ca?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b4125bb7de448ef7bf0e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b079f1f8465b79ebf2d2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69709148587dfa0bb55e2529?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
-| **[Endeavor](http://www.endeavor.org)** | **[Product Management Intern, Platforms & Operations (Summer 2026)](https://jobright.ai/jobs/info/69731cb8694e99351d1473e1?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[Okta for Developers](https://developer.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971a556333b6343a14e4123?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
