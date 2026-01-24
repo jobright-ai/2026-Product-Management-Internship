@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974447137785856350e3c33?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
+| ↳ | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974414e206da320f49e65ca?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69743e8e206da320f49e63d3?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - IT Product Manager Intern](https://jobright.ai/jobs/info/69742eeebc8e722e7b19256f?utm_campaign=1047&utm_source=git)** | Renton, WA | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69741c3cbc8e722e7b191079?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/69731ffb694e99351d1478ca?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Jan 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
-| ↳ | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| ↳ | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6973048d206da320f49cfb8a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972f4bc206da320f49cec54?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | ↳ | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972ef130488fd59f7d5ea40?utm_campaign=1047&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b4125bb7de448ef7bf0e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 21 |
 | ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b079f1f8465b79ebf2d2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 21 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69709148587dfa0bb55e2529?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 21 |
-| **[Endeavor](http://www.endeavor.org)** | **[Product Management Intern, Platforms & Operations (Summer 2026)](https://jobright.ai/jobs/info/69731cb8694e99351d1473e1?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 20 |
-| **[Okta for Developers](https://developer.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971a556333b6343a14e4123?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
