@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/6973ff3bbc8e722e7b18e36a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973f587bc8e722e7b18dbbe?utm_campaign=1047&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 23 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6973f163206da320f49ded00?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jan 23 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 23 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/69731ffb694e99351d1478ca?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Jan 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
-| ↳ | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| ↳ | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6973048d206da320f49cfb8a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972f4bc206da320f49cec54?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | ↳ | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972ef130488fd59f7d5ea40?utm_campaign=1047&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/6970331d333b6343a14c9c6c?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Jan 20 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Product Analyst](https://jobright.ai/jobs/info/6970323f333b6343a14c9b87?utm_campaign=1047&utm_source=git)** | Southington, CT | Hybrid | Jan 20 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/69703d3951f7264771826e43?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Jan 20 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/6970143b82817106e9772fb5?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
