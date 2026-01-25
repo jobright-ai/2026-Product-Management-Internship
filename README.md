@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Jan 24 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/6920350fa49a885af9a37746?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Jan 24 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/69746871bc8e722e7b197e2c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/6975b6ba37785856350f9b47?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974447137785856350e3c33?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974414e206da320f49e65ca?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/697597da206da320f49f8b40?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colonist](https://colonist.io/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/69727ee6584a1c1ef6fd79e5?utm_campaign=1047&utm_source=git)** | Any Location | Remote | Jan 21 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program - Product Management (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/6971519651f7264771839d6e?utm_campaign=1047&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
