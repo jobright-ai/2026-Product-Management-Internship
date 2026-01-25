@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974447137785856350e3c33?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974414e206da320f49e65ca?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69743e8e206da320f49e63d3?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - IT Product Manager Intern](https://jobright.ai/jobs/info/69742eeebc8e722e7b19256f?utm_campaign=1047&utm_source=git)** | Renton, WA | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69741c3cbc8e722e7b191079?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6974148d206da320f49e202e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Manage and Identification](https://jobright.ai/jobs/info/6971648151f726477183af7c?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | Hybrid | Jan 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 21 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program - Product Management (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/6971519651f7264771839d6e?utm_campaign=1047&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 21 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69714e41587dfa0bb55eec2f?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
