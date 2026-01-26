@@ -68,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - Ideation](https://jobright.ai/jobs/info/691abc5115b415636718a46d?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 25 |
 | ↳ | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 25 |
 | ↳ | **[Intern - Product CORE](https://jobright.ai/jobs/info/691ab475bcdbf3560c9d9c93?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/6976dfc437785856351063b0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
+| ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfb6206da320f4a08614?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern Product](https://jobright.ai/jobs/info/69753f5337785856350f31e8?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 24 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6974ed27bc8e722e7b19e3a1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Jan 24 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Product Specialist (4-month) - Winnipeg, MB, Canada](https://jobright.ai/jobs/info/6974e8b037785856350ee974?utm_campaign=1047&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 24 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/69731ffb694e99351d1478ca?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Jan 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
-| ↳ | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| ↳ | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6973048d206da320f49cfb8a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972f4bc206da320f49cec54?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | ↳ | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972ef130488fd59f7d5ea40?utm_campaign=1047&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Data Services Product Owner Internship](https://jobright.ai/jobs/info/6971a810333b6343a14e42f9?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Remote | Jan 21 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Management Internship](https://jobright.ai/jobs/info/69719e5751f726477183f7c9?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 21 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern Lowell MA 2026](https://jobright.ai/jobs/info/697197d851f726477183f291?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 21 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/697193ae333b6343a14e2e93?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Jan 21 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/69718e3651f726477183e99d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
