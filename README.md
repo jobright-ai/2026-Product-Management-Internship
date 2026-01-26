@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USAA](https://www.usaa.com)** | **[P&C Product Management Analyst Intern](https://jobright.ai/jobs/info/6977a69952f3c27ec643ba9f?utm_campaign=1047&utm_source=git)** | San Antonio Home Office I | On Site | Jan 26 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69779ef852f3c27ec643b1c5?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 26 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Associate Product Manager Intern (4 Months)](https://jobright.ai/jobs/info/6977a56052f3c27ec643b8aa?utm_campaign=1047&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 26 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 26 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6977226cfdeb8243a279f324?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
@@ -91,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974447137785856350e3c33?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | ↳ | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974414e206da320f49e65ca?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/697597da206da320f49f8b40?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
-| **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69743e8e206da320f49e63d3?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - IT Product Manager Intern](https://jobright.ai/jobs/info/69742eeebc8e722e7b19256f?utm_campaign=1047&utm_source=git)** | Renton, WA | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69741c3cbc8e722e7b191079?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6974148d206da320f49e202e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
@@ -103,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/6973ff3bbc8e722e7b18e36a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973f587bc8e722e7b18dbbe?utm_campaign=1047&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 23 |
-| **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6973f163206da320f49ded00?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jan 23 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 23 |
 | **[Bayer](https://www.bayer.com)** | **[Product Supply Controlling Intern](https://jobright.ai/jobs/info/6973f1dbbc8e722e7b18d7a6?utm_campaign=1047&utm_source=git)** | Creve Coeur, MO | On Site | Jan 23 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973eee0bc8e722e7b18d465?utm_campaign=1047&utm_source=git)** | West Greenwich, RI, US, 02817 | Hybrid | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026: Product Development Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e404b707bf728a4b80b4?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971c60a587dfa0bb55f8f3f?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
 | **[Siemens](https://www.siemens.com)** | **[Product Lifecycle Management internship](https://jobright.ai/jobs/info/6971b18851f7264771842479?utm_campaign=1047&utm_source=git)** | Wendell, NC | On Site | Jan 21 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/6971ad3551f726477184218c?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
