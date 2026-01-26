@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6977226cfdeb8243a279f324?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 25 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/6971ad3551f726477184218c?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Jan 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Data Services Product Owner Internship](https://jobright.ai/jobs/info/6971a810333b6343a14e42f9?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Remote | Jan 21 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Management Internship](https://jobright.ai/jobs/info/69719e5751f726477183f7c9?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 21 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern Lowell MA 2026](https://jobright.ai/jobs/info/697197d851f726477183f291?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
