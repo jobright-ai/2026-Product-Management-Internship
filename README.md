@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697887de39f7f96cc6d0f54d?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/6977c86a52f3c27ec643e980?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[BMO](http://www.bmo.com)** | **[Junior Analyst, Product Specialist, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6977efe688e2b47213bbf57d?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 26 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/6977f34a52f3c27ec64426ce?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
-| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/6977f09c88e2b47213bbf6de?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/6977f09c88e2b47213bbf6de?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
+| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/6977f34a52f3c27ec64426ce?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977eac752f3c27ec64417b6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977b88152f3c27ec643d8b3?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Product Management/UX Intern](https://jobright.ai/jobs/info/6977b6e552f3c27ec643d5d4?utm_campaign=1047&utm_source=git)** | Trevose, PA | Hybrid | Jan 26 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/69731ffb694e99351d1478ca?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Jan 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
-| ↳ | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697332a4bc8e722e7b1809ae?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
+| ↳ | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69732c5b206da320f49d2f67?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jan 22 |
 | **[Supercarb](https://www.supercarb.tech/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6973048d206da320f49cfb8a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972f4bc206da320f49cec54?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | ↳ | **[SAP NS2 Portfolio Management Intern](https://jobright.ai/jobs/info/6972ef130488fd59f7d5ea40?utm_campaign=1047&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copeland](https://www.copeland.com)** | **[2026 Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/6972aabf4ccbf64f8df2b59b?utm_campaign=1047&utm_source=git)** | Dayton, OH, USA | On Site | Jan 22 |
 | **[CoreSite](http://www.coresite.com)** | **[Summer Intern - Product Strategy & Product Development (1842)](https://jobright.ai/jobs/info/6972c76c4ccbf64f8df2d2cd?utm_campaign=1047&utm_source=git)** | Denver, CO | Remote | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
-| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697296d64ccbf64f8df29121?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
