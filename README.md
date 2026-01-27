@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697887de39f7f96cc6d0f54d?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 27 |
+| **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoreSite](http://www.coresite.com)** | **[Summer Intern - Product Strategy & Product Development (1842)](https://jobright.ai/jobs/info/6972c76c4ccbf64f8df2d2cd?utm_campaign=1047&utm_source=git)** | Denver, CO | Remote | Jan 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 22 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Development/Mgmt Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697296d64ccbf64f8df29121?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6972944b584a1c1ef6fd942c?utm_campaign=1047&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
-| **[Expedia Group](https://www.expediagroup.com)** | **[Product Management MBA Intern - 2026 - Seattle](https://jobright.ai/jobs/info/697293a14ccbf64f8df28b21?utm_campaign=1047&utm_source=git)** | Washington - Seattle Campus | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
