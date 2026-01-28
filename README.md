@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a4748a5b9804527e01704?utm_campaign=1047&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/697a3937b4589b4ee87c75ae?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
+| ↳ | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/697a3618a5b9804527dffb20?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69639f30a112b4026611bcc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Summer 2026)](https://jobright.ai/jobs/info/697a107bb4589b4ee87c5d2a?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | Jan 28 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Yes Energy](https://www.yesenergy.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6979a4d6ca92cf0d6a82f348?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/6979a018d7df290257fc1065?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Product Manager, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/697994deca92cf0d6a82c7bb?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jan 27 |
+| **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/697a3be7a5b9804527dfff00?utm_campaign=1047&utm_source=git)** | Austin, TX, US | On Site | Jan 27 |
 | **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798af4ca92cf0d6a82b2a3?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/696c44ca350cf43803136a43?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798f260791bc1d72303d12?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
@@ -102,15 +107,14 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/69783b6339f7f96cc6d0877c?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Experience Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/695c395bf1f8465b79f24371?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[CRH](http://crh.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6978246652f3c27ec6445119?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6978279688e2b47213bc2856?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Digital Product (Summer 2026)](https://jobright.ai/jobs/info/6978173a52f3c27ec64443cc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/6977c86a52f3c27ec643e980?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796f0c0791bc1d723017c7?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
-| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796b1952f3c27ec645e16c?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796b1952f3c27ec645e16c?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
+| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796f0c0791bc1d723017c7?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977eac752f3c27ec64417b6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977b88152f3c27ec643d8b3?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Product Management/UX Intern](https://jobright.ai/jobs/info/6977b6e552f3c27ec643d5d4?utm_campaign=1047&utm_source=git)** | Trevose, PA | Hybrid | Jan 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - IT Product Manager Intern](https://jobright.ai/jobs/info/69742eeebc8e722e7b19256f?utm_campaign=1047&utm_source=git)** | Renton, WA | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69741c3cbc8e722e7b191079?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6974148d206da320f49e202e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
-| **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/69740f8337785856350df4ac?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69743572bc8e722e7b192a5a?utm_campaign=1047&utm_source=git)** | Orlando, FL | Hybrid | Jan 23 |
-| **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/697408e6206da320f49e18ba?utm_campaign=1047&utm_source=git)** | Home-United States | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
