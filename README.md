@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
+| **[Yes Energy](https://www.yesenergy.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6979d593b4589b4ee87c0e9e?utm_campaign=1047&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6979a4d6ca92cf0d6a82f348?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/6979a018d7df290257fc1065?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Product Manager, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/697994deca92cf0d6a82c7bb?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/697408e6206da320f49e18ba?utm_campaign=1047&utm_source=git)** | Home-United States | Hybrid | Jan 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973f587bc8e722e7b18dbbe?utm_campaign=1047&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 23 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 23 |
-| **[Bayer](https://www.bayer.com)** | **[Product Supply Controlling Intern](https://jobright.ai/jobs/info/6973f1dbbc8e722e7b18d7a6?utm_campaign=1047&utm_source=git)** | Creve Coeur, MO | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
