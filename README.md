@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 28 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6979d593b4589b4ee87c0e9e?utm_campaign=1047&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
 | **[Yes Energy](https://www.yesenergy.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6979a4d6ca92cf0d6a82f348?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69740dec37785856350df3e2?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 23 |
 | **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/697408e6206da320f49e18ba?utm_campaign=1047&utm_source=git)** | Home-United States | Hybrid | Jan 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973f587bc8e722e7b18dbbe?utm_campaign=1047&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
