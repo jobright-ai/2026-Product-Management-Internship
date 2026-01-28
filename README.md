@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
+| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/69797e89ca92cf0d6a82a147?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 26 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/69783b6339f7f96cc6d0877c?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 26 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Experience Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/695c395bf1f8465b79f24371?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69739a71206da320f49d8efe?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 23 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Jan 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern (May and August hires)](https://jobright.ai/jobs/info/6956dd2faa05c26e7ab111c2?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Jan 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cea171846f0b04af67bbb1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
