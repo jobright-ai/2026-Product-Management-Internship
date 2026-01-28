@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yes Energy](https://www.yesenergy.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6979a4d6ca92cf0d6a82f348?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | Hybrid | Jan 27 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/6979a018d7df290257fc1065?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Product Manager, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/697994deca92cf0d6a82c7bb?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jan 27 |
 | **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798af4ca92cf0d6a82b2a3?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/696c44ca350cf43803136a43?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798f260791bc1d72303d12?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/697970e79c90a224ecc3295a?utm_campaign=1047&utm_source=git)** | Glenview,IL,US | Hybrid | Jan 27 |
 | **[nVent](https://www.nvent.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6979384188e2b47213bd5e24?utm_campaign=1047&utm_source=git)** | Blue Ash, OH | On Site | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/6979333f52f3c27ec6457c6c?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973f587bc8e722e7b18dbbe?utm_campaign=1047&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Jan 23 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Jan 23 |
 | **[Bayer](https://www.bayer.com)** | **[Product Supply Controlling Intern](https://jobright.ai/jobs/info/6973f1dbbc8e722e7b18d7a6?utm_campaign=1047&utm_source=git)** | Creve Coeur, MO | On Site | Jan 23 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973eee0bc8e722e7b18d465?utm_campaign=1047&utm_source=git)** | West Greenwich, RI, US, 02817 | Hybrid | Jan 23 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6973c9dc37785856350d9b3e?utm_campaign=1047&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 23 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69739a71206da320f49d8efe?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
