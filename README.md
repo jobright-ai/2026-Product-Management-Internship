@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a59c6b4589b4ee87ca1f1?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jan 28 |
+| **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a590da5b9804527e029f6?utm_campaign=1047&utm_source=git)** | Draper, UT | Hybrid | Jan 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976f89452f3c27ec6430479?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a4748a5b9804527e01704?utm_campaign=1047&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/697a3937b4589b4ee87c75ae?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/697a3618a5b9804527dffb20?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/697a48f9a5b9804527e01caf?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Jan 28 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69639f30a112b4026611bcc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Summer 2026)](https://jobright.ai/jobs/info/697a107bb4589b4ee87c5d2a?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/6978640e39f7f96cc6d0cdb3?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6977011352f3c27ec6430fa4?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974447137785856350e3c33?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
-| ↳ | **[Summer 2026 Technical Product Management Internship](https://jobright.ai/jobs/info/6974414e206da320f49e65ca?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 23 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/697597da206da320f49f8b40?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 23 |
-| **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - IT Product Manager Intern](https://jobright.ai/jobs/info/69742eeebc8e722e7b19256f?utm_campaign=1047&utm_source=git)** | Renton, WA | On Site | Jan 23 |
-| **[iManage](https://imanage.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69741c3cbc8e722e7b191079?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
