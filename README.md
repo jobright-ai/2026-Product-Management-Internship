@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[nVent](https://www.nvent.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6979384188e2b47213bd5e24?utm_campaign=1047&utm_source=git)** | Blue Ash, OH | On Site | Jan 27 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/6979333f52f3c27ec6457c6c?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Jan 27 |
+| **[nVent](https://www.nvent.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6979332539f7f96cc6d198b0?utm_campaign=1047&utm_source=git)** | Blue Ash, OH, US | On Site | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/697931bb88e2b47213bd50c4?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
+| **[Munich Re](https://www.munichre.com)** | **[Digital IT Products Intern](https://jobright.ai/jobs/info/69794b3f39f7f96cc6d1c2d3?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Jan 27 |
 | **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/69791aa388e2b47213bd3582?utm_campaign=1047&utm_source=git)** | Cottage Grove, Wisconsin, United States | Hybrid | Jan 27 |
 | **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697919b439f7f96cc6d17648?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Jan 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6979176152f3c27ec6455b8c?utm_campaign=1047&utm_source=git)** | Eagan, MN, US | Hybrid | Jan 27 |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product/UI Documentation Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6979349c52f3c27ec6457da2?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
 | **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/697912ed39f7f96cc6d16f7e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/6979266452f3c27ec6456d6d?utm_campaign=1047&utm_source=git)** | Cottage Grove, WI | Hybrid | Jan 27 |
 | **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69791cfa88e2b47213bd384c?utm_campaign=1047&utm_source=git)** | US-MN-Eagan | Hybrid | Jan 27 |
@@ -90,8 +95,6 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Digital Product (Summer 2026)](https://jobright.ai/jobs/info/6978173a52f3c27ec64443cc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/6977c86a52f3c27ec643e980?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/6977f09c88e2b47213bbf6de?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
-| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/6977f34a52f3c27ec64426ce?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977eac752f3c27ec64417b6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977b88152f3c27ec643d8b3?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Product Management/UX Intern](https://jobright.ai/jobs/info/6977b6e552f3c27ec643d5d4?utm_campaign=1047&utm_source=git)** | Trevose, PA | Hybrid | Jan 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Menu Planning Intern, Glendale, Summer/Fall 2026](https://jobright.ai/jobs/info/69737709bc8e722e7b185175?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Jan 23 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 23 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693a0353ac80bb5492bc846b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Jan 23 |
-| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Application Intern](https://jobright.ai/jobs/info/6957b332f1f8465b79ee604f?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Jan 23 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/697342271790715e866c4374?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Jan 23 |
-| **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/69732f3ebc8e722e7b1807fa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
