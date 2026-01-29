@@ -149,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/694033c249a7695fbd05b6ff?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69407e8650bbaf7650528269?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | ↳ | **[Systems Product Intern](https://jobright.ai/jobs/info/69406da449a7695fbd05ef6a?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Jan 27 |
-| **[Twelve](https://twelvenyc.com)** | **[Product Innovation Internship (Full Time)](https://jobright.ai/jobs/info/6977b79788e2b47213bbabed?utm_campaign=1047&utm_source=git)** | Brooklyn, NY | On Site | Jan 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Jan 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
 | **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/697aea6d17b11b1c2e41c2a3?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Product Experience Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/695c395bf1f8465b79f24371?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
