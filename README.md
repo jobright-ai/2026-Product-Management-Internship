@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Developer Intern - Cuisinart](https://jobright.ai/jobs/info/695f17e7a112b402660ddda6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Lumber](https://www.lumberfi.com/)** | **[Product Intern - Payroll](https://jobright.ai/jobs/info/697b31df17b11b1c2e424818?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | ↳ | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Product Internship - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f48a8a1bbea1d9a7a1a9c?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| ↳ | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/697aede61423772304eae41c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae2a11423772304eac928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Systems Product Intern](https://jobright.ai/jobs/info/69406da449a7695fbd05ef6a?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Jan 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Jan 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
-| **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Product Intern](https://jobright.ai/jobs/info/697b189517b11b1c2e421b8e?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Jan 26 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/697b16221423772304eb2b57?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
-| **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
