@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
+| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a849df6fc293b0a2c59bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/697a80ae9d60e431a16c010a?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a8d269d60e431a16c1823?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | ↳ | **[Summer Intern, Ad Product Management](https://jobright.ai/jobs/info/697a82ff9d60e431a16c0589?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
 | **[Emerson](http://www.emerson.com)** | **[New Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a960f8dbbf73badc7cead?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 28 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697a858b9d60e431a16c0a85?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 (16-Month) Internship (Canada) - ATS/ALT Product Manager](https://jobright.ai/jobs/info/697aaafd8dbbf73badc7ebc1?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Product Development, Apparel - NYC](https://jobright.ai/jobs/info/697a82488dbbf73badc7a87c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Emerson](http://www.emerson.com)** | **[New Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a81b19d60e431a16c02ef?utm_campaign=1047&utm_source=git)** | 12969 Manchester Road, Saint Louis, MO, 63131, US | On Site | Jan 28 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/697a9b12f6fc293b0a2c83a5?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Jan 28 |
@@ -101,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/696c44ca350cf43803136a43?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798f260791bc1d72303d12?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/697970e79c90a224ecc3295a?utm_campaign=1047&utm_source=git)** | Glenview,IL,US | Hybrid | Jan 27 |
+| **[Parspec](https://parspec.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/697ab65b8dbbf73badc8022f?utm_campaign=1047&utm_source=git)** | San Mateo, California | Hybrid | Jan 27 |
 | **[Leland](https://www.joinleland.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a89edf6fc293b0a2c6383?utm_campaign=1047&utm_source=git)** | Leland HQ - Lehi, UT | Hybrid | Jan 27 |
 | **[nVent](https://www.nvent.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6979384188e2b47213bd5e24?utm_campaign=1047&utm_source=git)** | Blue Ash, OH | On Site | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2026](https://jobright.ai/jobs/info/6979333f52f3c27ec6457c6c?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Jan 27 |
@@ -129,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Twelve](https://twelvenyc.com)** | **[Product Innovation Internship (Full Time)](https://jobright.ai/jobs/info/6977b79788e2b47213bbabed?utm_campaign=1047&utm_source=git)** | Brooklyn, NY | On Site | Jan 27 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Jan 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 27 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697887de39f7f96cc6d0f54d?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
@@ -140,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Digital Product (Summer 2026)](https://jobright.ai/jobs/info/6978173a52f3c27ec64443cc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/6977c86a52f3c27ec643e980?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796f0c0791bc1d723017c7?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
-| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796b1952f3c27ec645e16c?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796b1952f3c27ec645e16c?utm_campaign=1047&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 26 |
+| ↳ | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/69796f0c0791bc1d723017c7?utm_campaign=1047&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | On Site | Jan 26 |
 | **[Bread](https://www.breadpayments.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977eac752f3c27ec64417b6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977b88152f3c27ec643d8b3?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Product Management/UX Intern](https://jobright.ai/jobs/info/6977b6e552f3c27ec643d5d4?utm_campaign=1047&utm_source=git)** | Trevose, PA | Hybrid | Jan 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Associate Product Manager Intern (4 Months)](https://jobright.ai/jobs/info/6977a56052f3c27ec643b8aa?utm_campaign=1047&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 26 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 26 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
-| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6977226cfdeb8243a279f324?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 25 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 25 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Jan 25 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
