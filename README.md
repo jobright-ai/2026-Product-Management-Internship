@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | On Site | Jan 29 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 29 |
+| **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Jan 29 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Jan 29 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Jan 29 |
 | ↳ | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | Hybrid | Jan 29 |
+| **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/697b481d1423772304eb6ae8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 29 |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6965f6aca112b40266140531?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jan 29 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Developer Intern - Cuisinart](https://jobright.ai/jobs/info/695f17e7a112b402660ddda6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
@@ -91,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
-| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
-| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
+| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
+| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/697abb2e8dbbf73badc80bce?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a849df6fc293b0a2c59bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697919b439f7f96cc6d17648?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Jan 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6979176152f3c27ec6455b8c?utm_campaign=1047&utm_source=git)** | Eagan, MN, US | Hybrid | Jan 27 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product/UI Documentation Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6979349c52f3c27ec6457da2?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
-| **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/697912ed39f7f96cc6d16f7e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jan 27 |
-| **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/6979266452f3c27ec6456d6d?utm_campaign=1047&utm_source=git)** | Cottage Grove, WI | Hybrid | Jan 27 |
-| **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69791cfa88e2b47213bd384c?utm_campaign=1047&utm_source=git)** | US-MN-Eagan | Hybrid | Jan 27 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Product Management Intern (4 months)](https://jobright.ai/jobs/info/6978def588e2b47213bcf64d?utm_campaign=1047&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 27 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Manager, Technical Internship](https://jobright.ai/jobs/info/6978d7f139f7f96cc6d133ff?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 27 |
-| ↳ | **[2026 Summer Product Development Internship](https://jobright.ai/jobs/info/6978d47c88e2b47213bcf169?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Jan 27 |
-| **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Product Management Intern (4 months)](https://jobright.ai/jobs/info/6978fa0a88e2b47213bd066b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
