@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| **[Lumber](https://www.lumberfi.com/)** | **[Product Intern - Payroll](https://jobright.ai/jobs/info/697b31df17b11b1c2e424818?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
+| ↳ | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Product Internship - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f48a8a1bbea1d9a7a1a9c?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | Hybrid | Jan 29 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/697aede61423772304eae41c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae2a11423772304eac928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
@@ -72,12 +76,10 @@ For a complete list, click the following sortable link below:
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Underwriting Product & Training Intern](https://jobright.ai/jobs/info/695ed82b0badca5763af4f58?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Razer Inc.](https://www.razer.com)** | **[NAD Product Development Intern](https://jobright.ai/jobs/info/697af1101423772304eae8e9?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jan 28 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/697acfb5f6fc293b0a2cc7cf?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| ↳ | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/697ae433c532c4768fe09de5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
-| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
-| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
+| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
+| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/697abb2e8dbbf73badc80bce?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a849df6fc293b0a2c59bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/697a3937b4589b4ee87c75ae?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/697a48f9a5b9804527e01caf?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Jan 28 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69639f30a112b4026611bcc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 28 |
-| **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/697b2a631136d179eeee95aa?utm_campaign=1047&utm_source=git)** | Glenview, IL | Hybrid | Jan 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Summer 2026)](https://jobright.ai/jobs/info/697a107bb4589b4ee87c5d2a?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | Jan 28 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/697b16221423772304eb2b57?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69785f9c52f3c27ec644b48b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 26 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 26 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/697aea6d17b11b1c2e41c2a3?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
