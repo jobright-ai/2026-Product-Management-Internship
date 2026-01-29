@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Mining Engineers)](https://jobright.ai/jobs/info/697b93861136d179eeef0cb6?utm_campaign=1047&utm_source=git)** | Garland, TX | On Site | Jan 29 |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697b8dfb1423772304ebafb8?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Jan 29 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b85090b88cc7d64224ad3?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Jan 29 |
+| **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Product Intern](https://jobright.ai/jobs/info/697b81061136d179eeef019b?utm_campaign=1047&utm_source=git)** | Connecticut, United States | Remote | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | On Site | Jan 29 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 29 |
-| **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Jan 29 |
+| **[MTL Holdings, LLC](https://mtl-holdings.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b8a501136d179eeef0741?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Jan 29 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b825f0b88cc7d6422493a?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jan 29 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Jan 29 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Jan 29 |
 | ↳ | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | Hybrid | Jan 29 |
-| **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/697951ab52f3c27ec645b490?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/697931bb88e2b47213bd50c4?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Munich Re](https://www.munichre.com)** | **[Digital IT Products Intern](https://jobright.ai/jobs/info/69794b3f39f7f96cc6d1c2d3?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Jan 27 |
-| **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/69791aa388e2b47213bd3582?utm_campaign=1047&utm_source=git)** | Cottage Grove, Wisconsin, United States | Hybrid | Jan 27 |
-| **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697919b439f7f96cc6d17648?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Jan 27 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6979176152f3c27ec6455b8c?utm_campaign=1047&utm_source=git)** | Eagan, MN, US | Hybrid | Jan 27 |
-| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product/UI Documentation Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/6979349c52f3c27ec6457da2?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
