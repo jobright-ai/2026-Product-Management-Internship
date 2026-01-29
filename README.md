@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Withum](http://www.withum.com)** | **[Product Development Innovation Internship](https://jobright.ai/jobs/info/697ab8d49d60e431a16c62bc?utm_campaign=1047&utm_source=git)** | Whippany, NJ | Hybrid | Jan 28 |
+| **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Underwriting Product & Training Intern](https://jobright.ai/jobs/info/695ed82b0badca5763af4f58?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/697abb2e8dbbf73badc80bce?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a849df6fc293b0a2c59bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/697a80ae9d60e431a16c010a?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a8d269d60e431a16c1823?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USAA](https://www.usaa.com)** | **[P&C Product Management Analyst Intern](https://jobright.ai/jobs/info/6977a69952f3c27ec643ba9f?utm_campaign=1047&utm_source=git)** | San Antonio Home Office I | On Site | Jan 26 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69779ef852f3c27ec643b1c5?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 26 |
 | **[Bread Financial](https://www.breadfinancial.com)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6977b2bffdeb8243a27a9ac1?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Jan 26 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Associate Product Manager Intern (4 Months)](https://jobright.ai/jobs/info/6977a56052f3c27ec643b8aa?utm_campaign=1047&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 26 |
-| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Jan 26 |
-| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
