@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697bc5fc1423772304ebf268?utm_campaign=1047&utm_source=git)** | New York City | Hybrid | Jan 29 |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/697bd9a50b88cc7d6422b265?utm_campaign=1047&utm_source=git)** | King of Prussia, PA | On Site | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bd34b1423772304ec03ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bd3311136d179eeef5c46?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Jan 29 |
 | **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – Product Strategy Intern](https://jobright.ai/jobs/info/697bcd6f1136d179eeef5220?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
@@ -67,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/697bc8a40b88cc7d6422959d?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bc8971423772304ebf5d4?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/697bc8931423772304ebf5d1?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697bc5fc1423772304ebf268?utm_campaign=1047&utm_source=git)** | New York City | Hybrid | Jan 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern - Finance Technology](https://jobright.ai/jobs/info/697bd1851423772304ec0003?utm_campaign=1047&utm_source=git)** | Fort Mill SC 29715 | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/697bb40e0b88cc7d64227e97?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/697bcc761423772304ebfa5f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/697a3937b4589b4ee87c75ae?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/697a48f9a5b9804527e01caf?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Jan 28 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69639f30a112b4026611bcc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 28 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
