@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/695f77870badca5763afde6d?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Jan 29 |
+| ↳ | **[Product Management Intern – Summer 2026](https://jobright.ai/jobs/info/695a1f619f1b381eb272bf6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
+| **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697c2dd21423772304ec92ae?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c2be51423772304ec8bcf?utm_campaign=1047&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrity Product & Client Solution Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c22e90b88cc7d64232751?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern - Finance Technology](https://jobright.ai/jobs/info/697c1f791136d179eeefd492?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | On Site | Jan 29 |
 | **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697c10741136d179eeefb657?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/697c08c71423772304ec5538?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
 | ↳ | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/697c077a1423772304ec5444?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Operations - Study Start-Up Specialist](https://jobright.ai/jobs/info/697c2d0a1423772304ec91e3?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c17b60b88cc7d64230bf9?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 29 |
 | **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697bf2f91423772304ec3c64?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Product Management Intern- Device Solutions (Summer 2026)](https://jobright.ai/jobs/info/696575ab5ad3a93f8230ba1c?utm_campaign=1047&utm_source=git)** | Newark, NJ | Remote | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Analytics](https://jobright.ai/jobs/info/697a9bc59d60e431a16c3236?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jan 28 |
 | ↳ | **[Summer Intern, Product Management - Ad Experiences](https://jobright.ai/jobs/info/697a947b9d60e431a16c26f9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/697a91919d60e431a16c2078?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Education and Product Management (Shared Intern) - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69437aee50bbaf7650556d60?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Jan 28 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/697a9819f6fc293b0a2c7ec7?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Ads Product Analytics](https://jobright.ai/jobs/info/697a9561f6fc293b0a2c78c8?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences, Digital Endpoints and Patient Centered Solutions](https://jobright.ai/jobs/info/697a860ef6fc293b0a2c5c65?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 28 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697a62e3f6fc293b0a2c3269?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
