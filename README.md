@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Jan 30 |
+| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, New Product Planning, AIR - Summer 2026](https://jobright.ai/jobs/info/697b397d1423772304eb615c?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
+| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Jan 30 |
+| ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner Internship](https://jobright.ai/jobs/info/697c82d9137a0510256586f2?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 30 |
 | ↳ | **[Summer 2026 Product Owner - AI Engineering Internship](https://jobright.ai/jobs/info/697c7882137a05102565768e?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 30 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/697c33e00b88cc7d64233a6d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/697c33471136d179eeefedeb?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/695f77870badca5763afde6d?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Jan 29 |
-| ↳ | **[Product Management Intern – Summer 2026](https://jobright.ai/jobs/info/695a1f619f1b381eb272bf6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
 | **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697c2dd21423772304ec92ae?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c2be51423772304ec8bcf?utm_campaign=1047&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrity Product & Client Solution Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c22e90b88cc7d64232751?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
@@ -83,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Operations - Study Start-Up Specialist](https://jobright.ai/jobs/info/697c2d0a1423772304ec91e3?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c17b60b88cc7d64230bf9?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 29 |
 | **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697bf2f91423772304ec3c64?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[Panasonic North America](https://homes.panasonic.com/)** | **[Product Management Intern- Device Solutions (Summer 2026)](https://jobright.ai/jobs/info/696575ab5ad3a93f8230ba1c?utm_campaign=1047&utm_source=git)** | Newark, NJ | Remote | Jan 29 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Product Management Intern- Device Solutions (Summer 2026)](https://jobright.ai/jobs/info/696575ab5ad3a93f8230ba1c?utm_campaign=1047&utm_source=git)** | Newark, NJ | Remote | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bd34b1423772304ec03ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | **[Besty AI](https://getbesty.ai)** | **[Product Manager Intern at AI Startup](https://jobright.ai/jobs/info/697be5401136d179eeef8004?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697bc5fc1423772304ebf268?utm_campaign=1047&utm_source=git)** | New York City | Hybrid | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
 | **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
-| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/697abb2e8dbbf73badc80bce?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
