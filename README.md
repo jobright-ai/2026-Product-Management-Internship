@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner - AI Engineering Internship](https://jobright.ai/jobs/info/697c7882137a05102565768e?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 30 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner Internship](https://jobright.ai/jobs/info/697c82d9137a0510256586f2?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 30 |
+| ↳ | **[Summer 2026 Product Owner - AI Engineering Internship](https://jobright.ai/jobs/info/697c7882137a05102565768e?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner - AI Engineering Internship](https://jobright.ai/jobs/info/697c748e3f57a33569662966?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Jan 30 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Global Operations - Study Start-Up Specialist](https://jobright.ai/jobs/info/697c7357727747250d5724b9?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 30 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
-| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
-| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
+| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
+| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/697abb2e8dbbf73badc80bce?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a849df6fc293b0a2c59bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
