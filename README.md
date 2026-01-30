@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | ↳ | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
-| **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/697c4860ba9f7d5ec9fcc2ac?utm_campaign=1047&utm_source=git)** | Glenview, IL | Hybrid | Jan 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/697aede61423772304eae41c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae2a11423772304eac928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Product Development, Apparel - NYC](https://jobright.ai/jobs/info/697a82488dbbf73badc7a87c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Emerson](http://www.emerson.com)** | **[New Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a81b19d60e431a16c02ef?utm_campaign=1047&utm_source=git)** | 12969 Manchester Road, Saint Louis, MO, 63131, US | On Site | Jan 28 |
 | **[My Monthly](https://www.mymonthly.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/697a9b12f6fc293b0a2c83a5?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Jan 28 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/697a77b9f6fc293b0a2c491a?utm_campaign=1047&utm_source=git)** | Farmington, MI | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
