@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/697c08c71423772304ec5538?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
+| ↳ | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/697c077a1423772304ec5444?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Jan 29 |
+| **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697bf2f91423772304ec3c64?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[Product Management Intern- Device Solutions (Summer 2026)](https://jobright.ai/jobs/info/696575ab5ad3a93f8230ba1c?utm_campaign=1047&utm_source=git)** | Newark, NJ | Remote | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bd34b1423772304ec03ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | **[Besty AI](https://getbesty.ai)** | **[Product Manager Intern at AI Startup](https://jobright.ai/jobs/info/697be5401136d179eeef8004?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 29 |
 | **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697bc5fc1423772304ebf268?utm_campaign=1047&utm_source=git)** | New York City | Hybrid | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jan 28 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a590da5b9804527e029f6?utm_campaign=1047&utm_source=git)** | Draper, UT | Hybrid | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976f89452f3c27ec6430479?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[MBA Summer 2026 Intern - Technical Product Management](https://jobright.ai/jobs/info/697a8b588dbbf73badc7b925?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Jan 28 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Data Sciences, Digital Endpoints and Patient Centered Solutions](https://jobright.ai/jobs/info/697ac4c39d60e431a16c6d18?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Jan 28 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 28 |
-| **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697a4748a5b9804527e01704?utm_campaign=1047&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
