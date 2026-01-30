@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner - AI Engineering Internship](https://jobright.ai/jobs/info/697c7882137a05102565768e?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 30 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 30 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner - AI Engineering Internship](https://jobright.ai/jobs/info/697c748e3f57a33569662966?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Jan 30 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Global Operations - Study Start-Up Specialist](https://jobright.ai/jobs/info/697c7357727747250d5724b9?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Jan 30 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner Internship](https://jobright.ai/jobs/info/697c7274727747250d572429?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Jan 30 |
+| **[Velera](https://www.velera.com)** | **[Intern - Product Manager Fraud](https://jobright.ai/jobs/info/696c44ca350cf43803136a43?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 30 |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697c699a727747250d571c83?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 (16-Month) Internship (Canada) - ATS/ALT Product Manager](https://jobright.ai/jobs/info/697aaafd8dbbf73badc7ebc1?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69715cef51f726477183a995?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Jan 29 |
 | ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6961fb65a112b40266106f09?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Jan 29 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
-| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
-| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
+| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac5fef6fc293b0a2cc044?utm_campaign=1047&utm_source=git)** | Clear Lake, Iowa, United States | On Site | Jan 28 |
+| ↳ | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/697ac6409d60e431a16c6e98?utm_campaign=1047&utm_source=git)** | Ames, Iowa, United States | On Site | Jan 28 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697aa2aa9d60e431a16c3913?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/697abb2e8dbbf73badc80bce?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, AI Product Management](https://jobright.ai/jobs/info/697a849df6fc293b0a2c59bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 28 |
-| ↳ | **[Summer Intern, Ad Product Management](https://jobright.ai/jobs/info/697a82ff9d60e431a16c0589?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
-| **[Emerson](http://www.emerson.com)** | **[New Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a960f8dbbf73badc7cead?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 28 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Salesforce](https://jobright.ai/jobs/info/697a858b9d60e431a16c0a85?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Product Development, Apparel - NYC](https://jobright.ai/jobs/info/697a82488dbbf73badc7a87c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[Emerson](http://www.emerson.com)** | **[New Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a81b19d60e431a16c02ef?utm_campaign=1047&utm_source=git)** | 12969 Manchester Road, Saint Louis, MO, 63131, US | On Site | Jan 28 |
-| **[My Monthly](https://www.mymonthly.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/697a9b12f6fc293b0a2c83a5?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/697a77b9f6fc293b0a2c491a?utm_campaign=1047&utm_source=git)** | Farmington, MI | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
