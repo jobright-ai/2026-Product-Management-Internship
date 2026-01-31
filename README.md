@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Operations](https://jobright.ai/jobs/info/697d7cdb3f57a33569676628?utm_campaign=1047&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
+| ↳ | **[Intern, Category Management](https://jobright.ai/jobs/info/697d7be7727747250d58657d?utm_campaign=1047&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
+| ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/697d7b193f57a33569676451?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON, CA, L4B 4W6 | On Site | Jan 30 |
 | **[PACCAR](http://www.paccar.com/)** | **[Global Product Planning Internship - Summer 2026](https://jobright.ai/jobs/info/697d603e3f57a335696741e7?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Jan 30 |
 | **[Waabi](https://waabi.ai)** | **[Product Management Internship/Co-op, Summer 2026](https://jobright.ai/jobs/info/697d4aa9137a051025665775?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
+| ↳ | **[Product Management Internship/Co-op, Summer 2026](https://jobright.ai/jobs/info/697d49c23f57a3356967168c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Target Analysis / Antibody Business Unit Product Management Summer Intern](https://jobright.ai/jobs/info/697d49b93f57a33569671681?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 30 |
 | ↳ | **[Target Analysis/Antibody Business Unit Product Management Summer Intern](https://jobright.ai/jobs/info/697d45f53f57a33569671435?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/697d3de9727747250d580f28?utm_campaign=1047&utm_source=git)** | Middletown, NJ | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/697aede61423772304eae41c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae2a11423772304eac928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 28 |
-| **[Razer Inc.](https://www.razer.com)** | **[NAD Product Development Intern](https://jobright.ai/jobs/info/697aceb08dbbf73badc81c71?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jan 28 |
-| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 28 |
-| ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae2f717b11b1c2e41b3b5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
