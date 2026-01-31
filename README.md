@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X, The Moonshot Factory](https://x.company)** | **[2026 Product Manager Internship, Grid Distribution Planning (Tapestry)](https://jobright.ai/jobs/info/697e6b4cce48107c05429a21?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 31 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Operations (Hybrid / Decatur, GA)](https://jobright.ai/jobs/info/697e1e04abff4c399a9ce70a?utm_campaign=1047&utm_source=git)** | Decatur, GA | Hybrid | Jan 31 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Jan 31 |
 | ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/697b481d1423772304eb6ae8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 29 |
-| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6965f6aca112b40266140531?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
