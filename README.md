@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 31 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Jan 31 |
+| ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 31 |
 | ↳ | **[Intern, Product Operations](https://jobright.ai/jobs/info/697dfadf7f40342e15d6cd9d?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Jan 31 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d712d4a1b456627b215e5?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Jan 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6965f6aca112b40266140531?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jan 29 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Developer Intern - Cuisinart](https://jobright.ai/jobs/info/695f17e7a112b402660ddda6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
-| ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
