@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR](http://www.paccar.com/)** | **[Global Product Planning Internship - Summer 2026](https://jobright.ai/jobs/info/697d603e3f57a335696741e7?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Jan 30 |
 | **[Waabi](https://waabi.ai)** | **[Product Management Internship/Co-op, Summer 2026](https://jobright.ai/jobs/info/697d4aa9137a051025665775?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Target Analysis / Antibody Business Unit Product Management Summer Intern](https://jobright.ai/jobs/info/697d49b93f57a33569671681?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 30 |
 | ↳ | **[Target Analysis/Antibody Business Unit Product Management Summer Intern](https://jobright.ai/jobs/info/697d45f53f57a33569671435?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 28 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae2f717b11b1c2e41b3b5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
