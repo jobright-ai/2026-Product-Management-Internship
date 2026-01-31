@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amica Insurance](http://www.amica.com)** | **[Product Development Summer Intern](https://jobright.ai/jobs/info/697d2e0b3f57a3356966f5d1?utm_campaign=1047&utm_source=git)** | Rhode Island, United States | Hybrid | Jan 30 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/697d2d903f57a3356966f44a?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Jan 30 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/697d2940727747250d57ea1c?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Jan 30 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Manager Intern – Metal Solutions](https://jobright.ai/jobs/info/697d2886137a05102566270b?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Jan 30 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697d05dd3f57a3356966baa9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Manager Intern – Metal Solutions](https://jobright.ai/jobs/info/697cf28f137a05102565eec9?utm_campaign=1047&utm_source=git)** | Troy, Michigan | On Site | Jan 30 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/697cf099727747250d57a568?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 30 |
@@ -64,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Product Management Summer Intern](https://jobright.ai/jobs/info/696555baa112b40266132ee2?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Tech & Ops Program Summer 2026 – Operations & Analytics Intern (Charlotte)](https://jobright.ai/jobs/info/697cdd88727747250d578be5?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 30 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/697cdd28727747250d578ba5?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 30 |
+| **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697d2dff137a05102566355b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 30 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Jan 30 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Jan 30 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/697c33e00b88cc7d64233a6d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/697c33471136d179eeefedeb?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/695f77870badca5763afde6d?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Jan 29 |
-| **[Pagaya](https://www.pagaya.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/697c2dd21423772304ec92ae?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c2be51423772304ec8bcf?utm_campaign=1047&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 29 |
 | **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Product Line Intern](https://jobright.ai/jobs/info/697cdfb4727747250d578d34?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrity Product & Client Solution Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c22e90b88cc7d64232751?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 28 |
 | **[Withum](http://www.withum.com)** | **[Product Development Innovation Internship](https://jobright.ai/jobs/info/697ab8d49d60e431a16c62bc?utm_campaign=1047&utm_source=git)** | Whippany, NJ | Hybrid | Jan 28 |
 | **[CopperPoint Insurance Companies](https://www.copperpoint.com/)** | **[Underwriting Product & Training Intern](https://jobright.ai/jobs/info/695ed82b0badca5763af4f58?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
-| **[Razer Inc.](https://www.razer.com)** | **[NAD Product Development Intern](https://jobright.ai/jobs/info/697af1101423772304eae8e9?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jan 28 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Jan 28 |
-| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/697aab638dbbf73badc7ec85?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Jan 28 |
-| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa9169d60e431a16c426f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
