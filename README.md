@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern - Finance Technology](https://jobright.ai/jobs/info/697bd1851423772304ec0003?utm_campaign=1047&utm_source=git)** | Fort Mill SC 29715 | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development & Data Analytics Intern](https://jobright.ai/jobs/info/697bb40e0b88cc7d64227e97?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/697bcc761423772304ebfa5f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bad780b88cc7d64227ab6?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | Hybrid | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bad581423772304ebd923?utm_campaign=1047&utm_source=git)** | Milpitas, California, US | Hybrid | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bab1f1136d179eeef30f6?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Jan 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/697b481d1423772304eb6ae8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 29 |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6965f6aca112b40266140531?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
