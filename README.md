@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bcc240b88cc7d64229a23?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/697bc8a40b88cc7d6422959d?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bc8971423772304ebf5d4?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/697bc8931423772304ebf5d1?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Product Line Intern](https://jobright.ai/jobs/info/697be8871423772304ec2b68?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern - Finance Technology](https://jobright.ai/jobs/info/697bd1851423772304ec0003?utm_campaign=1047&utm_source=git)** | Fort Mill SC 29715 | On Site | Jan 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 29 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6965f6aca112b40266140531?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jan 29 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Developer Intern - Cuisinart](https://jobright.ai/jobs/info/695f17e7a112b402660ddda6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
