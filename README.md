@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glen Raven](https://www.glenraven.com/)** | **[Product Ops and Pricing Internship - Summer 2026](https://jobright.ai/jobs/info/6980f8567f40342e15d9cf1e?utm_campaign=1047&utm_source=git)** | Glen Raven, North Carolina, United States | On Site | Feb 02 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CPQ Quote to Order Experience - 2026 Summer Internship](https://jobright.ai/jobs/info/6980f4307f40342e15d9cbef?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980c070abff4c399a9f821e?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 02 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980a4d27f40342e15d97a7c?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Feb 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 02 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Feb 02 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/697afa8d1423772304eaf907?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Product Management Intern - Hair Accessories & Cos Bags](https://jobright.ai/jobs/info/6964549ba112b402661249c6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698019a3ce48107c05443df1?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698006c8abff4c399a9ebec1?utm_campaign=1047&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
+| **[1Password](https://1password.com)** | **[Product Ops Intern - EPM - Summer 2026](https://jobright.ai/jobs/info/6980f2a6abff4c399a9fc027?utm_campaign=1047&utm_source=git)** | Remote Canada | Remote | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae0eabff4c399a9e3cb2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Data Science Product Manager Intern](https://jobright.ai/jobs/info/697f97f7abff4c399a9e3389?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bad581423772304ebd923?utm_campaign=1047&utm_source=git)** | Milpitas, California, US | Hybrid | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bab1f1136d179eeef30f6?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697baac31136d179eeef30a1?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | Hybrid | Jan 29 |
-| ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697baa901423772304ebd7db?utm_campaign=1047&utm_source=git)** | San Francisco, California, US | Hybrid | Jan 29 |
-| ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697ba8fb0b88cc7d6422771c?utm_campaign=1047&utm_source=git)** | Seattle, Washington, US | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
