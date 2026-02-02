@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/697afa8d1423772304eaf907?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/696b45d05fc86241853a9d33?utm_campaign=1047&utm_source=git)** | Greater Bismarck Area | On Site | Feb 02 |
 | **[Square](https://block.xyz)** | **[Square Associate Product Manager Program](https://jobright.ai/jobs/info/698078d77f40342e15d94d69?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 02 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Brushes](https://jobright.ai/jobs/info/6963fe65a112b4026612040d?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | ↳ | **[2026 Product Management Intern - Men's and Women's Grooming Appliances](https://jobright.ai/jobs/info/6964519f2cbf4e44756de2be?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Product Intern](https://jobright.ai/jobs/info/697b81061136d179eeef019b?utm_campaign=1047&utm_source=git)** | Connecticut, United States | Remote | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | On Site | Jan 29 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 29 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
