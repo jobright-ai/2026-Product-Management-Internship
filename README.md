@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980c070abff4c399a9f821e?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 02 |
 | **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980a4d27f40342e15d97a7c?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Feb 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 02 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697baac31136d179eeef30a1?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | Hybrid | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697baa901423772304ebd7db?utm_campaign=1047&utm_source=git)** | San Francisco, California, US | Hybrid | Jan 29 |
 | ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697ba8fb0b88cc7d6422771c?utm_campaign=1047&utm_source=git)** | Seattle, Washington, US | Hybrid | Jan 29 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Mining Engineers)](https://jobright.ai/jobs/info/697b93861136d179eeef0cb6?utm_campaign=1047&utm_source=git)** | Garland, TX | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
