@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698006c8abff4c399a9ebec1?utm_campaign=1047&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
+| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698019a3ce48107c05443df1?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Feb 01 |
+| ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698006c8abff4c399a9ebec1?utm_campaign=1047&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae0eabff4c399a9e3cb2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Data Science Product Manager Intern](https://jobright.ai/jobs/info/697f97f7abff4c399a9e3389?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | Hybrid | Jan 29 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 29 |
-| **[TE Connectivity](http://www.te.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/697b481d1423772304eb6ae8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
