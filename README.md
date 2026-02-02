@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Hair Accessories & Cos Bags](https://jobright.ai/jobs/info/6964549ba112b402661249c6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Brushes](https://jobright.ai/jobs/info/6963fe65a112b4026612040d?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
+| ↳ | **[2026 Product Management Intern - Men's and Women's Grooming Appliances](https://jobright.ai/jobs/info/6964519f2cbf4e44756de2be?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
+| ↳ | **[2026 Product Management Intern - Hair Accessories & Cos Bags](https://jobright.ai/jobs/info/6964549ba112b402661249c6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698019a3ce48107c05443df1?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698006c8abff4c399a9ebec1?utm_campaign=1047&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae0eabff4c399a9e3cb2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jan 29 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Jan 29 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Jan 29 |
-| ↳ | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | Hybrid | Jan 29 |
-| **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
