@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DispatchIt](https://www.dispatchit.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698111e649964d25b5e3e056?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Feb 02 |
+| **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/69810f2149964d25b5e3de90?utm_campaign=1047&utm_source=git)** | Cottage Grove, WI | Hybrid | Feb 02 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698101d6abff4c399a9fd09b?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | On Site | Feb 02 |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6981018f7f40342e15d9da88?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 02 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980ffd47f40342e15d9d869?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Feb 02 |
 | **[Glen Raven](https://www.glenraven.com/)** | **[Product Ops and Pricing Internship - Summer 2026](https://jobright.ai/jobs/info/6980f8567f40342e15d9cf1e?utm_campaign=1047&utm_source=git)** | Glen Raven, North Carolina, United States | On Site | Feb 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CPQ Quote to Order Experience - 2026 Summer Internship](https://jobright.ai/jobs/info/6980f4307f40342e15d9cbef?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 02 |
+| **[1Password](https://1password.com)** | **[Product Ops Intern - EPM - Summer 2026](https://jobright.ai/jobs/info/69811062abff4c399a9fe09a?utm_campaign=1047&utm_source=git)** | Canada | Remote | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980c070abff4c399a9f821e?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 02 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Feb 02 |
@@ -131,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/697c33e00b88cc7d64233a6d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/697c33471136d179eeefedeb?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c2be51423772304ec8bcf?utm_campaign=1047&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 29 |
-| **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Product Line Intern](https://jobright.ai/jobs/info/697cdfb4727747250d578d34?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrity Product & Client Solution Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c22e90b88cc7d64232751?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern - Finance Technology](https://jobright.ai/jobs/info/697c1f791136d179eeefd492?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | On Site | Jan 29 |
 | **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697c10741136d179eeefb657?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bc8971423772304ebf5d4?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Product Line Intern](https://jobright.ai/jobs/info/697be8871423772304ec2b68?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 29 |
-| **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Corporate Intern - Finance Technology](https://jobright.ai/jobs/info/697bd1851423772304ec0003?utm_campaign=1047&utm_source=git)** | Fort Mill SC 29715 | On Site | Jan 29 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bad780b88cc7d64227ab6?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | Hybrid | Jan 29 |
-| ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bad581423772304ebd923?utm_campaign=1047&utm_source=git)** | Milpitas, California, US | Hybrid | Jan 29 |
-| ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bab1f1136d179eeef30f6?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Jan 29 |
-| ↳ | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697baac31136d179eeef30a1?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
