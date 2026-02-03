@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/68ce725efb49c96ca6ea093a?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698208ee0f6f7e7a2cdb2e67?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fbea0f6f7e7a2cdb2566?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654eb1a112b4026613256b?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Owner Internship](https://jobright.ai/jobs/info/697dce36ce48107c054227ed?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 31 |
 | ↳ | **[Summer 2026 T-Shop Product Development Internship](https://jobright.ai/jobs/info/697dc8a37f40342e15d6afde?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 31 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/68ce725efb49c96ca6ea093a?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Jan 31 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Product Development - Women's Intern](https://jobright.ai/jobs/info/6961c0f5a112b40266105120?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Operations](https://jobright.ai/jobs/info/697d7cdb3f57a33569676628?utm_campaign=1047&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
 | ↳ | **[Intern, Category Management](https://jobright.ai/jobs/info/697d7be7727747250d58657d?utm_campaign=1047&utm_source=git)** | Port Washington, NY, US, 11050 | On Site | Jan 30 |
