@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698208ee0f6f7e7a2cdb2e67?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fbea0f6f7e7a2cdb2566?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654eb1a112b4026613256b?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69656803a112b4026613472f?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Wind Product Management Leadership Program Intern - Summer 2026](https://jobright.ai/jobs/info/6965b3a0a112b4026613be4d?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Feb 03 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Operational Tools](https://jobright.ai/jobs/info/69816a2a7f40342e15da6e62?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Feb 02 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[State Filing and Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a83678dbbf73badc7aa7b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6981752849964d25b5e46e3c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/697ce72c727747250d5791f7?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Tech & Ops Program Summer 2026 – Operations & Analytics Intern (Charlotte)](https://jobright.ai/jobs/info/697cdd88727747250d578be5?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Jan 30 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/697cdd28727747250d578ba5?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 30 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Jan 30 |
-| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
