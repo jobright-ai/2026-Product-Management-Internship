@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Operational Tools](https://jobright.ai/jobs/info/698148a449964d25b5e42b9c?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Feb 02 |
+| **[Galileo Financial Technologies](https://www.galileo-ft.com)** | **[Intern, Product Manager, Card Processing Platform](https://jobright.ai/jobs/info/69814336abff4c399aa02aa2?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 02 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CPQ Quote to Order Experience - 2026 Summer Internship](https://jobright.ai/jobs/info/6981355149964d25b5e417e4?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Feb 02 |
+| **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/69814ed47f40342e15da51a0?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Feb 02 |
 | **[Lonza](http://www.lonza.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/698122a7abff4c399a9ff782?utm_campaign=1047&utm_source=git)** | Bend, OR | On Site | Feb 02 |
 | **[Coast](https://coastpay.com)** | **[Graduate School Intern](https://jobright.ai/jobs/info/69811e457f40342e15d9fa4b?utm_campaign=1047&utm_source=git)** | New York City | On Site | Feb 02 |
 | **[DispatchIt](https://www.dispatchit.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698111e649964d25b5e3e056?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Operations - Study Start-Up Specialist](https://jobright.ai/jobs/info/697c2d0a1423772304ec91e3?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Summer 2026)](https://jobright.ai/jobs/info/697c17b60b88cc7d64230bf9?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 29 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bd34b1423772304ec03ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
-| **[Besty AI](https://getbesty.ai)** | **[Product Manager Intern at AI Startup](https://jobright.ai/jobs/info/697be5401136d179eeef8004?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 29 |
-| **[Squarespace](http://www.squarespace.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/697bc5fc1423772304ebf268?utm_campaign=1047&utm_source=git)** | New York City | Hybrid | Jan 29 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Engineer II (Intern)- United States](https://jobright.ai/jobs/info/697bd3311136d179eeef5c46?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Jan 29 |
-| **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – Product Strategy Intern](https://jobright.ai/jobs/info/697bcd6f1136d179eeef5220?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
