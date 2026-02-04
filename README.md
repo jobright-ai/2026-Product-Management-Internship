@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Clearing House](https://www.theclearinghouse.org)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6982f4e20f6f7e7a2cdc68b1?utm_campaign=1047&utm_source=git)** | , NY | Hybrid | Feb 03 |
+| **[Kinective](https://www.kinective.io)** | **[Product Development Intern](https://jobright.ai/jobs/info/698303310f6f7e7a2cdc70f3?utm_campaign=1047&utm_source=git)** | Golden,CO,US | Hybrid | Feb 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6982d3698232105a2d0b44e4?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Feb 03 |
 | ↳ | **[MBA Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6982d1950f6f7e7a2cdc3782?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Feb 03 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6982c41b8232105a2d0b22e1?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Feb 03 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[State Filing and Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a83678dbbf73badc7aa7b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6981752849964d25b5e46e3c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
 | **[GS1 US](http://www.gs1us.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6981a68f7f40342e15dac75f?utm_campaign=1047&utm_source=git)** | Ewing, NJ | Hybrid | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698006c8abff4c399a9ebec1?utm_campaign=1047&utm_source=git)** | 6001 Rogerdale Road, Houston, TX, 77072, US | On Site | Feb 01 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Product Management Summer Intern](https://jobright.ai/jobs/info/696555baa112b40266132ee2?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae0eabff4c399a9e3cb2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Data Science Product Manager Intern](https://jobright.ai/jobs/info/697f97f7abff4c399a9e3389?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
