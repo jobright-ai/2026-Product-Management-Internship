@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
+| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Feb 04 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 04 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Central Solutions Intern](https://jobright.ai/jobs/info/6983811801214b4cdacb2900?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Salesforce (Summer 2026)](https://jobright.ai/jobs/info/697212d547b64f4e963e48c0?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 04 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Feb 04 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager – Data Visualization](https://jobright.ai/jobs/info/698270370f6f7e7a2cdba229?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 03 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Innovation Internship](https://jobright.ai/jobs/info/69823e390f6f7e7a2cdb67fe?utm_campaign=1047&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Feb 03 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69823c060f6f7e7a2cdb6593?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 03 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/6982598f0f6f7e7a2cdb81e0?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, US | On Site | Feb 03 |
-| ↳ | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698262a40a9e07331f8d64b7?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 03 |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698262a40a9e07331f8d64b7?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 03 |
+| ↳ | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/6982598f0f6f7e7a2cdb81e0?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, US | On Site | Feb 03 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69825e9a0a9e07331f8d6018?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Feb 03 |
 | ↳ | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69825b37348f733a5c352bdf?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Feb 03 |
 | **[The Weather Company](https://www.weathercompany.com)** | **[Privacy Product Management Intern](https://jobright.ai/jobs/info/6982380da314e76369059da7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
@@ -126,11 +129,11 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Operational Tools](https://jobright.ai/jobs/info/69816a2a7f40342e15da6e62?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Feb 02 |
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[State Filing and Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a83678dbbf73badc7aa7b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6981752849964d25b5e46e3c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | **[GS1 US](http://www.gs1us.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6981a68f7f40342e15dac75f?utm_campaign=1047&utm_source=git)** | Ewing, NJ | Hybrid | Feb 02 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Operational Tools](https://jobright.ai/jobs/info/698148a449964d25b5e42b9c?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Feb 02 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Product Oversight Analyst (Intern)](https://jobright.ai/jobs/info/698169d67f40342e15da6df1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 02 |
@@ -140,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Lonza](http://www.lonza.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/698122a7abff4c399a9ff782?utm_campaign=1047&utm_source=git)** | Bend, OR | On Site | Feb 02 |
 | **[Coast](https://coastpay.com)** | **[Graduate School Intern](https://jobright.ai/jobs/info/69811e457f40342e15d9fa4b?utm_campaign=1047&utm_source=git)** | New York City | On Site | Feb 02 |
 | **[DispatchIt](https://www.dispatchit.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698111e649964d25b5e3e056?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Feb 02 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Product Oversight Analyst (Intern)](https://jobright.ai/jobs/info/6981303e7f40342e15da2015?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 02 |
 | **[Summit Credit Union](https://www.summitcreditunion.com/)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/69810f2149964d25b5e3de90?utm_campaign=1047&utm_source=git)** | Cottage Grove, WI | Hybrid | Feb 02 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[E-Commerce / Product Management Intern](https://jobright.ai/jobs/info/698129b249964d25b5e3ff7d?utm_campaign=1047&utm_source=git)** | Ridgefield, CT | On Site | Feb 02 |
 | **[Galileo Financial Technologies](https://www.galileo-ft.com)** | **[Intern, Product Manager, Card Processing Platform](https://jobright.ai/jobs/info/69812a047f40342e15da0f2e?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CPQ Quote to Order Experience - 2026 Summer Internship](https://jobright.ai/jobs/info/6980f4307f40342e15d9cbef?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | Hybrid | Feb 02 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[E-Commerce / Product Management Intern](https://jobright.ai/jobs/info/69811cdd7f40342e15d9f823?utm_campaign=1047&utm_source=git)** | Ridgefield, CT 06877, USA | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980c070abff4c399a9f821e?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 02 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 02 |
-| **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
