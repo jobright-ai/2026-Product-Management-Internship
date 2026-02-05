@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984fe8d348f733a5c391a3b?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 05 |
+| **[Oil-Dri Corporation of America](http://oildri.com)** | **[Business Rotation Intern](https://jobright.ai/jobs/info/6984fe038da7a612045f468b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
+| **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984f237348f733a5c390dc2?utm_campaign=1047&utm_source=git)** | Mansfield, TX, United States | On Site | Feb 05 |
+| **[Maximus](http://www.maximus.com/)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/6984ede1348f733a5c390a62?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | Feb 05 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Product Management Specialist - Scottsdale AZ](https://jobright.ai/jobs/info/6984de6a348f733a5c38fcae?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 05 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Feb 05 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6984cb390f6f7e7a2cdf3b39?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6981983d49964d25b5e4ae11?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Feb 05 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship- Product Management](https://jobright.ai/jobs/info/6984be4b8da7a612045f0069?utm_campaign=1047&utm_source=git)** | Okemos, MI | Hybrid | Feb 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654eb1a112b4026613256b?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69656803a112b4026613472f?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Wind Product Management Leadership Program Intern - Summer 2026](https://jobright.ai/jobs/info/6965b3a0a112b4026613be4d?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Feb 03 |
-| **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654e57a112b402661324f9?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/6981b622abff4c399aa0c8e6?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Feb 03 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/6981b53349964d25b5e4c2b3?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Feb 03 |
-| **[Glen Raven](https://www.glenraven.com/)** | **[Product Ops and Pricing Internship - Summer 2026](https://jobright.ai/jobs/info/69818a10abff4c399aa0ab80?utm_campaign=1047&utm_source=git)** | Burlington, NC | On Site | Feb 02 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698172647f40342e15da7db1?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
