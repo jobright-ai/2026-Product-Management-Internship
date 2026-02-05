@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/698485a2348f733a5c38937f?utm_campaign=1047&utm_source=git)** | Triangle, NC | Remote | Feb 05 |
+| **[SafetyWing](http://www.safetywing.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6984a27e0f6f7e7a2cdf1540?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/698497e6348f733a5c38a562?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Feb 05 |
+| ↳ | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/698485a2348f733a5c38937f?utm_campaign=1047&utm_source=git)** | Triangle, NC | Remote | Feb 05 |
 | **[Cinemark](http://www.cinemark.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69844c9a8da7a612045e6bf1?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 04 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/698426818da7a612045e2a13?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[State Filing and Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a83678dbbf73badc7aa7b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[1Password](https://1password.com)** | **[Product Ops Intern - EPM - Summer 2026](https://jobright.ai/jobs/info/69840fca8da7a612045df60e?utm_campaign=1047&utm_source=git)** | Canada | Remote | Feb 02 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6981752849964d25b5e46e3c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
