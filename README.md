@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/6968251f1703f05405a9c57b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 04 |
+| **[LaunchCapital](http://www.launchcapital.com)** | **[Corporate Internship Program-Product Management](https://jobright.ai/jobs/info/6984708c8da7a612045e98a5?utm_campaign=1047&utm_source=git)** | King of Prussia, PA | On Site | Feb 04 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/6983ed1d01214b4cdacc2d63?utm_campaign=1047&utm_source=git)** | USA, Nevada, Las Vegas | Hybrid | Feb 04 |
 | **[Comtech Telecommunications Corp.](https://comtech.com)** | **[Intern - Product Intelligence](https://jobright.ai/jobs/info/6983d98e0f6f7e7a2cddaad5?utm_campaign=1047&utm_source=git)** | Broomfield, CO | Hybrid | Feb 04 |
 | **[Umbra](http://www.umbra.com/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/6983c8c701214b4cdacbc83c?utm_campaign=1047&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Feb 04 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Greater New York Insurance Companies](https://www.gny.com/)** | **[State Filing and Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/697a83678dbbf73badc7aa7b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[1Password](https://1password.com)** | **[Product Ops Intern - EPM - Summer 2026](https://jobright.ai/jobs/info/69840fca8da7a612045df60e?utm_campaign=1047&utm_source=git)** | Canada | Remote | Feb 02 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6981752849964d25b5e46e3c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/698173f87f40342e15da7ecf?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
 | ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69818424abff4c399aa09885?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
-| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/698178ddabff4c399aa07426?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817b46abff4c399aa07f5e?utm_campaign=1047&utm_source=git)** | Remote - New York | Remote | Feb 02 |
+| ↳ | **[Intern - Product Management, On Location](https://jobright.ai/jobs/info/69817fad49964d25b5e47d91?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Feb 02 |
 | **[GS1 US](http://www.gs1us.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6981a68f7f40342e15dac75f?utm_campaign=1047&utm_source=git)** | Ewing, NJ | Hybrid | Feb 02 |
-| **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Operational Tools](https://jobright.ai/jobs/info/698148a449964d25b5e42b9c?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
