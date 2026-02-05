@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Product Internship](https://jobright.ai/jobs/info/696952a5639b452fb57f1de5?utm_campaign=1047&utm_source=git)** | Middletown, CT | On Site | Feb 05 |
+| **[Somos, Inc.](https://www.somos.com)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/698032dcabff4c399a9ef374?utm_campaign=1047&utm_source=git)** | Littleton, WV | Remote | Feb 05 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/68ce725efb49c96ca6ea093a?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Feb 05 |
 | **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984fe8d348f733a5c391a3b?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 05 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Business Rotation Intern](https://jobright.ai/jobs/info/6984fe038da7a612045f468b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984f237348f733a5c390dc2?utm_campaign=1047&utm_source=git)** | Mansfield, TX, United States | On Site | Feb 05 |
 | **[Maximus](http://www.maximus.com/)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/6984ede1348f733a5c390a62?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | Feb 05 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Product Management Specialist - Scottsdale AZ](https://jobright.ai/jobs/info/6984de6a348f733a5c38fcae?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 05 |
+| **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698502218da7a612045f4b97?utm_campaign=1047&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Feb 05 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Feb 05 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6984cb390f6f7e7a2cdf3b39?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6981983d49964d25b5e4ae11?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Feb 05 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Weather Company](https://www.weathercompany.com)** | **[Privacy Product Management Intern](https://jobright.ai/jobs/info/6982380da314e76369059da7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 03 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Chief General Counsel) Ref# 10368](https://jobright.ai/jobs/info/698252210f6f7e7a2cdb78cc?utm_campaign=1047&utm_source=git)** | Albany, NY | Hybrid | Feb 03 |
 | ↳ | **[Student Assistant Internship (Chief General Counsel) Ref# 10368](https://jobright.ai/jobs/info/69824d26348f733a5c3519a0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 03 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/68ce725efb49c96ca6ea093a?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Feb 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698208ee0f6f7e7a2cdb2e67?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981fbea0f6f7e7a2cdb2566?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 03 |
 | **[Norwood Medical](http://norwoodmedical.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a3624c6f0e2546cef4ab9?utm_campaign=1047&utm_source=git)** | Dayton, OH | Hybrid | Feb 03 |
-| **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69654eb1a112b4026613256b?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/69656803a112b4026613472f?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Feb 03 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Wind Product Management Leadership Program Intern - Summer 2026](https://jobright.ai/jobs/info/6965b3a0a112b4026613be4d?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
