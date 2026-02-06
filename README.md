@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 06 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Feb 06 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6983d55001214b4cdacbe6c5?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69684527f25a38006696aebb?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
 | **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69858f038da7a61204603920?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Global Product Internship Program](https://jobright.ai/jobs/info/69858516348f733a5c39f93c?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Feb 05 |
