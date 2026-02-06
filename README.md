@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69853fb48da7a612045fb05e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[MBA Product Line and Trade Management Intern](https://jobright.ai/jobs/info/69855d51348f733a5c39b53c?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Feb 05 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Feb 05 |
-| **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69853fb48da7a612045fb05e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/698552790f6f7e7a2cdffceb?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69854c78348f733a5c39940f?utm_campaign=1047&utm_source=git)** | Mountain View, California | On Site | Feb 05 |
 | **[1Password](https://1password.com)** | **[Product Ops Intern - EPM - Summer 2026](https://jobright.ai/jobs/info/69854b570f6f7e7a2cdff02d?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boats Group](https://www.boatsgroup.com/)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6983c41e01214b4cdacbb9c7?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Feb 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/698293eb348f733a5c357be5?utm_campaign=1047&utm_source=git)** | USA - Redmond, WA | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Capital Markets - Prime Services, SC Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982adba0f6f7e7a2cdbffb4?utm_campaign=1047&utm_source=git)** | New York City, NY | On Site | Feb 03 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69828d7f0f6f7e7a2cdbce10?utm_campaign=1047&utm_source=git)** | USA - Sunnyvale, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
