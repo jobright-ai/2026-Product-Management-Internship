@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Feb 06 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69331a08764507023d1b228f?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 04 |
-| ↳ | **[Product Manager Project Intern (SMB Product - Growth) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/694b821b1a572a617dddeac5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
-| **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6967268cf25a38006695849d?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
