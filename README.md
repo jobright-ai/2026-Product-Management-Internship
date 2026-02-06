@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69685644f25a38006696bcc5?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
+| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Global Product Internship Program](https://jobright.ai/jobs/info/69858516348f733a5c39f93c?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Feb 05 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Product Development Internship with  Victoria's Secret & Co.](https://jobright.ai/jobs/info/6969c6af1703f05405abc2cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6975a029206da320f49facac?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
+| ↳ | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a1b977d506e3808f55714?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69853fb48da7a612045fb05e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/6982bed90f6f7e7a2cdc1195?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Feb 03 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, CUDA - Summer 2026](https://jobright.ai/jobs/info/6982bb0d0f6f7e7a2cdc0e1a?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 03 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/6982b1f9348f733a5c35aaef?utm_campaign=1047&utm_source=git)** | New Jersey, United States | On Site | Feb 03 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6982b0668232105a2d0b02fb?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 03 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Operations](https://jobright.ai/jobs/info/697dfadf7f40342e15d6cd9d?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 03 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6982d174348f733a5c35d7ec?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 03 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6982d174348f733a5c35d7eb?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
