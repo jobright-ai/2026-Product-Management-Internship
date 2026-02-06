@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69853fb48da7a612045fb05e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
+| **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - Batch II)](https://jobright.ai/jobs/info/69853639348f733a5c396e54?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Central Bank](https://www.centralbank.net/)** | **[Product Analyst & Go-To Market Intern](https://jobright.ai/jobs/info/6985309a348f733a5c3963ce?utm_campaign=1047&utm_source=git)** | Jefferson City, MO | On Site | Feb 05 |
+| **[Schneider Electric](https://www.se.com)** | **[Graduate Product Manager Intern](https://jobright.ai/jobs/info/69853f2b348f733a5c39804a?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Feb 05 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/6985208e8da7a612045f7ae6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 05 |
 | **[Healthfirst](https://healthfirst.org)** | **[Medicare Product Implementation & Optimization (MPIO) Intern](https://jobright.ai/jobs/info/69851f72348f733a5c394ca2?utm_campaign=1047&utm_source=git)** | Hybrid - NY | Hybrid | Feb 05 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698511fe8da7a612045f647b?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Feb 05 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Product Internship](https://jobright.ai/jobs/info/696952a5639b452fb57f1de5?utm_campaign=1047&utm_source=git)** | Middletown, CT | On Site | Feb 05 |
 | **[Somos, Inc.](https://www.somos.com)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/698032dcabff4c399a9ef374?utm_campaign=1047&utm_source=git)** | Littleton, WV | Remote | Feb 05 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/68ce725efb49c96ca6ea093a?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Feb 05 |
+| **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Feb 05 |
 | **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984fe8d348f733a5c391a3b?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 05 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Business Rotation Intern](https://jobright.ai/jobs/info/6984fe038da7a612045f468b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Digital Product Management](https://jobright.ai/jobs/info/69851ed60f6f7e7a2cdfa826?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Weather Company](https://www.weathercompany.com)** | **[Privacy Product Management Intern](https://jobright.ai/jobs/info/69826e9d0a9e07331f8d75cb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 03 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager – Data Visualization](https://jobright.ai/jobs/info/698270370f6f7e7a2cdba229?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 03 |
-| **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Innovation Internship](https://jobright.ai/jobs/info/69823e390f6f7e7a2cdb67fe?utm_campaign=1047&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Feb 03 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/6982598f0f6f7e7a2cdb81e0?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, US | On Site | Feb 03 |
-| ↳ | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698262a40a9e07331f8d64b7?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 03 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69825b37348f733a5c352bdf?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Feb 03 |
-| ↳ | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69825e9a0a9e07331f8d6018?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
