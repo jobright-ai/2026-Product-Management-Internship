@@ -57,16 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698669508ca8121a3a68ac12?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 06 |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/698661710f6f7e7a2ce14c91?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 06 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/698658df8ca8121a3a689029?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Feb 06 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6986534a0f6f7e7a2ce1385e?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Feb 06 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 06 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
+| **[Amcor](http://www.amcor.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69866bb38ca8121a3a68b109?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 06 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Feb 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514f?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | Feb 06 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Umbra](http://www.umbra.com/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/6983c8c701214b4cdacbc83c?utm_campaign=1047&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Feb 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983cd9101214b4cdacbd0e6?utm_campaign=1047&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Feb 04 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6983c5b10f6f7e7a2cdd76cf?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 04 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Central Solutions Intern](https://jobright.ai/jobs/info/6983c362348f733a5c371903?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Feb 04 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 04 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Central Solutions Intern](https://jobright.ai/jobs/info/6983811801214b4cdacb2900?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Salesforce (Summer 2026)](https://jobright.ai/jobs/info/697212d547b64f4e963e48c0?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
