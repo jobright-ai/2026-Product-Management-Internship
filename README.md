@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698692ef8ca8121a3a68e1ab?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698671490f6f7e7a2ce16b80?utm_campaign=1047&utm_source=git)** | Middletown, NJ | On Site | Feb 06 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698669508ca8121a3a68ac12?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514f?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | Feb 06 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sportech](https://www.sportechinc.com)** | **[Summer Internship - Sourcing](https://jobright.ai/jobs/info/69842c69348f733a5c380f83?utm_campaign=1047&utm_source=git)** | Elk River,MN,US | On Site | Feb 04 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/6968251f1703f05405a9c57b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 04 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
