@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 06 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[DRB](https://drb.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/6986af688ca8121a3a690d9c?utm_campaign=1047&utm_source=git)** | Akron, OH | Hybrid | Feb 06 |
 | **[ThredUp](http://www.thredup.com)** | **[Product Ops Intern](https://jobright.ai/jobs/info/6986a8ff0f6f7e7a2ce1b5e4?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Feb 06 |
+| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6986c2bb0f6f7e7a2ce1e698?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986bf958ca8121a3a692d91?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Feb 06 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/698692ef8ca8121a3a68e1ab?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
 | **[Fresh Del Monte](http://freshdelmonte.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986b7f48da7a6120461a339?utm_campaign=1047&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
 | ↳ | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698414f2348f733a5c37e1a6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
 | **[Go Offer](go-offer.us)** | **[Product Analyst](https://jobright.ai/jobs/info/69857a0b0f6f7e7a2ce046d0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
-| **[Amica Insurance](http://www.amica.com)** | **[Product Development Summer Intern](https://jobright.ai/jobs/info/697d2e0b3f57a3356966f5d1?utm_campaign=1047&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 04 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986b9478ca8121a3a6922ce?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
