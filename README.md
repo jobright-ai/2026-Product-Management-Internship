@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product & Franchise Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698208ee0f6f7e7a2cdb2e67?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 07 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/696af3af350cf4380312300d?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Feb 07 |
 | **[Creatify AI](https://creatify.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6986fd038ca8121a3a698272?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 07 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/698497e6348f733a5c38a562?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Feb 05 |
 | ↳ | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/698485a2348f733a5c38937f?utm_campaign=1047&utm_source=git)** | Triangle, NC | Remote | Feb 05 |
 | **[Cinemark](http://www.cinemark.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69844c9a8da7a612045e6bf1?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 04 |
-| **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986d66b8da7a6120461dd60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
