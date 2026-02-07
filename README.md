@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DRB](https://drb.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/6986af688ca8121a3a690d9c?utm_campaign=1047&utm_source=git)** | Akron, OH | Hybrid | Feb 06 |
+| **[ThredUp](http://www.thredup.com)** | **[Product Ops Intern](https://jobright.ai/jobs/info/6986a8ff0f6f7e7a2ce1b5e4?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698692ef8ca8121a3a68e1ab?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
+| **[Fresh Del Monte](http://freshdelmonte.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986aec18da7a61204619358?utm_campaign=1047&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698671490f6f7e7a2ce16b80?utm_campaign=1047&utm_source=git)** | Middletown, NJ | On Site | Feb 06 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698669508ca8121a3a68ac12?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/6984298d0f6f7e7a2cde6631?utm_campaign=1047&utm_source=git)** | Woodridge, Illinois, United States | Hybrid | Feb 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok LIVE Content Diversification Operations Project Intern [User Product-Lead Generation] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696854d9f25a38006696baca?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Product Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6983e60f348f733a5c3774bc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
-| **[Sportech](https://www.sportechinc.com)** | **[Summer Internship - Sourcing](https://jobright.ai/jobs/info/69842c69348f733a5c380f83?utm_campaign=1047&utm_source=git)** | Elk River,MN,US | On Site | Feb 04 |
-| **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/6968251f1703f05405a9c57b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 04 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
