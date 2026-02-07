@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[DRB](https://drb.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/6986af688ca8121a3a690d9c?utm_campaign=1047&utm_source=git)** | Akron, OH | Hybrid | Feb 06 |
 | **[ThredUp](http://www.thredup.com)** | **[Product Ops Intern](https://jobright.ai/jobs/info/6986a8ff0f6f7e7a2ce1b5e4?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698692ef8ca8121a3a68e1ab?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
-| **[Fresh Del Monte](http://freshdelmonte.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986aec18da7a61204619358?utm_campaign=1047&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986bf958ca8121a3a692d91?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Feb 06 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/698692ef8ca8121a3a68e1ab?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
+| **[Fresh Del Monte](http://freshdelmonte.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986b7f48da7a6120461a339?utm_campaign=1047&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
+| **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - PRODUCT](https://jobright.ai/jobs/info/6986b1f70f6f7e7a2ce1c23c?utm_campaign=1047&utm_source=git)** | Sarasota, FL, US | On Site | Feb 06 |
+| **[Creatify AI](https://creatify.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6986bb428da7a6120461a6f9?utm_campaign=1047&utm_source=git)** | Mountain View | On Site | Feb 06 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698671490f6f7e7a2ce16b80?utm_campaign=1047&utm_source=git)** | Middletown, NJ | On Site | Feb 06 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698669508ca8121a3a68ac12?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Product Management Internship, 2026](https://jobright.ai/jobs/info/6974034437785856350deb88?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
@@ -80,9 +84,9 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514f?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | Feb 06 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Shark (February to July)](https://jobright.ai/jobs/info/696a0ffd350cf43803110d4f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 06 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69686ce7639b452fb57e13ac?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Feb 06 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6986b6188da7a6120461a021?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69684527f25a38006696aebb?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
 | **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69858f038da7a61204603920?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Product Development Internship with  Victoria's Secret & Co.](https://jobright.ai/jobs/info/6969c6af1703f05405abc2cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698414f2348f733a5c37e1a6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
 | **[Go Offer](go-offer.us)** | **[Product Analyst](https://jobright.ai/jobs/info/69857a0b0f6f7e7a2ce046d0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Amica Insurance](http://www.amica.com)** | **[Product Development Summer Intern](https://jobright.ai/jobs/info/697d2e0b3f57a3356966f5d1?utm_campaign=1047&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 04 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6959e5709f1b381eb27289b6?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 04 |
-| **[Sportech](https://www.sportechinc.com)** | **[Summer Internship - Sourcing](https://jobright.ai/jobs/info/698416f58da7a612045e05a9?utm_campaign=1047&utm_source=git)** | Elk River, MN | On Site | Feb 04 |
-| **[PlanetArt](http://www.planetart.com)** | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69844416348f733a5c383ae9?utm_campaign=1047&utm_source=git)** | Woodridge, Illinois, United States | Hybrid | Feb 04 |
-| ↳ | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/6984298d0f6f7e7a2cde6631?utm_campaign=1047&utm_source=git)** | Woodridge, Illinois, United States | Hybrid | Feb 04 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok LIVE Content Diversification Operations Project Intern [User Product-Lead Generation] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696854d9f25a38006696baca?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Product Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6983e60f348f733a5c3774bc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986b9478ca8121a3a6922ce?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
