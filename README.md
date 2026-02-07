@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69856940348f733a5c39c818?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6984303a8da7a612045e3903?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6985601f8da7a612045fe9bd?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
@@ -100,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514f?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | Feb 06 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984fe8d348f733a5c391a3b?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 05 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Business Rotation Intern](https://jobright.ai/jobs/info/6984fe038da7a612045f468b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Digital Product Management](https://jobright.ai/jobs/info/69851ed60f6f7e7a2cdfa826?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 05 |
-| **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6984f237348f733a5c390dc2?utm_campaign=1047&utm_source=git)** | Mansfield, TX, United States | On Site | Feb 05 |
-| **[California Coast University](http://www.calcoast.edu)** | **[Graduate School Intern](https://jobright.ai/jobs/info/69851c670f6f7e7a2cdfa5d0?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 05 |
-| **[Maximus](http://www.maximus.com/)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/6984ede1348f733a5c390a62?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | Feb 05 |
-| **[Oil-Dri Corporation of America](http://oildri.com)** | **[Business Rotation Intern](https://jobright.ai/jobs/info/6985191f0f6f7e7a2cdf9ef8?utm_campaign=1047&utm_source=git)** | Oil-Dri Corporation of America, 410 N Michigan Ave, Chicago, Illinois, United States of America | On Site | Feb 05 |
-| **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Product Management Specialist - Scottsdale AZ](https://jobright.ai/jobs/info/6984de6a348f733a5c38fcae?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 05 |
-| **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698502218da7a612045f4b97?utm_campaign=1047&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Feb 05 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
