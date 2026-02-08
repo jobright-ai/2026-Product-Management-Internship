@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69856940348f733a5c39c818?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6984303a8da7a612045e3903?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
