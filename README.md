@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Games](https://careers.wbgames.com/studios/san-francisco/)** | **[WB Games Product Management Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987fca48ca8121a3a6a71c3?utm_campaign=1047&utm_source=git)** | Burbank, CA | Hybrid | Feb 07 |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Feb 07 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Product Management Intern: LA - Summer 2026](https://jobright.ai/jobs/info/6987b99b8da7a6120462d201?utm_campaign=1047&utm_source=git)** | CA Burbank Bldg. 750, Second Century, Tower 2 | Hybrid | Feb 07 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/698799138da7a6120462a794?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Hybrid | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6987956f8ca8121a3a6a1b39?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
@@ -111,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698663bb0f6f7e7a2ce1514f?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | Feb 06 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Feb 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 06 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Dart Container](https://www.dartcontainer.com)** | **[MBA Product Line and Trade Management Intern](https://jobright.ai/jobs/info/69855d51348f733a5c39b53c?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Feb 05 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 05 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/695a1f07aa05c26e7ab3b8f0?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Feb 05 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/698552790f6f7e7a2cdffceb?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | **[Healthfirst](https://healthfirst.org)** | **[Medicare Product Implementation &amp; Optimization (MPIO) Intern](https://jobright.ai/jobs/info/698575b20f6f7e7a2ce03dd6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69854c78348f733a5c39940f?utm_campaign=1047&utm_source=git)** | Mountain View, California | On Site | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/6985208e8da7a612045f7ae6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 05 |
 | **[Healthfirst](https://healthfirst.org)** | **[Medicare Product Implementation & Optimization (MPIO) Intern](https://jobright.ai/jobs/info/69851f72348f733a5c394ca2?utm_campaign=1047&utm_source=git)** | Hybrid - NY | Hybrid | Feb 05 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Product Internship](https://jobright.ai/jobs/info/696952a5639b452fb57f1de5?utm_campaign=1047&utm_source=git)** | Middletown, CT | On Site | Feb 05 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/68ce725efb49c96ca6ea093a?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
