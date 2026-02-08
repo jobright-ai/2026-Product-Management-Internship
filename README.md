@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product Developer Intern](https://jobright.ai/jobs/info/6988b1c10f6f7e7a2ce3dfc3?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 08 |
+| **[Guardify](https://vidanyx.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6988e47f0f6f7e7a2ce400d9?utm_campaign=1047&utm_source=git)** | Omaha, Nebraska, United States | On Site | Feb 08 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
