@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PerVista AI](https://www.pervista.ai)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6989f7350f6f7e7a2ce50bb5?utm_campaign=1047&utm_source=git)** | Greenbelt, MD | On Site | Feb 09 |
 | **[Amcor](http://www.amcor.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69866bb38ca8121a3a68b109?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Feb 09 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989cf574db8972cecff07e0?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989cf524db8972cecff07df?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Feb 09 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69856940348f733a5c39c818?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6984303a8da7a612045e3903?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69853fb48da7a612045fb05e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[MBA Product Line and Trade Management Intern](https://jobright.ai/jobs/info/69855d51348f733a5c39b53c?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Feb 05 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
