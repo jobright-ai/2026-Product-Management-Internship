@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amcor](http://www.amcor.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69866bb38ca8121a3a68b109?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Feb 09 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989cf574db8972cecff07e0?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Feb 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989cf524db8972cecff07df?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Feb 09 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Feb 09 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Jonview](http://jonview.com/)** | **[Travel Product Intern](https://jobright.ai/jobs/info/69867a588ca8121a3a68c4e2?utm_campaign=1047&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 06 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6986534a0f6f7e7a2ce1385e?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 06 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Feb 06 |
-| **[Amcor](http://www.amcor.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69866bb38ca8121a3a68b109?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Feb 06 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69866d938ca8121a3a68b526?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 06 |
