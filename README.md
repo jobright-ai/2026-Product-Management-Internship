@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 09 |
 | **[PerVista AI](https://www.pervista.ai)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6989f7350f6f7e7a2ce50bb5?utm_campaign=1047&utm_source=git)** | Greenbelt, MD | On Site | Feb 09 |
 | **[Amcor](http://www.amcor.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69866bb38ca8121a3a68b109?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Feb 09 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989cf574db8972cecff07e0?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a1b977d506e3808f55714?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Feb 05 |
 | **[Intrinsic](https://www.intrinsic.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69853fb48da7a612045fb05e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
-| **[Dart Container](https://www.dartcontainer.com)** | **[MBA Product Line and Trade Management Intern](https://jobright.ai/jobs/info/69855d51348f733a5c39b53c?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
