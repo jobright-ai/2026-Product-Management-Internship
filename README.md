@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898c068ca8121a3a6bdef7?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Feb 08 |
+| ↳ | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898b7347434001cc67b781?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[Guardify](https://vidanyx.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6988e47f0f6f7e7a2ce400d9?utm_campaign=1047&utm_source=git)** | Omaha, Nebraska, United States | On Site | Feb 08 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/695b41579f1b381eb273ae6f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[(Paid Internship) - Product Development (Sabel Digital Labs)](https://jobright.ai/jobs/info/698571138da7a61204600538?utm_campaign=1047&utm_source=git)** | Beavercreek Office - Beavercreek, OH 45431 | Remote | Feb 05 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - Batch II)](https://jobright.ai/jobs/info/69853639348f733a5c396e54?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 05 |
 | **[1Password](https://1password.com)** | **[Product Ops Intern - EPM - Summer 2026](https://jobright.ai/jobs/info/698552cf0f6f7e7a2cdffd8b?utm_campaign=1047&utm_source=git)** | Canada | Remote | Feb 05 |
-| **[Escalade Sports](https://www.escaladesports.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698652818ca8121a3a688668?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Feb 05 |
-| **[Central Bank](https://www.centralbank.net/)** | **[Product Analyst & Go-To Market Intern](https://jobright.ai/jobs/info/6985309a348f733a5c3963ce?utm_campaign=1047&utm_source=git)** | Jefferson City, MO | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
