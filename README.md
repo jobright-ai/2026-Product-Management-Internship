@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698b7f9f06d9b06224959dbc?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Feb 10 |
 | **[Southern Champion Tray](http://sctray.com)** | **[Global Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/698b773cc5761b521a9af883?utm_campaign=1047&utm_source=git)** | Chattanooga, TN, US | On Site | Feb 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698b6058c5761b521a9ad68a?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Feb 10 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69856940348f733a5c39c818?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6984303a8da7a612045e3903?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Feb 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
-| **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
