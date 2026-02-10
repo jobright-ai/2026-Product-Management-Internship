@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Powerwall Product Manager, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/698ae7864db8972cec005ae3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 10 |
 | ↳ | **[Internship, Powerwall Product Manager, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/698ae61d4db8972cec005991?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Feb 10 |
-| **[Consenterra, Inc.](https://consenterra.lovable.app/)** | **[AI Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/698acf88c5761b521a9a3b9e?utm_campaign=1047&utm_source=git)** | Wayne, NJ | Remote | Feb 09 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[2026 Startup Lab Associate – Product Development](https://jobright.ai/jobs/info/698add964db8972cec0054f6?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Feb 09 |
 | **[ThredUp](http://www.thredup.com)** | **[Product Ops Analyst Intern](https://jobright.ai/jobs/info/6986a8ff0f6f7e7a2ce1b5e4?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Feb 09 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/698a92bf0f6f7e7a2ce5c54e?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/698637fd8da7a6120460e8f6?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Feb 06 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698655f50f6f7e7a2ce13bc5?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Feb 06 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern - Connect](https://jobright.ai/jobs/info/69862f8b8da7a6120460e092?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Feb 06 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698658058ca8121a3a688e9c?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
