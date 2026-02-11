@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shop Online New York](https://www.topofny.com)** | **[Product owner intern](https://jobright.ai/jobs/info/698c7e1e78b4502f12a30249?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Feb 11 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698cbebb0f6f7e7a2ce873a4?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Feb 11 |
+| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/698ca07df64d441a164e8a97?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 11 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/697047e9333b6343a14cb7e3?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c331991fdda424d5916dd?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/697515c537785856350f09b0?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Feb 10 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698b6058c5761b521a9ad68a?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Feb 10 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product & Capital Strategy Intern [Summer 2026]](https://jobright.ai/jobs/info/6952b354f1f8465b79ea044b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Feb 10 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Product and Innovation Intern](https://jobright.ai/jobs/info/698b35c84db8972cec00b058?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Feb 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Pricing & Product Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69872ab88da7a61204623ecc?utm_campaign=1047&utm_source=git)** | Celebration, FL | On Site | Feb 10 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698a1d5e0f6f7e7a2ce5331c?utm_campaign=1047&utm_source=git)** | Lexington, KY | On Site | Feb 10 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Powerwall Product Manager, Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/698ae7864db8972cec005ae3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 10 |
@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a55dcb708d23f366c0923?utm_campaign=1047&utm_source=git)** | Lenexa, KS | On Site | Feb 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Contract & Pricing - Summer 2026](https://jobright.ai/jobs/info/698a34be0f6f7e7a2ce546e3?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Feb 09 |
 | **[Zoetis](https://www.zoetis.com)** | **[Product Analyst GMS ERP Intern](https://jobright.ai/jobs/info/698a525e47434001cc688727?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Feb 09 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a43cc4db8972cecff8381?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 09 |
-| ↳ | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a4dd30f6f7e7a2ce55eba?utm_campaign=1047&utm_source=git)** | US-KS-Lenexa | On Site | Feb 09 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a4dd30f6f7e7a2ce55eba?utm_campaign=1047&utm_source=git)** | US-KS-Lenexa | On Site | Feb 09 |
+| ↳ | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a43cc4db8972cecff8381?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 09 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/698a21200f6f7e7a2ce53981?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 09 |
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 09 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69611db0a112b402660fa845?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Feb 09 |
