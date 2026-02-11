@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Product Management (eCommerce)](https://jobright.ai/jobs/info/6986b9608ca8121a3a6923f6?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/698c01580f6f7e7a2ce79100?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Product Manager / Owner Intern](https://jobright.ai/jobs/info/698c0aa491fdda424d58c985?utm_campaign=1047&utm_source=git)** | Boulder, CO | Hybrid | Feb 10 |
+| **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/698c5bba0f6f7e7a2ce8171f?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Feb 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c42fa78b4502f12a2c5b0?utm_campaign=1047&utm_source=git)** | Santa Clara, California, United States of America | On Site | Feb 10 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Product Management – Summer Internship 2026](https://jobright.ai/jobs/info/698c1a8ee4f6572f0e441707?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
 | ↳ | **[Product Management (PMG) – Summer Internship 2026](https://jobright.ai/jobs/info/698c42cd0f6f7e7a2ce7fbf3?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a55dcb708d23f366c0923?utm_campaign=1047&utm_source=git)** | Lenexa, KS | On Site | Feb 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Contract & Pricing - Summer 2026](https://jobright.ai/jobs/info/698a34be0f6f7e7a2ce546e3?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Feb 09 |
 | **[Zoetis](https://www.zoetis.com)** | **[Product Analyst GMS ERP Intern](https://jobright.ai/jobs/info/698a525e47434001cc688727?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Feb 09 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a4dd30f6f7e7a2ce55eba?utm_campaign=1047&utm_source=git)** | US-KS-Lenexa | On Site | Feb 09 |
-| ↳ | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a43cc4db8972cecff8381?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 09 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a43cc4db8972cecff8381?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 09 |
+| ↳ | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a4dd30f6f7e7a2ce55eba?utm_campaign=1047&utm_source=git)** | US-KS-Lenexa | On Site | Feb 09 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/698a21200f6f7e7a2ce53981?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 09 |
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 09 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69611db0a112b402660fa845?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6985601f8da7a612045fe9bd?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | ↳ | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
-| **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Product Development Intern](https://jobright.ai/jobs/info/696af2a25fc86241853a37f2?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
