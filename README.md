@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698cc31c78b4502f12a33a61?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698cbebb0f6f7e7a2ce873a4?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Feb 11 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/698cce02f64d441a164eaf5b?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 11 |
 | **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/698ca07df64d441a164e8a97?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 11 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/697047e9333b6343a14cb7e3?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c331991fdda424d5916dd?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Amaley](www.tryamaley.com)** | **[Product Analyst](https://jobright.ai/jobs/info/698c86c6f64d441a164e72ec?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Feb 10 |
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/698c5bba0f6f7e7a2ce8171f?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Feb 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c42fa78b4502f12a2c5b0?utm_campaign=1047&utm_source=git)** | Santa Clara, California, United States of America | On Site | Feb 10 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Product Management – Summer Internship 2026](https://jobright.ai/jobs/info/698c1a8ee4f6572f0e441707?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
-| ↳ | **[Product Management (PMG) – Summer Internship 2026](https://jobright.ai/jobs/info/698c42cd0f6f7e7a2ce7fbf3?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Product Management (PMG) – Summer Internship 2026](https://jobright.ai/jobs/info/698c42cd0f6f7e7a2ce7fbf3?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
+| ↳ | **[Product Management – Summer Internship 2026](https://jobright.ai/jobs/info/698c1a8ee4f6572f0e441707?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bd0680f6f7e7a2ce746b0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
 | **[Loc Performance](http://www.locperformance.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698bdbf206d9b062249602b0?utm_campaign=1047&utm_source=git)** | Saint Marys Township, OH | On Site | Feb 10 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Product Manager / Owner Intern](https://jobright.ai/jobs/info/698be457c5761b521a9b7bf2?utm_campaign=1047&utm_source=git)** | Boulder, CO, United States | On Site | Feb 10 |
@@ -122,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a55dcb708d23f366c0923?utm_campaign=1047&utm_source=git)** | Lenexa, KS | On Site | Feb 09 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Contract & Pricing - Summer 2026](https://jobright.ai/jobs/info/698a34be0f6f7e7a2ce546e3?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Feb 09 |
 | **[Zoetis](https://www.zoetis.com)** | **[Product Analyst GMS ERP Intern](https://jobright.ai/jobs/info/698a525e47434001cc688727?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Feb 09 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a43cc4db8972cecff8381?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 09 |
-| ↳ | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a4dd30f6f7e7a2ce55eba?utm_campaign=1047&utm_source=git)** | US-KS-Lenexa | On Site | Feb 09 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a4dd30f6f7e7a2ce55eba?utm_campaign=1047&utm_source=git)** | US-KS-Lenexa | On Site | Feb 09 |
+| ↳ | **[Intern, Program/Product Management](https://jobright.ai/jobs/info/698a43cc4db8972cecff8381?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 09 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/698a21200f6f7e7a2ce53981?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 09 |
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Feb 09 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69611db0a112b402660fa845?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69674a6df25a38006695ad8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69844a438da7a612045e658a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69856940348f733a5c39c818?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 07 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
