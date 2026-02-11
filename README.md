@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/697515c537785856350f09b0?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Feb 10 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Feb 10 |
+| **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/698187e8abff4c399aa0a7d7?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Feb 10 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6961fb65a112b40266106f09?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Feb 10 |
+| ↳ | **[Product Management Intern – Summer 2026](https://jobright.ai/jobs/info/6981874dabff4c399aa0a1b3?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Feb 10 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6981983d49964d25b5e4ae11?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Feb 10 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Product Management (eCommerce)](https://jobright.ai/jobs/info/6986b9608ca8121a3a6923f6?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/698c01580f6f7e7a2ce79100?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Product Manager / Owner Intern](https://jobright.ai/jobs/info/698c0aa491fdda424d58c985?utm_campaign=1047&utm_source=git)** | Boulder, CO | Hybrid | Feb 10 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Product Management – Summer Internship 2026](https://jobright.ai/jobs/info/698c1a8ee4f6572f0e441707?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
 | **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bd0680f6f7e7a2ce746b0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
 | **[Loc Performance](http://www.locperformance.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698bdbf206d9b062249602b0?utm_campaign=1047&utm_source=git)** | Saint Marys Township, OH | On Site | Feb 10 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Product Manager / Owner Intern](https://jobright.ai/jobs/info/698be457c5761b521a9b7bf2?utm_campaign=1047&utm_source=git)** | Boulder, CO, United States | On Site | Feb 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Creatify AI](https://creatify.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6986fd038ca8121a3a698272?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 07 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 06 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[DRB](https://drb.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/6986af688ca8121a3a690d9c?utm_campaign=1047&utm_source=git)** | Akron, OH | Hybrid | Feb 06 |
-| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/6986d0888ca8121a3a69504d?utm_campaign=1047&utm_source=git)** | Hazelwood, MO (675) - USA037 - Hybrid | Hybrid | Feb 06 |
-| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6986c2bb0f6f7e7a2ce1e698?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986bf958ca8121a3a692d91?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Feb 06 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/698692ef8ca8121a3a68e1ab?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
-| **[Fresh Del Monte](http://freshdelmonte.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6986b7f48da7a6120461a339?utm_campaign=1047&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
