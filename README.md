@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6983423c0f6f7e7a2cdca010?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/6987b3408da7a6120462ccc0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 12 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 12 |
@@ -133,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bd0680f6f7e7a2ce746b0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Software Product Manager / Owner Intern](https://jobright.ai/jobs/info/698be457c5761b521a9b7bf2?utm_campaign=1047&utm_source=git)** | Boulder, CO, United States | On Site | Feb 10 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698b8e84c5761b521a9b1cf1?utm_campaign=1047&utm_source=git)** | Holland, OH | On Site | Feb 10 |
+| **[Marigold](https://meetmarigold.com)** | **[Product Intern](https://jobright.ai/jobs/info/698e4ca80f6f7e7a2cea546f?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698bb70f0f6f7e7a2ce7301c?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CPQ Quote to Order Experience - 2026 Summer Internship](https://jobright.ai/jobs/info/698bcddbc5761b521a9b5ce8?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Feb 10 |
 | ↳ | **[2026 Summer Internship - Product Management - Dispatch Products & Operations](https://jobright.ai/jobs/info/698bb6820f6f7e7a2ce72f8f?utm_campaign=1047&utm_source=git)** | Lexington, SC | Hybrid | Feb 10 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698b7f9f06d9b06224959dbc?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Feb 10 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698ba6a10f6f7e7a2ce72102?utm_campaign=1047&utm_source=git)** | Draper, UT | Hybrid | Feb 10 |
 | **[Southern Champion Tray](http://sctray.com)** | **[Global Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/698b773cc5761b521a9af883?utm_campaign=1047&utm_source=git)** | Chattanooga, TN, US | On Site | Feb 10 |
-| **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bb4fd0f6f7e7a2ce72e3a?utm_campaign=1047&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Feb 10 |
-| ↳ | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bbff206d9b0622495e757?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street | Hybrid | Feb 10 |
+| **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bbff206d9b0622495e757?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street | Hybrid | Feb 10 |
+| ↳ | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bb4fd0f6f7e7a2ce72e3a?utm_campaign=1047&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Feb 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698b9cca0f6f7e7a2ce714eb?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Feb 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698b6058c5761b521a9ad68a?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698d663a78b4502f12a40c92?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Feb 09 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/698a92bf0f6f7e7a2ce5c54e?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 09 |
 | ↳ | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/698a88884db8972cecffe2ac?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 09 |
-| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
-| ↳ | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a846e0f6f7e7a2ce5a926?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
