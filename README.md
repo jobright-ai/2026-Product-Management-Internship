@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/6987b3408da7a6120462ccc0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 12 |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 12 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Spare Parts Product Management – Intern](https://jobright.ai/jobs/info/698e298a0f6f7e7a2cea37b8?utm_campaign=1047&utm_source=git)** | Marietta, GA USA | On Site | Feb 12 |
 | **[Mujin US](https://mujin-corp.com/)** | **[Product Development-PC Intern (Fall 2026)](https://jobright.ai/jobs/info/698e12ccf64d441a16504e0e?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | ↳ | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a846e0f6f7e7a2ce5a926?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Feb 09 |
 | **[RICOH COLOMBIA](http://www.ricohlatinamerica.com)** | **[Software Product Manager / Owner Intern](https://jobright.ai/jobs/info/698c0b1de4f6572f0e44049c?utm_campaign=1047&utm_source=git)** | Boulder, CO | Hybrid | Feb 09 |
-| **[BankSouth](https://banksouth.com)** | **[Digital Banking Product Specialist Intern - Watkinsville](https://jobright.ai/jobs/info/698abb434db8972cec0028d9?utm_campaign=1047&utm_source=git)** | BankSouth Watkinsville Town Center - Watkinsville, GA 30677 | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
