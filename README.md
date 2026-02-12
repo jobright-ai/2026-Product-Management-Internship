@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697121e4587dfa0bb55eac40?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Feb 11 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
 | ↳ | **[Product Management Internship- Fans](https://jobright.ai/jobs/info/698d00450f6f7e7a2ce8ac3f?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development - Immunology - Rheumatology and Nephrology](https://jobright.ai/jobs/info/698d13450f6f7e7a2ce8c844?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/698d19b378b4502f12a39de9?utm_campaign=1047&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 11 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Innovation](https://jobright.ai/jobs/info/698d141bf64d441a164ef8e7?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698d11170f6f7e7a2ce8c409?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Product Management Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/698d203cf64d441a164f1145?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 11 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 11 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Feb 11 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698cc31c78b4502f12a33a61?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698b7f9f06d9b06224959dbc?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Feb 10 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698ba6a10f6f7e7a2ce72102?utm_campaign=1047&utm_source=git)** | Draper, UT | Hybrid | Feb 10 |
 | **[Southern Champion Tray](http://sctray.com)** | **[Global Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/698b773cc5761b521a9af883?utm_campaign=1047&utm_source=git)** | Chattanooga, TN, US | On Site | Feb 10 |
-| **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bbff206d9b0622495e757?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street | Hybrid | Feb 10 |
-| ↳ | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bb4fd0f6f7e7a2ce72e3a?utm_campaign=1047&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Feb 10 |
+| **[CME Group](http://www.cmegroup.com)** | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bb4fd0f6f7e7a2ce72e3a?utm_campaign=1047&utm_source=git)** | Chicago - 20 S. Wacker | Hybrid | Feb 10 |
+| ↳ | **[Rates and OTC Products Internship - Summer 2026](https://jobright.ai/jobs/info/698bbff206d9b0622495e757?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street | Hybrid | Feb 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698b9cca0f6f7e7a2ce714eb?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Feb 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698b6058c5761b521a9ad68a?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 08 |
 | ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696837ecf25a380066969b4a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
-| **[Lynco Products](http://www.lyncoproducts.net)** | **[Category Management Intern - Summer 2026](https://jobright.ai/jobs/info/69883bcc8ca8121a3a6acd73?utm_campaign=1047&utm_source=git)** | IL - Rock Island - Rock Island, IL 61201 | On Site | Feb 07 |
-| ↳ | **[Product Development & Design Intern - Summer 2026](https://jobright.ai/jobs/info/698838f80f6f7e7a2ce3818e?utm_campaign=1047&utm_source=git)** | IL - Rock Island - Rock Island, IL 61201 | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
