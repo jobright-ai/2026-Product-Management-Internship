@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980f173abff4c399a9fbd3a?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Feb 12 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Accelerated Computing GPU - Summer 2026](https://jobright.ai/jobs/info/698ea20df64d441a1650eaaa?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 12 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/698ed85178b4502f12a5b1e9?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Feb 12 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6984303a8da7a612045e3903?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 12 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Accelerated Computing GPU - Summer 2026](https://jobright.ai/jobs/info/698ecefa78b4502f12a5a782?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 12 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/698ea0d078b4502f12a57a37?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 12 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization](https://jobright.ai/jobs/info/698ea46d78b4502f12a57ecf?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 12 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6972944b584a1c1ef6fd942c?utm_campaign=1047&utm_source=git)** | Brillion, WI | On Site | Feb 12 |
@@ -86,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 12 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6967f78b1703f05405a9944b?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 12 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69856940348f733a5c39c818?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 12 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/698abf984db8972cec0036e5?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 12 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 12 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[AI Product Development (Intern)](https://jobright.ai/jobs/info/69825eee348f733a5c352ef4?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Feb 12 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/698e7424f64d441a1650b95b?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Feb 12 |
 | **[Energetic Capital](http://www.energeticcapital.com)** | **[Energetic Fellowship Experience (Summer 2026)](https://jobright.ai/jobs/info/698e678e0f6f7e7a2cea714e?utm_campaign=1047&utm_source=git)** | Greater Boston Area | Hybrid | Feb 12 |
