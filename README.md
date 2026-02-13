@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Data Analytics and Experimentation Intern](https://jobright.ai/jobs/info/698f824e0cc8ea15f1da0ed8?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Feb 13 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 13 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Feb 13 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Business Strategy & Operations: Product Development Data Sciences (PDD)](https://jobright.ai/jobs/info/698f687a6ea51a7610f1bb15?utm_campaign=1047&utm_source=git)** | Boston | Remote | Feb 13 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e623e78b4502f12a52a4d?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 12 |
 | ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e752a0f6f7e7a2cea8b01?utm_campaign=1047&utm_source=git)** | US, Bensalem | Hybrid | Feb 12 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Spare Parts Product Management – Intern](https://jobright.ai/jobs/info/698e726cf64d441a1650b53b?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Feb 12 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 12 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/698abf984db8972cec0036e5?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 12 |
 | **[The Kitchen North America](https://www.wearethekitchen.com)** | **[AI Product Development (Intern)](https://jobright.ai/jobs/info/69825eee348f733a5c352ef4?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Feb 12 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/698e7424f64d441a1650b95b?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Feb 12 |
 | **[Energetic Capital](http://www.energeticcapital.com)** | **[Energetic Fellowship Experience (Summer 2026)](https://jobright.ai/jobs/info/698e678e0f6f7e7a2cea714e?utm_campaign=1047&utm_source=git)** | Greater Boston Area | Hybrid | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Chief General Counsel) Ref# 10368](https://jobright.ai/jobs/info/69824d26348f733a5c3519a0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | ↳ | **[Student Assistant Internship (Chief General Counsel) Ref# 10368](https://jobright.ai/jobs/info/698252210f6f7e7a2cdb78cc?utm_campaign=1047&utm_source=git)** | Albany, NY | Hybrid | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/698187e8abff4c399aa0a7d7?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Feb 10 |
-| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6961fb65a112b40266106f09?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
