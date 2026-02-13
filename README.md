@@ -69,7 +69,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6983423c0f6f7e7a2cdca010?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 12 |
 | ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e623e78b4502f12a52a4d?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 12 |
-| ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e752a0f6f7e7a2cea8b01?utm_campaign=1047&utm_source=git)** | US, Bensalem | Hybrid | Feb 12 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/698e8f700f6f7e7a2ceaae51?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 12 |
+| ↳ | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/6967607df25a38006695c2d4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 12 |
+| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e752a0f6f7e7a2cea8b01?utm_campaign=1047&utm_source=git)** | US, Bensalem | Hybrid | Feb 12 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/698950c68ca8121a3a6b99d4?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 12 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/698958308ca8121a3a6b9e8d?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 12 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Spare Parts Product Management – Intern](https://jobright.ai/jobs/info/698e726cf64d441a1650b53b?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amaley](www.tryamaley.com)** | **[Product Analyst](https://jobright.ai/jobs/info/698c86c6f64d441a164e72ec?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Feb 10 |
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/698c5bba0f6f7e7a2ce8171f?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Feb 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c42fa78b4502f12a2c5b0?utm_campaign=1047&utm_source=git)** | Santa Clara, California, United States of America | On Site | Feb 10 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Product Management (PMG) – Summer Internship 2026](https://jobright.ai/jobs/info/698c42cd0f6f7e7a2ce7fbf3?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
-| ↳ | **[Product Management – Summer Internship 2026](https://jobright.ai/jobs/info/698c1a8ee4f6572f0e441707?utm_campaign=1047&utm_source=git)** | Michigan City, Indiana, United States | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
