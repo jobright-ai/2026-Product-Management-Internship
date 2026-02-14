@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fc5f66ea51a7610f2338d?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 13 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 13 |
+| **[EBSCO Information Services](https://www.ebsco.com)** | **[Data Analytics and Experimentation Intern](https://jobright.ai/jobs/info/698fbe970cc8ea15f1da5bf8?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Business Strategy & Operations: Product Development Data Sciences (PDD)](https://jobright.ai/jobs/info/698f9a636ea51a7610f1fec6?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Feb 13 |
+| **[Cotality](https://www.cotality.com/uk/ )** | **[Product Management, Intern](https://jobright.ai/jobs/info/698fc96f6ea51a7610f2360e?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Feb 13 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Data Analytics and Experimentation Intern](https://jobright.ai/jobs/info/698f824e0cc8ea15f1da0ed8?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Feb 13 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Feb 13 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Custom Solutions Intern](https://jobright.ai/jobs/info/698fa0370f6f7e7a2cebeb22?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Feb 13 |
+| ↳ | **[Custom Solutions Intern](https://jobright.ai/jobs/info/698fb5aa6ea51a7610f21fbe?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 13 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 13 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Feb 13 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Business Strategy & Operations: Product Development Data Sciences (PDD)](https://jobright.ai/jobs/info/698f687a6ea51a7610f1bb15?utm_campaign=1047&utm_source=git)** | Boston | Remote | Feb 13 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Mujin US](https://mujin-corp.com/)** | **[Product Development-PC Intern (Fall 2026)](https://jobright.ai/jobs/info/698e12ccf64d441a16504e0e?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
 | ↳ | **[Product Development-GT Intern (Fall 2026)](https://jobright.ai/jobs/info/698e1fd50f6f7e7a2cea2d6e?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Feb 12 |
 | **[CAE](http://www.cae.com)** | **[C-DAS-100 Digital Product Intern-EN](https://jobright.ai/jobs/info/698e278c78b4502f12a4f1fd?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
 | ↳ | **[C-DAS-100 Digital Product Intern](https://jobright.ai/jobs/info/698e465c0f6f7e7a2cea4fc1?utm_campaign=1047&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6989cf524db8972cecff07df?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c331991fdda424d5916dd?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/697515c537785856350f09b0?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Feb 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Product Analyst](https://jobright.ai/jobs/info/6970323f333b6343a14c9b87?utm_campaign=1047&utm_source=git)** | Southington, CT | On Site | Feb 10 |
-| **[Socratix AI](https://getsocratix.ai)** | **[Founder's Associate Intern](https://jobright.ai/jobs/info/698f3fd76ea51a7610f183ce?utm_campaign=1047&utm_source=git)** | Mountain View, CA, US | On Site | Feb 10 |
-| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Feb 10 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Chief General Counsel) Ref# 10368](https://jobright.ai/jobs/info/69824d26348f733a5c3519a0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
