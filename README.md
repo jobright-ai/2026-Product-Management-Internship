@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Costco Wholesale](https://www.costco.com/)** | **[Costco Travel Technology Intern – Product Management](https://jobright.ai/jobs/info/698fee0f0f6f7e7a2cec32fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/699003ae0f6f7e7a2cec565c?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
+| **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/69901f0d6ea51a7610f28723?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/699003ae0f6f7e7a2cec565c?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fc5f66ea51a7610f2338d?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 13 |
+| **[JUNK Brands](https://junkbrands.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/69900d120cc8ea15f1dab528?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
 | **[Legendary Headwear](https://www.legendaryheadwear.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fe0bd6ea51a7610f245fe?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, Program/Product Management](https://jobright.ai/jobs/info/698fe2186ea51a7610f24745?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fe4df0cc8ea15f1da7e75?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USG](https://www.usg.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/698cff0278b4502f12a37151?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698cbebb0f6f7e7a2ce873a4?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Feb 11 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Product Business Management Intern](https://jobright.ai/jobs/info/698cda05f64d441a164ebc58?utm_campaign=1047&utm_source=git)** | Watsonville, CA | On Site | Feb 11 |
-| **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698d022e0f6f7e7a2ce8ae77?utm_campaign=1047&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698cdb090f6f7e7a2ce88f81?utm_campaign=1047&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
