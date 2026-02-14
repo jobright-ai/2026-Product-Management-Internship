@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fc5f66ea51a7610f2338d?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 13 |
+| **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698fdae40cc8ea15f1da717b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 13 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Data Analytics and Experimentation Intern](https://jobright.ai/jobs/info/698fbe970cc8ea15f1da5bf8?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Business Strategy & Operations: Product Development Data Sciences (PDD)](https://jobright.ai/jobs/info/698f9a636ea51a7610f1fec6?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Feb 13 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/697193ae333b6343a14e2e93?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Feb 11 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698eed1278b4502f12a5c34c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Feb 11 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Data Services Product Owner Internship](https://jobright.ai/jobs/info/6971a810333b6343a14e42f9?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Remote | Feb 11 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69717e06587dfa0bb55f3089?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Feb 11 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Product Creation Intern](https://jobright.ai/jobs/info/698d9dd30f6f7e7a2ce9909f?utm_campaign=1047&utm_source=git)** | Carlsbad, California | On Site | Feb 11 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development - Immunology - Rheumatology and Nephrology](https://jobright.ai/jobs/info/698d42640f6f7e7a2ce91519?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 11 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697121e4587dfa0bb55eac40?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Feb 11 |
