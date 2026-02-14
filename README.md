@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rivian](http://www.rivian.com)** | **[Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/699079516ea51a7610f2ff3b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, US | On Site | Feb 14 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/697597da206da320f49f8b40?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 14 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cea171846f0b04af67bbb1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 14 |
+| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/693e412950bbaf7650510630?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 14 |
 | **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/69740f8337785856350df4ac?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[Costco Travel Technology Intern – Product Management](https://jobright.ai/jobs/info/698fee0f0f6f7e7a2cec32fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/69901f0d6ea51a7610f28723?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development - Immunology - Rheumatology and Nephrology](https://jobright.ai/jobs/info/698d42640f6f7e7a2ce91519?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 11 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697121e4587dfa0bb55eac40?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Feb 11 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Business Analyst / Product Manager Co-Op (Intern)](https://jobright.ai/jobs/info/698d4b9a78b4502f12a3f013?utm_campaign=1047&utm_source=git)** | Urbandale, IA, US | On Site | Feb 11 |
-| **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
-| ↳ | **[Product Management Internship- Fans](https://jobright.ai/jobs/info/698d00450f6f7e7a2ce8ac3f?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Fans](https://jobright.ai/jobs/info/698d00450f6f7e7a2ce8ac3f?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
+| ↳ | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/698d8f970f6f7e7a2ce97ab5?utm_campaign=1047&utm_source=git)** | CA | Hybrid | Feb 11 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development - Immunology - Rheumatology and Nephrology](https://jobright.ai/jobs/info/698d13450f6f7e7a2ce8c844?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 11 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Digital Product Management](https://jobright.ai/jobs/info/698d3003f64d441a164f287c?utm_campaign=1047&utm_source=git)** | Fort Worth, Texas | On Site | Feb 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Product Management Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/698d203cf64d441a164f1145?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 11 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 11 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Feb 11 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698cc31c78b4502f12a33a61?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/697ab26a9d60e431a16c5265?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Feb 11 |
-| **[USG](https://www.usg.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/698cff0278b4502f12a37151?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698cbebb0f6f7e7a2ce873a4?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
