@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Costco Wholesale](https://www.costco.com/)** | **[Costco Travel Technology Intern – Product Management](https://jobright.ai/jobs/info/698fee0f0f6f7e7a2cec32fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fc5f66ea51a7610f2338d?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 13 |
+| **[Legendary Headwear](https://www.legendaryheadwear.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fe0bd6ea51a7610f245fe?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, Program/Product Management](https://jobright.ai/jobs/info/698fe2186ea51a7610f24745?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
+| **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fe4df0cc8ea15f1da7e75?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
+| ↳ | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fea3d0f6f7e7a2cec2f07?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/698fef466ea51a7610f25222?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
+| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[Costco Travel Technology Intern – Product Management](https://jobright.ai/jobs/info/698ff1a16ea51a7610f25472?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698fdae40cc8ea15f1da717b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 13 |
 | **[EBSCO Information Services](https://www.ebsco.com)** | **[Data Analytics and Experimentation Intern](https://jobright.ai/jobs/info/698fbe970cc8ea15f1da5bf8?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 13 |
@@ -85,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698e958678b4502f12a56f11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Feb 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization](https://jobright.ai/jobs/info/698e80140f6f7e7a2cea9cb4?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 12 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
-| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 12 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e7d5df64d441a1650c4cc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Feb 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698d022e0f6f7e7a2ce8ae77?utm_campaign=1047&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698cdb090f6f7e7a2ce88f81?utm_campaign=1047&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/698cce02f64d441a164eaf5b?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 11 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Product Business Management Intern](https://jobright.ai/jobs/info/698ce35cf64d441a164ec3ab?utm_campaign=1047&utm_source=git)** | US - Watsonville, California | On Site | Feb 11 |
-| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/698ca07df64d441a164e8a97?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 11 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698cda8478b4502f12a3547c?utm_campaign=1047&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/697047e9333b6343a14cb7e3?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Product Mgmt Salesforce Intern, Shockwave](https://jobright.ai/jobs/info/698c331991fdda424d5916dd?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/697515c537785856350f09b0?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Feb 10 |
-| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Product Analyst](https://jobright.ai/jobs/info/6970323f333b6343a14c9b87?utm_campaign=1047&utm_source=git)** | Southington, CT | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
