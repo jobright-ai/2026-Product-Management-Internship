@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern (Rochester, NY)](https://jobright.ai/jobs/info/6990bc620f6f7e7a2ced2830?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Feb 14 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Product Management MBA Internship](https://jobright.ai/jobs/info/6990935d0f6f7e7a2ced0694?utm_campaign=1047&utm_source=git)** | Round Rock, TX | On Site | Feb 14 |
 | **[Rivian](http://www.rivian.com)** | **[Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/699079516ea51a7610f2ff3b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, US | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Innovation](https://jobright.ai/jobs/info/698d141bf64d441a164ef8e7?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Feb 11 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/698d11170f6f7e7a2ce8c409?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Product Management Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/698d203cf64d441a164f1145?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 11 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
