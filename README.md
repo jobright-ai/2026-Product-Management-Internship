@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6974ed27bc8e722e7b19e3a1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898b7347434001cc67b781?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898c068ca8121a3a6bdef7?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Feb 15 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[JUNK Brands](https://junkbrands.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/69900d120cc8ea15f1dab528?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
 | **[Legendary Headwear](https://www.legendaryheadwear.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fe0bd6ea51a7610f245fe?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, Program/Product Management](https://jobright.ai/jobs/info/698fe2186ea51a7610f24745?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fea3d0f6f7e7a2cec2f07?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
-| ↳ | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fe4df0cc8ea15f1da7e75?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
+| **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fe4df0cc8ea15f1da7e75?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
+| ↳ | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fea3d0f6f7e7a2cec2f07?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/698fef466ea51a7610f25222?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[Costco Travel Technology Intern – Product Management](https://jobright.ai/jobs/info/698ff1a16ea51a7610f25472?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698fdae40cc8ea15f1da717b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/698da55ff64d441a164fcc88?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Feb 12 |
 | **[femtoAI](https://femto.ai/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/698f06616ea51a7610f128c9?utm_campaign=1047&utm_source=git)** | San Bruno, CA | Hybrid | Feb 12 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Product Creation Intern](https://jobright.ai/jobs/info/698dac2ff64d441a164fd4d2?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
