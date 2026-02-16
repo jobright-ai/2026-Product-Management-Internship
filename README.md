@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern - Data & AI](https://jobright.ai/jobs/info/69922fa56ea51a7610f45b95?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/698c250de4f6572f0e442720?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
-| **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern \- Data & AI](https://jobright.ai/jobs/info/699230490cc8ea15f1dca05a?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Feb 15 |
+| **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern \- Data & AI Engineering](https://jobright.ai/jobs/info/699230490cc8ea15f1dca05a?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Feb 15 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6974ed27bc8e722e7b19e3a1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 15 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898b7347434001cc67b781?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 15 |
