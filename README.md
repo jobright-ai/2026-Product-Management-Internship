@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[EML Product Management Intern 2026](https://jobright.ai/jobs/info/69938bd9ce78e77b4fd75e47?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 16 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69935a7de0bddb6acac19be1?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 16 |
-| **[ABB](https://global.abb/group/en)** | **[EML Product Management Intern 2026](https://jobright.ai/jobs/info/6993339e81476f6176aad6d4?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 16 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6977226cfdeb8243a279f324?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product CORE](https://jobright.ai/jobs/info/691ab475bcdbf3560c9d9c93?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 16 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6991308a0f6f7e7a2ced7669?utm_campaign=1047&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | ↳ | **[Product Management Intern (Verified)](https://jobright.ai/jobs/info/69912c3b0f6f7e7a2ced7110?utm_campaign=1047&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Long Term Product Management](https://jobright.ai/jobs/info/6990edcc0cc8ea15f1dba1d7?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Feb 14 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern (Rochester, NY)](https://jobright.ai/jobs/info/6990bc620f6f7e7a2ced2830?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Feb 14 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Rivian](http://www.rivian.com)** | **[Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/699079516ea51a7610f2ff3b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, US | On Site | Feb 14 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/697597da206da320f49f8b40?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[CAE](http://www.cae.com)** | **[C-DAS-100 Digital Product Intern-EN](https://jobright.ai/jobs/info/698e278c78b4502f12a4f1fd?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
 | ↳ | **[C-DAS-100 Digital Product Intern](https://jobright.ai/jobs/info/698e465c0f6f7e7a2cea4fc1?utm_campaign=1047&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Feb 12 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
