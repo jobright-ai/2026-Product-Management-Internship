@@ -117,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69758e7a206da320f49f88b1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 13 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/695a02dcf1f8465b79f06113?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Feb 13 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Business Strategy & Operations: Product Development Data Sciences (PDD)](https://jobright.ai/jobs/info/698f687a6ea51a7610f1bb15?utm_campaign=1047&utm_source=git)** | Boston | Remote | Feb 13 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698d9fb6f64d441a164fc3de?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Feb 13 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/6975b6ba37785856350f9b47?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Digital Product Management Intern](https://jobright.ai/jobs/info/698f4bc06ea51a7610f19607?utm_campaign=1047&utm_source=git)** | US-IL-Chicago | On Site | Feb 13 |
 | ↳ | **[Analyst, Digital Product Management Intern](https://jobright.ai/jobs/info/698f345e6ea51a7610f1736b?utm_campaign=1047&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
@@ -133,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698e958678b4502f12a56f11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Feb 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization](https://jobright.ai/jobs/info/698e80140f6f7e7a2cea9cb4?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 12 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
-| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 12 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e7d5df64d441a1650c4cc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Feb 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development-GT Intern (Fall 2026)](https://jobright.ai/jobs/info/698e1fd50f6f7e7a2cea2d6e?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[CAE](http://www.cae.com)** | **[C-DAS-100 Digital Product Intern-EN](https://jobright.ai/jobs/info/698e278c78b4502f12a4f1fd?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
+| ↳ | **[C-DAS-100 Digital Product Intern](https://jobright.ai/jobs/info/698e465c0f6f7e7a2cea4fc1?utm_campaign=1047&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
