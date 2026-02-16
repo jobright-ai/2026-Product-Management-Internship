@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 16 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6977226cfdeb8243a279f324?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 16 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product CORE](https://jobright.ai/jobs/info/691ab475bcdbf3560c9d9c93?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 16 |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern - Data & AI](https://jobright.ai/jobs/info/69922fa56ea51a7610f45b95?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/698c250de4f6572f0e442720?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 15 |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern \- Data & AI Engineering](https://jobright.ai/jobs/info/699230490cc8ea15f1dca05a?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Feb 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[C-DAS-100 Digital Product Intern](https://jobright.ai/jobs/info/698e465c0f6f7e7a2cea4fc1?utm_campaign=1047&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Feb 12 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e404b707bf728a4b80b4?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 12 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 12 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark (July to December)](https://jobright.ai/jobs/info/6971e4c8b707bf728a4b8100?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 12 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/698da55ff64d441a164fcc88?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
