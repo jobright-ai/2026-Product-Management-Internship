@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[EML Product Management Intern 2026](https://jobright.ai/jobs/info/6993339e81476f6176aad6d4?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 16 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6977226cfdeb8243a279f324?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product CORE](https://jobright.ai/jobs/info/691ab475bcdbf3560c9d9c93?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 16 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698e958678b4502f12a56f11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Feb 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization](https://jobright.ai/jobs/info/698e80140f6f7e7a2cea9cb4?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 12 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
-| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 12 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e7d5df64d441a1650c4cc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Feb 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[CAE](http://www.cae.com)** | **[C-DAS-100 Digital Product Intern-EN](https://jobright.ai/jobs/info/698e278c78b4502f12a4f1fd?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
 | ↳ | **[C-DAS-100 Digital Product Intern](https://jobright.ai/jobs/info/698e465c0f6f7e7a2cea4fc1?utm_campaign=1047&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Feb 12 |
-| **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
