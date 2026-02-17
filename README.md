@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6993fc4481476f6176aba79b?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Feb 16 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Strategy Intern](https://jobright.ai/jobs/info/69940c52ce78e77b4fd7fcb4?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Feb 16 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Summer 2026](https://jobright.ai/jobs/info/6993d8d681476f6176ab739e?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Feb 16 |
 | **[Electrify America](https://www.electrifyamerica.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696fcaef82817106e976d624?utm_campaign=1047&utm_source=git)** | Ashburn, VA | On Site | Feb 16 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698e958678b4502f12a56f11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Feb 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization](https://jobright.ai/jobs/info/698e80140f6f7e7a2cea9cb4?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 12 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
-| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
+| ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 12 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e7d5df64d441a1650c4cc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e6a8c0f6f7e7a2cea7758?utm_campaign=1047&utm_source=git)** | US, Austin Las Cimas | Hybrid | Feb 12 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e60c3f64d441a165093e1?utm_campaign=1047&utm_source=git)** | Remote (US) | Remote | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/6987b3408da7a6120462ccc0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 12 |
-| **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 12 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
