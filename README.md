@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Feb 16 |
 | **[Electrify America](https://www.electrifyamerica.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/696fcaef82817106e976d624?utm_campaign=1047&utm_source=git)** | Ashburn, VA | On Site | Feb 16 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Summer 2026](https://jobright.ai/jobs/info/6993c863e0bddb6acac2103d?utm_campaign=1047&utm_source=git)** | Highlands Ranch, CO | On Site | Feb 16 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Management, eCommerce Internship](https://jobright.ai/jobs/info/6993d0f7e0bddb6acac217ad?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Feb 16 |
+| **[XiFin, Inc.](http://www.xifin.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6993c2c381476f6176ab61e4?utm_campaign=1047&utm_source=git)** | SD Metro Area | On Site | Feb 16 |
 | **[ABB](https://global.abb/group/en)** | **[EML Product Management Intern 2026](https://jobright.ai/jobs/info/69938bd9ce78e77b4fd75e47?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 16 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6993ac0781476f6176ab4646?utm_campaign=1047&utm_source=git)** | San Diego, CA, US | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993aa0581476f6176ab43d7?utm_campaign=1047&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 12 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 12 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Spare Parts Product Management – Intern](https://jobright.ai/jobs/info/698e298a0f6f7e7a2cea37b8?utm_campaign=1047&utm_source=git)** | Marietta, GA USA | On Site | Feb 12 |
-| **[Mujin US](https://mujin-corp.com/)** | **[Product Development-PC Intern (Fall 2026)](https://jobright.ai/jobs/info/698e12ccf64d441a16504e0e?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
-| ↳ | **[Product Development-GT Intern (Fall 2026)](https://jobright.ai/jobs/info/698e1fd50f6f7e7a2cea2d6e?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Feb 12 |
-| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
-| **[CAE](http://www.cae.com)** | **[C-DAS-100 Digital Product Intern-EN](https://jobright.ai/jobs/info/698e278c78b4502f12a4f1fd?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
