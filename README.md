@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/699481bbe0bddb6acac2f1a2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Strategy Intern](https://jobright.ai/jobs/info/69947ffc81476f6176ac437a?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/694033c249a7695fbd05b6ff?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Product Owner](https://jobright.ai/jobs/info/695c14a222c9dc0d3d53f2ff?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 17 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern (Rochester, NY)](https://jobright.ai/jobs/info/699464fcce78e77b4fd85d60?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Feb 17 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[JUNK Brands](https://junkbrands.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/69900d120cc8ea15f1dab528?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
 | **[Legendary Headwear](https://www.legendaryheadwear.com)** | **[Product Development & Design Intern](https://jobright.ai/jobs/info/698fe0bd6ea51a7610f245fe?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 13 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, Program/Product Management](https://jobright.ai/jobs/info/698fe2186ea51a7610f24745?utm_campaign=1047&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
-| **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fea3d0f6f7e7a2cec2f07?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
-| ↳ | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fe4df0cc8ea15f1da7e75?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
+| **[ISACA](http://www.isaca.org)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fe4df0cc8ea15f1da7e75?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 13 |
+| ↳ | **[Product Specialist Intern](https://jobright.ai/jobs/info/698fea3d0f6f7e7a2cec2f07?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/698fef466ea51a7610f25222?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 13 |
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[Costco Travel Technology Intern – Product Management](https://jobright.ai/jobs/info/698ff1a16ea51a7610f25472?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/698fdae40cc8ea15f1da717b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 12 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e7d5df64d441a1650c4cc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 | **[Epicor](https://www.epicor.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Feb 12 |
-| ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 12 |
-| ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e623e78b4502f12a52a4d?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
