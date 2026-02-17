@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brother USA](https://brother-usa.com)** | **[Product & Business Analysis Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf86af1f8465b79f207c7?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 17 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/6994a95ce0bddb6acac31ab1?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Feb 17 |
+| **[AM Best](https://www.ambest.com)** | **[2026 Summer Intern - Product Strategy](https://jobright.ai/jobs/info/6994aec581476f6176ac7236?utm_campaign=1047&utm_source=git)** | Oldwick, NJ | Hybrid | Feb 17 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/699481bbe0bddb6acac2f1a2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Strategy Intern](https://jobright.ai/jobs/info/69947ffc81476f6176ac437a?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/694033c249a7695fbd05b6ff?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cohesity](https://www.cohesity.com/)** | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e98620f6f7e7a2ceab776?utm_campaign=1047&utm_source=git)** | Santa Clara, CA - USA (Office) | Hybrid | Feb 12 |
 | ↳ | **[Product Partner Program Intern](https://jobright.ai/jobs/info/698e8256f64d441a1650cd84?utm_campaign=1047&utm_source=git)** | Heathrow, FL - USA (Office) | Hybrid | Feb 12 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/6972a07d584a1c1ef6fdad41?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 12 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Digital Solution Summer Intern](https://jobright.ai/jobs/info/698e7d5df64d441a1650c4cc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
