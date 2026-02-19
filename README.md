@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Product Specialist](https://jobright.ai/jobs/info/69976902e0bddb6acac621e1?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| ↳ | **[Intern, Product Specialist](https://jobright.ai/jobs/info/699767e2ce78e77b4fdbc01a?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
 | **[Resmed](https://www.resmed.com.au)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6997584ae0bddb6acac6179e?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA, United States | Hybrid | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[Product Lifecycle Management Internship](https://jobright.ai/jobs/info/699753fae0bddb6acac61540?utm_campaign=1047&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/69974e1f81476f6176af76a4?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 19 |
+| **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69975de6e0bddb6acac61b8a?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 19 |
 | **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69972ebbce78e77b4fdb82cb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Feb 19 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | ↳ | **[Medicare Product Implementation &amp; Optimization (MPIO) Intern](https://jobright.ai/jobs/info/698575b20f6f7e7a2ce03dd6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Estes Industries, LLC](http://www.estesrockets.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6995679c81476f6176ad5a2a?utm_campaign=1047&utm_source=git)** | Penrose, CO | On Site | Feb 17 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern – Product Manager (Enabling Technologies)](https://jobright.ai/jobs/info/69957b37ce78e77b4fd9a525?utm_campaign=1047&utm_source=git)** | Carlsbad | On Site | Feb 17 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898c068ca8121a3a6bdef7?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Feb 17 |
-| ↳ | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898b7347434001cc67b781?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
-| **[Orthofix](http://www.orthofix.com)** | **[Intern - Product Manager (Interbody)](https://jobright.ai/jobs/info/6995675ce0bddb6acac3fbe4?utm_campaign=1047&utm_source=git)** | Carlsbad | On Site | Feb 17 |
-| **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69953d5381476f6176ad1f29?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
