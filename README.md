@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69972ebbce78e77b4fdb82cb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Feb 19 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Internship - Product - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f48a8a1bbea1d9a7a1a9c?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | Hybrid | Feb 19 |
 | **[Hydro International](http://www.hydro-int.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/699718f7ce78e77b4fdb6d42?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management - Ad Experiences](https://jobright.ai/jobs/info/697a947b9d60e431a16c26f9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898c068ca8121a3a6bdef7?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Feb 17 |
 | ↳ | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/69898b7347434001cc67b781?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Product Manager (Interbody)](https://jobright.ai/jobs/info/6995675ce0bddb6acac3fbe4?utm_campaign=1047&utm_source=git)** | Carlsbad | On Site | Feb 17 |
-| **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6995315ce0bddb6acac3b946?utm_campaign=1047&utm_source=git)** | US Brightree (Remote Workforce) | Remote | Feb 17 |
-| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69953d5381476f6176ad1f29?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Feb 17 |
+| **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69953d5381476f6176ad1f29?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Feb 17 |
+| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6995315ce0bddb6acac3b946?utm_campaign=1047&utm_source=git)** | US Brightree (Remote Workforce) | Remote | Feb 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/6994e17981476f6176acb56c?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Feb 17 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Product Enablement Intern, NA](https://jobright.ai/jobs/info/6995065ce0bddb6acac38dd7?utm_campaign=1047&utm_source=git)** | Denver, Colorado | On Site | Feb 17 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6994d736e0bddb6acac35425?utm_campaign=1047&utm_source=git)** | Remote - Kentucky | Remote | Feb 17 |
 | **[Electronic Theatre Controls](http://www.etcconnect.com/)** | **[Product Assurance Specialist Intern - Austin, Texas](https://jobright.ai/jobs/info/6994d61ce0bddb6acac352d0?utm_campaign=1047&utm_source=git)** | South Carolina, United States | On Site | Feb 17 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6994d22fe0bddb6acac34f96?utm_campaign=1047&utm_source=git)** | Remote - Montana | Remote | Feb 17 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Product Intern, Debit Expansion](https://jobright.ai/jobs/info/6994ccd081476f6176ac9e3a?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
