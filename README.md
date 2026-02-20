@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/697bc8a40b88cc7d6422959d?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Feb 20 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Mining Engineers)](https://jobright.ai/jobs/info/697b93861136d179eeef0cb6?utm_campaign=1047&utm_source=git)** | Garland, TX | On Site | Feb 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 20 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Feb 20 |
 | **[GenPark](https://genpark.ai)** | **[Product development developer](https://jobright.ai/jobs/info/6998478dce78e77b4fdcf9fc?utm_campaign=1047&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 20 |
@@ -101,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Resmed](https://www.resmed.com.au)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6997584ae0bddb6acac6179e?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA, United States | Hybrid | Feb 19 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 19 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| ↳ | **[Medicare Product Implementation &amp; Optimization (MPIO) Intern](https://jobright.ai/jobs/info/698575b20f6f7e7a2ce03dd6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
+| ↳ | **[Medicare Product Implementation &amp; Optimization (MPIO) Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698575b20f6f7e7a2ce03dd6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Internship - Product - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f48a8a1bbea1d9a7a1a9c?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | Hybrid | Feb 19 |
 | **[Hydro International](http://www.hydro-int.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/699718f7ce78e77b4fdb6d42?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management - Ad Experiences](https://jobright.ai/jobs/info/697a947b9d60e431a16c26f9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Operations, Intern](https://jobright.ai/jobs/info/699655f5ce78e77b4fda5a63?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 18 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6996641881476f6176ae34f2?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69965ca581476f6176ae2a98?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 18 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Mangagement - Listener Experience](https://jobright.ai/jobs/info/6983e8de01214b4cdacc20b9?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 18 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69963fdace78e77b4fda3884?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
