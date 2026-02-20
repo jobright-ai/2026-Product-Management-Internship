@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026, Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/6998241681476f6176b08f50?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 20 |
+| **[GenPark](https://genpark.ai)** | **[Product development developer](https://jobright.ai/jobs/info/6998478dce78e77b4fdcf9fc?utm_campaign=1047&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Feb 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 20 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | Hybrid | Feb 20 |
+| ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Feb 20 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/6998369081476f6176b0b2b0?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Feb 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 20 |
+| ↳ | **[Integrity Product & Client Solution Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c22e90b88cc7d64232751?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
+| **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Product Line Intern](https://jobright.ai/jobs/info/697be8871423772304ec2b68?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 20 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Product Acceleration Intern](https://jobright.ai/jobs/info/699818afe0bddb6acac71f47?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Feb 20 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Data & AI Attribution](https://jobright.ai/jobs/info/6997d85881476f6176b00f03?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 19 |
 | **[Tanium](http://www.tanium.com)** | **[Intern](https://jobright.ai/jobs/info/6997d7c5ce78e77b4fdc47c0?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 19 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6997da5081476f6176b012ae?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
-| ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/6997e97dce78e77b4fdc6b58?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6997e97dce78e77b4fdc6b58?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/6997da5081476f6176b012ae?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Product Management Graduate Intern](https://jobright.ai/jobs/info/6997ba4ee0bddb6acac677f3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6997be80e0bddb6acac67ff0?utm_campaign=1047&utm_source=git)** | Greater Houston | Hybrid | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 19 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69963fdace78e77b4fda3884?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/699651ae81476f6176ae18aa?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964b97ce78e77b4fda4a14?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964214ce78e77b4fda3baa?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964b7b81476f6176ae0ea3?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964511e0bddb6acac4ac1d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6996427de0bddb6acac4a86c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964f4681476f6176ae1506?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity Software](https://jobright.ai/jobs/info/6996646581476f6176ae3562?utm_campaign=1047&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 18 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6996453381476f6176ae04c0?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 18 |
-| **[Munich Re](https://www.munichre.com)** | **[Digital IT Products Intern](https://jobright.ai/jobs/info/69794b3f39f7f96cc6d1c2d3?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
