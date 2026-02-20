@@ -60,9 +60,12 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6997905fce78e77b4fdbdf6f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 19 |
+| **[Siemens](https://www.siemens.com)** | **[Product Lifecycle Management Internship](https://jobright.ai/jobs/info/6997a1b8ce78e77b4fdbf748?utm_campaign=1047&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/6997823de0bddb6acac63629?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69979a2781476f6176afb42e?utm_campaign=1047&utm_source=git)** | USA TX Houston - 1360 Post Oak Blvd | Hybrid | Feb 19 |
 | **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/699778a481476f6176af961f?utm_campaign=1047&utm_source=git)** | SD Metro Area | Remote | Feb 19 |
+| **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69979b55ce78e77b4fdbee1c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Feb 19 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Data & AI Attribution](https://jobright.ai/jobs/info/69979f9d81476f6176afbb63?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Feb 19 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69978b6de0bddb6acac63bbc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/699794dbce78e77b4fdbe52c?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Feb 19 |
 | ↳ | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69978df9e0bddb6acac63d5b?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Feb 19 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6997831181476f6176af9c8b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Feb 19 |
 | ↳ | **[Product Analyst Intern](https://jobright.ai/jobs/info/6997584ae0bddb6acac6179e?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA, United States | Hybrid | Feb 19 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 19 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69972ebbce78e77b4fdb82cb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Feb 19 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | ↳ | **[Medicare Product Implementation &amp; Optimization (MPIO) Intern](https://jobright.ai/jobs/info/698575b20f6f7e7a2ce03dd6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Aegon Asset Management](https://www.aegonam.com)** | **[Internship - Product - Summer of 2026 - Aegon AM](https://jobright.ai/jobs/info/695f48a8a1bbea1d9a7a1a9c?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | Hybrid | Feb 19 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69963fdace78e77b4fda3884?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/699651ae81476f6176ae18aa?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964b97ce78e77b4fda4a14?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964214ce78e77b4fda3baa?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964b7b81476f6176ae0ea3?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Feb 18 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964214ce78e77b4fda3baa?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964511e0bddb6acac4ac1d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6996427de0bddb6acac4a86c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 18 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69964f4681476f6176ae1506?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Customer Experience](https://jobright.ai/jobs/info/6995fe1381476f6176adbc4f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
 | **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698d8569f64d441a164f9cab?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Feb 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69961b79e0bddb6acac47a5e?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Feb 18 |
-| **[nVent](https://www.nvent.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6979384188e2b47213bd5e24?utm_campaign=1047&utm_source=git)** | Blue Ash, OH | On Site | Feb 18 |
-| **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798f260791bc1d72303d12?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
