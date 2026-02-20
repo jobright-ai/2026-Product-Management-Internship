@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Product Management Graduate Intern](https://jobright.ai/jobs/info/6997ba4ee0bddb6acac677f3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
+| **[Stewart Title](https://www.stewart.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6997be80e0bddb6acac67ff0?utm_campaign=1047&utm_source=git)** | Greater Houston | Hybrid | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6997905fce78e77b4fdbdf6f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Wealth R&D Product, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/6996449f81476f6176ae040d?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Feb 18 |
 | **[Busch Vacuum Solutions](https://www.buschvacuum.com)** | **[Product Management Intern - Service Strategy](https://jobright.ai/jobs/info/6995e60381476f6176adaa75?utm_campaign=1047&utm_source=git)** | Virginia Beach, VA | On Site | Feb 18 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 18 |
-| **[NetApp](http://netapp.com)** | **[Product Manager Intern - Customer Experience](https://jobright.ai/jobs/info/6995fe1381476f6176adbc4f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
