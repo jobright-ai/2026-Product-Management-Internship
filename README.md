@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Feb 20 |
+| **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b85090b88cc7d64224ad3?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Feb 20 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/697bc8a40b88cc7d6422959d?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Feb 20 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Mining Engineers)](https://jobright.ai/jobs/info/697b93861136d179eeef0cb6?utm_campaign=1047&utm_source=git)** | Garland, TX | On Site | Feb 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6996542d81476f6176ae1cb8?utm_campaign=1047&utm_source=git)** | Georgia, United States | On Site | Feb 18 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/69964605ce78e77b4fda41c8?utm_campaign=1047&utm_source=git)** | Sunnyvale - California, USA | On Site | Feb 18 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Operations, Intern](https://jobright.ai/jobs/info/699655f5ce78e77b4fda5a63?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 18 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6996641881476f6176ae34f2?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Feb 18 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69965ca581476f6176ae2a98?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
