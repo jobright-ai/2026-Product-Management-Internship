@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/699927ae81476f6176b1ade9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Feb 20 |
 | **[Cinemark](http://www.cinemark.com)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69844c9a8da7a612045e6bf1?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Feb 20 |
 | **[Teradyne](http://www.teradyne.com)** | **[Product Manager Intern - Analytics - Global Customer Services, Summer 2026 (Teradyne, N Reading, MA](https://jobright.ai/jobs/info/69990acc81476f6176b1801a?utm_campaign=1047&utm_source=git)** | North Reading, MA | On Site | Feb 20 |
 | ↳ | **[Product Manager Intern, Global Product Services, Summer 2026 (Teradyne, N Reading, MA)](https://jobright.ai/jobs/info/699923f4e0bddb6acac8293b?utm_campaign=1047&utm_source=git)** | North Reading, MA | On Site | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae2a11423772304eac928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Immunology New Product Launch Team](https://jobright.ai/jobs/info/697aede61423772304eae41c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Feb 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
-| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
