@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X, The Moonshot Factory](https://x.company)** | **[2026 Product Manager Internship, Grid Distribution Planning (Tapestry)](https://jobright.ai/jobs/info/697e6b4cce48107c05429a21?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
 | **[Orvanta](orvanta.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699a75d581476f6176b30a53?utm_campaign=1047&utm_source=git)** | Columbus, OH | Remote | Feb 21 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/697bc8a40b88cc7d6422959d?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Feb 20 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Mining Engineers)](https://jobright.ai/jobs/info/697b93861136d179eeef0cb6?utm_campaign=1047&utm_source=git)** | Garland, TX | On Site | Feb 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 20 |
+| **[Healthfirst](https://healthfirst.org)** | **[Medicare Product Implementation &amp; Optimization (MPIO) Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698575b20f6f7e7a2ce03dd6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Feb 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Feb 20 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Dynatrace](https://www.dynatrace.com)** | **[Product Acceleration Intern](https://jobright.ai/jobs/info/699818afe0bddb6acac71f47?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Feb 20 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Travel Product Data & AI Attribution](https://jobright.ai/jobs/info/6997d85881476f6176b00f03?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 19 |
 | **[Tanium](http://www.tanium.com)** | **[Intern](https://jobright.ai/jobs/info/6997d7c5ce78e77b4fdc47c0?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Feb 19 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6997da5081476f6176b012ae?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
-| ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/6997e97dce78e77b4fdc6b58?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6997e97dce78e77b4fdc6b58?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
+| ↳ | **[Intern, Product Management](https://jobright.ai/jobs/info/6997da5081476f6176b012ae?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Product Management Graduate Intern](https://jobright.ai/jobs/info/6997ba4ee0bddb6acac677f3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6997be80e0bddb6acac67ff0?utm_campaign=1047&utm_source=git)** | Greater Houston | Hybrid | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6997831181476f6176af9c8b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Feb 19 |
 | **[telMAX Inc.](https://telmax.com)** | **[Product Management Associate Co-op - Summer Term (4 Months)](https://jobright.ai/jobs/info/699818cece78e77b4fdcbfa9?utm_campaign=1047&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 19 |
 | **[Resmed](https://www.resmed.com.au)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6997584ae0bddb6acac6179e?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA, United States | Hybrid | Feb 19 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 19 |
-| **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
