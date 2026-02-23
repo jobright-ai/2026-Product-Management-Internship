@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699b6413e0bddb6acaca4a98?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 22 |
 | ↳ | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/699b63d6e0bddb6acaca4a7f?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 22 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Associate Product and Commercial Analyst Intern](https://jobright.ai/jobs/info/699b2581ce78e77b4fdfd2c1?utm_campaign=1047&utm_source=git)** | Albany County, NY | On Site | Feb 22 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699b1f64ce78e77b4fdfd276?utm_campaign=1047&utm_source=git)** | Dayton, OH | Remote | Feb 22 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 Product Manager Internship, Grid Distribution Planning (Tapestry)](https://jobright.ai/jobs/info/697e6b4cce48107c05429a21?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
@@ -101,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/6998dbc9e0bddb6acac7c6ba?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Manager Intern – Metal Solutions](https://jobright.ai/jobs/info/697d2886137a05102566270b?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Feb 20 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6998efe581476f6176b1588f?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 20 |
-| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998fb6c81476f6176b16b67?utm_campaign=1047&utm_source=git)** | US - Work From Home | Hybrid | Feb 20 |
-| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998f412ce78e77b4fdd8867?utm_campaign=1047&utm_source=git)** | US - NY - Rochester | Hybrid | Feb 20 |
+| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998f412ce78e77b4fdd8867?utm_campaign=1047&utm_source=git)** | US - NY - Rochester | Hybrid | Feb 20 |
+| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998fb6c81476f6176b16b67?utm_campaign=1047&utm_source=git)** | US - Work From Home | Hybrid | Feb 20 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity](https://jobright.ai/jobs/info/6999056ece78e77b4fdda2d0?utm_campaign=1047&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 20 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6998ec71ce78e77b4fdd7c63?utm_campaign=1047&utm_source=git)** | Seattle (WA) | Hybrid | Feb 20 |
 | **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998fa1181476f6176b16901?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Product Specialist](https://jobright.ai/jobs/info/699767e2ce78e77b4fdbc01a?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
 | **[Safran](http://www.safran-group.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69979765e0bddb6acac6488a?utm_campaign=1047&utm_source=git)** | Brea, CA | On Site | Feb 19 |
 | **[Resmed](https://www.resmed.com.au)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/699782d4ce78e77b4fdbd575?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA | Hybrid | Feb 19 |
+| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6997831181476f6176af9c8b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
