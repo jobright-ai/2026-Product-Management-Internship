@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Hair Accessories & Cos Bags](https://jobright.ai/jobs/info/6964549ba112b402661249c6?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 23 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Feb 23 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/6997dcb4e0bddb6acac6ae96?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Feb 23 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 23 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/698019a3ce48107c05443df1?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Feb 23 |
@@ -111,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998fa1181476f6176b16901?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
 | **[SWBC](https://www.swbc.com)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998d89ae0bddb6acac7c3d3?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/699a0a5281476f6176b2ae42?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Feb 20 |
-| **[Broadridge](http://www.broadridge.com)** | **[Jr Analyst Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/6998ccf5ce78e77b4fdd5e35?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Feb 20 |
-| ↳ | **[Jr Analyst Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/6998cb3fe0bddb6acac7b832?utm_campaign=1047&utm_source=git)** | Vancouver - 555 Burrard Street | Hybrid | Feb 20 |
+| **[Broadridge](http://www.broadridge.com)** | **[Jr Analyst Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/6998cb3fe0bddb6acac7b832?utm_campaign=1047&utm_source=git)** | Vancouver - 555 Burrard Street | Hybrid | Feb 20 |
+| ↳ | **[Jr Analyst Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/6998ccf5ce78e77b4fdd5e35?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Feb 20 |
 | ↳ | **[Jr Analyst Product Management Intern (Hybrid)](https://jobright.ai/jobs/info/6998dcf0ce78e77b4fdd6ce9?utm_campaign=1047&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Feb 20 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/697c077a1423772304ec5444?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Feb 20 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/6998b2a8ce78e77b4fdd4ab8?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | Remote | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69978df9e0bddb6acac63d5b?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Feb 19 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/6997954c81476f6176afad56?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | Remote | Feb 19 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Product Management Graduate Intern](https://jobright.ai/jobs/info/69976c2fe0bddb6acac624fe?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 19 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Product Specialist](https://jobright.ai/jobs/info/69976902e0bddb6acac621e1?utm_campaign=1047&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
-| ↳ | **[Intern, Product Specialist](https://jobright.ai/jobs/info/699767e2ce78e77b4fdbc01a?utm_campaign=1047&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 19 |
-| **[Safran](http://www.safran-group.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69979765e0bddb6acac6488a?utm_campaign=1047&utm_source=git)** | Brea, CA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
