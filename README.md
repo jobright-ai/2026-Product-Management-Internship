@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Synoptek](https://synoptek.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/699d0751e0bddb6acacc2252?utm_campaign=1047&utm_source=git)** | Boston, NY | Hybrid | Feb 23 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Data Analysis Intern](https://jobright.ai/jobs/info/699cf8f3e0bddb6acacc06e9?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 23 |
+| **[Petite Plume](https://www.petite-plume.com/)** | **[Product Development Internship](https://jobright.ai/jobs/info/699d10a9ce78e77b4fe1e00f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[Unanet](https://unanet.com/)** | **[Product Operations Analyst Intern](https://jobright.ai/jobs/info/699d08a4e0bddb6acacc24da?utm_campaign=1047&utm_source=git)** | Dulles, Virginia | On Site | Feb 23 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/699d01ddce78e77b4fe1c96a?utm_campaign=1047&utm_source=git)** | Los Angeles, California | On Site | Feb 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Fixed Income Pricing - Product Analyst Intern](https://jobright.ai/jobs/info/699cc3bce0bddb6acacbd28f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | Hybrid | Feb 20 |
 | ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Feb 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 20 |
-| ↳ | **[Integrity Product & Client Solution Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c22e90b88cc7d64232751?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
