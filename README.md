@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiskars Group](http://www.fiskarsgroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699e0580ce78e77b4fe3238d?utm_campaign=1047&utm_source=git)** | Middleton | Hybrid | Feb 24 |
 | **[AAA Club Alliance](https://www.aaa.com/aaa/212/careers/index.html)** | **[Intern, Digital Product & Experience Strategy](https://jobright.ai/jobs/info/699df8de81476f6176b6ebd0?utm_campaign=1047&utm_source=git)** | Wilmington, DE | Hybrid | Feb 24 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699df2ae81476f6176b6e63b?utm_campaign=1047&utm_source=git)** | Santa Clara,CA | On Site | Feb 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Accelerated Computing GPU - Summer 2026](https://jobright.ai/jobs/info/699deb17e0bddb6acacd4ee5?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/6998dbc9e0bddb6acac7c6ba?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Manager Intern – Metal Solutions](https://jobright.ai/jobs/info/697d2886137a05102566270b?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Feb 20 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6998efe581476f6176b1588f?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 20 |
-| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998fb6c81476f6176b16b67?utm_campaign=1047&utm_source=git)** | US - Work From Home | Hybrid | Feb 20 |
-| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998f412ce78e77b4fdd8867?utm_campaign=1047&utm_source=git)** | US - NY - Rochester | Hybrid | Feb 20 |
+| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998f412ce78e77b4fdd8867?utm_campaign=1047&utm_source=git)** | US - NY - Rochester | Hybrid | Feb 20 |
+| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998fb6c81476f6176b16b67?utm_campaign=1047&utm_source=git)** | US - Work From Home | Hybrid | Feb 20 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity](https://jobright.ai/jobs/info/6999056ece78e77b4fdda2d0?utm_campaign=1047&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Feb 20 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6998ec71ce78e77b4fdd7c63?utm_campaign=1047&utm_source=git)** | Seattle (WA) | Hybrid | Feb 20 |
 | **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998fa1181476f6176b16901?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
 | **[SWBC](https://www.swbc.com)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998d89ae0bddb6acac7c3d3?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Feb 20 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/699a0a5281476f6176b2ae42?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
