@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst, Salesforce Product Owner (Summer 2026)](https://jobright.ai/jobs/info/697212d547b64f4e963e48c0?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 25 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699f2b9694ef206f184e4cc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 25 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 21 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Feb 21 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/697cdd28727747250d578ba5?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Feb 21 |
-| ↳ | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/697ce72c727747250d5791f7?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
