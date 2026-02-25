@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst, Salesforce Product Owner (Summer 2026)](https://jobright.ai/jobs/info/697212d547b64f4e963e48c0?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 25 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699f2b9694ef206f184e4cc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f5b1bce78e77b4fe524b7?utm_campaign=1047&utm_source=git)** | La Grange | On Site | Feb 25 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Feb 25 |
+| ↳ | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699f2b9694ef206f184e4cc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 25 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Feb 25 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986b9478ca8121a3a6922ce?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 25 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Feb 23 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/699d01ddce78e77b4fe1c96a?utm_campaign=1047&utm_source=git)** | Los Angeles, California | On Site | Feb 23 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699cbc2581476f6176b55065?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Feb 23 |
-| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9341e0bddb6acace4f3a?utm_campaign=1047&utm_source=git)** | Cary, North Carolina, United States | On Site | Feb 23 |
 | ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9099ce78e77b4fe3fb47?utm_campaign=1047&utm_source=git)** | South Burlington, Vermont, United States | On Site | Feb 23 |
+| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9341e0bddb6acace4f3a?utm_campaign=1047&utm_source=git)** | Cary, North Carolina, United States | On Site | Feb 23 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Digital Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/699ce927ce78e77b4fe1a077?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Feb 23 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cd840e0bddb6acacbe16f?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Feb 23 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Management - Summer Internship- CRD](https://jobright.ai/jobs/info/699ce24ace78e77b4fe198de?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Feb 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/699a3421ce78e77b4fdef9b5?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 21 |
 | **[NOBULL](https://www.nobullproject.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/699a1964ce78e77b4fdedd48?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 | **[Northwest Bank](https://www.northwest.bank)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/697d2d903f57a3356966f44a?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Feb 21 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697d05dd3f57a3356966baa9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 21 |
-| **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
