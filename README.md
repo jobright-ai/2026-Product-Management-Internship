@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridien Labs](meridienlabs.us)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f9175ce78e77b4fe567fc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Feb 25 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699f915bce78e77b4fe567dc?utm_campaign=1047&utm_source=git)** | Clearwater, Florida | Hybrid | Feb 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
+| **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f8e1fce78e77b4fe56182?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | ↳ | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f760fce78e77b4fe53707?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f703e23374b3b6e6b4531?utm_campaign=1047&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst, Salesforce Product Owner (Summer 2026)](https://jobright.ai/jobs/info/697212d547b64f4e963e48c0?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 25 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f5b1bce78e77b4fe524b7?utm_campaign=1047&utm_source=git)** | La Grange | On Site | Feb 25 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/699f8aa523374b3b6e6b57a1?utm_campaign=1047&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Feb 25 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Feb 25 |
 | ↳ | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699f2b9694ef206f184e4cc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/699c23face78e77b4fe0b88c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699b6413e0bddb6acaca4a98?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 22 |
 | ↳ | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/699b63d6e0bddb6acaca4a7f?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Feb 22 |
-| **[X, The Moonshot Factory](https://x.company)** | **[2026 Product Manager Internship, Grid Distribution Planning (Tapestry)](https://jobright.ai/jobs/info/697e6b4cce48107c05429a21?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 22 |
-| **[NetApp Learning Services](https://www.netapp.com/us/services-support/university/index.aspx)** | **[Product Manager, AFX - Intern](https://jobright.ai/jobs/info/699eed7a81476f6176b86420?utm_campaign=1047&utm_source=git)** | Morrisville, NC | Hybrid | Feb 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/699e8668ce78e77b4fe3e6e8?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Feb 21 |
-| **[Resmed](https://www.resmed.com.au)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/699782d4ce78e77b4fdbd575?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA | Hybrid | Feb 21 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/699a3421ce78e77b4fdef9b5?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
