@@ -90,7 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699efc4481476f6176b882a7?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Feb 25 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986e6c48ca8121a3a696dd2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 25 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/699ef54c81476f6176b87c9f?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Feb 25 |
+| **[Orvanta](joinorvanta.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a00db881476f6176ba0b4f?utm_campaign=1047&utm_source=git)** | Columbus, OH | Remote | Feb 25 |
+| **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/699ef54c81476f6176b87c9f?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Feb 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699f0dcdce78e77b4fe4c013?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 25 |
 | **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/69829d2f0a9e07331f8dc77f?utm_campaign=1047&utm_source=git)** | New Jersey, United States | On Site | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 23 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Feb 23 |
 | **[NetApp](http://netapp.com)** | **[Product Manager, AFX - Intern](https://jobright.ai/jobs/info/699c73ffe0bddb6acacb7fc1?utm_campaign=1047&utm_source=git)** | Morrisville, NC | Hybrid | Feb 23 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Brushes](https://jobright.ai/jobs/info/6963fe65a112b4026612040d?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
