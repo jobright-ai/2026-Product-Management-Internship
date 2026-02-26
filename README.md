@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0c4ac5218a8167671f001?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a0bb395218a8167671e654?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 26 |
 | **[Spot & Tango](http://www.spotandtango.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a0aa4481476f6176baf8c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69a0a5db81476f6176baf4ad?utm_campaign=1047&utm_source=git)** | Westborough, MA | Remote | Feb 26 |
+| **[Dana Incorporated](https://www.danatm4.com)** | **[Product Management Co-Op](https://jobright.ai/jobs/info/69a0c0100836fe79d861c0a6?utm_campaign=1047&utm_source=git)** | Maumee, OH | On Site | Feb 26 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a08ca10836fe79d8618c10?utm_campaign=1047&utm_source=git)** | Houston, Texas, United States | On Site | Feb 26 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69a08a8281476f6176bad0f8?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Feb 26 |
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/69a0a8f55218a8167671d561?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 26 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699f915bce78e77b4fe567dc?utm_campaign=1047&utm_source=git)** | Clearwater, Florida | Hybrid | Feb 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f8e1fce78e77b4fe56182?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
-| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
+| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Feb 23 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/699d01ddce78e77b4fe1c96a?utm_campaign=1047&utm_source=git)** | Los Angeles, California | On Site | Feb 23 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699cbc2581476f6176b55065?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Feb 23 |
-| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9099ce78e77b4fe3fb47?utm_campaign=1047&utm_source=git)** | South Burlington, Vermont, United States | On Site | Feb 23 |
-| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9341e0bddb6acace4f3a?utm_campaign=1047&utm_source=git)** | Cary, North Carolina, United States | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
