@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
+| **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | ↳ | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f760fce78e77b4fe53707?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f703e23374b3b6e6b4531?utm_campaign=1047&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 25 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TKO](https://tkogrp.com)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/69829d2f0a9e07331f8dc77f?utm_campaign=1047&utm_source=git)** | New Jersey, United States | On Site | Feb 25 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern - Product Management (Data Operations), On Location](https://jobright.ai/jobs/info/6982b1f9348f733a5c35aaef?utm_campaign=1047&utm_source=git)** | New Jersey, United States | On Site | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Commercial Tech Solutions](https://jobright.ai/jobs/info/699eb2e2e0bddb6acacea6d0?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Feb 25 |
-| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Product Design Intern](https://jobright.ai/jobs/info/699eb288e0bddb6acacea4f0?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Feb 25 |
 | **[Siemens Energy](https://www.siemens-energy.com/)** | **[AGT Product Management Intern - Siemens Energy Intern](https://jobright.ai/jobs/info/699ef78e81476f6176b87dfb?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Feb 24 |
 | **[MSC Industrial Supply Co.](http://www.mscdirect.com)** | **[Intern, Product Information](https://jobright.ai/jobs/info/699eb1bbe0bddb6acacea10f?utm_campaign=1047&utm_source=git)** | Davidson, NC | On Site | Feb 24 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/699e8c27ce78e77b4fe3f402?utm_campaign=1047&utm_source=git)** | Calhoun GA MFC (US010149) | On Site | Feb 24 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Feb 23 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/699d01ddce78e77b4fe1c96a?utm_campaign=1047&utm_source=git)** | Los Angeles, California | On Site | Feb 23 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699cbc2581476f6176b55065?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Feb 23 |
-| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9099ce78e77b4fe3fb47?utm_campaign=1047&utm_source=git)** | South Burlington, Vermont, United States | On Site | Feb 23 |
 | ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9341e0bddb6acace4f3a?utm_campaign=1047&utm_source=git)** | Cary, North Carolina, United States | On Site | Feb 23 |
+| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/699e9099ce78e77b4fe3fb47?utm_campaign=1047&utm_source=git)** | South Burlington, Vermont, United States | On Site | Feb 23 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Digital Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/699ce927ce78e77b4fe1a077?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Feb 23 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cd840e0bddb6acacbe16f?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Feb 23 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Management - Summer Internship- CRD](https://jobright.ai/jobs/info/699ce24ace78e77b4fe198de?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Feb 23 |
