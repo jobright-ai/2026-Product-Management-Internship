@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a187c6b600907a9627f8dc?utm_campaign=1047&utm_source=git)** | Toledo, OH | On Site | Feb 27 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a187bc359fe034b1cce7ee?utm_campaign=1047&utm_source=git)** | Toledo, OH | On Site | Feb 27 |
+| **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/699aae2ce0bddb6acac9ce7a?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 27 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[New Product Implementation Intern](https://jobright.ai/jobs/info/6984a93e0f6f7e7a2cdf2096?utm_campaign=1047&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 27 |
 | ↳ | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 27 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f703e23374b3b6e6b4531?utm_campaign=1047&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 25 |
 | **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[productions and product development intern](https://jobright.ai/jobs/info/699fdf84ce78e77b4fe5cb40?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst, Salesforce Product Owner (Summer 2026)](https://jobright.ai/jobs/info/697212d547b64f4e963e48c0?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 25 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f5b1bce78e77b4fe524b7?utm_campaign=1047&utm_source=git)** | La Grange | On Site | Feb 25 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/699f8aa523374b3b6e6b57a1?utm_campaign=1047&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Feb 25 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8aa523374b3b6e6b57a1?utm_campaign=1047&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Feb 25 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/699f5b1bce78e77b4fe524b7?utm_campaign=1047&utm_source=git)** | La Grange | On Site | Feb 25 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Feb 25 |
 | ↳ | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699f2b9694ef206f184e4cc0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 25 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, AI Platform Inference - Summer 2026](https://jobright.ai/jobs/info/699e3f3d81476f6176b725e8?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
 | **[Fiskars Group](http://www.fiskarsgroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699e0580ce78e77b4fe3238d?utm_campaign=1047&utm_source=git)** | Middleton | Hybrid | Feb 24 |
 | **[AAA Club Alliance](https://www.aaa.com/aaa/212/careers/index.html)** | **[Intern, Digital Product & Experience Strategy](https://jobright.ai/jobs/info/699df8de81476f6176b6ebd0?utm_campaign=1047&utm_source=git)** | Wilmington, DE | Hybrid | Feb 24 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e4fa581476f6176b74571?utm_campaign=1047&utm_source=git)** | Oconomowoc, Wisconsin | On Site | Feb 24 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Product Manager Intern- PhD (Santa Clara, CA)](https://jobright.ai/jobs/info/699df2ae81476f6176b6e63b?utm_campaign=1047&utm_source=git)** | Santa Clara,CA | On Site | Feb 24 |
-| **[AAA Club Alliance](https://www.aaa.com/aaa/212/careers/index.html)** | **[Intern, Digital Product & Experience Strategy](https://jobright.ai/jobs/info/699de833e0bddb6acacd47de?utm_campaign=1047&utm_source=git)** | Wilmington, DE (Job Posting) | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
