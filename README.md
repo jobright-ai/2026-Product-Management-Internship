@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a0fbbd5218a816767235d3?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Feb 26 |
+| **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a1028a6b458d060735b9ef?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 26 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a0dd7281476f6176bb2ebf?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
 | ↳ | **[Global Product Management - Informatics](https://jobright.ai/jobs/info/69a0d6270836fe79d861d781?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
-| **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a0faed81476f6176bb5547?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
+| **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a10f8181476f6176bb6409?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 26 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0c4ac5218a8167671f001?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
 | **[Spot Freight](https://spotinc.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69a0eb600836fe79d861fb88?utm_campaign=1047&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 26 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a0bb395218a8167671e654?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/696b45d05fc86241853a9d33?utm_campaign=1047&utm_source=git)** | Greater Bismarck Area | On Site | Feb 24 |
 | **[Unanet](https://unanet.com/)** | **[Product Operations Analyst Intern](https://jobright.ai/jobs/info/699d32a8ce78e77b4fe21a09?utm_campaign=1047&utm_source=git)** | Reston, VA | Remote | Feb 23 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/699d217be0bddb6acacc4472?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Feb 23 |
-| **[Petite Plume](https://www.petite-plume.com/)** | **[Product Development Internship](https://jobright.ai/jobs/info/699d32ecce78e77b4fe21a5e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
-| **[Synoptek](https://synoptek.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/699d0751e0bddb6acacc2252?utm_campaign=1047&utm_source=git)** | Boston, NY | Hybrid | Feb 23 |
-| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
