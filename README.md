@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a0dd7281476f6176bb2ebf?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
 | ↳ | **[Global Product Management - Informatics](https://jobright.ai/jobs/info/69a0d6270836fe79d861d781?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
+| **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a0faed81476f6176bb5547?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0c4ac5218a8167671f001?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
 | **[Spot Freight](https://spotinc.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69a0eb600836fe79d861fb88?utm_campaign=1047&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 26 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a0bb395218a8167671e654?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 26 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f8e1fce78e77b4fe56182?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69a0e32881476f6176bb388a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Feb 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
-| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
+| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Petite Plume](https://www.petite-plume.com/)** | **[Product Development Internship](https://jobright.ai/jobs/info/699d32ecce78e77b4fe21a5e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 23 |
 | **[Synoptek](https://synoptek.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/699d0751e0bddb6acacc2252?utm_campaign=1047&utm_source=git)** | Boston, NY | Hybrid | Feb 23 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
-| **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Data Analysis Intern](https://jobright.ai/jobs/info/699cf8f3e0bddb6acacc06e9?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
