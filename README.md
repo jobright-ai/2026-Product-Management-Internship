@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Informatics](https://jobright.ai/jobs/info/69a0d6270836fe79d861d781?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a0dd7281476f6176bb2ebf?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
+| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
+| ↳ | **[Global Product Management - Informatics](https://jobright.ai/jobs/info/69a0d6270836fe79d861d781?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 26 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0c4ac5218a8167671f001?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a0bb395218a8167671e654?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 26 |
 | **[Spot Freight](https://spotinc.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69a0cafc5218a8167671f5cd?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Product Development & Data Analysis Intern](https://jobright.ai/jobs/info/699cf8f3e0bddb6acacc06e9?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Feb 23 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Intern - Merchandising (Product Development)](https://jobright.ai/jobs/info/699d427ace78e77b4fe2421d?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Feb 23 |
-| **[Maximus](http://www.maximus.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69966ff5ce78e77b4fda7bf0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 23 |
-| **[JUNK Brands](https://junkbrands.com)** | **[Product Development & Data Analysis Intern](https://jobright.ai/jobs/info/699d1b92ce78e77b4fe1eef5?utm_campaign=1047&utm_source=git)** | Bentonville, AR, US | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
