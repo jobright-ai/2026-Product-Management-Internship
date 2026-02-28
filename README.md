@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/69a062d50836fe79d8615029?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Feb 26 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
-| ↳ | **[TikTok LIVE Content Diversification Operations Project Intern [User Product-Lead Generation] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696854d9f25a38006696baca?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
 | ↳ | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698414f2348f733a5c37e1a6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699ef54c81476f6176b87c9f?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Feb 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699f0dcdce78e77b4fe4c013?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 25 |
+| **[Upstream USA](https://upstream.org)** | **[Digital Product Intern at UpstreamDigital USA (Graduate Student) -  Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/699ee10781476f6176b85aa7?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
