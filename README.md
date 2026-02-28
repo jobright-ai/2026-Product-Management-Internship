@@ -96,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Product Management Intern (full time - 6 months)](https://jobright.ai/jobs/info/69a130ef5218a81676726b3d?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Feb 26 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a0fbbd5218a816767235d3?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Feb 26 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Feb 26 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a25848359fe034b1cd91be?utm_campaign=1047&utm_source=git)** | San Jose, CALIFORNIA | Hybrid | Feb 26 |
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a1028a6b458d060735b9ef?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 26 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a0dd7281476f6176bb2ebf?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f8e1fce78e77b4fe56182?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69a0e32881476f6176bb388a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Feb 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
-| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
+| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699ef54c81476f6176b87c9f?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Feb 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699f0dcdce78e77b4fe4c013?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 25 |
-| **[Upstream USA](https://upstream.org)** | **[Digital Product Intern at UpstreamDigital USA (Graduate Student) -  Hybrid: Remote in Boston area with 2 days in office](https://jobright.ai/jobs/info/699ee10781476f6176b85aa7?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
