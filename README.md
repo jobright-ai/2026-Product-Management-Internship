@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a270fab600907a9628c245?utm_campaign=1047&utm_source=git)** | Philadelphia, PA 19106, USA | Hybrid | Feb 27 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[AI Product Content Intern - Summer 2026](https://jobright.ai/jobs/info/69a2398b359fe034b1cd75ed?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Feb 27 |
 | **[Rubrik](http://rubrik.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69a236b4b600907a9628829c?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a234260da45516f16b7c9d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Product Management Intern (full time - 6 months)](https://jobright.ai/jobs/info/69a130ef5218a81676726b3d?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Feb 26 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a0fbbd5218a816767235d3?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Feb 26 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Feb 26 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a25848359fe034b1cd91be?utm_campaign=1047&utm_source=git)** | San Jose, CALIFORNIA | Hybrid | Feb 26 |
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a1028a6b458d060735b9ef?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 26 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a0dd7281476f6176bb2ebf?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
