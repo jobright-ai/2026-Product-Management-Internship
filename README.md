@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Private Label Product Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[Kinective](https://www.kinective.io)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a3b68eb600907a9629babb?utm_campaign=1047&utm_source=git)** | Golden, CO | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696837ecf25a380066969b4a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f8e1fce78e77b4fe56182?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69a0e32881476f6176bb388a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Feb 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
-| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f960f81476f6176b9483f?utm_campaign=1047&utm_source=git)** | Oakland | Hybrid | Feb 25 |
+| ↳ | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/699f9f2ace78e77b4fe58625?utm_campaign=1047&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Feb 25 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697accac9d60e431a16c7442?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
-| **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
