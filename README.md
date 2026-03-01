@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Mar 01 |
+| **[zachis.it](http://www.zachis.it)** | **[Product & Growth Intern (Forex)](https://jobright.ai/jobs/info/69a47253359fe034b1cf3cc1?utm_campaign=1047&utm_source=git)** | Corydon, IN | Remote | Mar 01 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | ↳ | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[LumoraX](lumorax.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a2f0dfb600907a96295156?utm_campaign=1047&utm_source=git)** | Toledo, OH | Remote | Feb 28 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[CRH](http://crh.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69a2e4820da45516f16c42c6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
-| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Operations (Hybrid / Decatur, GA)](https://jobright.ai/jobs/info/69a2f0d8359fe034b1ce4365?utm_campaign=1047&utm_source=git)** | Decatur, GA | Hybrid | Feb 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Product Management](https://jobright.ai/jobs/info/69a2af2f359fe034b1ce082b?utm_campaign=1047&utm_source=git)** | Kansas City, MO | On Site | Feb 28 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a2ab24359fe034b1ce01d8?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern](https://jobright.ai/jobs/info/699fed39ce78e77b4fe5e9dd?utm_campaign=1047&utm_source=git)** | Berkeley Heights, NJ | On Site | Feb 25 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699fc8c081476f6176b9849d?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
-| ↳ | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699f915bce78e77b4fe567dc?utm_campaign=1047&utm_source=git)** | Clearwater, Florida | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
