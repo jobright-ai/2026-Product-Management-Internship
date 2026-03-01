@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69a397e8b600907a9629a4da?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 28 |
 | **[Orvanta](joinorvanta.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a384340da45516f16c9574?utm_campaign=1047&utm_source=git)** | Columbus, OH | Remote | Feb 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f760fce78e77b4fe53707?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f703e23374b3b6e6b4531?utm_campaign=1047&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 25 |
 | **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[productions and product development intern](https://jobright.ai/jobs/info/699fdf84ce78e77b4fe5cb40?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a2f991b600907a96295e5c?utm_campaign=1047&utm_source=git)** | La Grange | On Site | Feb 25 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69a2f6e80da45516f16c554b?utm_campaign=1047&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Feb 25 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Feb 25 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a2f6e80da45516f16c554b?utm_campaign=1047&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Feb 25 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69a2f991b600907a96295e5c?utm_campaign=1047&utm_source=git)** | La Grange | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
