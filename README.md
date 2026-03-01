@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | ↳ | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699fc8c081476f6176b9849d?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
 | ↳ | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699f915bce78e77b4fe567dc?utm_campaign=1047&utm_source=git)** | Clearwater, Florida | Hybrid | Feb 25 |
-| **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
