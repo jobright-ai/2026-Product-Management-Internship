@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoreVista Strategies](corevistastrategies.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a40041359fe034b1cef128?utm_campaign=1047&utm_source=git)** | Canton, OH | Remote | Mar 01 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Feb 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39ace359fe034b1ce9b21?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39a63359fe034b1ce9a96?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, US | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f55b181476f6176b8f2b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 25 |
 | ↳ | **[Product Management Intern - Member Engagement](https://jobright.ai/jobs/info/699f760fce78e77b4fe53707?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Feb 25 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/699f703e23374b3b6e6b4531?utm_campaign=1047&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 25 |
-| **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[productions and product development intern](https://jobright.ai/jobs/info/699fdf84ce78e77b4fe5cb40?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
