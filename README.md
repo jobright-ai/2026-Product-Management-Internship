@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service, Product Analyst and Management (Summer 2026)](https://jobright.ai/jobs/info/69a5e5600da45516f16eae6c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69a5e27c0da45516f16ea7cf?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 02 |
 | **[Visa](https://www.visa.com)** | **[Product Management Intern, Global Data Office - Summer 2026](https://jobright.ai/jobs/info/69a5d322359fe034b1d07699?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Mar 02 |
-| **[Veltrana Group](veltranagroup.us)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a5c981b600907a962b7326?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern: Product Governance and Execution](https://jobright.ai/jobs/info/69a5c56f359fe034b1d05f2f?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Mar 02 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[Orvanta](joinorvanta.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a59f890da45516f16e4f5e?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976efc652f3c27ec642e54b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
 | ↳ | **[Ecosystem Governance Strategy & Operations Intern [TikTok-Product-Content Ecosystem] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978427439f7f96cc6d096fa?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
