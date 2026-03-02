@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern: Product Governance and Execution](https://jobright.ai/jobs/info/69a5ffd9359fe034b1d0c685?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Mar 02 |
+| **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a5f643b600907a962bc64a?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
+| **[Boot Barn](https://www.bootbarn.com)** | **[Intern – Apparel Product Development](https://jobright.ai/jobs/info/69a5f471b600907a962bc31a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service, Product Analyst and Management (Summer 2026)](https://jobright.ai/jobs/info/69a5e5600da45516f16eae6c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69a5e27c0da45516f16ea7cf?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 02 |
 | **[Visa](https://www.visa.com)** | **[Product Management Intern, Global Data Office - Summer 2026](https://jobright.ai/jobs/info/69a5d322359fe034b1d07699?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Mar 02 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Rubrik](http://rubrik.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69a236b4b600907a9628829c?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 27 |
 | **[Docusign](http://www.docusign.com)** | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a234260da45516f16b7c9d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Feb 27 |
 | ↳ | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a24c87b600907a9628967d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Feb 27 |
+| **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 27 |
 | **[ARMADA Supply Chain Solutions](http://www.armada.net/)** | **[Intern - PRO (Summer 2026)](https://jobright.ai/jobs/info/69a22fe6b600907a96287c71?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 27 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Digital Product Management](https://jobright.ai/jobs/info/69851ed60f6f7e7a2cdfa826?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Fall 2026](https://jobright.ai/jobs/info/69a1efeeb600907a96283ec6?utm_campaign=1047&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Feb 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Product Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6983e60f348f733a5c3774bc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69920c1e0cc8ea15f1dc8c05?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/69a062d50836fe79d8615029?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Feb 26 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
-| ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
-| ↳ | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698414f2348f733a5c37e1a6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
