@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a553660da45516f16df0da?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a4ed03359fe034b1cf7a19?utm_campaign=1047&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Mar 01 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Mar 01 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47e36b600907a962a4e09?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 01 |
@@ -110,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 27 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Feb 27 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/69a1ac2b0da45516f16b0df7?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Feb 27 |
-| ↳ | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/69a19ba00da45516f16afeda?utm_campaign=1047&utm_source=git)** | Triangle, NC | Remote | Feb 27 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management MBA (Intern) - United States](https://jobright.ai/jobs/info/69a19ba00da45516f16afeda?utm_campaign=1047&utm_source=git)** | Triangle, NC | Remote | Feb 27 |
 | **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/699aae2ce0bddb6acac9ce7a?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 27 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[New Product Implementation Intern](https://jobright.ai/jobs/info/6984a93e0f6f7e7a2cdf2096?utm_campaign=1047&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 27 |
