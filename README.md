@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brixenta](brixenta.net)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a4d593359fe034b1cf6b98?utm_campaign=1047&utm_source=git)** | Birmingham, AL | Remote | Mar 01 |
+| **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a4d16e0da45516f16d756d?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Mar 01 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Mar 01 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/69a48182359fe034b1cf430f?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Mar 01 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47e36b600907a962a4e09?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Mar 01 |
 | **[zachis.it](http://www.zachis.it)** | **[Product & Growth Intern (Forex)](https://jobright.ai/jobs/info/69a47253359fe034b1cf3cc1?utm_campaign=1047&utm_source=git)** | Corydon, IN | Remote | Mar 01 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Spot & Tango](http://www.spotandtango.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a0aa4481476f6176baf8c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a0cabd81476f6176bb1587?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Feb 26 |
-| **[eClinicalWorks](http://www.eclinicalworks.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69a0a5db81476f6176baf4ad?utm_campaign=1047&utm_source=git)** | Westborough, MA | Remote | Feb 26 |
 | **[Dana Incorporated](https://www.danatm4.com)** | **[Product Management Co-Op](https://jobright.ai/jobs/info/69a0c0100836fe79d861c0a6?utm_campaign=1047&utm_source=git)** | Maumee, OH | On Site | Feb 26 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a08ca10836fe79d8618c10?utm_campaign=1047&utm_source=git)** | Houston, Texas, United States | On Site | Feb 26 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69a08a8281476f6176bad0f8?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Feb 26 |
