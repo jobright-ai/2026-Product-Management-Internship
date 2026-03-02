@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meridien Labs](meridienlabs.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a4f179359fe034b1cf8131?utm_campaign=1047&utm_source=git)** | Columbus, OH | Remote | Mar 01 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a4ed03359fe034b1cf7a19?utm_campaign=1047&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | Mar 01 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Mar 01 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47e36b600907a962a4e09?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 01 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Manager, Aftermarket Parts Intern](https://jobright.ai/jobs/info/6932e52a764507023d1b0fc0?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696837ecf25a380066969b4a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
-| **[CoreVista Strategies](corevistastrategies.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a40041359fe034b1cef128?utm_campaign=1047&utm_source=git)** | Canton, OH | Remote | Mar 01 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Feb 28 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/69a51d6fb600907a962abda3?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39ace359fe034b1ce9b21?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39a63359fe034b1ce9a96?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, US | On Site | Feb 28 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69a397e8b600907a9629a4da?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Feb 25 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a4fbf20da45516f16d9e96?utm_campaign=1047&utm_source=git)** | La Grange, IL | On Site | Feb 25 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699fc8c081476f6176b9849d?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Feb 25 |
+| ↳ | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699f915bce78e77b4fe567dc?utm_campaign=1047&utm_source=git)** | Clearwater, Florida | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
