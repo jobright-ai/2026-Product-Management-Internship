@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Product Management Intern, Global Data Office - Summer 2026](https://jobright.ai/jobs/info/69a5d322359fe034b1d07699?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Mar 02 |
 | **[Veltrana Group](veltranagroup.us)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a5c981b600907a962b7326?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern: Product Governance and Execution](https://jobright.ai/jobs/info/69a5c56f359fe034b1d05f2f?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Mar 02 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a5a0fb0da45516f16e50c8?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Remote | Mar 02 |
 | **[Orvanta](joinorvanta.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a59f890da45516f16e4f5e?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976efc652f3c27ec642e54b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a56eb2b600907a962b245a?utm_campaign=1047&utm_source=git)** | Toledo, OH | Remote | Mar 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Ecosystem Governance Strategy & Operations Intern [TikTok-Product-Content Ecosystem] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
+| ↳ | **[Ecosystem Governance Strategy & Operations Intern [TikTok-Product-Content Ecosystem] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978427439f7f96cc6d096fa?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/696af3af350cf4380312300d?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
@@ -129,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Product Owner (Fall 2026)](https://jobright.ai/jobs/info/69a155e90da45516f16a9fb9?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a1399c81476f6176bb95f0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 | **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a14cf1b600907a96278d9c?utm_campaign=1047&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Feb 26 |
-| **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a116df81476f6176bb6dd7?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Feb 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[IT Product Management Intern (full time - 6 months)](https://jobright.ai/jobs/info/69a13da281476f6176bb9f27?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Feb 26 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68f90fb6cadb2e5a06a608f2?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Product Management Intern (full time - 6 months)](https://jobright.ai/jobs/info/69a130ef5218a81676726b3d?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Feb 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Delivery Program Strategy Intern](https://jobright.ai/jobs/info/69a062d50836fe79d8615029?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Feb 26 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
+| ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
+| ↳ | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698414f2348f733a5c37e1a6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
