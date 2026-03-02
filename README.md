@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](joinorvanta.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a59f890da45516f16e4f5e?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
 | **[Veltrana Group](veltranagroup.us)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a575e6b600907a962b29f4?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Product Owner](https://jobright.ai/jobs/info/69a56ffe359fe034b1d014d3?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976efc652f3c27ec642e54b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Undergraduate Intern](https://jobright.ai/jobs/info/69a0a8f55218a8167671d561?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 26 |
 | **[Spot & Tango](http://www.spotandtango.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a085aa5218a8167671a766?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Feb 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 26 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Product Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6983e60f348f733a5c3774bc?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
