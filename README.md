@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a5a0fb0da45516f16e50c8?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Remote | Mar 02 |
 | **[Orvanta](joinorvanta.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a59f890da45516f16e4f5e?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
 | **[Veltrana Group](veltranagroup.us)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a575e6b600907a962b29f4?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Mar 02 |
-| **[Shop Online New York](https://www.topofny.com)** | **[Product Owner](https://jobright.ai/jobs/info/69a56ffe359fe034b1d014d3?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976efc652f3c27ec642e54b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a56eb2b600907a962b245a?utm_campaign=1047&utm_source=git)** | Toledo, OH | Remote | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Ecosystem Governance Strategy & Operations Intern [TikTok-Product-Content Ecosystem] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
