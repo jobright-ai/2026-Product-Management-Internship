@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 03 |
+| **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cd7476bbe83d3afa2b6b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6976d716bc8e722e7b1b4e53?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management, Enterprise Planning & Analytics](https://jobright.ai/jobs/info/69a650742c0d8b0f5cd064cc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
-| **[Consenterra, Inc.](https://www.consenterra.ai/)** | **[AI Product Owner (Unpaid)](https://jobright.ai/jobs/info/69a6259c359fe034b1d0f707?utm_campaign=1047&utm_source=git)** | Wayne, NJ | Remote | Mar 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a624df359fe034b1d0f64a?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Mar 02 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 02 |
 | **[Catalent](https://www.catalent.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a613b2359fe034b1d0e433?utm_campaign=1047&utm_source=git)** | Greenville, NC | On Site | Mar 02 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Manager, Aftermarket Parts Intern](https://jobright.ai/jobs/info/6932e52a764507023d1b0fc0?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696837ecf25a380066969b4a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 01 |
-| **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Feb 28 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a68fdd1a944544ef633691?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/69a51d6fb600907a962abda3?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Feb 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39ace359fe034b1ce9b21?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Feb 28 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 28 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
-| **[CRH](http://crh.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69a2e4820da45516f16c42c6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[ISN](http://www.isn.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69a29970b600907a9628f3d9?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a270fab600907a9628c245?utm_campaign=1047&utm_source=git)** | Philadelphia, PA 19106, USA | Hybrid | Feb 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a0fbbd5218a816767235d3?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Feb 26 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Feb 26 |
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a1028a6b458d060735b9ef?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
