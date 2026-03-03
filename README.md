@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cd7476bbe83d3afa2b6b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6976d716bc8e722e7b1b4e53?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977db3552f3c27ec64401d0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 | **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a670e0d706a731db385fd1?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a0fbbd5218a816767235d3?utm_campaign=1047&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Feb 26 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Feb 26 |
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a1028a6b458d060735b9ef?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Feb 26 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a0dd7281476f6176bb2ebf?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Product Management Intern (full time - 6 months)](https://jobright.ai/jobs/info/69a12c5a81476f6176bb860b?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
