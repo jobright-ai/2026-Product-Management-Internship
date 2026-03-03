@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698b6058c5761b521a9ad68a?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​-Product Management](https://jobright.ai/jobs/info/69a71ddc76bbe83d3afa7955?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Mar 03 |
+| **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern - Platform](https://jobright.ai/jobs/info/69a7333a76bbe83d3afa8e7f?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Two Wheeler Telematics](https://jobright.ai/jobs/info/698a6c004db8972cecffbbee?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69a70e5776bbe83d3afa6283?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a70b072672cb0acb4b6cb2?utm_campaign=1047&utm_source=git)** | Canton, OH | On Site | Mar 03 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Mar 01 |
 | **[Kinective](https://www.kinective.io)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a55880b600907a962b00e3?utm_campaign=1047&utm_source=git)** | Golden, CO | Hybrid | Mar 01 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Mar 01 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/69a55b89359fe034b1cff802?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Mar 01 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69a4f9af0da45516f16d992b?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | ↳ | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
