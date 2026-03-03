@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a670e0d706a731db385fd1?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Product Data/AI Intern](https://jobright.ai/jobs/info/69a656d7e567421f425758b1?utm_campaign=1047&utm_source=git)** | Roswell, GA | Hybrid | Mar 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 02 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management, Enterprise Planning & Analytics](https://jobright.ai/jobs/info/69a650742c0d8b0f5cd064cc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 02 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Product Owner (Fall 2026)](https://jobright.ai/jobs/info/69a155e90da45516f16a9fb9?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a1399c81476f6176bb95f0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern Product & Marketing](https://jobright.ai/jobs/info/69a673802c0d8b0f5cd09228?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Feb 26 |
 | **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a14cf1b600907a96278d9c?utm_campaign=1047&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Feb 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[IT Product Management Intern (full time - 6 months)](https://jobright.ai/jobs/info/69a13da281476f6176bb9f27?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Feb 26 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68f90fb6cadb2e5a06a608f2?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Calyxo, Inc.](https://calyxoinc.com)** | **[Product Management Intern - Pleasanton, CA](https://jobright.ai/jobs/info/69a0cabd81476f6176bb1587?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 26 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Feb 26 |
 | **[Dana Incorporated](https://www.danatm4.com)** | **[Product Management Co-Op](https://jobright.ai/jobs/info/69a0c0100836fe79d861c0a6?utm_campaign=1047&utm_source=git)** | Maumee, OH | On Site | Feb 26 |
-| **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a08ca10836fe79d8618c10?utm_campaign=1047&utm_source=git)** | Houston, Texas, United States | On Site | Feb 26 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69a08a8281476f6176bad0f8?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
