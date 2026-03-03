@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698b6058c5761b521a9ad68a?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​-Product Management](https://jobright.ai/jobs/info/69a71ddc76bbe83d3afa7955?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Mar 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Two Wheeler Telematics](https://jobright.ai/jobs/info/698a6c004db8972cecffbbee?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69a70e5776bbe83d3afa6283?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a70b072672cb0acb4b6cb2?utm_campaign=1047&utm_source=git)** | Canton, OH | On Site | Mar 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 27 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Product Owner (Fall 2026)](https://jobright.ai/jobs/info/69a155e90da45516f16a9fb9?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation Intern](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Feb 27 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a1399c81476f6176bb95f0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
