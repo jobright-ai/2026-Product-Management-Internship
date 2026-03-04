@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698b8e84c5761b521a9b1cf1?utm_campaign=1047&utm_source=git)** | Holland, OH | On Site | Mar 04 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/698be0190f6f7e7a2ce759fd?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Mar 04 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - B1)](https://jobright.ai/jobs/info/69a7bf8876bbe83d3afb36d9?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a7b9b5637232443f650b76?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Internship - Fall 2026](https://jobright.ai/jobs/info/69a20e210da45516f16b5773?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 27 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 E-Commerce Product Owner Intern](https://jobright.ai/jobs/info/698272990a9e07331f8d7ee0?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6975a029206da320f49facac?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
-| **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
