@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - B1)](https://jobright.ai/jobs/info/69a7bf8876bbe83d3afb36d9?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a7b9b5637232443f650b76?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a7ab90637232443f64f536?utm_campaign=1047&utm_source=git)** | Canton, OH | Remote | Mar 03 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 03 |
 | ↳ | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69a7a1d576bbe83d3afb03f7?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7901876bbe83d3afaf199?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 E-Commerce Product Owner Intern](https://jobright.ai/jobs/info/698272990a9e07331f8d7ee0?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6975a029206da320f49facac?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 27 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Shark (March to August)](https://jobright.ai/jobs/info/69a1340c5218a81676726ff3?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
