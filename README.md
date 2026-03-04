@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a7ab90637232443f64f536?utm_campaign=1047&utm_source=git)** | Canton, OH | Remote | Mar 03 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 03 |
 | ↳ | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69a7a1d576bbe83d3afb03f7?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7901876bbe83d3afaf199?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69685644f25a38006696bcc5?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
 | **[ISN](http://www.isn.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69a1cc0ab600907a9628292a?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 27 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
-| **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
