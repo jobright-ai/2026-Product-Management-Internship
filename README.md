@@ -63,7 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69a7a1d576bbe83d3afb03f7?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7901876bbe83d3afaf199?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Mar 03 |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7775076bbe83d3afadba9?utm_campaign=1047&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern - Eataly Corporate](https://jobright.ai/jobs/info/69a7638c76bbe83d3afac5eb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product and Project Management Intern](https://jobright.ai/jobs/info/69a77c5d76bbe83d3afae11f?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI | On Site | Mar 03 |
