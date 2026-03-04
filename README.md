@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 03 |
+| ↳ | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69a7a1d576bbe83d3afb03f7?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Mar 03 |
+| **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7901876bbe83d3afaf199?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7775076bbe83d3afadba9?utm_campaign=1047&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[Eataly](http://www.eataly.com/)** | **[Product Intern - Eataly Corporate](https://jobright.ai/jobs/info/69a7638c76bbe83d3afac5eb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product and Project Management Intern](https://jobright.ai/jobs/info/69a77c5d76bbe83d3afae11f?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI | On Site | Mar 03 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/699fc8c081476f6176b9849d?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Mar 03 |
 | **[Maximus](http://www.maximus.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69966ff5ce78e77b4fda7bf0?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a74e102672cb0acb4bbe5e?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Mar 03 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​-Product Management](https://jobright.ai/jobs/info/69a71ddc76bbe83d3afa7955?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Mar 03 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern - Platform](https://jobright.ai/jobs/info/69a7333a76bbe83d3afa8e7f?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Two Wheeler Telematics](https://jobright.ai/jobs/info/698a6c004db8972cecffbbee?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69a70e5776bbe83d3afa6283?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a70b072672cb0acb4b6cb2?utm_campaign=1047&utm_source=git)** | Canton, OH | On Site | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a7507e1fc3d83b78093acb?utm_campaign=1047&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[CPQ Quote to Order Experience - 2026 Summer Internship](https://jobright.ai/jobs/info/698bcddbc5761b521a9b5ce8?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69a7182576bbe83d3afa74e3?utm_campaign=1047&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ISN](http://www.isn.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69a1cc0ab600907a9628292a?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 27 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 27 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/696853fcf25a38006696b999?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Feb 27 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Feb 27 |
-| **[Mouser Electronics](http://mouser.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/699aae2ce0bddb6acac9ce7a?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
