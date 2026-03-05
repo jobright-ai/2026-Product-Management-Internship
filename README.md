@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Digital Product (Summer 2026)](https://jobright.ai/jobs/info/69a9188e79f3f4037f43ce28?utm_campaign=1047&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Mar 04 |
 | **[Unanet](https://unanet.com/)** | **[Product Operations Analyst Intern](https://jobright.ai/jobs/info/699d08a4e0bddb6acacc24da?utm_campaign=1047&utm_source=git)** | Anywhere in the United States | Remote | Mar 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 04 |
 | ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8ef507ac93962b708d616?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
@@ -113,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cd7476bbe83d3afa2b6b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6976d716bc8e722e7b1b4e53?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
+| **[Kinective](https://www.kinective.io)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a55880b600907a962b00e3?utm_campaign=1047&utm_source=git)** | Golden, CO | Hybrid | Mar 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977db3552f3c27ec64401d0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 | **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a670e0d706a731db385fd1?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a68fdd1a944544ef633691?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
 | **[CRH](http://crh.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69a7c22c76bbe83d3afb3ee0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39ace359fe034b1ce9b21?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69a397e8b600907a9629a4da?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 28 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
