@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unanet](https://unanet.com/)** | **[Product Operations Analyst Intern](https://jobright.ai/jobs/info/699d08a4e0bddb6acacc24da?utm_campaign=1047&utm_source=git)** | Anywhere in the United States | Remote | Mar 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 04 |
+| ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8ef507ac93962b708d616?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69a8eb6b2580d3183f011410?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Product Management MBA Internship / Titleist Golf Balls](https://jobright.ai/jobs/info/69a8dbdc79f3f4037f43684b?utm_campaign=1047&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 04 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a8d26b2580d3183f00ef13?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Mar 04 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69a8a7112580d3183f00a868?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a8bfc32580d3183f00d03b?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Mar 04 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/69a905207ac93962b708f084?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69a892ac79f3f4037f427f97?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Product Management MBA Internship / Titleist Golf Balls](https://jobright.ai/jobs/info/69a8b5832580d3183f00bf8f?utm_campaign=1047&utm_source=git)** | Fairhaven, Massachusetts, United States of America | Hybrid | Mar 04 |
 | **[IBM](http://www.ibm.com)** | **[Kubecost Product Intern](https://jobright.ai/jobs/info/69a8be5d79f3f4037f432f6c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 04 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a68fdd1a944544ef633691?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
 | **[CRH](http://crh.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69a7c22c76bbe83d3afb3ee0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39ace359fe034b1ce9b21?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Feb 28 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69a39a63359fe034b1ce9a96?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, US | On Site | Feb 28 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69a397e8b600907a9629a4da?utm_campaign=1047&utm_source=git)** | US-CA-Pleasanton | On Site | Feb 28 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 28 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Feb 28 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
