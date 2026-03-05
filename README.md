@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69a8eb6b2580d3183f011410?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Product Management MBA Internship / Titleist Golf Balls](https://jobright.ai/jobs/info/69a8dbdc79f3f4037f43684b?utm_campaign=1047&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 04 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a8d26b2580d3183f00ef13?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Mar 04 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69a8a7112580d3183f00a868?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Product Intern / Summer 2026](https://jobright.ai/jobs/info/69a88a002580d3183f008f56?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Mar 04 |
 | ↳ | **[Campaign Product Intern / Summer 2026](https://jobright.ai/jobs/info/69a866187ac93962b7083906?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 04 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69a85eb82580d3183f007ab4?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 04 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a86e117ac93962b7083cd6?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 04 |
+| **[Velastra](joinvelastra.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a8d96179f3f4037f4365ae?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 04 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698b8e84c5761b521a9b1cf1?utm_campaign=1047&utm_source=git)** | Holland, OH | On Site | Mar 04 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/698be0190f6f7e7a2ce759fd?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Mar 04 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6947135563141d188456cfde?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Feb 28 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 28 |
-| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Feb 28 |
-| **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
