@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a8d26b2580d3183f00ef13?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Mar 04 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69a8a7112580d3183f00a868?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a8bfc32580d3183f00d03b?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Mar 04 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69a892ac79f3f4037f427f97?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Feb 28 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Feb 28 |
 | **[Plug Power](https://www.plugpower.com)** | **[Product Management Intern ( Fuel and Fuel Cells)](https://jobright.ai/jobs/info/696aacd7db26b618950ddb0b?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Feb 28 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Feb 28 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
