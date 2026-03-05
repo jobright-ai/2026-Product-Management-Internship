@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/698d19b378b4502f12a39de9?utm_campaign=1047&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 05 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
+| ↳ | **[Product Management Internship- Fans](https://jobright.ai/jobs/info/698d00450f6f7e7a2ce8ac3f?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 05 |
 | **[Aligno](https://aligno.ai/)** | **[Product Manager](https://jobright.ai/jobs/info/69a92ab17ac93962b7091cf2?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Digital Product (Summer 2026)](https://jobright.ai/jobs/info/69a9188e79f3f4037f43ce28?utm_campaign=1047&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Mar 04 |
@@ -67,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Product Management MBA Internship / Titleist Golf Balls](https://jobright.ai/jobs/info/69a8dbdc79f3f4037f43684b?utm_campaign=1047&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 04 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a8d26b2580d3183f00ef13?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Mar 04 |
+| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a972c7f2055e05d1719ddc?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Mar 04 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69a970fc7f9271426f884ed8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Mar 04 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69a8a7112580d3183f00a868?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a8bfc32580d3183f00d03b?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Mar 04 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/69a905207ac93962b708f084?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Product Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a55a1e0da45516f16e02ce?utm_campaign=1047&utm_source=git)** | Remote, US | Remote | Mar 02 |
 | ↳ | **[Product Management Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a558a3b600907a962b026c?utm_campaign=1047&utm_source=git)** | Washington, DC | Remote | Mar 02 |
 | **[SuccessKPI](http://www.successkpi.com)** | **[Product Management Summer Intern 2026 – New Innovation](https://jobright.ai/jobs/info/698d089ef64d441a164ee5a9?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Mar 01 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Line Management Intern - Master's (Gloucester, MA)](https://jobright.ai/jobs/info/699688c9ce78e77b4fda9ec6?utm_campaign=1047&utm_source=git)** | Gloucester, MA | On Site | Mar 01 |
-| **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69a4f9af0da45516f16d992b?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
-| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
-| ↳ | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
-| **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/698d656978b4502f12a409a0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
