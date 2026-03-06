@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Innovation](https://jobright.ai/jobs/info/698d141bf64d441a164ef8e7?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
 | **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a9fb7d9ca4e908ec654829?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 05 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/698d19b378b4502f12a39de9?utm_campaign=1047&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 05 |
-| **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Fans](https://jobright.ai/jobs/info/698d00450f6f7e7a2ce8ac3f?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
-| ↳ | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
+| ↳ | **[Product Management Internship- Fans](https://jobright.ai/jobs/info/698d00450f6f7e7a2ce8ac3f?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Mar 05 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Product Operations Intern - State Relations](https://jobright.ai/jobs/info/6969713b639b452fb57f4db5?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 05 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Identity, Products, & Loyalty - Onboard Digital Product (Summer 2026)](https://jobright.ai/jobs/info/69a9188e79f3f4037f43ce28?utm_campaign=1047&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Mar 04 |
 | **[Unanet](https://unanet.com/)** | **[Product Operations Analyst Intern](https://jobright.ai/jobs/info/699d08a4e0bddb6acacc24da?utm_campaign=1047&utm_source=git)** | Anywhere in the United States | Remote | Mar 04 |
@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a861f31dfc787e9aa357c8?utm_campaign=1047&utm_source=git)** | Birmingham, AL, USA | On Site | Mar 03 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern-Product Management](https://jobright.ai/jobs/info/69a923b779f3f4037f43dba8?utm_campaign=1047&utm_source=git)** | King of Prussia, PA | On Site | Mar 03 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69a9224179f3f4037f43d8c3?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Mar 03 |
-| **[Guardify](https://vidanyx.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69aa3f6d1f59c56275e31a02?utm_campaign=1047&utm_source=git)** | Omaha, 1111 N. 13th St. Suite 137, US | On Site | Mar 03 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​-Product Management](https://jobright.ai/jobs/info/69a71ddc76bbe83d3afa7955?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Mar 03 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern - Platform](https://jobright.ai/jobs/info/69a7333a76bbe83d3afa8e7f?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Two Wheeler Telematics](https://jobright.ai/jobs/info/698a6c004db8972cecffbbee?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a670e0d706a731db385fd1?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
 | ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
+| ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67e84e567421f425781cb?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
