@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product development intern](https://jobright.ai/jobs/info/69aa6e982ebd316bece22c90?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 05 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/69aa67e91f59c56275e3405b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa5fc82ebd316bece22099?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 05 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Financial Operations Intern](https://jobright.ai/jobs/info/69aa38932ebd316bece1fb88?utm_campaign=1047&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Mar 05 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cd7476bbe83d3afa2b6b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 03 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
+| **[Kinective](https://www.kinective.io)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a55880b600907a962b00e3?utm_campaign=1047&utm_source=git)** | Golden, CO | Hybrid | Mar 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977db3552f3c27ec64401d0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
 | **[NetApp Learning Services](https://www.netapp.com/us/services-support/university/index.aspx)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69a9492b0bc35444388b36de?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Mar 02 |
 | **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a670e0d706a731db385fd1?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
-| **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
-| ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
