@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/69aa67e91f59c56275e3405b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 05 |
+| **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa5fc82ebd316bece22099?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 05 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Financial Operations Intern](https://jobright.ai/jobs/info/69aa38932ebd316bece1fb88?utm_campaign=1047&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa32d69ca4e908ec658869?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 05 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69aa32002ebd316bece1f449?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Mar 05 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/6971ad3551f726477184218c?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Mar 05 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/69a9c2dc9ca4e908ec64f733?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Mar 05 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a9c08b2ebd316bece14dcd?utm_campaign=1047&utm_source=git)** | New York, NY, US | On Site | Mar 05 |
-| **[Nexiora Holdings](nexioraholdings.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a9e1b62ebd316bece17702?utm_campaign=1047&utm_source=git)** | Columbus, OH | Remote | Mar 05 |
 | **[Toast](https://pos.toasttab.com)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/69a9b61e9ca4e908ec64edd0?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Mar 05 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Ninja (July to December)](https://jobright.ai/jobs/info/6971e404b707bf728a4b80b4?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 05 |
 | **[PCB Piezotronics, Inc.](http://www.pcb.com/)** | **[Technical Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69a9af4f9ca4e908ec64e853?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI | On Site | Mar 05 |
@@ -120,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 04 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - B1)](https://jobright.ai/jobs/info/69a7bf8876bbe83d3afb36d9?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a7b9b5637232443f650b76?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69aa561d9ca4e908ec65abaf?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 03 |
 | ↳ | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69a7a1d576bbe83d3afb03f7?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Mar 03 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69aa48211f59c56275e32233?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product](https://jobright.ai/jobs/info/69a7901876bbe83d3afaf199?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Mar 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tactacam](https://www.tactacam.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a670e0d706a731db385fd1?utm_campaign=1047&utm_source=git)** | Billings, MT | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
 | ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
-| ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67e84e567421f425781cb?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
