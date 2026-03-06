@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/69ab20127e1fab39d382a704?utm_campaign=1047&utm_source=git)** | San Francisco, CA - Hybrid | Hybrid | Mar 06 |
+| **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Product Intern - On Site - Troy, MI](https://jobright.ai/jobs/info/69ab1f172747003c3d50bcdd?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Mar 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ab16fa142d5b4265fc4ef5?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Mar 06 |
 | **[Entegris](http://www.entegris.com)** | **[Mainstream SBU Summer 2026 Intern](https://jobright.ai/jobs/info/69ab0834142d5b4265fc46de?utm_campaign=1047&utm_source=git)** | Colorado Springs, CO | On Site | Mar 06 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Cyber Resilience](https://jobright.ai/jobs/info/69ab07527e1fab39d3829614?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab025f142d5b4265fc4313?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69ab02437e1fab39d3829318?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Mar 06 |
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Private Label Merchandise Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Mar 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Decision Science Product Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cd7476bbe83d3afa2b6b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 06 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
 | **[Logitech](https://www.logitech.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69aa9ebc2ebd316bece2654c?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980f173abff4c399a9fbd3a?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Mar 06 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Mar 06 |
 | **[Logitech](https://www.logitech.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69aa90f134184204e4491485?utm_campaign=1047&utm_source=git)** | San Jose, California - USA | On Site | Mar 06 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/69aa67e91f59c56275e3405b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa5fc82ebd316bece22099?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69966ff5ce78e77b4fda7bf0?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 03 |
 | **[NAPA Auto Parts](http://napaonline.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a861f31dfc787e9aa357c8?utm_campaign=1047&utm_source=git)** | Birmingham, AL, USA | On Site | Mar 03 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern-Product Management](https://jobright.ai/jobs/info/69a923b779f3f4037f43dba8?utm_campaign=1047&utm_source=git)** | King of Prussia, PA | On Site | Mar 03 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69a9224179f3f4037f43d8c3?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Mar 03 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​-Product Management](https://jobright.ai/jobs/info/69a71ddc76bbe83d3afa7955?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania | On Site | Mar 03 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern - Platform](https://jobright.ai/jobs/info/69a7333a76bbe83d3afa8e7f?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
