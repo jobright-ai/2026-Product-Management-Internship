@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shop Online New York](https://www.topofny.com)** | **[Product Owner](https://jobright.ai/jobs/info/69ab91022747003c3d510f6c?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69ab6c3e7e1fab39d382f520?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab4474142d5b4265fc8dd8?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
@@ -94,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Logitech](https://www.logitech.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69aa90f134184204e4491485?utm_campaign=1047&utm_source=git)** | San Jose, California - USA | On Site | Mar 06 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/69aa67e91f59c56275e3405b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa5fc82ebd316bece22099?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 05 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69abb127142d5b4265fce832?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Mar 05 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Financial Operations Intern](https://jobright.ai/jobs/info/69aa38932ebd316bece1fb88?utm_campaign=1047&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa32d69ca4e908ec658869?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 05 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69aa32002ebd316bece1f449?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Mar 05 |
