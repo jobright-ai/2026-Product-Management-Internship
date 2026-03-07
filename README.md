@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glass](https://gcommerce.glass)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ab659c7e1fab39d382ecae?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Remote | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab4474142d5b4265fc8dd8?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026 - B1)](https://jobright.ai/jobs/info/69a7bf8876bbe83d3afb36d9?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a7b9b5637232443f650b76?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69aa561d9ca4e908ec65abaf?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 03 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
