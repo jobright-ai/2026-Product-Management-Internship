@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Glass](https://gcommerce.glass)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ab659c7e1fab39d382ecae?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Remote | Mar 06 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69ab6c3e7e1fab39d382f520?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab4474142d5b4265fc8dd8?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
