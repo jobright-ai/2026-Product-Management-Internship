@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69aa30c11f59c56275e307a1?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Mar 05 |
 | **[Ariat International](http://www.ariat.com)** | **[Footwear Product Development Intern](https://jobright.ai/jobs/info/69aa2a709ca4e908ec65712a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | Hybrid | Mar 05 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
-| **[Strava](http://www.strava.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69aa11e29ca4e908ec655e7d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - New York, NY](https://jobright.ai/jobs/info/69aab9e2142d5b4265fc1662?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 05 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Innovation Intern- Summer 2026](https://jobright.ai/jobs/info/69a9fbc99ca4e908ec6549f5?utm_campaign=1047&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 05 |
 | **[Life Extension](https://www.lifeextension.com/)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69a9f8eb2ebd316bece1b502?utm_campaign=1047&utm_source=git)** | Florida, Fort Lauderdale, FL, US | Hybrid | Mar 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campaign Product Intern / Summer 2026](https://jobright.ai/jobs/info/69a866187ac93962b7083906?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 04 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69a85eb82580d3183f007ab4?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 04 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698b8e84c5761b521a9b1cf1?utm_campaign=1047&utm_source=git)** | Holland, OH | On Site | Mar 04 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/698be0190f6f7e7a2ce759fd?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
