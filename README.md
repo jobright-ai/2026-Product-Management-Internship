@@ -76,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/69abc28a7e1fab39d38376aa?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Mar 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69acef607e1fab39d38463d6?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 06 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ac8f07142d5b4265fdd0c6?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/69ab3b522747003c3d50e8f2?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 06 |
 | **[Acima](https://www.acima.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ab3ac42747003c3d50e856?utm_campaign=1047&utm_source=git)** | Draper, UT | On Site | Mar 06 |
 | **[Upbound Group](https://www.upbound.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ab3a312747003c3d50e7a0?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Mar 06 |
