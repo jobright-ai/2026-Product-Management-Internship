@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfb6206da320f4a08614?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Product Management Intern](https://jobright.ai/jobs/info/699178126ea51a7610f3e20f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 08 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/69a6f25f2672cb0acb4b57a6?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Mar 07 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 07 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/699003ae0f6f7e7a2cec565c?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/698c01580f6f7e7a2ce79100?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/69a876287ac93962b70840a3?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Product Management (eCommerce)](https://jobright.ai/jobs/info/69a3cf900da45516f16cc71b?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 04 |
-| **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Product Intern / Summer 2026](https://jobright.ai/jobs/info/69a88a002580d3183f008f56?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Mar 04 |
-| ↳ | **[Campaign Product Intern / Summer 2026](https://jobright.ai/jobs/info/69a866187ac93962b7083906?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
