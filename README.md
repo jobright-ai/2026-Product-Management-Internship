@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
-| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69a5fb0c0da45516f16ecbb2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69a5fb0c0da45516f16ecbb2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/69a5f4890da45516f16ec0a0?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfb6206da320f4a08614?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Management Intern](https://jobright.ai/jobs/info/699178126ea51a7610f3e20f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 08 |
