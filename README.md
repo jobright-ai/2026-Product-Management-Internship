@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980e3807f40342e15d9b1f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 07 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/69abc28a7e1fab39d38376aa?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Mar 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69acef607e1fab39d38463d6?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 06 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ae34c64f6bcc1828093a34?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/69ab3b522747003c3d50e8f2?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Product Management MBA Internship / Titleist Golf Balls](https://jobright.ai/jobs/info/69a8b5832580d3183f00bf8f?utm_campaign=1047&utm_source=git)** | Fairhaven, Massachusetts, United States of America | Hybrid | Mar 04 |
 | **[IBM](http://www.ibm.com)** | **[Kubecost Product Intern](https://jobright.ai/jobs/info/69a8be5d79f3f4037f432f6c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 04 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69a88c2c79f3f4037f426299?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 04 |
-| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
