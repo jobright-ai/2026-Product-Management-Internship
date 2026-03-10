@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Summer 2026](https://jobright.ai/jobs/info/6993c863e0bddb6acac2103d?utm_campaign=1047&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 10 |
+| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
+| **[State Street](https://www.statestreet.com/)** | **[Product Management - Summer Internship- CRD](https://jobright.ai/jobs/info/69afd57cf63f733065b3d503?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Mar 10 |
 | **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69af903d7495006450941084?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69a616d3b600907a962bfa0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
-| **[Autodesk](http://www.autodesk.com)** | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aaeb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
-| ↳ | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aae8?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
+| **[Autodesk](http://www.autodesk.com)** | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aae8?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
+| ↳ | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aaeb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69af7b49749500645093fb3f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 09 |
 | **[Circle](https://www.circle.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69af7b1d749500645093fafc?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 09 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Monetization Product Management Intern (Summer 2026 - In-Person - NYC)](https://jobright.ai/jobs/info/69af78bd6b21de023e60aa27?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ariat International](http://www.ariat.com)** | **[Footwear Product Development Intern](https://jobright.ai/jobs/info/69aa2a709ca4e908ec65712a?utm_campaign=1047&utm_source=git)** | San Leandro, CA | Hybrid | Mar 05 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Innovation Intern- Summer 2026](https://jobright.ai/jobs/info/69a9fbc99ca4e908ec6549f5?utm_campaign=1047&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 05 |
-| **[Life Extension](https://www.lifeextension.com/)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69a9f8eb2ebd316bece1b502?utm_campaign=1047&utm_source=git)** | Florida, Fort Lauderdale, FL, US | Hybrid | Mar 05 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/69a9c2dc9ca4e908ec64f733?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Mar 05 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a9c08b2ebd316bece14dcd?utm_campaign=1047&utm_source=git)** | New York, NY, US | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
