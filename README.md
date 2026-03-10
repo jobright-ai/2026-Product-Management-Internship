@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product manager intern](https://jobright.ai/jobs/info/69af9a1edfaeda6ff597ddd6?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Mar 09 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69af903d7495006450941084?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69a616d3b600907a962bfa0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
 | **[Autodesk](http://www.autodesk.com)** | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aaeb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
 | ↳ | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aae8?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
@@ -91,11 +93,11 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Mar 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/6976dfc437785856351063b0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 09 |
 | ↳ | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 09 |
-| **[Multnomah County](https://multco.us)** | **[DCA - IT Business Systems Analyst Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c559?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Mar 09 |
-| ↳ | **[DCA - IT Product Owner Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c55d?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| **[Multnomah County](https://multco.us)** | **[DCA - IT Product Owner Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c55d?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCA - IT Business Systems Analyst Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c559?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Mar 09 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern - United States](https://jobright.ai/jobs/info/69ae58f94f6bcc1828098161?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 08 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69a5fb0c0da45516f16ecbb2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
+| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69a5fb0c0da45516f16ecbb2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/69a5f4890da45516f16ec0a0?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfb6206da320f4a08614?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Management Intern](https://jobright.ai/jobs/info/699178126ea51a7610f3e20f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/699f8030ce78e77b4fe54353?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Innovation Intern- Summer 2026](https://jobright.ai/jobs/info/69a9fbc99ca4e908ec6549f5?utm_campaign=1047&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Mar 05 |
 | **[Life Extension](https://www.lifeextension.com/)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69a9f8eb2ebd316bece1b502?utm_campaign=1047&utm_source=git)** | Florida, Fort Lauderdale, FL, US | Hybrid | Mar 05 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Summer 2026 Recruitment (Remote)](https://jobright.ai/jobs/info/69a9c2dc9ca4e908ec64f733?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | Remote | Mar 05 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a9c08b2ebd316bece14dcd?utm_campaign=1047&utm_source=git)** | New York, NY, US | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
