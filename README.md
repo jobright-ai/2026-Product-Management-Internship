@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69af903d7495006450941084?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/69a616d3b600907a962bfa0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
 | **[Autodesk](http://www.autodesk.com)** | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aaeb?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
-| ↳ | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af85b0dfaeda6ff597aae8?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 09 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69af7b49749500645093fb3f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 09 |
 | **[Circle](https://www.circle.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69af7b1d749500645093fafc?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 09 |
 | **[Paramount+](https://www.paramount.com/brand/paramount-plus)** | **[Monetization Product Management Intern (Summer 2026 - In-Person - NYC)](https://jobright.ai/jobs/info/69af78bd6b21de023e60aa27?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ace736142d5b4265fe122a?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Mar 05 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa32d69ca4e908ec658869?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 05 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69aa32002ebd316bece1f449?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Mar 05 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/69aa31ae9ca4e908ec658521?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Mar 05 |
-| **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa311a1f59c56275e30934?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 05 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69aa30c11f59c56275e307a1?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
