@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Development, Boys](https://jobright.ai/jobs/info/69b068720b2db6275c044d57?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Mar 10 |
+| ↳ | **[Intern - Product Development, Plush](https://jobright.ai/jobs/info/69b0685a0b2db6275c044cdf?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Mar 10 |
+| ↳ | **[Intern - Product Development, Costumes](https://jobright.ai/jobs/info/69b0671b74950064509693ee?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Mar 10 |
 | **[LG Electronics](http://www.lg.com)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b05432dfaeda6ff59a01a9?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b04f9a0b2db6275c03fccb?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[TLG](https://www.linkedin.com/company/109189368)** | **[Design and Product Development Intern](https://jobright.ai/jobs/info/69b040eb0b2db6275c03d273?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
@@ -103,11 +106,11 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Mar 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/6976dfc437785856351063b0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 09 |
 | ↳ | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 09 |
-| **[Multnomah County](https://multco.us)** | **[DCA - IT Business Systems Analyst Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c559?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Mar 09 |
-| ↳ | **[DCA - IT Product Owner Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c55d?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| **[Multnomah County](https://multco.us)** | **[DCA - IT Product Owner Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c55d?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Mar 09 |
+| ↳ | **[DCA - IT Business Systems Analyst Internship](https://jobright.ai/jobs/info/69ae83be4f6bcc182809c559?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Mar 09 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern - United States](https://jobright.ai/jobs/info/69ae58f94f6bcc1828098161?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 08 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
-| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69a5fb0c0da45516f16ecbb2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69a5fb0c0da45516f16ecbb2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 08 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/69a5f4890da45516f16ec0a0?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Mar 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfb6206da320f4a08614?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Management Intern](https://jobright.ai/jobs/info/699178126ea51a7610f3e20f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980f173abff4c399a9fbd3a?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[Logitech](https://www.logitech.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69aa90f134184204e4491485?utm_campaign=1047&utm_source=git)** | San Jose, California - USA | On Site | Mar 06 |
 | **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa5fc82ebd316bece22099?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 05 |
-| **[Samsung Ads](http://www.samsungads.com)** | **[Product Management Financial Operations Intern](https://jobright.ai/jobs/info/69aa38932ebd316bece1fb88?utm_campaign=1047&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Mar 05 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ace736142d5b4265fe122a?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Mar 05 |
-| **[The Bradford Exchange](https://www.bradfordexchange.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69aa32d69ca4e908ec658869?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
