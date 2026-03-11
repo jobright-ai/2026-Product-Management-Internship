@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Worldwide Business & Product Operations: Workstation Operations Intern Summer 2026](https://jobright.ai/jobs/info/69a503c2359fe034b1cf9b01?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b188d0d04c69566c73d999?utm_campaign=1047&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 11 |
+| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b17f33548f140066e75932?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Mar 11 |
+| **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – AI Product Manager](https://jobright.ai/jobs/info/6998fbcee0bddb6acac7ee86?utm_campaign=1047&utm_source=git)** | East Hanover, NJ | Hybrid | Mar 11 |
 | **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698d8569f64d441a164f9cab?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Mar 11 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/699481bbe0bddb6acac2f1a2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
 | **[Verc](verc.ai)** | **[Founding Product & GTM MBA Intern](https://jobright.ai/jobs/info/69b16ec7d04c69566c73b161?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 11 |
@@ -93,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b05432dfaeda6ff59a01a9?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b04f9a0b2db6275c03fccb?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[TLG](https://www.linkedin.com/company/109189368)** | **[Design and Product Development Intern](https://jobright.ai/jobs/info/69b040eb0b2db6275c03d273?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
-| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| ↳ | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
@@ -124,9 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Resultant](https://resultant.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69af31e8dfaeda6ff5974924?utm_campaign=1047&utm_source=git)** | Indianapolis, IN, USA | Hybrid | Mar 09 |
 | **[Signal Energy](http://www.signalenergy.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69af30d16b21de023e605991?utm_campaign=1047&utm_source=git)** | Houston, Texas, United States | On Site | Mar 09 |
 | **[LogicGate](https://www.logicgate.com)** | **[Product Management Intern (Chicago)](https://jobright.ai/jobs/info/69aedb966b21de023e5fe9ea?utm_campaign=1047&utm_source=git)** | Chicago - United States | On Site | Mar 09 |
-| **[First American](http://www.firstam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69aeea936b21de023e600443?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | On Site | Mar 09 |
-| **[LogicGate](https://www.logicgate.com)** | **[Product Management Intern (Chicago)](https://jobright.ai/jobs/info/69aee6466b21de023e6000aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
-| **[First American](http://www.firstam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69aee62bdfaeda6ff596edd9?utm_campaign=1047&utm_source=git)** | USA, South Carolina, Fort Mill | On Site | Mar 09 |
+| ↳ | **[Product Management Intern (Chicago)](https://jobright.ai/jobs/info/69aee6466b21de023e6000aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
 | **[Visa](https://www.visa.com)** | **[Associate Product Manager (APM) Intern - Summer 2026 (San Francisco, CA)](https://jobright.ai/jobs/info/69aeda3e7495006450933894?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 09 |
 | ↳ | **[Associate Product Manager (APM) Intern - Summer 2026 (San Francisco, CA)](https://jobright.ai/jobs/info/69aeda14dfaeda6ff596d1ac?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 09 |
 | ↳ | **[Associate Product Manager (APM) Intern - Summer 2026 (Austin, TX)](https://jobright.ai/jobs/info/69aed9e36b21de023e5fe4a6?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b0f33a0b2db6275c05e3be?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69acef607e1fab39d38463d6?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 06 |
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
-| **[Acima](https://www.acima.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ab3ac42747003c3d50e856?utm_campaign=1047&utm_source=git)** | Draper, UT | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
