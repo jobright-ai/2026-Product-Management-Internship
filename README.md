@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69b0accb7495006450976cdc?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 10 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[TAS Energy](http://www.tas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b093cadfaeda6ff59ab1eb?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Mar 10 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[TLG](https://www.linkedin.com/company/109189368)** | **[Design and Product Development Intern](https://jobright.ai/jobs/info/69b040eb0b2db6275c03d273?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Private Label Merchandise Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Mar 06 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69aad62b2747003c3d5086a8?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Mar 06 |
-| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
