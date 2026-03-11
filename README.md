@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698d8569f64d441a164f9cab?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Mar 11 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/699481bbe0bddb6acac2f1a2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
+| **[Verc](verc.ai)** | **[Founding Product & GTM MBA Intern](https://jobright.ai/jobs/info/69b16ec7d04c69566c73b161?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 11 |
+| **[Sloan](https://www.sloan.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69798f260791bc1d72303d12?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Mar 11 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/69a3cf78359fe034b1cebd6a?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 11 |
 | **[Balchem Corporation](http://balchem.com)** | **[Commercial & Product Management Intern](https://jobright.ai/jobs/info/698622b70f6f7e7a2ce0f8c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 11 |
+| **[Light Water](https://www.linkedin.com/company/112759055)** | **[Product & Growth Intern (Forex)](https://jobright.ai/jobs/info/69b16685d04c69566c73a0aa?utm_campaign=1047&utm_source=git)** | Corydon, IN | Remote | Mar 10 |
 | **[Catalent](https://www.catalent.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69b0ea4d7495006450980c26?utm_campaign=1047&utm_source=git)** | Winchester, KY | On Site | Mar 10 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b0d3770b2db6275c058182?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Mar 10 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69b0cff10b2db6275c05740f?utm_campaign=1047&utm_source=git)** | Fresno, CA | On Site | Mar 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perlick](https://www.perlick.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/697840e152f3c27ec6447d59?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 06 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 06 |
 | **[Acima](https://www.acima.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ab3ac42747003c3d50e856?utm_campaign=1047&utm_source=git)** | Draper, UT | On Site | Mar 06 |
-| **[Upbound Group](https://www.upbound.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ab3a312747003c3d50e7a0?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Mar 06 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69ab366f142d5b4265fc8076?utm_campaign=1047&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
-| ↳ | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69ab36382747003c3d50e48c?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 06 |
-| **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Product Intern - On Site - Troy, MI](https://jobright.ai/jobs/info/69ab2cfb2747003c3d50d4ce?utm_campaign=1047&utm_source=git)** | Troy,MI,US | On Site | Mar 06 |
-| **[Entegris](http://www.entegris.com)** | **[Mainstream SBU Summer 2026 Intern](https://jobright.ai/jobs/info/69ab2a9b2747003c3d50cdab?utm_campaign=1047&utm_source=git)** | Colorado Springs, CO | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
