@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Individual Market Product and Sales Intern - Summer 2026](https://jobright.ai/jobs/info/69b0bf6a7495006450979f61?utm_campaign=1047&utm_source=git)** | Providence County, RI | Hybrid | Mar 10 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/69b0bc250b2db6275c052ccc?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 10 |
+| **[Diligent](http://diligent.com)** | **[Product Builder Intern - Diligent Boards](https://jobright.ai/jobs/info/69b0ba157495006450978fb5?utm_campaign=1047&utm_source=git)** | New York, New York, United States | Hybrid | Mar 10 |
+| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Product Intern, Personal Lines](https://jobright.ai/jobs/info/69b0b5657495006450978071?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 10 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management Intern -Summer Recruitment MD/VA/DC (Hybrid)](https://jobright.ai/jobs/info/69b0accb7495006450976cdc?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 10 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Cyber Resilience](https://jobright.ai/jobs/info/69ab07527e1fab39d3829614?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab025f142d5b4265fc4313?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Mar 06 |
 | **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69ab02437e1fab39d3829318?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6973db9737785856350dad4f?utm_campaign=1047&utm_source=git)** | West Greenwich, RI | On Site | Mar 06 |
-| **[Health-E Commerce](https://www.health-ecommerce.com)** | **[Private Label Merchandise Development Intern](https://jobright.ai/jobs/info/698625610f6f7e7a2ce0fe05?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Mar 06 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Strategy and Integration Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69aad62b2747003c3d5086a8?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
