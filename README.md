@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/699a832d81476f6176b3143e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Mar 12 |
+| **[Catalent](https://www.catalent.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69967bb7ce78e77b4fda8c80?utm_campaign=1047&utm_source=git)** | Greenville, NC | On Site | Mar 12 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 12 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Product Data Intern - Fall 2026](https://jobright.ai/jobs/info/69966043e0bddb6acac4d2bc?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Mar 12 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b2a8a7ae2a534885e9ccad?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 12 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Mar 12 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/69b293a3ad360c0340a768dc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Mar 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
-| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b05432dfaeda6ff59a01a9?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b04f9a0b2db6275c03fccb?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 10 |
 | **[TLG](https://www.linkedin.com/company/109189368)** | **[Design and Product Development Intern](https://jobright.ai/jobs/info/69b040eb0b2db6275c03d273?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
-| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| ↳ | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circle](https://www.circle.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69af7b1d749500645093fafc?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Mar 09 |
 | **[Autodesk](http://www.autodesk.com)** | **[Strategy Internship — Product Development and Manufacturing Solutions (PDMS)](https://jobright.ai/jobs/info/69af4c08dfaeda6ff5976b3b?utm_campaign=1047&utm_source=git)** | California, USA - Remote | Remote | Mar 09 |
 | **[Signal Energy](http://www.signalenergy.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69af464f6b21de023e60793f?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Mar 09 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69af318e6b21de023e605a99?utm_campaign=1047&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69af3d9b6b21de023e60705b?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
