@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b25ab7ae2a534885e95a72?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/699944cece78e77b4fde0647?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Data Analytics - Assortment Planner Intern & Co-Op](https://jobright.ai/jobs/info/69b22640548f140066e863b9?utm_campaign=1047&utm_source=git)** | Chesapeake, VA | On Site | Mar 11 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Insurance Product Management Intern](https://jobright.ai/jobs/info/69b1faba65de58104c7165d8?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | Mar 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Cell Therapy Supply Chain Intern, Cell Therapy Product Data Management](https://jobright.ai/jobs/info/69b1faa065de58104c716540?utm_campaign=1047&utm_source=git)** | Madison - Giralda - NJ - US | On Site | Mar 11 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69acef607e1fab39d38463d6?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 11 |
-| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b1efca548f140066e80c51?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b1eacd65de58104c713bcd?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 11 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/69b1d591d04c69566c74350b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | Hybrid | Mar 11 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Product Owner, Intern](https://jobright.ai/jobs/info/69b1d4ff548f140066e7bb4c?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[TLG](https://www.linkedin.com/company/109189368)** | **[Design and Product Development Intern](https://jobright.ai/jobs/info/69b040eb0b2db6275c03d273?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer / Prophet21](https://jobright.ai/jobs/info/69a8b7fd7ac93962b7087dff?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/698e6e6778b4502f12a53b5e?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/698e57dbf64d441a16508c7f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| ↳ | **[Intern / Product Developer](https://jobright.ai/jobs/info/698e67bbf64d441a16509e8c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/698d06a9f64d441a164ee371?utm_campaign=1047&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6993c9b3e0bddb6acac21164?utm_campaign=1047&utm_source=git)** | Commerce, CA | On Site | Mar 10 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (FT, Summer 2026)](https://jobright.ai/jobs/info/699789b381476f6176af9f5b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 10 |
