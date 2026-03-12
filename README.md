@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b1efca548f140066e80c51?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 11 |
+| **[Berkley Technology Services](https://berkley-bts.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b1eacd65de58104c713bcd?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 11 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/69b1d591d04c69566c74350b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | Hybrid | Mar 11 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Product Owner, Intern](https://jobright.ai/jobs/info/69b1d4ff548f140066e7bb4c?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
 | **[Vitamix](http://vitamix.com)** | **[Product & Category Management Intern (Hybrid)](https://jobright.ai/jobs/info/69b1c312d04c69566c74047c?utm_campaign=1047&utm_source=git)** | Olmsted, OH | Hybrid | Mar 11 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-149460 Product Architecture & Operations](https://jobright.ai/jobs/info/69b19652548f140066e769a3?utm_campaign=1047&utm_source=git)** | 441 E Jefferson Ave, Detroit, MI, 48226, US | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Worldwide Business & Product Operations: Workstation Operations Intern Summer 2026](https://jobright.ai/jobs/info/69a503c2359fe034b1cf9b01?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b188d0d04c69566c73d999?utm_campaign=1047&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 11 |
-| **[Novartis](https://www.novartis.com)** | **[2026 IDS Summer Intern – AI Product Manager](https://jobright.ai/jobs/info/6998fbcee0bddb6acac7ee86?utm_campaign=1047&utm_source=git)** | East Hanover, NJ | Hybrid | Mar 11 |
 | **[First American](http://www.firstam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b199a1548f140066e76c11?utm_campaign=1047&utm_source=git)** | USA, South Carolina, Fort Mill | On Site | Mar 11 |
 | **[Marvin](http://www.marvin.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/698d8569f64d441a164f9cab?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Mar 11 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/699481bbe0bddb6acac2f1a2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976dfb6206da320f4a08614?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 08 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Management Intern](https://jobright.ai/jobs/info/699178126ea51a7610f3e20f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 08 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Generics Commercial Ops](https://jobright.ai/jobs/info/69a6f25f2672cb0acb4b57a6?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Mar 07 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/699003ae0f6f7e7a2cec565c?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
