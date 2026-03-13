@@ -83,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Versant Health](https://versanthealth.com/)** | **[Summer Internship – Product Development](https://jobright.ai/jobs/info/69b2f283a8ac8e70ff671823?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Mar 12 |
 | **[StockX](https://stockx.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b2efb3ad360c0340a801e2?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Mar 12 |
 | **[GTE Financial](https://www.gtefinancial.org/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b2e94ea8ac8e70ff670ea8?utm_campaign=1047&utm_source=git)** | Tampa, FL (HQ) | Hybrid | Mar 12 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69a13abd6b458d060735f79a?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Mar 12 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69a166b6b600907a9627c8a3?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69a166b6b600907a9627c8a3?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
 | **[k-ID](https://k-id.com/)** | **[Product Internship Program 2026](https://jobright.ai/jobs/info/69b2dc68ad360c0340a7d5f9?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Mar 12 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/699a832d81476f6176b3143e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Mar 12 |
 | **[Catalent](https://www.catalent.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69967bb7ce78e77b4fda8c80?utm_campaign=1047&utm_source=git)** | Greenville, NC | On Site | Mar 12 |
@@ -122,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Worldly](http://www.worldly.io)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b34a88ad360c0340a86cbe?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Mar 11 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Insurance Product Management Intern](https://jobright.ai/jobs/info/69b1faba65de58104c7165d8?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | Mar 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Cell Therapy Supply Chain Intern, Cell Therapy Product Data Management](https://jobright.ai/jobs/info/69b1faa065de58104c716540?utm_campaign=1047&utm_source=git)** | Madison - Giralda - NJ - US | On Site | Mar 11 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69acef607e1fab39d38463d6?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 11 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b1eacd65de58104c713bcd?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 11 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/69b1d591d04c69566c74350b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | Hybrid | Mar 11 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Product Owner, Intern](https://jobright.ai/jobs/info/69b1d4ff548f140066e7bb4c?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 10 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[TAS Energy](http://www.tas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b093cadfaeda6ff59ab1eb?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Mar 10 |
+| **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a68fdd1a944544ef633691?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 10 |
+| **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b0816e0b2db6275c049748?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
