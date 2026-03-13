@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Product Manager, Residential Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/69b46c2e5697383741393aaf?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 13 |
+| **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Product Management Intern](https://jobright.ai/jobs/info/69b469185697383741392b5c?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/69b467983b74eb1e2c819ce5?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Mar 13 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 13 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/69a0147e53d97f23ee65d126?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 13 |
 | ↳ | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/699fe3e853d97f23ee656fcf?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Mar 13 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae2f717b11b1c2e41b3b5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-149460 Product Architecture & Operations](https://jobright.ai/jobs/info/69b1b3f965de58104c70b4f1?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Mar 11 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Product Management (Dallas,TX)](https://jobright.ai/jobs/info/6997f28981476f6176b0429f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b19d92548f140066e76eae?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 11 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-149460 Product Architecture & Operations](https://jobright.ai/jobs/info/69b19652548f140066e769a3?utm_campaign=1047&utm_source=git)** | 441 E Jefferson Ave, Detroit, MI, 48226, US | On Site | Mar 11 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Worldwide Business & Product Operations: Workstation Operations Intern Summer 2026](https://jobright.ai/jobs/info/69a503c2359fe034b1cf9b01?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b188d0d04c69566c73d999?utm_campaign=1047&utm_source=git)** | Chicago (Green St), IL | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
