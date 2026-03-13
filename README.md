@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frankenmuth Insurance](https://www.fmins.com)** | **[Internship (CL Product Management and Corporate Underwriting)](https://jobright.ai/jobs/info/69b47fca06c1ba00c545fb0a?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Snyk](https://snyk.io   )** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b47abd06c1ba00c545ef7b?utm_campaign=1047&utm_source=git)** | United States - Boston Office | Hybrid | Mar 13 |
+| **[Colonist](https://colonist.io/)** | **[Product Developer Intern](https://jobright.ai/jobs/info/69b47271569738374139493e?utm_campaign=1047&utm_source=git)** | Location, WV | Remote | Mar 13 |
+| **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/69b46e93569738374139435e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Manager, Residential Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/69b46c2e5697383741393aaf?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 13 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Product Management Intern](https://jobright.ai/jobs/info/69b469185697383741392b5c?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/69b467983b74eb1e2c819ce5?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Mar 13 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 13 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/69a0147e53d97f23ee65d126?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 13 |
-| ↳ | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/699fe3e853d97f23ee656fcf?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Mar 13 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6997905fce78e77b4fdbdf6f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b43f593b74eb1e2c816508?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Mar 13 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/69b1be08548f140066e78370?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | Hybrid | Mar 11 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Product Analyst (R&D - Dallas,TX)](https://jobright.ai/jobs/info/699ea4e8ce78e77b4fe42587?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Mar 11 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-149460 Product Architecture & Operations](https://jobright.ai/jobs/info/69b1b3f965de58104c70b4f1?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Mar 11 |
-| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Product Management (Dallas,TX)](https://jobright.ai/jobs/info/6997f28981476f6176b0429f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 11 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b19d92548f140066e76eae?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
