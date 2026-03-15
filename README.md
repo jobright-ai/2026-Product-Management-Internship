@@ -91,9 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/69b467983b74eb1e2c819ce5?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Mar 13 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 13 |
 | **[Siemens](https://www.siemens.com)** | **[XPS Leadership Program: Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6997905fce78e77b4fdbdf6f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Mar 13 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b43f593b74eb1e2c816508?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Mar 13 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 13 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b43dea06c1ba00c54571bf?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Mar 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b85090b88cc7d64224ad3?utm_campaign=1047&utm_source=git)** | Greater St. Louis | On Site | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b4f43c3b74eb1e2c8271ac?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 13 |
 | ↳ | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b455465697383741390ca0?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Mar 13 |
@@ -133,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69b3209ea8ac8e70ff674d7a?utm_campaign=1047&utm_source=git)** | Miami, United States | Remote | Mar 12 |
 | **[Versant Health](https://versanthealth.com/)** | **[Summer Internship – Product Development](https://jobright.ai/jobs/info/69b2f283a8ac8e70ff671823?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Mar 12 |
 | **[StockX](https://stockx.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b2efb3ad360c0340a801e2?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Mar 12 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d5bead360c0340a90f45?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 12 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f2e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Mar 12 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f2e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Mar 12 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d596a8ac8e70ff681f46?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Mar 12 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d596a8ac8e70ff681f53?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 12 |
 | **[k-ID](https://k-id.com/)** | **[Product Internship Program 2026](https://jobright.ai/jobs/info/69b2dc68ad360c0340a7d5f9?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Mar 12 |
@@ -151,10 +148,13 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
-| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae2f717b11b1c2e41b3b5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 12 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Product Owner Intern](https://jobright.ai/jobs/info/69b1d4ff548f140066e7bb4c?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 12 |
+| ↳ | **[Product Manager Intern (Ads Attribution and Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae2a11423772304eac928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976f89452f3c27ec6430479?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
