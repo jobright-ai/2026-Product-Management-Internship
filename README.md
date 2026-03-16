@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Mar 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa93a334184204e4491a5a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 16 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Intern - Undergraduate, Summer 2026](https://jobright.ai/jobs/info/69b7353b3b74eb1e2c84cb38?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 15 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 15 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Mar 12 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/69b293a3ad360c0340a768dc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Mar 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
-| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
