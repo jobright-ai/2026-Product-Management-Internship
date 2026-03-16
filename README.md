@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b8604f56973837413da2d9?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
+| ↳ | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8604e56973837413da2cf?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
+| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b85e0e06c1ba00c54a3879?utm_campaign=1047&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 16 |
+| ↳ | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b85af006c1ba00c54a3294?utm_campaign=1047&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 16 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Highway Driving and Active Safety - Summer 2026](https://jobright.ai/jobs/info/69b84d5c06c1ba00c54a0f3e?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Mar 16 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69b849fa3b74eb1e2c85e52e?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Inkind Product 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b8409306c1ba00c54a0335?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b82a3156973837413d55e3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
@@ -67,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Hair Accessories & Cosmetic Bags](https://jobright.ai/jobs/info/69b27ffaa8ac8e70ff667aaf?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Mar 16 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Mar 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa93a334184204e4491a5a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 16 |
-| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
-| ↳ | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e851?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
+| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e851?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
+| ↳ | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Intern - Undergraduate, Summer 2026](https://jobright.ai/jobs/info/69b7353b3b74eb1e2c84cb38?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 15 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 15 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | On Site | Mar 15 |
@@ -109,9 +114,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b85090b88cc7d64224ad3?utm_campaign=1047&utm_source=git)** | Greater St. Louis | On Site | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b4f43c3b74eb1e2c8271ac?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 13 |
-| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Mar 13 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Mar 13 |
-| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6959d5c9f1f8465b79f034bf?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Mar 13 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Product Application & Marketing Engineer (Mining Engineers)](https://jobright.ai/jobs/info/697b93861136d179eeef0cb6?utm_campaign=1047&utm_source=git)** | Garland, TX | On Site | Mar 13 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b40a1d3b74eb1e2c811416?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Mar 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69967bb7ce78e77b4fda8c80?utm_campaign=1047&utm_source=git)** | Greenville, NC | On Site | Mar 12 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 12 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Product Data Intern - Fall 2026](https://jobright.ai/jobs/info/69966043e0bddb6acac4d2bc?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Mar 12 |
-| **[Sandisk](https://www.sandisk.com/en-in)** | **[MBA Summer 2026 Intern - Technical Product Management](https://jobright.ai/jobs/info/697a770c8dbbf73badc79b4d?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 12 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Mar 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
