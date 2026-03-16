@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Product Development Co-op, Shark Beauty (July to December)](https://jobright.ai/jobs/info/697c7630137a05102565705a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/697b85090b88cc7d64224ad3?utm_campaign=1047&utm_source=git)** | Greater St. Louis | On Site | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b4f43c3b74eb1e2c8271ac?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 13 |
-| ↳ | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b455465697383741390ca0?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Mar 13 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/6959d606f1f8465b79f035e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Mar 13 |
 | **[Associated Bank](http://associatedbank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b3383ca8ac8e70ff677b11?utm_campaign=1047&utm_source=git)** | Greater Milwaukee | On Site | Mar 13 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Mar 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
+| ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
