@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Rx](https://www.judi.health/about/careers)** | **[Product Manager Summer Intern (Undergrad)](https://jobright.ai/jobs/info/69b86b6a3b74eb1e2c863935?utm_campaign=1047&utm_source=git)** | New York, New York, United States | Hybrid | Mar 16 |
+| **[State Street](https://www.statestreet.com/)** | **[Alpha Inkind Product 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b865a456973837413dae7e?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Mar 16 |
+| ↳ | **[Product Strategy, Planning & Enablement 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b864963b74eb1e2c862abf?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Mar 16 |
+| **[Judi Health](https://www.judi.health/)** | **[Product Manager Summer Intern (Undergrad)](https://jobright.ai/jobs/info/69b8617756973837413da579?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| **[Capital Rx](https://www.judi.health/about/careers)** | **[Product Manager Summer Intern (Undergrad)](https://jobright.ai/jobs/info/69b8610556973837413da4bc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b8604f56973837413da2d9?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
 | ↳ | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8604e56973837413da2cf?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b85e0e06c1ba00c54a3879?utm_campaign=1047&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 16 |
 | ↳ | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b85af006c1ba00c54a3294?utm_campaign=1047&utm_source=git)** | Syracuse-Auburn Area | On Site | Mar 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Highway Driving and Active Safety - Summer 2026](https://jobright.ai/jobs/info/69b84d5c06c1ba00c54a0f3e?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Mar 16 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69b849fa3b74eb1e2c85e52e?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b868b13b74eb1e2c863590?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
+| ↳ | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b09?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Inkind Product 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b8409306c1ba00c54a0335?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b82a3156973837413d55e3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Mar 16 |
@@ -72,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Management Intern - Hair Accessories & Cosmetic Bags](https://jobright.ai/jobs/info/69b27ffaa8ac8e70ff667aaf?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Mar 16 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Mar 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa93a334184204e4491a5a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 16 |
-| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e851?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
-| ↳ | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
+| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
+| ↳ | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e851?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Intern - Undergraduate, Summer 2026](https://jobright.ai/jobs/info/69b7353b3b74eb1e2c84cb38?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 15 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 15 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | On Site | Mar 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69b3209ea8ac8e70ff674d7a?utm_campaign=1047&utm_source=git)** | Miami, United States | Remote | Mar 12 |
 | **[Versant Health](https://versanthealth.com/)** | **[Summer Internship – Product Development](https://jobright.ai/jobs/info/69b2f283a8ac8e70ff671823?utm_campaign=1047&utm_source=git)** | Albany, NY | On Site | Mar 12 |
 | **[StockX](https://stockx.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b2efb3ad360c0340a801e2?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Mar 12 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d592a8ac8e70ff681f2e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Mar 12 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b3d596a8ac8e70ff681f46?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Mar 12 |
-| **[k-ID](https://k-id.com/)** | **[Product Internship Program 2026](https://jobright.ai/jobs/info/69b2dc68ad360c0340a7d5f9?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Mar 12 |
-| **[GTE Financial](https://www.gtefinancial.org/)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/69b2e94ea8ac8e70ff670ea8?utm_campaign=1047&utm_source=git)** | Tampa, FL (HQ) | Hybrid | Mar 12 |
-| **[Catalent](https://www.catalent.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69967bb7ce78e77b4fda8c80?utm_campaign=1047&utm_source=git)** | Greenville, NC | On Site | Mar 12 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 12 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Product Data Intern - Fall 2026](https://jobright.ai/jobs/info/69966043e0bddb6acac4d2bc?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
