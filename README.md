@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/index#)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69b4fcdf3b74eb1e2c827a79?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 12 |
 | **[Worldly](http://www.worldly.io)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69b37690ae2a534885eae302?utm_campaign=1047&utm_source=git)** | Concord, CA | Remote | Mar 12 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b7806406c1ba00c5493467?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Data Intern](https://jobright.ai/jobs/info/69b36dc4ae2a534885eadace?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 12 |
 | ↳ | **[Product Data Intern](https://jobright.ai/jobs/info/69b36d3ea8ac8e70ff67b282?utm_campaign=1047&utm_source=git)** | Pittsburgh PA United States | On Site | Mar 12 |
 | ↳ | **[Product Data Intern](https://jobright.ai/jobs/info/69b36d0cad360c0340a893b8?utm_campaign=1047&utm_source=git)** | US-PA-Pittsburgh | On Site | Mar 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae2f717b11b1c2e41b3b5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 12 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 12 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Product Owner Intern](https://jobright.ai/jobs/info/69b1d4ff548f140066e7bb4c?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
