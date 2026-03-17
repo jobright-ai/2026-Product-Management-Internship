@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[REVOLVE](https://www.revolve.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b5b89b3b74eb1e2c83904d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity](https://jobright.ai/jobs/info/6998f30fe0bddb6acac7e057?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 14 |
 | **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998fa1181476f6176b16901?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
-| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Technical Product Manager](https://jobright.ai/jobs/info/69a5b643359fe034b1d055fb?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 14 |
 | **[SWBC](https://www.swbc.com)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/6998d89ae0bddb6acac7c3d3?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Mar 14 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998fb42e0bddb6acac7ed74?utm_campaign=1047&utm_source=git)** | Rochester, NY | Hybrid | Mar 14 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/6998ea4fce78e77b4fdd7908?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/699648f981476f6176ae0aa5?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Mar 12 |
 | **[VOLT AI](https://www.volt.ai/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69b311fead360c0340a81c98?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area or Remote | Remote | Mar 12 |
 | **[Jasco Products](http://byjasco.com/)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/69b32fdead360c0340a8551d?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Mar 12 |
+| **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b32b78ad360c0340a84d80?utm_campaign=1047&utm_source=git)** | Chandler | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
