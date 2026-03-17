@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yale University](https://www.yale.edu)** | **[New Business & Product Development Intern, YUP](https://jobright.ai/jobs/info/69b95e7e06c1ba00c54b77d7?utm_campaign=1047&utm_source=git)** | Outside of Connecticut | Remote | Mar 17 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69b94bf806c1ba00c54b6808?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 17 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69a51d0c0da45516f16db922?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
+| **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
 | **[Crunchtime](https://www.crunchtime.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b4c582569738374139b795?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Mar 16 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b88ae556973837413decd3?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 16 |
 | **[SafariDesk](www.safaridesk.io)** | **[Product Presentation & Video Intern – US College Students](https://jobright.ai/jobs/info/69b88a4b06c1ba00c54a8533?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b8741206c1ba00c54a663e?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Highway Driving and Active Safety - Summer 2026](https://jobright.ai/jobs/info/69b84d5c06c1ba00c54a0f3e?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Mar 16 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69b849fa3b74eb1e2c85e52e?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b868b13b74eb1e2c863590?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
-| ↳ | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b09?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b09?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
+| ↳ | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b868b13b74eb1e2c863590?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Inkind Product 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b8409306c1ba00c54a0335?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b82a3156973837413d55e3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity Software](https://jobright.ai/jobs/info/699657f181476f6176ae22cc?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 12 |
 | ↳ | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/699648f981476f6176ae0aa5?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Mar 12 |
 | **[VOLT AI](https://www.volt.ai/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69b311fead360c0340a81c98?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area or Remote | Remote | Mar 12 |
-| **[Jasco Products](http://byjasco.com/)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/69b32fdead360c0340a8551d?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Mar 12 |
-| **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b32b78ad360c0340a84d80?utm_campaign=1047&utm_source=git)** | Chandler | On Site | Mar 12 |
-| **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69b32f5ead360c0340a85453?utm_campaign=1047&utm_source=git)** | Indianapolis, IN, USA | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
