@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69b9b22a56973837413f2d0d?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 17 |
+| ↳ | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69b9b22506c1ba00c54bb841?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 17 |
 | **[Vistex](http://www.vistex.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69b98efb3b74eb1e2c87738f?utm_campaign=1047&utm_source=git)** | Hoffman Estates, Illinois, United States | On Site | Mar 17 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69b983443b74eb1e2c876ee8?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/69b9824056973837413eff8a?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Mar 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Product Strategy and Development Intern - Summer 2026](https://jobright.ai/jobs/info/69b32b7ea8ac8e70ff676960?utm_campaign=1047&utm_source=git)** | Arizona - Home Teleworkers | Hybrid | Mar 12 |
 | **[VOLT AI](https://www.volt.ai/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69b325c6a8ac8e70ff675d54?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Mar 12 |
 | **[First American](http://www.firstam.com)** | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/69965617ce78e77b4fda5aa2?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 12 |
-| **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/index#)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69b31afaae2a534885ea6a0b?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Mar 12 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity Software](https://jobright.ai/jobs/info/699657f181476f6176ae22cc?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
