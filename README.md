@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avnet](https://www.avnet.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb03e33b74eb1e2c8950e1?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 18 |
+| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Mar 18 |
+| **[Talkspace](https://talkspace.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69bafba0569738374140cf03?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Mar 18 |
 | **[Starwood Capital Group](https://www.starwoodcapital.com)** | **[2026 AI Product Management Summer Intern](https://jobright.ai/jobs/info/69bae9fe06c1ba00c54d3df3?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Mar 18 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Product Strategy](https://jobright.ai/jobs/info/69bae417569738374140b512?utm_campaign=1047&utm_source=git)** | Bedminster, NJ | Hybrid | Mar 18 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Mar 18 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/69bab7013b74eb1e2c88efd2?utm_campaign=1047&utm_source=git)** | Cambridge, MA USA | On Site | Mar 18 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Manager](https://jobright.ai/jobs/info/699e363ee0bddb6acacd9119?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 18 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/699e584881476f6176b754aa?utm_campaign=1047&utm_source=git)** | Machesney Park, IL | On Site | Mar 18 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69b7b46756973837413ceaa6?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
 | **[Empower](https://www.empower.com)** | **[Senior Product Manager](https://jobright.ai/jobs/info/69baace106c1ba00c54cfc5b?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986e6c48ca8121a3a696dd2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 18 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Global Hardlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bacf31569738374140a564?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Mar 18 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69b822a906c1ba00c549e990?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b81cf456973837413d4ab9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa93a334184204e4491a5a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 16 |
-| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
-| ↳ | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e851?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
+| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b8211d06c1ba00c549e851?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
+| ↳ | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Intern - Undergraduate, Summer 2026](https://jobright.ai/jobs/info/69b7353b3b74eb1e2c84cb38?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 15 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69824f0c0a9e07331f8d4b8f?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 15 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | On Site | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/6998fb42e0bddb6acac7ed74?utm_campaign=1047&utm_source=git)** | Rochester, NY | Hybrid | Mar 14 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/6998ea4fce78e77b4fdd7908?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 14 |
 | **[altafiber](https://www.altafiber.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b6442a06c1ba00c5481d6d?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 14 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b7d42a3b74eb1e2c857b51?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Mar 14 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69b509983b74eb1e2c828e33?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
