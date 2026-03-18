@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Authentic Brands Group](https://authentic.com)** | **[Merchandising, Product Development - Lifestyle Summer Intern](https://jobright.ai/jobs/info/69b9dac33b74eb1e2c87d775?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Mar 17 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69b9b22a56973837413f2d0d?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 17 |
 | ↳ | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69b9b22506c1ba00c54bb841?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 17 |
 | **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 17 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69a51d0c0da45516f16db922?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 17 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 17 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Mar 17 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b88ae556973837413decd3?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 16 |
 | **[SafariDesk](www.safaridesk.io)** | **[Product Presentation & Video Intern – US College Students](https://jobright.ai/jobs/info/69b88a4b06c1ba00c54a8533?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b8741206c1ba00c54a663e?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Highway Driving and Active Safety - Summer 2026](https://jobright.ai/jobs/info/69b84d5c06c1ba00c54a0f3e?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Mar 16 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69b849fa3b74eb1e2c85e52e?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b09?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
-| ↳ | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b868b13b74eb1e2c863590?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
+| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b868b13b74eb1e2c863590?utm_campaign=1047&utm_source=git)** | Charlotte, NC, US | On Site | Mar 16 |
+| ↳ | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b09?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Inkind Product 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b8409306c1ba00c54a0335?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b82a3156973837413d55e3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[American Cutting Edge, Inc.](http://www.americancuttingedge.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/698e5dcf0f6f7e7a2cea644f?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Mar 16 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69b509983b74eb1e2c828e33?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 14 |
 | **[Snyk](https://snyk.io   )** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b4ffce06c1ba00c5469e00?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Co-op Fall 2026](https://jobright.ai/jobs/info/69b7a82a06c1ba00c5495b35?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Mar 13 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69b4dc993b74eb1e2c82468b?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 13 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/699944cece78e77b4fde0647?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Mar 13 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Product Specialist](https://jobright.ai/jobs/info/69a3a6c20da45516f16cab3f?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 13 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Agile Product Owner Intern](https://jobright.ai/jobs/info/69b4cad106c1ba00c54647e6?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b33007ad360c0340a85562?utm_campaign=1047&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Mar 12 |
 | **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69b32bfea8ac8e70ff676bfd?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 12 |
-| **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Product Strategy and Development Intern - Summer 2026](https://jobright.ai/jobs/info/69b32b7ea8ac8e70ff676960?utm_campaign=1047&utm_source=git)** | Arizona - Home Teleworkers | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
