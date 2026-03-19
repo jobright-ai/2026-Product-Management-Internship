@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://getflex.com)** | **[Director of Product, Martech](https://jobright.ai/jobs/info/6966d1695ad3a93f8232377f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
+| **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/69a0136253d97f23ee65cd74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
 | ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/699f6c0123374b3b6e6b42d1?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Mar 19 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://www.empower.com)** | **[Senior Product Manager](https://jobright.ai/jobs/info/69baace106c1ba00c54cfc5b?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6986e6c48ca8121a3a696dd2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 18 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Global Hardlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69bacf31569738374140a564?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Mar 18 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69b7b46756973837413ceaa6?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Mar 18 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/69baa6065697383741407b6b?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Mar 18 |
 | **[SAP Taulia](https://taulia.com/)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69ba9f5706c1ba00c54ce8b0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Global Hardlines Licensing Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ba97fa56973837414054a7?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vistex](http://www.vistex.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69b98efb3b74eb1e2c87738f?utm_campaign=1047&utm_source=git)** | Hoffman Estates, Illinois, United States | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/69ba8a3b5697383741402412?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69b983443b74eb1e2c876ee8?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Mar 17 |
-| **[STIHL USA](http://www.stihlusa.com)** | **[Product Services Intern](https://jobright.ai/jobs/info/69ba965d06c1ba00c54cb70e?utm_campaign=1047&utm_source=git)** | Virginia Beach, VA | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
