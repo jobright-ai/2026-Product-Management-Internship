@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delinea](https://delinea.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69bc195f4828227293fd4b8d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69ad209e7e1fab39d3848b8b?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Mar 19 |
+| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69b471c106c1ba00c545e1d9?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
+| ↳ | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69978b6de0bddb6acac63bbc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Flex](https://getflex.com)** | **[Director of Product, Martech](https://jobright.ai/jobs/info/6966d1695ad3a93f8232377f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/69a0136253d97f23ee65cd74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
@@ -144,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
 | **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 17 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69bb8e2506c1ba00c54e247a?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 17 |
-| **[Shaw Contract EMEA](https://www.shawcontract.com/en-gb)** | **[2026 Intern, Global Supply Development Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb3efc06c1ba00c54dbc0b?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Merchandising, Product Development - Lifestyle Summer Intern](https://jobright.ai/jobs/info/69ba8cc45697383741403174?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/699cbc2581476f6176b55065?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Mar 17 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6980ffd47f40342e15d9d869?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Mar 17 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69b9b22a56973837413f2d0d?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 17 |
 | ↳ | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69b9b22506c1ba00c54bb841?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 17 |
-| **[Vistex](http://www.vistex.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69b98efb3b74eb1e2c87738f?utm_campaign=1047&utm_source=git)** | Hoffman Estates, Illinois, United States | On Site | Mar 17 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/69ba8a3b5697383741402412?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
-| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69b983443b74eb1e2c876ee8?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
