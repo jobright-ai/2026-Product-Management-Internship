@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc55474828227293fe02eb?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Mar 19 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 19 |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) \- Data & AI Engineering](https://jobright.ai/jobs/info/69bc3c1645e08b3dc1f89a6c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship - Bilingual Japanese](https://jobright.ai/jobs/info/69bc37375b89c002acf1881d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 19 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69bc32374828227293fdb273?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[eBay](https://www.ebay.com/)** | **[MBA Technical Product Manager Intern - (Global Tech)](https://jobright.ai/jobs/info/69bb873c3b74eb1e2c89f3c7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 17 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
 | **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 17 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69bb8e2506c1ba00c54e247a?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 17 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Merchandising, Product Development - Lifestyle Summer Intern](https://jobright.ai/jobs/info/69ba8cc45697383741403174?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
