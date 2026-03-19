@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISACA](http://www.isaca.org)** | **[Intern, Product Specialist](https://jobright.ai/jobs/info/69a3a6c20da45516f16cab3f?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 19 |
 | **[Spot & Tango](http://www.spotandtango.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69bba36a06c1ba00c54e39ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Health AI Product Manager Intern](https://jobright.ai/jobs/info/69b509983b74eb1e2c828e33?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Mar 18 |
 | **[WestJet](http://www.westjet.com)** | **[Senior Product Manager- Loyalty & Partnerships- 20 Month Term](https://jobright.ai/jobs/info/69bb7fe73b74eb1e2c89ed3b?utm_campaign=1047&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b88ae556973837413decd3?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 16 |
 | **[SafariDesk](www.safaridesk.io)** | **[Product Presentation & Video Intern – US College Students](https://jobright.ai/jobs/info/69b88a4b06c1ba00c54a8533?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b877763b74eb1e2c864a47?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
-| ↳ | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b875d506c1ba00c54a6a1f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
