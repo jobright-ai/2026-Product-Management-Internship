@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Product Owner Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69bc5ff74828227293fe206f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
+| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Business Analyst Intern](https://jobright.ai/jobs/info/69bc5d4b5b89c002acf1f34c?utm_campaign=1047&utm_source=git)** | Hercules, CA | On Site | Mar 19 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc55474828227293fe02eb?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Mar 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 19 |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) \- Data & AI Engineering](https://jobright.ai/jobs/info/69bc3c1645e08b3dc1f89a6c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69bc32374828227293fdb273?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Jostens](http://jostens.com)** | **[Product Coordinator - Campus Championship](https://jobright.ai/jobs/info/69bc31b84828227293fdb198?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 19 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc20e245e08b3dc1f83930?utm_campaign=1047&utm_source=git)** | Cincinnati,OH,US | Hybrid | Mar 19 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc43375b89c002acf1b06e?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 19 |
 | **[Delinea](https://delinea.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69bc195f4828227293fd4b8d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69ad209e7e1fab39d3848b8b?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Mar 19 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69b471c106c1ba00c545e1d9?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69bb613a56973837414161d9?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/69bb612c56973837414161ca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb5f4e3b74eb1e2c89cc17?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
+| **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) - Data & AI Engineering](https://jobright.ai/jobs/info/69bb19cd06c1ba00c54d8edf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
 | **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb549406c1ba00c54dcb40?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Mar 18 |
 | **[Shaw Industries](https://shawinc.com)** | **[2026 Intern, Global Supply Development  Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb510f5697383741414bd5?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 18 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb3ede06c1ba00c54dbbaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb23e806c1ba00c54d9ba6?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Mar 18 |
 | **[Shaw Industries](https://shawinc.com)** | **[2026 Intern, Global Supply Development  Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb23a43b74eb1e2c898fad?utm_campaign=1047&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | On Site | Mar 18 |
 | **[H&R Block Canada](https://www.hrblock.ca/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb1c2d5697383741411b4b?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 18 |
-| **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern - Data & AI Engineering](https://jobright.ai/jobs/info/69bb19cd06c1ba00c54d8edf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb17c806c1ba00c54d8b25?utm_campaign=1047&utm_source=git)** | Remote Worker - N/A | Remote | Mar 18 |
 | ↳ | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb143f3b74eb1e2c897710?utm_campaign=1047&utm_source=git)** | Fully Remote | Remote | Mar 18 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bb07ab06c1ba00c54d6448?utm_campaign=1047&utm_source=git)** | Manassas, VA, US | On Site | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARMADA Supply Chain Solutions](http://www.armada.net/)** | **[Intern - PRO (Summer 2026)](https://jobright.ai/jobs/info/69a22fe6b600907a96287c71?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 17 |
 | **[eBay](https://www.ebay.com/)** | **[MBA Technical Product Manager Intern - (Global Tech)](https://jobright.ai/jobs/info/69bb873c3b74eb1e2c89f3c7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 17 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
-| **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
