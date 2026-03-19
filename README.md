@@ -58,6 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Slack](http://www.slack.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb29993b74eb1e2c89995c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 18 |
+| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb3ede06c1ba00c54dbbaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/69bb3b6f06c1ba00c54db6f7?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Mar 18 |
+| ↳ | **[Summer Intern - Product Management (AI Chatbot & Self-Service)](https://jobright.ai/jobs/info/69bb391706c1ba00c54db0b7?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Mar 18 |
+| **[Schneider Electric](https://www.se.com)** | **[Cybersecurity Business Analyst Intern](https://jobright.ai/jobs/info/69bb32523b74eb1e2c899eb3?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Mar 18 |
 | **[GALLO](http://www.gallocareers.com)** | **[Technical Product Manager](https://jobright.ai/jobs/info/69bb2420569738374141226c?utm_campaign=1047&utm_source=git)** | Modesto, CA | Hybrid | Mar 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb23e806c1ba00c54d9ba6?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Mar 18 |
 | **[Shaw Industries](https://shawinc.com)** | **[2026 Intern, Global Supply Development  Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb23a43b74eb1e2c898fad?utm_campaign=1047&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | On Site | Mar 18 |
@@ -117,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[ARMADA Supply Chain Solutions](http://www.armada.net/)** | **[Intern - PRO (Summer 2026)](https://jobright.ai/jobs/info/69a22fe6b600907a96287c71?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 17 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
 | **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 17 |
+| **[Shaw Contract EMEA](https://www.shawcontract.com/en-gb)** | **[2026 Intern, Global Supply Development Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb3efc06c1ba00c54dbc0b?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Merchandising, Product Development - Lifestyle Summer Intern](https://jobright.ai/jobs/info/69ba8cc45697383741403174?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/699cbc2581476f6176b55065?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Mar 17 |
 | **[Panther Life Sciences](https://www.pantherls.com)** | **[Cosmetic Product Development Internship](https://jobright.ai/jobs/info/69bab78b5697383741408ec6?utm_campaign=1047&utm_source=git)** | New York | On Site | Mar 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b09?utm_campaign=1047&utm_source=git)** | US-NC-Charlotte | On Site | Mar 16 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Inkind Product 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b8409306c1ba00c54a0335?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 16 |
 | **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b82a3156973837413d55e3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
-| **[State Street](https://www.statestreet.com/)** | **[Product Strategy, Planning & Enablement 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69b82ac956973837413d5806?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Mar 16 |
-| **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69b822a906c1ba00c549e990?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 16 |
-| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Stats & Insights](https://jobright.ai/jobs/info/69b81cf456973837413d4ab9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69aa93a334184204e4491a5a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 16 |
-| **[GameChanger](https://gc.com/)** | **[Product Manager Summer Intern, Basketball](https://jobright.ai/jobs/info/69b8205f3b74eb1e2c85c3f3?utm_campaign=1047&utm_source=git)** | GameChanger HQ - New York | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
