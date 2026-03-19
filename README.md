@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) \- Data & AI Engineering](https://jobright.ai/jobs/info/69bc3c1645e08b3dc1f89a6c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship - Bilingual Japanese](https://jobright.ai/jobs/info/69bc37375b89c002acf1881d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 19 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69bc32374828227293fdb273?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Jostens](http://jostens.com)** | **[Product Coordinator - Campus Championship](https://jobright.ai/jobs/info/69bc31b84828227293fdb198?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 19 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc20e245e08b3dc1f83930?utm_campaign=1047&utm_source=git)** | Cincinnati,OH,US | Hybrid | Mar 19 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc43375b89c002acf1b06e?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 19 |
 | **[Delinea](https://delinea.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69bc195f4828227293fd4b8d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69ad209e7e1fab39d3848b8b?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Mar 19 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69b471c106c1ba00c545e1d9?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 17 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69bb8e2506c1ba00c54e247a?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Merchandising, Product Development - Lifestyle Summer Intern](https://jobright.ai/jobs/info/69ba8cc45697383741403174?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Mar 17 |
-| **[OnLogic](https://www.onlogic.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/699cbc2581476f6176b55065?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Mar 17 |
-| **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
