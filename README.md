@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
+| **[PlanetArt](http://www.planetart.com)** | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69bc67f95b89c002acf20c64?utm_campaign=1047&utm_source=git)** | Woodridge, IL | Hybrid | Mar 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Owner Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69bc5ff74828227293fe206f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Business Analyst Intern](https://jobright.ai/jobs/info/69bc5d4b5b89c002acf1f34c?utm_campaign=1047&utm_source=git)** | Hercules, CA | On Site | Mar 19 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc55474828227293fe02eb?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Mar 17 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Mar 17 |
 | **[ARMADA Supply Chain Solutions](http://www.armada.net/)** | **[Intern - PRO (Summer 2026)](https://jobright.ai/jobs/info/69a22fe6b600907a96287c71?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 17 |
-| **[eBay](https://www.ebay.com/)** | **[MBA Technical Product Manager Intern - (Global Tech)](https://jobright.ai/jobs/info/69bb873c3b74eb1e2c89f3c7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 17 |
-| **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
