@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bcbc5045e08b3dc1f97963?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Mar 19 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bcb68ce6a0d9792584b646?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 19 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
 | ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
@@ -94,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[WestJet](http://www.westjet.com)** | **[Senior Product Manager- Loyalty & Partnerships- 20 Month Term](https://jobright.ai/jobs/info/69bb7fe73b74eb1e2c89ed3b?utm_campaign=1047&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/69bb6dfb06c1ba00c54de0eb?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Mar 18 |
 | **[Spot & Tango](http://www.spotandtango.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69bb6c4006c1ba00c54ddd79?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Mar 18 |
+| **[SCRAM Systems](https://www.scramsystems.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bccc834828227293fecb4b?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Mar 18 |
 | **[Slack](http://www.slack.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb29993b74eb1e2c89995c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 18 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69bb613a56973837414161d9?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 18 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/69bb612c56973837414161ca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
