@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coherent Corp.](http://www.coherent.com)** | **[INTERN: Product Management](https://jobright.ai/jobs/info/69bdb899393a1008f7432afe?utm_campaign=1047&utm_source=git)** | East Granby, CT | On Site | Mar 20 |
+| **[Bill360](https://www.bill360.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdb77b393a1008f7432421?utm_campaign=1047&utm_source=git)** | Greater Tampa Bay Area | On Site | Mar 20 |
+| **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bdb1acb10602456282a82a?utm_campaign=1047&utm_source=git)** | Glendale, CA (Hybrid) | Hybrid | Mar 20 |
+| **[Scarlett Gasque](https://www.scarlettgasque.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69bdb0e14828227293fff075?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Zayo Group](https://www.zayo.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bda51c4828227293ffdca9?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Mar 20 |
 | **[JCPenney](http://jcp.com)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69bd9ee04828227293ffd85a?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 20 |
 | **[Zayo Group](https://www.zayo.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bd8feb393a1008f742ed45?utm_campaign=1047&utm_source=git)** | CO - Denver | Hybrid | Mar 20 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation Intern](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Mar 20 |
+| **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69bdb490b10602456282af06?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 | ↳ | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69b0f9997495006450982f57?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Founding Product Intern](https://jobright.ai/jobs/info/69bd7c734828227293ffb453?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
@@ -84,15 +89,14 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bcdbb245e08b3dc1f9bec5?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bcdbb245e08b3dc1f9bec4?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 19 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
 | ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
 | **[PlanetArt](http://www.planetart.com)** | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69bc67f95b89c002acf20c64?utm_campaign=1047&utm_source=git)** | Woodridge, IL | Hybrid | Mar 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Owner Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69bc5ff74828227293fe206f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Business Analyst Intern](https://jobright.ai/jobs/info/69bc5d4b5b89c002acf1f34c?utm_campaign=1047&utm_source=git)** | Hercules, CA | On Site | Mar 19 |
-| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Product Manager - APMG](https://jobright.ai/jobs/info/69bc80ff5b89c002acf23fb0?utm_campaign=1047&utm_source=git)** | Saint Paul Church, MN | Hybrid | Mar 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 19 |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) \- Data & AI Engineering](https://jobright.ai/jobs/info/69bc3c1645e08b3dc1f89a6c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship - Bilingual Japanese](https://jobright.ai/jobs/info/69bc37375b89c002acf1881d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Accelerated Computing GPU - Summer 2026](https://jobright.ai/jobs/info/699ed1ae94ef206f184dd09c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 18 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Mar 18 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69b5201f56973837413a494b?utm_campaign=1047&utm_source=git)** | Boston, KY | On Site | Mar 18 |
-| **[Strategic Education, Inc](https://www.strategiceducation.com/home/default.aspx)** | **[UI Product Development Intern](https://jobright.ai/jobs/info/699edcf3ce78e77b4fe4817d?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Mar 18 |
-| **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/69bab7013b74eb1e2c88efd2?utm_campaign=1047&utm_source=git)** | Cambridge, MA USA | On Site | Mar 18 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/699e584881476f6176b754aa?utm_campaign=1047&utm_source=git)** | Machesney Park, IL | On Site | Mar 18 |
-| **[Empower](https://www.empower.com)** | **[Senior Product Manager](https://jobright.ai/jobs/info/69baace106c1ba00c54cfc5b?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
