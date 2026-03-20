@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
+| ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
 | **[PlanetArt](http://www.planetart.com)** | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69bc67f95b89c002acf20c64?utm_campaign=1047&utm_source=git)** | Woodridge, IL | Hybrid | Mar 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Owner Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69bc5ff74828227293fe206f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Business Analyst Intern](https://jobright.ai/jobs/info/69bc5d4b5b89c002acf1f34c?utm_campaign=1047&utm_source=git)** | Hercules, CA | On Site | Mar 19 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc55474828227293fe02eb?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Mar 19 |
+| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Product Manager - APMG](https://jobright.ai/jobs/info/69bc80ff5b89c002acf23fb0?utm_campaign=1047&utm_source=git)** | Saint Paul Church, MN | Hybrid | Mar 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 19 |
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) \- Data & AI Engineering](https://jobright.ai/jobs/info/69bc3c1645e08b3dc1f89a6c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 19 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship - Bilingual Japanese](https://jobright.ai/jobs/info/69bc37375b89c002acf1881d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 19 |
@@ -118,8 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Direct to Consumer Product Intern](https://jobright.ai/jobs/info/698273130a9e07331f8d7fe4?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Mar 18 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Product Manager 2-3, Aftermarket](https://jobright.ai/jobs/info/69967b66e0bddb6acac4f518?utm_campaign=1047&utm_source=git)** | Avon, OH | On Site | Mar 18 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
-| **[Shaw Contract EMEA](https://www.shawcontract.com/en-gb)** | **[2026 Intern, Global Supply Development Residential Hard Surfaces](https://jobright.ai/jobs/info/69bc31004828227293fdb00e?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 18 |
-| **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/699f0b2994ef206f184e1d4c?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/699f0b2994ef206f184e1d4c?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Taulia](http://www.taulia.com)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69bace9b3b74eb1e2c890657?utm_campaign=1047&utm_source=git)** | New York, NY, US | Hybrid | Mar 18 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Accelerated Computing GPU - Summer 2026](https://jobright.ai/jobs/info/699ed1ae94ef206f184dd09c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 18 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Mar 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Development, Costumes](https://jobright.ai/jobs/info/69b0671b74950064509693ee?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | ↳ | **[Intern - Product Development, Plush](https://jobright.ai/jobs/info/69b0685a0b2db6275c044cdf?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/69a6eee52672cb0acb4b5462?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Mar 17 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Mar 17 |
-| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Mar 17 |
-| **[ARMADA Supply Chain Solutions](http://www.armada.net/)** | **[Intern - PRO (Summer 2026)](https://jobright.ai/jobs/info/69a22fe6b600907a96287c71?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
