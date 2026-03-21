@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanex](http://www.quanex.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bdff66393a1008f743d99a?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Mar 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[IT Product Manager Intern, Assets](https://jobright.ai/jobs/info/69bdee6a4828227293009cf2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 20 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bde9a9393a1008f743bd98?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
 | **[Quanex](http://www.quanex.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bdd934b106024562832fc9?utm_campaign=1047&utm_source=git)** | Sioux Falls, South Dakota, United States | On Site | Mar 20 |
@@ -73,8 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bdb1acb10602456282a82a?utm_campaign=1047&utm_source=git)** | Glendale, CA (Hybrid) | Hybrid | Mar 20 |
 | **[Scarlett Gasque](https://www.scarlettgasque.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69bdb0e14828227293fff075?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[Zayo Group](https://www.zayo.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bda51c4828227293ffdca9?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Mar 20 |
-| **[JCPenney](http://jcp.com)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69bd9ee04828227293ffd85a?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 20 |
-| **[Zayo Group](https://www.zayo.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bd8feb393a1008f742ed45?utm_campaign=1047&utm_source=git)** | CO - Denver | Hybrid | Mar 20 |
+| ↳ | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bd8feb393a1008f742ed45?utm_campaign=1047&utm_source=git)** | CO - Denver | Hybrid | Mar 20 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation Intern](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Mar 20 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69bdb490b10602456282af06?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
 | ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
-| **[PlanetArt](http://www.planetart.com)** | **[Product Data Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69bc67f95b89c002acf20c64?utm_campaign=1047&utm_source=git)** | Woodridge, IL | Hybrid | Mar 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Owner Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69bc5ff74828227293fe206f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Business Analyst Intern](https://jobright.ai/jobs/info/69bc5d4b5b89c002acf1f34c?utm_campaign=1047&utm_source=git)** | Hercules, CA | On Site | Mar 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Summer 2026)](https://jobright.ai/jobs/info/6983f62d01214b4cdacc3dbd?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bb07ab06c1ba00c54d6448?utm_campaign=1047&utm_source=git)** | Manassas, VA, US | On Site | Mar 18 |
 | ↳ | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bb076e569738374140e17a?utm_campaign=1047&utm_source=git)** | US-VA-Manassas | On Site | Mar 18 |
 | **[Multnomah County](https://multco.us)** | **[DCA - IT Business Systems Analyst Internship](https://jobright.ai/jobs/info/69bb267606c1ba00c54d9f60?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Mar 18 |
+| **[Avnet](https://www.avnet.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb03e33b74eb1e2c8950e1?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
