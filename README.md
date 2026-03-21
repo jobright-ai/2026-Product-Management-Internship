@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arena](https://arena.im)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be3ebc482822729300fe89?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
 | **[Guild](https://www.guild.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be2739b106024562838fa5?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69be2378b106024562838f09?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Mar 20 |
 | **[Waabi](https://waabi.ai)** | **[Commercial Product MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69be1fa2482822729300da3f?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Product Manager OMS](https://jobright.ai/jobs/info/69bd189745e08b3dc1fa2f4f?utm_campaign=1047&utm_source=git)** | Saint Paul Church, MN | Hybrid | Mar 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bcdbb245e08b3dc1f9bec4?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 19 |
-| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bdddca48282272930091a1?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bddd67b1060245628341e1?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 19 |
+| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bdddca48282272930091a1?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bddd67b1060245628341e2?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bdddca48282272930091a2?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Mar 19 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[H&R Block Canada](https://www.hrblock.ca/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb1c2d5697383741411b4b?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 18 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb17c806c1ba00c54d8b25?utm_campaign=1047&utm_source=git)** | Remote Worker - N/A | Remote | Mar 18 |
 | ↳ | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb143f3b74eb1e2c897710?utm_campaign=1047&utm_source=git)** | Fully Remote | Remote | Mar 18 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bb07ab06c1ba00c54d6448?utm_campaign=1047&utm_source=git)** | Manassas, VA, US | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
