@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 20 |
+| **[Quanex](http://www.quanex.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be09f2482822729300bd65?utm_campaign=1047&utm_source=git)** | Owatonna, MN | On Site | Mar 20 |
+| **[Guild](https://www.guild.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be03d3b106024562836966?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
+| **[Waabi](https://waabi.ai)** | **[Commercial Product MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69be0350393a1008f743dee6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
 | **[Quanex](http://www.quanex.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bdff66393a1008f743d99a?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Mar 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[IT Product Manager Intern, Assets](https://jobright.ai/jobs/info/69bdee6a4828227293009cf2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 20 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bde9a9393a1008f743bd98?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69bdb490b10602456282af06?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6968548b1703f05405aa042b?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 | ↳ | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69b0f9997495006450982f57?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
-| **[SUPPLIFLEX](https://suppliflex.tech)** | **[Founding Product Intern](https://jobright.ai/jobs/info/69bd7c734828227293ffb453?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 20 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69bd78bfb106024562826507?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 20 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bd74144828227293ffad74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 20 |
@@ -99,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bcdbb245e08b3dc1f9bec5?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bcdbb245e08b3dc1f9bec4?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 19 |
+| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bdddca48282272930091a1?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bddd67b1060245628341e2?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bddd67b1060245628341e1?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 19 |
-| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bdddca48282272930091a1?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bdddca48282272930091a2?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Mar 19 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69bdd294482822729300641d?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Mar 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb17c806c1ba00c54d8b25?utm_campaign=1047&utm_source=git)** | Remote Worker - N/A | Remote | Mar 18 |
 | ↳ | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb143f3b74eb1e2c897710?utm_campaign=1047&utm_source=git)** | Fully Remote | Remote | Mar 18 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bb07ab06c1ba00c54d6448?utm_campaign=1047&utm_source=git)** | Manassas, VA, US | On Site | Mar 18 |
-| ↳ | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bb076e569738374140e17a?utm_campaign=1047&utm_source=git)** | US-VA-Manassas | On Site | Mar 18 |
-| **[Multnomah County](https://multco.us)** | **[DCA - IT Business Systems Analyst Internship](https://jobright.ai/jobs/info/69bb267606c1ba00c54d9f60?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Mar 18 |
-| **[Avnet](https://www.avnet.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb03e33b74eb1e2c8950e1?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
