@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Mar 22 |
+| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[SAP Taulia](https://taulia.com/)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69ba9f5706c1ba00c54ce8b0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[AI Product Content Intern - Summer 2026](https://jobright.ai/jobs/info/69a2398b359fe034b1cd75ed?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/69bb612c56973837414161ca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb5f4e3b74eb1e2c89cc17?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
 | **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb549406c1ba00c54dcb40?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Mar 18 |
-| **[Shaw Industries](https://shawinc.com)** | **[2026 Intern, Global Supply Development  Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb510f5697383741414bd5?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 18 |
-| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb3ede06c1ba00c54dbbaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
