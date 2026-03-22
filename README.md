@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
 | **[SAP Taulia](https://taulia.com/)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69ba9f5706c1ba00c54ce8b0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[AI Product Content Intern - Summer 2026](https://jobright.ai/jobs/info/69a2398b359fe034b1cd75ed?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 21 |
 | **[Docusign](http://www.docusign.com)** | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a24c87b600907a9628967d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Cybersecurity Business Analyst Intern](https://jobright.ai/jobs/info/69bb32523b74eb1e2c899eb3?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Mar 18 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69b0cff10b2db6275c05740f?utm_campaign=1047&utm_source=git)** | Fresno, CA | On Site | Mar 18 |
 | **[GALLO](http://www.gallocareers.com)** | **[Technical Product Manager](https://jobright.ai/jobs/info/69bb2420569738374141226c?utm_campaign=1047&utm_source=git)** | Modesto, CA | Hybrid | Mar 18 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb23e806c1ba00c54d9ba6?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
