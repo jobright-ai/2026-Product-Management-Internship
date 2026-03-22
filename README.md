@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Custom Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c3?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 20 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfe0182c312363dcd29ba2?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 20 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfe01979e36d3a847c76ad?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
-| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfdffb7798f73e35e4b0dc?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Mar 20 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfdffc7798f73e35e4b0dd?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bd36e6b106024562821f0f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/69bb612c56973837414161ca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb5f4e3b74eb1e2c89cc17?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
 | **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb549406c1ba00c54dcb40?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Mar 18 |
+| **[Shaw Industries](https://shawinc.com)** | **[2026 Intern, Global Supply Development  Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb510f5697383741414bd5?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
