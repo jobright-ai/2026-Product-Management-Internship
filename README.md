@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 22 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Mar 22 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 22 |
@@ -110,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Mar 20 |
 | **[Planet](http://www.planet.com)** | **[Senior Product Manager, AI Geo Assistant](https://jobright.ai/jobs/info/69a1335c5218a81676726e82?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 20 |
 | **[SanMar](http://www.sanmar.com)** | **[Custom Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c3?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 20 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfe01979e36d3a847c76af?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 20 |
-| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfe0182c312363dcd29ba2?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 20 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfe0182c312363dcd29ba2?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 20 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfe01979e36d3a847c76ad?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfdffb7798f73e35e4b0dc?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Mar 20 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69bfdffc7798f73e35e4b0dd?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 20 |
