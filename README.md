@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
+| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69bb8c4506c1ba00c54e16be?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics, Product Management – Data Science – Summer 2026](https://jobright.ai/jobs/info/69c1987e75f7ff1cd80fcb34?utm_campaign=1047&utm_source=git)** | Culver City, California | Hybrid | Mar 23 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69c195fc75f7ff1cd80fc17b?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Mar 23 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Product Analyst ](https://jobright.ai/jobs/info/69c1959a75f7ff1cd80fbe59?utm_campaign=1047&utm_source=git)** | Fishers, IN | On Site | Mar 23 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69bdd294482822729300641d?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Mar 19 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
 | ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flex](https://getflex.com)** | **[Director of Product, Martech](https://jobright.ai/jobs/info/6966d1695ad3a93f8232377f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/69a0136253d97f23ee65cd74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
-| ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
-| ↳ | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
