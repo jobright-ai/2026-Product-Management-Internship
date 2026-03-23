@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69c16c8b2c312363dcd44078?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Ensemble Health Partners](https://ensemblehp.com)** | **[Intern](https://jobright.ai/jobs/info/69c15eef75f7ff1cd80f5161?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Alnylam Pharmaceuticals](http://www.alnylam.com)** | **[Director, Global Content Enablement Platforms](https://jobright.ai/jobs/info/698fee5b6ea51a7610f2515c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Mar 23 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Intern](https://jobright.ai/jobs/info/69c145b82c312363dcd4093a?utm_campaign=1047&utm_source=git)** | Remote - Nationwide | Remote | Mar 23 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 23 |
-| **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69a4f9af0da45516f16d992b?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 22 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69bd6e2a393a1008f742c424?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Mar 20 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Mar 20 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Informatics Intern](https://jobright.ai/jobs/info/69a5712a0da45516f16e235b?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Mar 20 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c1559075f7ff1cd80f3bb7?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 20 |
 | **[GALLO](http://www.gallocareers.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/69a5f2c70da45516f16ebe11?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Mar 20 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Mar 20 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Mar 20 |
@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69bdd294482822729300641d?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Mar 19 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
 | ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
