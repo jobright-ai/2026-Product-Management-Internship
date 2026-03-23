@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
+| ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[HumanityOS](https://www.humanityos.in/)** | **[🚀 United States Internship Opportunity — Product Manager](https://jobright.ai/jobs/info/69c0b01379e36d3a847cf908?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 22 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Mar 22 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be99394828227293015a4b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 21 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Fall 2026](https://jobright.ai/jobs/info/69a20e210da45516f16b5773?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
+| **[PNC](http://www.pnc.com)** | **[Digital Product Manager Lead Senior](https://jobright.ai/jobs/info/69c11ae32c312363dcd3dafc?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69be5553393a1008f7444ffa?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 21 |
 | **[Arena](https://arena.im)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be3ebc482822729300fe89?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
 | **[Guild](https://www.guild.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be2739b106024562838fa5?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Custom Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c3?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bd36e6b106024562821f0f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 20 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c116a079e36d3a847da1b3?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 20 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Mar 20 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Product Manager OMS](https://jobright.ai/jobs/info/69bd189745e08b3dc1fa2f4f?utm_campaign=1047&utm_source=git)** | Saint Paul Church, MN | Hybrid | Mar 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69bb5f4e3b74eb1e2c89cc17?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
 | **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb549406c1ba00c54dcb40?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Mar 18 |
 | **[Shaw Industries](https://shawinc.com)** | **[2026 Intern, Global Supply Development  Residential Hard Surfaces](https://jobright.ai/jobs/info/69bb510f5697383741414bd5?utm_campaign=1047&utm_source=git)** | Dalton, GA | On Site | Mar 18 |
-| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69bb3ede06c1ba00c54dbbaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 18 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/69bb3b6f06c1ba00c54db6f7?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Mar 18 |
-| ↳ | **[Summer Intern - Product Management (AI Chatbot & Self-Service)](https://jobright.ai/jobs/info/69bb391706c1ba00c54db0b7?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Mar 18 |
-| **[Schneider Electric](https://www.se.com)** | **[Cybersecurity Business Analyst Intern](https://jobright.ai/jobs/info/69bb32523b74eb1e2c899eb3?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
