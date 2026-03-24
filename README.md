@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
+| **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed272?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product Management Specialist- Diablo/Freud Tools](https://jobright.ai/jobs/info/69c1bb5375f7ff1cd8100cc5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
+| **[Modisoft Inc](https://www.modisoft.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b43e2c312363dcd4dc30?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69bb8c4506c1ba00c54e16be?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics, Product Management – Data Science – Summer 2026](https://jobright.ai/jobs/info/69c1987e75f7ff1cd80fcb34?utm_campaign=1047&utm_source=git)** | Culver City, California | Hybrid | Mar 23 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Mar 20 |
 | **[Planet](http://www.planet.com)** | **[Senior Product Manager, AI Geo Assistant](https://jobright.ai/jobs/info/69a1335c5218a81676726e82?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 20 |
 | **[SanMar](http://www.sanmar.com)** | **[Custom Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c3?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 20 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c130152c312363dcd3f013?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bd36e6b106024562821f0f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 20 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Mar 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69b471c106c1ba00c545e1d9?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | ↳ | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69978b6de0bddb6acac63bbc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc220d45e08b3dc1f84079?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 19 |
-| **[Flex](https://getflex.com)** | **[Director of Product, Martech](https://jobright.ai/jobs/info/6966d1695ad3a93f8232377f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
-| **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/69a0136253d97f23ee65cd74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
