@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catalent](https://www.catalent.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69a613b2359fe034b1d0e433?utm_campaign=1047&utm_source=git)** | Greenville, NC | On Site | Mar 24 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/698a84ab0f6f7e7a2ce5a9e6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcc8004828227293feb4a0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 24 |
 | ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ab954e7e1fab39d3830228?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 24 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c27a1594007a2195de559c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69c21104c9ad035e829ab99e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 23 |
 | ↳ | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69c20ba4c9ad035e829a9ee0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 23 |
 | ↳ | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69c20a7f75f7ff1cd810aaf2?utm_campaign=1047&utm_source=git)** | Portage, MI | On Site | Mar 23 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) - Data & AI Engineering](https://jobright.ai/jobs/info/69bb19cd06c1ba00c54d8edf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed272?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
-| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product Management Specialist- Diablo/Freud Tools](https://jobright.ai/jobs/info/69c1bb5375f7ff1cd8100cc5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[Modisoft Inc](https://www.modisoft.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b43e2c312363dcd4dc30?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
@@ -94,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Mar 23 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Intern](https://jobright.ai/jobs/info/69c145b82c312363dcd4093a?utm_campaign=1047&utm_source=git)** | Remote - Nationwide | Remote | Mar 23 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 23 |
-| **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[Verdant Specialty Solutions](https://www.verdantspecialty.com/)** | **[Business Analyst – Product Management Co-Op / Internship](https://jobright.ai/jobs/info/69c1827f79e36d3a847e4dbd?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Mar 22 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Aftermarket (Summer 2026)](https://jobright.ai/jobs/info/696ae8ed350cf43803121a2b?utm_campaign=1047&utm_source=git)** | Dorval, QC | Hybrid | Mar 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 20 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Mar 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c22942c9ad035e829ae50f?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
-| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c21f2d75f7ff1cd810e286?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
