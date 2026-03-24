@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) - Data & AI Engineering](https://jobright.ai/jobs/info/69bb19cd06c1ba00c54d8edf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed272?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product Management Specialist- Diablo/Freud Tools](https://jobright.ai/jobs/info/69c1bb5375f7ff1cd8100cc5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[Modisoft Inc](https://www.modisoft.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b43e2c312363dcd4dc30?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
@@ -141,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69bdd294482822729300641d?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Mar 19 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc87375b89c002acf243f0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74fa45e08b3dc1f93434?utm_campaign=1047&utm_source=git)** | Orlando, FL, USA | Hybrid | Mar 19 |
 | ↳ | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69bc74f95b89c002acf23459?utm_campaign=1047&utm_source=git)** | Seattle, WA, USA | Hybrid | Mar 19 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69bc68954828227293fe3ac8?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jostens](http://jostens.com)** | **[Product Coordinator - Campus Championship](https://jobright.ai/jobs/info/69bc31b84828227293fdb198?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 19 |
 | **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc20e245e08b3dc1f83930?utm_campaign=1047&utm_source=git)** | Cincinnati,OH,US | Hybrid | Mar 19 |
 | **[Delinea](https://delinea.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69bc195f4828227293fd4b8d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology](https://jobright.ai/jobs/info/69b471c106c1ba00c545e1d9?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
-| ↳ | **[Summer Internship - Product Management Technology (Finance & Accounting)](https://jobright.ai/jobs/info/69978b6de0bddb6acac63bbc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 19 |
-| **[First Mutual Holding Co.](https://www.firstmutualholding.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc220d45e08b3dc1f84079?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
