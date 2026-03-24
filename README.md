@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Mar 20 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[Product Manager OMS](https://jobright.ai/jobs/info/69bd189745e08b3dc1fa2f4f?utm_campaign=1047&utm_source=git)** | Saint Paul Church, MN | Hybrid | Mar 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6983df5b01214b4cdacc056d?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | Hybrid | Mar 20 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c2189475f7ff1cd810d442?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c22942c9ad035e829ae50f?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 19 |
+| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c21f2d75f7ff1cd810e286?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Mar 19 |
+| ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c2189475f7ff1cd810d442?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c2155bc9ad035e829ac11d?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Mar 19 |
 | ↳ | **[Product Manager Lead-2](https://jobright.ai/jobs/info/69c20ffa2c312363dcd586d6?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Mar 19 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship (MBA) - Bilingual Japanese](https://jobright.ai/jobs/info/69bc37375b89c002acf1881d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 19 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[BTS Claims Product Management Analyst Intern](https://jobright.ai/jobs/info/69bc989b45e08b3dc1f959db?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Mar 19 |
-| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69bdd294482822729300641d?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Mar 19 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69bc873745e08b3dc1f9436b?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
