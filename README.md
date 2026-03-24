@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2ebb2ec22f8310ab0e7a7?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Mar 24 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
-| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2d7dc753c101b21563200?utm_campaign=1047&utm_source=git)** | New York Macedon, Macedon, NY, US | Hybrid | Mar 24 |
+| **[Gen](https://www.gendigital.com)** | **[Summer Internship (Product Management – Marketplace / Auto Vertical)](https://jobright.ai/jobs/info/69c2f3bc94007a2195df0efd?utm_campaign=1047&utm_source=git)** | USA - New York, New York | On Site | Mar 24 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Business Intelligence Product Team Internship](https://jobright.ai/jobs/info/69c2f3b0ec22f8310ab0f7a4?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 24 |
+| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2ebb2ec22f8310ab0e7a7?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Mar 24 |
+| ↳ | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2d7dc753c101b21563200?utm_campaign=1047&utm_source=git)** | New York Macedon, Macedon, NY, US | Hybrid | Mar 24 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69b4f5b606c1ba00c54693e2?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Corporate Actions](https://jobright.ai/jobs/info/69c2d6fd753c101b2156315b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Mar 24 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c27a1594007a2195de559c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
+| **[American Beacon Partners](http://www.ambeacon.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c2f6ddec22f8310ab0fb80?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Mar 23 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69c21104c9ad035e829ab99e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 23 |
 | ↳ | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69c20ba4c9ad035e829a9ee0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 23 |
 | ↳ | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69c20a7f75f7ff1cd810aaf2?utm_campaign=1047&utm_source=git)** | Portage, MI | On Site | Mar 23 |
@@ -92,13 +95,12 @@ For a complete list, click the following sortable link below:
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) - Data & AI Engineering](https://jobright.ai/jobs/info/69bb19cd06c1ba00c54d8edf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed272?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
-| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product Management Specialist- Diablo/Freud Tools](https://jobright.ai/jobs/info/69c1bb5375f7ff1cd8100cc5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[Modisoft Inc](https://www.modisoft.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b43e2c312363dcd4dc30?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69bb8c4506c1ba00c54e16be?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics, Product Management – Data Science – Summer 2026](https://jobright.ai/jobs/info/69c1987e75f7ff1cd80fcb34?utm_campaign=1047&utm_source=git)** | Culver City, California | Hybrid | Mar 23 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69c195fc75f7ff1cd80fc17b?utm_campaign=1047&utm_source=git)** | Ormond Beach, FL | On Site | Mar 23 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Product Analyst ](https://jobright.ai/jobs/info/69c1959a75f7ff1cd80fbe59?utm_campaign=1047&utm_source=git)** | Fishers, IN | On Site | Mar 23 |
 | **[FlairX](https://www.flairx.ai/)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69c190b575f7ff1cd80fb489?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Lead Senior](https://jobright.ai/jobs/info/69c1277d2c312363dcd3ec06?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 21 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Fall 2026](https://jobright.ai/jobs/info/69a20e210da45516f16b5773?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
-| **[PNC](http://www.pnc.com)** | **[Digital Product Manager Lead Senior](https://jobright.ai/jobs/info/69c11ae32c312363dcd3dafc?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 21 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship - Bilingual Japanese](https://jobright.ai/jobs/info/69c2125bc9ad035e829abf62?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69be5553393a1008f7444ffa?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Mar 21 |
 | **[Arena](https://arena.im)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be3ebc482822729300fe89?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Cybersecurity Business Analyst Intern](https://jobright.ai/jobs/info/69bf069a482822729301b571?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Mar 20 |
 | **[Zayo Group](https://www.zayo.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bd8feb393a1008f742ed45?utm_campaign=1047&utm_source=git)** | CO - Denver | Hybrid | Mar 20 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation Intern](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Mar 20 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69b0f9997495006450982f57?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
