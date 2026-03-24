@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2ebb2ec22f8310ab0e7a7?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Mar 24 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
+| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2d7dc753c101b21563200?utm_campaign=1047&utm_source=git)** | New York Macedon, Macedon, NY, US | Hybrid | Mar 24 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69b4f5b606c1ba00c54693e2?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Corporate Actions](https://jobright.ai/jobs/info/69c2d6fd753c101b2156315b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 24 |
+| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Mar 24 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 24 |
 | ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 24 |
 | ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67b57e567421f42577cf2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 24 |
@@ -86,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[seoClarity](http://www.seoclarity.net)** | **[Associate Product Manager (APM) Intern (Chicago Based) - Data & AI Engineering](https://jobright.ai/jobs/info/69bb19cd06c1ba00c54d8edf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed272?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
-| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
+| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product Management Specialist- Diablo/Freud Tools](https://jobright.ai/jobs/info/69c1bb5375f7ff1cd8100cc5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[Modisoft Inc](https://www.modisoft.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b43e2c312363dcd4dc30?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
@@ -134,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Arena](https://arena.im)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be3ebc482822729300fe89?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 20 |
 | **[Guild](https://www.guild.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be2739b106024562838fa5?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Waabi](https://waabi.ai)** | **[Commercial Product MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69be1fa2482822729300da3f?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
-| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 20 |
 | **[Quanex](http://www.quanex.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be09f2482822729300bd65?utm_campaign=1047&utm_source=git)** | Owatonna, MN | On Site | Mar 20 |
 | **[Guild](https://www.guild.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be03d3b106024562836966?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Waabi](https://waabi.ai)** | **[Commercial Product MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69be0350393a1008f743dee6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zayo Group](https://www.zayo.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/69bd8feb393a1008f742ed45?utm_campaign=1047&utm_source=git)** | CO - Denver | Hybrid | Mar 20 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Automation Intern](https://jobright.ai/jobs/info/69a0dbd481476f6176bb2be6?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Mar 20 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69b0f9997495006450982f57?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Mar 20 |
-| **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Mar 20 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69bd78bfb106024562826507?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 20 |
-| **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bd74144828227293ffad74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 20 |
-| **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69bd6e2a393a1008f742c424?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Mar 20 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6968399c1703f05405a9e94c?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
