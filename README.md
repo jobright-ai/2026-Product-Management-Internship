@@ -59,9 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c3908a753c101b2157659e?utm_campaign=1047&utm_source=git)** | San Diego - BioLegend | On Site | Mar 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f5f7a7a0045db8951cf?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895187?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895185?utm_campaign=1047&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895186?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895187?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f31753c101b215758a5?utm_campaign=1047&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1e94007a2195e00923?utm_campaign=1047&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
