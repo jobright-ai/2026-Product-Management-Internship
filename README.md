@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 25 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2026 Associate Product Manager Intern](https://jobright.ai/jobs/info/69c4850133eecf310794dfc7?utm_campaign=1047&utm_source=git)** | Washington, United States | Hybrid | Mar 25 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Business Products](https://jobright.ai/jobs/info/69c481e033eecf310794dbc8?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 25 |
+| **[Embedding VC](https://embedding.vc)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69c49cf033eecf3107950167?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 25 |
 | **[Elephant Insurance](https://www.elephant.com)** | **[Product Business Analyst Intern](https://jobright.ai/jobs/info/69c46ef933eecf310794c1f9?utm_campaign=1047&utm_source=git)** | Richmond, VA | Remote | Mar 25 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Think Digital](https://jobright.ai/jobs/info/69c484b46f4f855eeda719df?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Mar 25 |
 | **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c461166f4f855eeda6e740?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69a7b9b5637232443f650b76?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 25 |
 | **[BioLegend](http://biolegend.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c407146f4f855eeda65fe3?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Two Wheeler Telematics](https://jobright.ai/jobs/info/698a6c004db8972cecffbbee?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 25 |
-| **[Symantrix Solutions](https://symantrix.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69c4147a33eecf310794325e?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Mar 25 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern - Platform](https://jobright.ai/jobs/info/69a9317579f3f4037f43f69f?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 25 |
 | **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 25 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Think Digital](https://jobright.ai/jobs/info/69c40d9d6f4f855eeda666e3?utm_campaign=1047&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 25 |
@@ -91,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69aaa6ab2ebd316bece26fcb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c3908a753c101b2157659e?utm_campaign=1047&utm_source=git)** | San Diego - BioLegend | On Site | Mar 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f5f7a7a0045db8951cf?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895185?utm_campaign=1047&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895186?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895187?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895185?utm_campaign=1047&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f31753c101b215758a5?utm_campaign=1047&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1e94007a2195e00923?utm_campaign=1047&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FlairX](https://www.flairx.ai/)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69c190b575f7ff1cd80fb489?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Product & Technology)](https://jobright.ai/jobs/info/69c1909775f7ff1cd80fb44c?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Product Internship - NYC](https://jobright.ai/jobs/info/69c18cd979e36d3a847e6c40?utm_campaign=1047&utm_source=git)** | New York | On Site | Mar 23 |
-| ↳ | **[2026 Product Internship - NYC](https://jobright.ai/jobs/info/69c183b72c312363dcd472ea?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
