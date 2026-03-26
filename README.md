@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d6b4d5a1016e98dc3389?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Catalyst](https://catalystintro.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69c4cc11d5a1016e98dc2917?utm_campaign=1047&utm_source=git)** | US-TX-Dallas | Hybrid | Mar 25 |
 | ↳ | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69c4cc0e6f4f855eeda778ca?utm_campaign=1047&utm_source=git)** | Dallas, TX, US | Hybrid | Mar 25 |
 | **[R&T Deposit Solutions](https://rnt.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69c4bb26d5a1016e98dc113d?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
@@ -66,10 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Embedding VC](https://embedding.vc)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69c49cf033eecf3107950167?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 25 |
 | **[Elephant Insurance](https://www.elephant.com)** | **[Product Business Analyst Intern](https://jobright.ai/jobs/info/69c46ef933eecf310794c1f9?utm_campaign=1047&utm_source=git)** | Richmond, VA | Remote | Mar 25 |
 | **[Think Together](https://thinktogether.org/)** | **[Intern - Think Digital](https://jobright.ai/jobs/info/69c484b46f4f855eeda719df?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Mar 25 |
-| **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c461166f4f855eeda6e740?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Zello](https://zello.com/)** | **[Product Research Intern](https://jobright.ai/jobs/info/69c456ea6f4f855eeda6cbe6?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Performance](https://jobright.ai/jobs/info/69c47606d5a1016e98dbaff0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69c44ee76f4f855eeda6c171?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Mar 25 |
+| **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c447c033eecf3107947a1c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69c44793d5a1016e98db6369?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Mar 25 |
 | **[Connection](http://www.pcconnection.com)** | **[Intern in Product Management](https://jobright.ai/jobs/info/69c46bfdd5a1016e98dba5ac?utm_campaign=1047&utm_source=git)** | US-NH-Merrimack | On Site | Mar 25 |
 | ↳ | **[Intern in Product Management](https://jobright.ai/jobs/info/69c46da86f4f855eeda6fac4?utm_campaign=1047&utm_source=git)** | Merrimack, NH, US | On Site | Mar 25 |
@@ -95,13 +96,13 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69aaa6ab2ebd316bece26fcb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 25 |
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c3908a753c101b2157659e?utm_campaign=1047&utm_source=git)** | San Diego - BioLegend | On Site | Mar 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f5f7a7a0045db8951cf?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895187?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895185?utm_campaign=1047&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895186?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895187?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f31753c101b215758a5?utm_campaign=1047&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1e94007a2195e00923?utm_campaign=1047&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f19753c101b21575866?utm_campaign=1047&utm_source=git)** | Halifax, NS | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c3481094007a2195df99f2?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c33e1c097a024c43d94410?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Strategy & Design](https://jobright.ai/jobs/info/69c3367294007a2195df877a?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 24 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Corporate Actions](https://jobright.ai/jobs/info/69c2d6fd753c101b2156315b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Mar 24 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 24 |
-| ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 24 |
 | ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67b57e567421f42577cf2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 24 |
+| ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Mar 24 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Business Intelligence Product Team Internship](https://jobright.ai/jobs/info/69c2b405ec22f8310ab096f5?utm_campaign=1047&utm_source=git)** | Remote, Remote | Remote | Mar 24 |
 | ↳ | **[Summer 2026 Business Intelligence Product Team Internship](https://jobright.ai/jobs/info/69c2b3f1753c101b2155fd19?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Mar 24 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/696fa04f3ed06875134a8a5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 24 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[SAP Taulia](https://taulia.com/)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69ba9f5706c1ba00c54ce8b0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69c1c50879e36d3a847ed272?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
-| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1da372c312363dcd51298?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Mar 23 |
+| ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69c1db5f75f7ff1cd81037eb?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Product Management Specialist- Diablo/Freud Tools](https://jobright.ai/jobs/info/69c1bb5375f7ff1cd8100cc5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 23 |
 | **[Modisoft Inc](https://www.modisoft.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c1b43e2c312363dcd4dc30?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Product Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/69c1aa4779e36d3a847eb1d2?utm_campaign=1047&utm_source=git)** | Euclid, OH | On Site | Mar 23 |
-| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/69bb8c4506c1ba00c54e16be?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
