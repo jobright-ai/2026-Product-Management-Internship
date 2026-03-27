@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/69965617ce78e77b4fda5aa2?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
+| ↳ | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Copyright Solution Product Manager Intern (TikTok Music) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c62e0a1b5ad0288737f726?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69c62665aa3c2c1995e0a38c?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 26 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Product Management (AXS)](https://jobright.ai/jobs/info/69c5ff701818a24cd84bd0f7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c3908a753c101b2157659e?utm_campaign=1047&utm_source=git)** | San Diego - BioLegend | On Site | Mar 25 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f5f7a7a0045db8951cf?utm_campaign=1047&utm_source=git)** | Markham, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895187?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895185?utm_campaign=1047&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895186?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895185?utm_campaign=1047&utm_source=git)** | Ottawa, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f31753c101b215758a5?utm_campaign=1047&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1e94007a2195e00923?utm_campaign=1047&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f19753c101b21575866?utm_campaign=1047&utm_source=git)** | Halifax, NS | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f19753c101b21575866?utm_campaign=1047&utm_source=git)** | Halifax, NS | Hybrid | Mar 24 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Business Intelligence Product Team Internship](https://jobright.ai/jobs/info/69c61c09e565c26a7001959b?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 24 |
 | **[American Beacon Partners](http://www.ambeacon.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c61c09e565c26a7001959c?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Mar 24 |
 | ↳ | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c5d5b1aa3c2c1995e05109?utm_campaign=1047&utm_source=git)** | Irving,TX,US | Hybrid | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c3481094007a2195df99f2?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c33e1c097a024c43d94410?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Strategy & Design](https://jobright.ai/jobs/info/69c3367294007a2195df877a?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
