@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Batory Foods](http://www.batoryfoods.com/)** | **[Product Management/Marketing Intern](https://jobright.ai/jobs/info/69c5aa88aa9a29199e8089bf?utm_campaign=1047&utm_source=git)** | Rosemont, Illinois, United States | On Site | Mar 26 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c5aa561818a24cd84b9462?utm_campaign=1047&utm_source=git)** | Edina,MN,US | On Site | Mar 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69c5a94f1818a24cd84b91b1?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69c5c241aa9a29199e809bcb?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Product Management (AXS)](https://jobright.ai/jobs/info/69c59a161818a24cd84b8378?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Product Management (AXS)](https://jobright.ai/jobs/info/69c59a0de565c26a70012827?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[Grasshopper Bank](https://www.grasshopper.bank)** | **[Product Management Intern](https://jobright.ai/jobs/info/69c5901d1818a24cd84b7f8f?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 26 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f457a7a0045db895186?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f31753c101b215758a5?utm_campaign=1047&utm_source=git)** | Barrie, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1e94007a2195e00923?utm_campaign=1047&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
-| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f19753c101b21575866?utm_campaign=1047&utm_source=git)** | Halifax, NS | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
+| ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f19753c101b21575866?utm_campaign=1047&utm_source=git)** | Halifax, NS | Hybrid | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c3481094007a2195df99f2?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c33e1c097a024c43d94410?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Strategy & Design](https://jobright.ai/jobs/info/69c3367294007a2195df877a?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Summer Internship (Product Management – Marketplace / Auto Vertical)](https://jobright.ai/jobs/info/69c2f3bc94007a2195df0efd?utm_campaign=1047&utm_source=git)** | USA - New York, New York | On Site | Mar 24 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2ebb2ec22f8310ab0e7a7?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Mar 24 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
-| **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2d7dc753c101b21563200?utm_campaign=1047&utm_source=git)** | New York Macedon, Macedon, NY, US | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
