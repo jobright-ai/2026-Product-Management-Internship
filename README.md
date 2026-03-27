@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Director, Product Management](https://jobright.ai/jobs/info/69c5bfd183ea553769fcf3be?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
+| **[Element Electronics](https://elementelectronics.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c5b4be83ea553769fce7df?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Mar 26 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69c5b0141818a24cd84b96cb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 26 |
+| ↳ | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69c5afb6aa3c2c1995e02f55?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[Batory Foods](http://www.batoryfoods.com/)** | **[Product Management/Marketing Intern](https://jobright.ai/jobs/info/69c5aa88aa9a29199e8089bf?utm_campaign=1047&utm_source=git)** | Rosemont, Illinois, United States | On Site | Mar 26 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c5aa561818a24cd84b9462?utm_campaign=1047&utm_source=git)** | Edina,MN,US | On Site | Mar 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69c5a94f1818a24cd84b91b1?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1e94007a2195e00923?utm_campaign=1047&utm_source=git)** | Oakville, ON | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f19753c101b21575866?utm_campaign=1047&utm_source=git)** | Halifax, NS | Hybrid | Mar 24 |
 | ↳ | **[Workday Product Manager, HR](https://jobright.ai/jobs/info/69c37f1994007a2195e0091a?utm_campaign=1047&utm_source=git)** | London, ON | Hybrid | Mar 24 |
-| **[American Beacon Partners](http://www.ambeacon.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c59da8aa3c2c1995e02079?utm_campaign=1047&utm_source=git)** | Irving,TX,US | Hybrid | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c3481094007a2195df99f2?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Intern](https://jobright.ai/jobs/info/69c33e1c097a024c43d94410?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Strategy & Design](https://jobright.ai/jobs/info/69c3367294007a2195df877a?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Mar 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2ebb2ec22f8310ab0e7a7?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Mar 24 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69c2d7dc753c101b21563200?utm_campaign=1047&utm_source=git)** | New York Macedon, Macedon, NY, US | Hybrid | Mar 24 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69b4f5b606c1ba00c54693e2?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Corporate Actions](https://jobright.ai/jobs/info/69c2d6fd753c101b2156315b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 24 |
-| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
