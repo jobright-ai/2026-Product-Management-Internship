@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6e55f1818a24cd84c993b?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
+| **[PNC](http://www.pnc.com)** | **[Product Owner Expert - Kubernetes, CaaS Platform](https://jobright.ai/jobs/info/69c70b0483ea553769fdffce?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
+| ↳ | **[Product Owner Expert - Kubernetes, CaaS Platform](https://jobright.ai/jobs/info/69c70aabaa3c2c1995e149bb?utm_campaign=1047&utm_source=git)** | Farmers Branch, TX | On Site | Mar 27 |
+| ↳ | **[Product Owner Expert - Kubernetes, CaaS Platform](https://jobright.ai/jobs/info/69c70a7de565c26a70025409?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
+| ↳ | **[Product Owner Expert - Kubernetes, CaaS Platform](https://jobright.ai/jobs/info/69c70915e565c26a70025307?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 27 |
+| **[TAS Energy](http://www.tas.com)** | **[Asst. Product Management  Intern](https://jobright.ai/jobs/info/69c702cb1818a24cd84ca8e8?utm_campaign=1047&utm_source=git)** | Houston, TX (TAS-AIRPORT) | On Site | Mar 27 |
+| **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[SpyCloud](https://spycloud.com)** | **[Product Manager Internship, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6fc03b773006330b74c9a?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
+| **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[J1 Intern](https://jobright.ai/jobs/info/69c6e082e565c26a700237e1?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[Business Product Manager Intern](https://jobright.ai/jobs/info/69c6deb01818a24cd84c948e?utm_campaign=1047&utm_source=git)** | Morrisville, NC | Hybrid | Mar 27 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[J1 Intern](https://jobright.ai/jobs/info/69c6d6ccb773006330b73272?utm_campaign=1047&utm_source=git)** | USA, NY, Port Washington, HQ | On Site | Mar 27 |
@@ -68,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6b1a3aa3c2c1995e114ea?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Mar 27 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
 | ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
-| ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca061b5ad028873870dd?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
 | ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca26b773006330b72ede?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
+| ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca061b5ad028873870dd?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/69c6a5e4b773006330b71b60?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE | Remote | Mar 27 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Mar 27 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698cbebb0f6f7e7a2ce873a4?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Mar 27 |
@@ -143,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Electrolux Group](https://www.electroluxappliances.com)** | **[Internship (Sales - Marketing – Product Line) - HQ Stockholm, Sweden](https://jobright.ai/jobs/info/69c4408d6f4f855eeda6ac2a?utm_campaign=1047&utm_source=git)** | Stockholm, NY | Hybrid | Mar 25 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2026 Associate Product Manager Intern](https://jobright.ai/jobs/info/69c4595f6f4f855eeda6d0a0?utm_campaign=1047&utm_source=git)** | Remote, WA | Remote | Mar 25 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[PRODUCT OWNER (JUNIOR)](https://jobright.ai/jobs/info/69c430886f4f855eeda694e1?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Mar 25 |
-| **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/698c01580f6f7e7a2ce79100?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Mar 25 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Mar 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioLegend](http://biolegend.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c407146f4f855eeda65fe3?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Two Wheeler Telematics](https://jobright.ai/jobs/info/698a6c004db8972cecffbbee?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Mar 25 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern - Platform](https://jobright.ai/jobs/info/69a9317579f3f4037f43f69f?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 25 |
-| **[Ionis Pharmaceuticals, Inc.](http://www.ionispharma.com)** | **[2026 Summer Intern / New Product Strategy (Neurology)](https://jobright.ai/jobs/info/698a11d347434001cc683e8e?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 25 |
-| **[Think Together](https://thinktogether.org/)** | **[Intern - Think Digital](https://jobright.ai/jobs/info/69c40d9d6f4f855eeda666e3?utm_campaign=1047&utm_source=git)** | US-CA-Santa Ana | On Site | Mar 25 |
-| ↳ | **[Intern - Think Digital](https://jobright.ai/jobs/info/69c40fa033eecf3107942f4f?utm_campaign=1047&utm_source=git)** | Santa Ana, CA, US | On Site | Mar 25 |
-| **[Motion](http://www.dragosupply.com/)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Mar 25 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69a7a251637232443f64e3f0?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 25 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69a9224179f3f4037f43d8c3?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
