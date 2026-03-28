@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Batory Foods](http://www.batoryfoods.com/)** | **[Product Management/Marketing Intern](https://jobright.ai/jobs/info/69c82b2daa3c2c1995e1d886?utm_campaign=1047&utm_source=git)** | Des Plaines, IL | On Site | Mar 28 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 28 |
 | **[Flex](https://getflex.com)** | **[Senior Director of Product, New Venture](https://jobright.ai/jobs/info/691e408e3f782d2f1afb2ebe?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ab3b5d2747003c3d50e905?utm_campaign=1047&utm_source=git)** | Plymouth, MA | Hybrid | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Global Product Intern - Summer 2026](https://jobright.ai/jobs/info/69c466076f4f855eeda6f16c?utm_campaign=1047&utm_source=git)** | St. Louis, MO, US | On Site | Mar 25 |
 | **[Electrolux Group](https://www.electroluxappliances.com)** | **[Internship (Sales - Marketing – Product Line) - HQ Stockholm, Sweden](https://jobright.ai/jobs/info/69c4408d6f4f855eeda6ac2a?utm_campaign=1047&utm_source=git)** | Stockholm, NY | Hybrid | Mar 25 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2026 Associate Product Manager Intern](https://jobright.ai/jobs/info/69c4595f6f4f855eeda6d0a0?utm_campaign=1047&utm_source=git)** | Remote, WA | Remote | Mar 25 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[PRODUCT OWNER (JUNIOR)](https://jobright.ai/jobs/info/69c430886f4f855eeda694e1?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
