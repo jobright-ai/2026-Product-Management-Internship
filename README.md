@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca93f3466f1e133aac5042?utm_campaign=1047&utm_source=git)** | New York, NY, US | On Site | Mar 30 |
+| ↳ | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca93f08fc6090c5d44f07a?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | Mar 30 |
+| **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69ca92d1466f1e133aac4ad3?utm_campaign=1047&utm_source=git)** | Tysons, United States | On Site | Mar 30 |
+| **[Jostens](http://jostens.com)** | **[Product Manager – Regalia](https://jobright.ai/jobs/info/6997a3f981476f6176afc178?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 30 |
+| **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Mar 30 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Mar 30 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/699a3df181476f6176b2d22a?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 30 |
@@ -92,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[Product Manager Intern, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6cefa1b5ad0288738729f?utm_campaign=1047&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6c2f4b773006330b72a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6b1a3aa3c2c1995e114ea?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Mar 27 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
-| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
+| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca26b773006330b72ede?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/69c6a5e4b773006330b71b60?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE | Remote | Mar 27 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Mar 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 25 |
 | **[Jostens](http://jostens.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/698d1d99f64d441a164f0b4c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 25 |
 | **[BECU](https://www.becu.org/landing/fintech-incubator)** | **[2026 Associate Product Manager Intern](https://jobright.ai/jobs/info/69c4850133eecf310794dfc7?utm_campaign=1047&utm_source=git)** | Washington, United States | Hybrid | Mar 25 |
-| **[SAP Taulia](https://taulia.com/)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69ba9f5706c1ba00c54ce8b0?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
-| **[Embedding VC](https://embedding.vc)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69c49cf033eecf3107950167?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Mar 25 |
-| **[Elephant Insurance](https://www.elephant.com)** | **[Product Business Analyst Intern](https://jobright.ai/jobs/info/69c46ef933eecf310794c1f9?utm_campaign=1047&utm_source=git)** | Richmond, VA | Remote | Mar 25 |
-| **[Zello](https://zello.com/)** | **[Product Research Intern](https://jobright.ai/jobs/info/69c456ea6f4f855eeda6cbe6?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 25 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Performance](https://jobright.ai/jobs/info/69c47606d5a1016e98dbaff0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
