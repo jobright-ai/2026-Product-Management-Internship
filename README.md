@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69cad50a8fc6090c5d451888?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb87a8c1822476e205a2?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d45140b?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[LogicGate](https://www.logicgate.com)** | **[Product Management Intern (Chicago)](https://jobright.ai/jobs/info/69aee6466b21de023e6000aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69caa92e466f1e133aac5a27?utm_campaign=1047&utm_source=git)** | Tysons Corner, VA | On Site | Mar 30 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca9a9f466f1e133aac5253?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
 | ↳ | **[Private Assets Product Intern 2](https://jobright.ai/jobs/info/69ca9a9da8c1822476e1e2fa?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
-| **[Scholera Inc.](https://scholera-inc.com/)** | **[Founding Intern Team — Multiple Roles](https://jobright.ai/jobs/info/69ca993ce565c26a7003ebe6?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Mar 30 |
 | **[StockX](https://stockx.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b2efb3ad360c0340a801e2?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Mar 30 |
 | **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69ca92d1466f1e133aac4ad3?utm_campaign=1047&utm_source=git)** | Tysons, United States | On Site | Mar 30 |
 | **[Jostens](http://jostens.com)** | **[Product Manager – Regalia](https://jobright.ai/jobs/info/6997a3f981476f6176afc178?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 30 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[Product Manager Intern, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6cefa1b5ad0288738729f?utm_campaign=1047&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6c2f4b773006330b72a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6b1a3aa3c2c1995e114ea?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Mar 27 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
-| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
+| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca26b773006330b72ede?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/69c6a5e4b773006330b71b60?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE | Remote | Mar 27 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Mar 26 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b6560f3b74eb1e2c84135c?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
