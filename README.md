@@ -82,10 +82,8 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[Product Manager Internship, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6fc03b773006330b74c9a?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[J1 Intern](https://jobright.ai/jobs/info/69c6e082e565c26a700237e1?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[Business Product Manager Intern](https://jobright.ai/jobs/info/69c6deb01818a24cd84c948e?utm_campaign=1047&utm_source=git)** | Morrisville, NC | Hybrid | Mar 27 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[J1 Intern](https://jobright.ai/jobs/info/69c6d6ccb773006330b73272?utm_campaign=1047&utm_source=git)** | USA, NY, Port Washington, HQ | On Site | Mar 27 |
-| **[NetApp](http://netapp.com)** | **[Business Product Manager Intern](https://jobright.ai/jobs/info/69c6cf8db773006330b73097?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
+| ↳ | **[Business Product Manager Intern](https://jobright.ai/jobs/info/69c6cf8db773006330b73097?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[Product Manager Intern, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6cefa1b5ad0288738729f?utm_campaign=1047&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6c2f4b773006330b72a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
@@ -102,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/69c55af31818a24cd84b42ff?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 27 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c90b51aa3c2c1995e22da0?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69c90a83b773006330b83bc4?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 27 |
-| **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
-| ↳ | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/69965617ce78e77b4fda5aa2?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
+| **[First American](http://www.firstam.com)** | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/69965617ce78e77b4fda5aa2?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
+| ↳ | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Copyright Solution Product Manager Intern (TikTok Music) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c62e0a1b5ad0288737f726?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c56d01aa9a29199e8047a7?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69c8c3681818a24cd84d6b62?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Performance](https://jobright.ai/jobs/info/69c47606d5a1016e98dbaff0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69c44ee76f4f855eeda6c171?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Mar 25 |
 | **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c447c033eecf3107947a1c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69c44793d5a1016e98db6369?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Mar 25 |
+| **[Elephant Insurance](https://www.elephant.com)** | **[Product Business Analyst Intern](https://jobright.ai/jobs/info/69c46b8bd5a1016e98dba54e?utm_campaign=1047&utm_source=git)** | REMOTE-United States | Remote | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
