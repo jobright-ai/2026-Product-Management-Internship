@@ -57,13 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ca9d54aa3c2c1995e2e347?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Mar 30 |
+| **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69caa92e466f1e133aac5a27?utm_campaign=1047&utm_source=git)** | Tysons Corner, VA | On Site | Mar 30 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca9a9f466f1e133aac5253?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
 | ↳ | **[Private Assets Product Intern 2](https://jobright.ai/jobs/info/69ca9a9da8c1822476e1e2fa?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
 | **[Scholera Inc.](https://scholera-inc.com/)** | **[Founding Intern Team — Multiple Roles](https://jobright.ai/jobs/info/69ca993ce565c26a7003ebe6?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Mar 30 |
 | **[StockX](https://stockx.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b2efb3ad360c0340a801e2?utm_campaign=1047&utm_source=git)** | Detroit, MI | On Site | Mar 30 |
-| **[MSCI Private Assets](https://www.msci.com/research-and-insights)** | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca93f3466f1e133aac5042?utm_campaign=1047&utm_source=git)** | New York, NY, US | On Site | Mar 30 |
-| ↳ | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca93f08fc6090c5d44f07a?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | Mar 30 |
 | **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69ca92d1466f1e133aac4ad3?utm_campaign=1047&utm_source=git)** | Tysons, United States | On Site | Mar 30 |
 | **[Jostens](http://jostens.com)** | **[Product Manager – Regalia](https://jobright.ai/jobs/info/6997a3f981476f6176afc178?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 30 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Mar 30 |
@@ -102,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[Product Manager Intern, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6cefa1b5ad0288738729f?utm_campaign=1047&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6c2f4b773006330b72a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6b1a3aa3c2c1995e114ea?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Mar 27 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
-| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
+| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca26b773006330b72ede?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/69c6a5e4b773006330b71b60?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE | Remote | Mar 27 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Mar 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d6b4d5a1016e98dc3389?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Catalyst](https://catalystintro.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69c4cc11d5a1016e98dc2917?utm_campaign=1047&utm_source=git)** | US-TX-Dallas | Hybrid | Mar 25 |
 | ↳ | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69c4cc0e6f4f855eeda778ca?utm_campaign=1047&utm_source=git)** | Dallas, TX, US | Hybrid | Mar 25 |
+| **[R&T Deposit Solutions](https://rnt.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69c4bb26d5a1016e98dc113d?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
