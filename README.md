@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad951a8c1822476e20e1c?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad94da8c1822476e20df7?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad949466f1e133aac7c58?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
+| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 27 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Product Management & Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/69c55af31818a24cd84b42ff?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 27 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69c90b51aa3c2c1995e22da0?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 27 |
-| **[First American](http://www.firstam.com)** | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/69965617ce78e77b4fda5aa2?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
-| ↳ | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
+| **[First American](http://www.firstam.com)** | **[Product Operations Intern - REMOTE](https://jobright.ai/jobs/info/699797e7ce78e77b4fdbe970?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
+| ↳ | **[Product Management Intern - REMOTE](https://jobright.ai/jobs/info/69965617ce78e77b4fda5aa2?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 27 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb8466466f1e133aacf0a4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | ↳ | **[Product Manager Lead - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb83f78fc6090c5d459025?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Copyright Solution Product Manager Intern (TikTok Music) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c62e0a1b5ad0288737f726?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
