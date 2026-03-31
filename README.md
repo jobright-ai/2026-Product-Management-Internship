@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69cad50a8fc6090c5d451888?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb87a8c1822476e205a2?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[Product Manager Intern, AI Ops (Summer)](https://jobright.ai/jobs/info/69c6cefa1b5ad0288738729f?utm_campaign=1047&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6c2f4b773006330b72a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Mar 27 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69c6b1a3aa3c2c1995e114ea?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Mar 27 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
-| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca2983ea553769fdd946?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
+| ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c6ca211818a24cd84c89a6?utm_campaign=1047&utm_source=git)** | Montvale, NJ, US | Hybrid | Mar 27 |
 | ↳ | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c6ca26b773006330b72ede?utm_campaign=1047&utm_source=git)** | US-NJ-Montvale | Hybrid | Mar 27 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/69c6a5e4b773006330b71b60?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE | Remote | Mar 27 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Mar 27 |
