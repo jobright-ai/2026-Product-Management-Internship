@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69cb5266a8c1822476e25d4f?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Mar 30 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb373c1b5ad028873a9980?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 30 |
 | ↳ | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb3733e565c26a70045a0d?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 30 |
+| ↳ | **[Product Manager Senior- Credit Card Acquisitions](https://jobright.ai/jobs/info/69cb5351466f1e133aaccc46?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 30 |
 | ↳ | **[Product Manager II- Business Credit Cards](https://jobright.ai/jobs/info/69cb51d71b5ad028873aa8c6?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
 | ↳ | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69cb5201e565c26a70046993?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/69cb11161b5ad028873a85b7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 30 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad951a8c1822476e20e1c?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad94da8c1822476e20df7?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad949466f1e133aac7c58?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
+| ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Sharp Electronics Corporation USA](http://www.SharpUSA.com)** | **[Summer Intern- Product Management- Software Business Products](https://jobright.ai/jobs/info/69c481e033eecf310794dbc8?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 26 |
 | ↳ | **[Summer Intern- Product Management- Hardware Business Products](https://jobright.ai/jobs/info/69c56d01aa9a29199e8047a7?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Mar 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69c8c3681818a24cd84d6b62?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb5ebeaa3c2c1995e3676f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, Product Management (AXS)](https://jobright.ai/jobs/info/69c5ff701818a24cd84bd0f7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Lead - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb45818fc6090c5d4566c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | ↳ | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb3beca8c1822476e253e5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Product Management (AXS)](https://jobright.ai/jobs/info/69c5d8931b5ad0288737a4c2?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Product Manager - Integrated Services](https://jobright.ai/jobs/info/69c5c8cf83ea553769fcfd7e?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 26 |
 | **[Tonal](http://www.tonal.com)** | **[Product Management Intern – Retail Sales & Demo Conversion](https://jobright.ai/jobs/info/69c6d034b773006330b730f6?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Mar 26 |
-| **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Director, Product Management](https://jobright.ai/jobs/info/69c5bfd183ea553769fcf3be?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb016c1b5ad028873a7916?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
