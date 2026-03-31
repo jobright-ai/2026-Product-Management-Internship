@@ -58,9 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69cb5266a8c1822476e25d4f?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Mar 30 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Lead - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb373c1b5ad028873a9980?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 30 |
-| ↳ | **[Product Manager Sr. - Credit Card/Change in Terms](https://jobright.ai/jobs/info/69cb3733e565c26a70045a0d?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 30 |
-| ↳ | **[Product Manager Senior- Credit Card Acquisitions](https://jobright.ai/jobs/info/69cb5351466f1e133aaccc46?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 30 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Credit Card Acquisitions](https://jobright.ai/jobs/info/69cb5351466f1e133aaccc46?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 30 |
 | ↳ | **[Product Manager II- Business Credit Cards](https://jobright.ai/jobs/info/69cb51d71b5ad028873aa8c6?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
 | ↳ | **[Product Manager II- Business Credit Card](https://jobright.ai/jobs/info/69cb5201e565c26a70046993?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/69cb11161b5ad028873a85b7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 30 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69c5ed071b5ad0288737ad7d?utm_campaign=1047&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Product Management (AXS)](https://jobright.ai/jobs/info/69c5d8931b5ad0288737a4c2?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Product Manager - Integrated Services](https://jobright.ai/jobs/info/69c5c8cf83ea553769fcfd7e?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Mar 26 |
+| **[Tonal](http://www.tonal.com)** | **[Product Management Intern – Retail Sales & Demo Conversion](https://jobright.ai/jobs/info/69c6d034b773006330b730f6?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Mar 26 |
+| **[CREW Greater Cincinnati](https://cincinnati.crewnetwork.org/)** | **[Director, Product Management](https://jobright.ai/jobs/info/69c5bfd183ea553769fcf3be?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
