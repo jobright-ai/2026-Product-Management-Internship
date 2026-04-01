@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Product Management Intern](https://jobright.ai/jobs/info/69cd73eb398fb071abf75664?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Apr 01 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd4cbc891d7b11cfcb78d8?utm_campaign=1047&utm_source=git)** | Michigan City,IN,US | On Site | Apr 01 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Product Intern, Personal Lines](https://jobright.ai/jobs/info/69b0b5657495006450978071?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Digital Product Analyst Intern](https://jobright.ai/jobs/info/69cd33cc366bb95ba54f9a8c?utm_campaign=1047&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Diligent](http://diligent.com)** | **[Product Builder Intern - Diligent Boards](https://jobright.ai/jobs/info/69b0cad80b2db6275c0562dc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Product Supply-Intern](https://jobright.ai/jobs/info/69ccf1e9891d7b11cfcb52a6?utm_campaign=1047&utm_source=git)** | Fairburn, GA | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Product and Strategy - Cargo Commercial (Summer 2026)](https://jobright.ai/jobs/info/69c918ebaa3c2c1995e2339b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cca337e1921223acc7af9c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc7a89cfdc6132f940c81c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 31 |
 | **[Intrado](https://www.intrado.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc8a4ce1921223acc79200?utm_campaign=1047&utm_source=git)** | Longmont, CO | Hybrid | Mar 31 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c5b4be83ea553769fce7df?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Mar 31 |
