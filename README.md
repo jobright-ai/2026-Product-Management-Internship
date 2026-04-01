@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Digital Product Analyst Intern](https://jobright.ai/jobs/info/69cd2fb954f00230c6cecf25?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida, United States | On Site | Apr 01 |
+| **[SAP Taulia](https://taulia.com/)** | **[Receivables Finance - Product Management Intern (Fintech / Working Capital)](https://jobright.ai/jobs/info/69cd2dee54f00230c6cece8a?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/69b9824056973837413eff8a?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 01 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/69a3cf78359fe034b1cebd6a?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op, Product and Strategy - Cargo Commercial (Summer 2026)](https://jobright.ai/jobs/info/69c918ebaa3c2c1995e2339b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cca5c5891d7b11cfcb19f1?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cca337e1921223acc7af9c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 31 |
-| ↳ | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cc9fede1921223acc7ae58?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 31 |
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc7a89cfdc6132f940c81c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 31 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cc8a578130af1ac833b95a?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 31 |
 | **[Intrado](https://www.intrado.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc8a4ce1921223acc79200?utm_campaign=1047&utm_source=git)** | Longmont, CO | Hybrid | Mar 31 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/69cb1106a8c1822476e2397d?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Mar 30 |
 | **[Equip](http://equip.health)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cc306bcfdc6132f940ace3?utm_campaign=1047&utm_source=git)** | Remote - USA | Remote | Mar 30 |
 | **[Schneider Electric](https://www.se.com)** | **[AI Product Management - Intern](https://jobright.ai/jobs/info/69cb07c9aa3c2c1995e33552?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Mar 30 |
-| **[Intersect](https://www.intersectpower.com)** | **[Product Definition - Business Development Intern](https://jobright.ai/jobs/info/69cb002ce565c26a70043679?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/69caf198a8c1822476e22287?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Mar 30 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Intern, AI Science Factory](https://jobright.ai/jobs/info/69caead4466f1e133aac8a92?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Mar 30 |
 | **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69cae5941b5ad028873a65d8?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Mar 30 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb87a8c1822476e205a2?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d45140b?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
