@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb87a8c1822476e205a2?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d45140b?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/6998ea4fce78e77b4fdd7908?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69aaf90e7e1fab39d3828c7a?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/69c7968783ea553769fe4cb3?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Mar 28 |
 | **[Arena](https://arena.im)** | **[AI Product Intern](https://jobright.ai/jobs/info/69c777681818a24cd84ce8b5?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Product Intern](https://jobright.ai/jobs/info/69c72c201818a24cd84cc4f4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[TAS Energy](http://www.tas.com)** | **[Asst. Product Management Intern](https://jobright.ai/jobs/info/69c75f461b5ad0288738c1aa?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Mar 27 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Head of Product Strategy](https://jobright.ai/jobs/info/69c7deb883ea553769fe73ba?utm_campaign=1047&utm_source=git)** | Hanover, NH | Hybrid | Mar 27 |
 | **[Adopt AI](https://www.adopt.ai/)** | **[Founders Office - Product & Growth Intern](https://jobright.ai/jobs/info/69c72a7d1818a24cd84cc449?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Mar 27 |
+| **[TAS Energy](http://www.tas.com)** | **[Asst. Product Management  Intern](https://jobright.ai/jobs/info/69c702cb1818a24cd84ca8e8?utm_campaign=1047&utm_source=git)** | Houston, TX (TAS-AIRPORT) | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
