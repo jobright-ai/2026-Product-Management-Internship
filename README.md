@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/69b9824056973837413eff8a?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 01 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 01 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/69a3cf78359fe034b1cebd6a?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | **[Diligent](http://diligent.com)** | **[Product Builder Intern - Diligent Boards](https://jobright.ai/jobs/info/69b0cad80b2db6275c0562dc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Summer 2026](https://jobright.ai/jobs/info/6993c863e0bddb6acac2103d?utm_campaign=1047&utm_source=git)** | Highlands Ranch, CO | On Site | Mar 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 31 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Development Intern, Corporate](https://jobright.ai/jobs/info/69af3089749500645093ab9b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Mar 31 |
+| **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern](https://jobright.ai/jobs/info/69ca9a9f466f1e133aac5253?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/69cb11161b5ad028873a85b7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 30 |
 | ↳ | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/69cb1106a8c1822476e2397d?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Mar 30 |
 | **[Equip](http://equip.health)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cc306bcfdc6132f940ace3?utm_campaign=1047&utm_source=git)** | Remote - USA | Remote | Mar 30 |
@@ -136,8 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Avant](https://www.avant.com)** | **[Operations Tech Product Management Summer Internship](https://jobright.ai/jobs/info/69cab7c3aa3c2c1995e2f522?utm_campaign=1047&utm_source=git)** | Chicago HQ | Hybrid | Mar 30 |
 | **[Tonal](http://www.tonal.com)** | **[Product Management Intern – Retail Sales & Demo Conversion](https://jobright.ai/jobs/info/69cab50ce565c26a7003fe29?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Mar 30 |
 | **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69caa92e466f1e133aac5a27?utm_campaign=1047&utm_source=git)** | Tysons Corner, VA | On Site | Mar 30 |
-| **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca9a9f466f1e133aac5253?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
-| **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69ca92d1466f1e133aac4ad3?utm_campaign=1047&utm_source=git)** | Tysons, United States | On Site | Mar 30 |
+| ↳ | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69ca92d1466f1e133aac4ad3?utm_campaign=1047&utm_source=git)** | Tysons, United States | On Site | Mar 30 |
 | **[Jostens](http://jostens.com)** | **[Product Manager – Regalia](https://jobright.ai/jobs/info/6997a3f981476f6176afc178?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 30 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Mar 30 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Arena](https://arena.im)** | **[AI Product Intern](https://jobright.ai/jobs/info/69c777681818a24cd84ce8b5?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 27 |
 | **[Samba TV](http://www.samba.tv)** | **[Product Intern](https://jobright.ai/jobs/info/69c72c201818a24cd84cc4f4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[TAS Energy](http://www.tas.com)** | **[Asst. Product Management Intern](https://jobright.ai/jobs/info/69c75f461b5ad0288738c1aa?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
