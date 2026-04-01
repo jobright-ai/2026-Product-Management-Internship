@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 01 |
 | **[Rubrik](http://rubrik.com)** | **[Product Management MSP Intern, Summer 2026](https://jobright.ai/jobs/info/69cd7d64891d7b11cfcb9404?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Product Management Intern](https://jobright.ai/jobs/info/69cd73eb398fb071abf75664?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Apr 01 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd4cbc891d7b11cfcb78d8?utm_campaign=1047&utm_source=git)** | Michigan City,IN,US | On Site | Apr 01 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad951a8c1822476e20e1c?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad94da8c1822476e20df7?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad949466f1e133aac7c58?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
+| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/6998ea4fce78e77b4fdd7908?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Mar 28 |
 | **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69aaf90e7e1fab39d3828c7a?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
-| **[Arena](https://arena.im)** | **[AI Product Intern](https://jobright.ai/jobs/info/69c777681818a24cd84ce8b5?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
