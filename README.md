@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[RJ Schinner Co., Inc.](https://www.rjschinner.com/)** | **[Pricing & Product Intern](https://jobright.ai/jobs/info/69cee42a398fb071abf8a59a?utm_campaign=1047&utm_source=git)** | Branch 01, Menomonee Falls, WI, US | On Site | Apr 02 |
 | **[Jostens](http://jostens.com)** | **[Product Manager – Regalia](https://jobright.ai/jobs/info/6997a3f981476f6176afc178?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 02 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b19d92548f140066e76eae?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69c1fc3475f7ff1cd8106a0e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Mar 31 |
 | ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69c17f072c312363dcd46d69?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 31 |
 | ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69bce76fe6a0d9792585178d?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Mar 31 |
-| ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69c1325e2c312363dcd3f2a2?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
