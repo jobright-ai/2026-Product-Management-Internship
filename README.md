@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 02 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ce5f6e54f00230c6cfe9fd?utm_campaign=1047&utm_source=git)** | Hanover Park, IL | On Site | Apr 02 |
 | **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ce5f6754f00230c6cfe9f1?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
@@ -65,7 +67,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce5da6366bb95ba550ab94?utm_campaign=1047&utm_source=git)** | Kalamazoo, MI | On Site | Apr 02 |
+| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd00334828227293ff21bf?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce77d8398fb071abf85410?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce77d8366bb95ba550b968?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
+| ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce5da6366bb95ba550ab94?utm_campaign=1047&utm_source=git)** | Kalamazoo, MI | On Site | Apr 02 |
 | ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce5f2654f00230c6cfe96c?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 02 |
 | ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce34da891d7b11cfcc6385?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Apr 02 |
 | ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce34d0398fb071abf828fb?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
@@ -93,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/69a3cf78359fe034b1cebd6a?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Apr 01 |
 | **[Diligent](http://diligent.com)** | **[Product Builder Intern - Diligent Boards](https://jobright.ai/jobs/info/69b0cad80b2db6275c0562dc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[The Duracell Company](http://www.duracell.com)** | **[Product Supply-Intern](https://jobright.ai/jobs/info/69ccf1e9891d7b11cfcb52a6?utm_campaign=1047&utm_source=git)** | Fairburn, GA | On Site | Apr 01 |
+| **[Versana](https://versana.io)** | **[Product Internship (Summer 2026)](https://jobright.ai/jobs/info/69ce7d5ecfdc6132f9428a39?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Product and Strategy - Cargo Commercial (Summer 2026)](https://jobright.ai/jobs/info/69c918ebaa3c2c1995e2339b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69ce099d891d7b11cfcc43fc?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69ce0402cfdc6132f9423a6b?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad951a8c1822476e20e1c?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad94da8c1822476e20df7?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad949466f1e133aac7c58?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
-| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
