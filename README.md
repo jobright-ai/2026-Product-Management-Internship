@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rubrik](http://rubrik.com)** | **[Product Management MSP Intern, Summer 2026](https://jobright.ai/jobs/info/69cdb0db366bb95ba5501c1a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
 | **[ProAmpac](http://www.proampac.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cd95a3cdb525785fb8ca7a?utm_campaign=1047&utm_source=git)** | Franklin Park, IL 60131, USA | On Site | Apr 01 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd959fcfdc6132f941d6a4?utm_campaign=1047&utm_source=git)** | Hanover Park, IL 60133, USA | On Site | Apr 01 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd94e1891d7b11cfcbdc19?utm_campaign=1047&utm_source=git)** | Cary, IL 60013, USA | On Site | Apr 01 |
@@ -133,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb87a8c1822476e205a2?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d45140b?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cca61ccfdc6132f9411be9?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Mar 28 |
 | **[Batory Foods](http://www.batoryfoods.com/)** | **[Product Management/Marketing Intern](https://jobright.ai/jobs/info/69c82b2daa3c2c1995e1d886?utm_campaign=1047&utm_source=git)** | Des Plaines, IL | On Site | Mar 28 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 28 |
-| **[Flex](https://getflex.com)** | **[Senior Director of Product, New Venture](https://jobright.ai/jobs/info/691e408e3f782d2f1afb2ebe?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
