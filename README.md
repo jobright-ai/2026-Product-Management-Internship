@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 02 |
+| ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce34da891d7b11cfcc6385?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Apr 02 |
 | ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce34d0398fb071abf828fb?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
 | **[Flex](https://getflex.com)** | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131e54f00230c6cfb44f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
@@ -140,21 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad951a8c1822476e20e1c?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad94da8c1822476e20df7?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | ↳ | **[Intern – Product Management, Consumer Solutions](https://jobright.ai/jobs/info/69cad949466f1e133aac7c58?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
-| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
+| ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad946aa3c2c1995e30e07?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | ↳ | **[Intern – Product Management, Software and Experiences, Consumer Solutions](https://jobright.ai/jobs/info/69cad91f8fc6090c5d451ccd?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69cad8e1466f1e133aac79f5?utm_campaign=1047&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
-| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf9eb8fc6090c5d453767?utm_campaign=1047&utm_source=git)** | Niles, IL, US | Hybrid | Mar 30 |
+| ↳ | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/69caf99de565c26a700433e0?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Mar 30 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Mar 30 |
 | **[UST](https://www.ust.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacb87a8c1822476e205a2?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cacae68fc6090c5d45140b?utm_campaign=1047&utm_source=git)** | Boston | Remote | Mar 30 |
 | **[LogicGate](https://www.logicgate.com)** | **[Product Management Intern (Chicago)](https://jobright.ai/jobs/info/69aee6466b21de023e6000aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 30 |
 | **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69cac2361b5ad028873a4a6d?utm_campaign=1047&utm_source=git)** | Radnor, PA | Hybrid | Mar 30 |
-| **[Avant](https://www.avant.com)** | **[Operations Tech Product Management Summer Internship](https://jobright.ai/jobs/info/69cabeee466f1e133aac6c0f?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 30 |
-| **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69cab8caa8c1822476e1f841?utm_campaign=1047&utm_source=git)** | Indianapolis, IN, USA | Hybrid | Mar 30 |
-| **[Avant](https://www.avant.com)** | **[Operations Tech Product Management Summer Internship](https://jobright.ai/jobs/info/69cab7c3aa3c2c1995e2f522?utm_campaign=1047&utm_source=git)** | Chicago HQ | Hybrid | Mar 30 |
-| **[Tonal](http://www.tonal.com)** | **[Product Management Intern – Retail Sales & Demo Conversion](https://jobright.ai/jobs/info/69cab50ce565c26a7003fe29?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Mar 30 |
-| **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69caa92e466f1e133aac5a27?utm_campaign=1047&utm_source=git)** | Tysons Corner, VA | On Site | Mar 30 |
-| **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern 1](https://jobright.ai/jobs/info/69ca9a9f466f1e133aac5253?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
