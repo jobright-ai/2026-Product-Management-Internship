@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LogicGate](https://www.logicgate.com)** | **[Product Management Intern (Chicago)](https://jobright.ai/jobs/info/69aee6466b21de023e6000aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
+| **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, Prescriber Experience](https://jobright.ai/jobs/info/69d0247bcdb525785fba7aa3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Apr 03 |
 | **[Hibiscus Health](https://hibiscushealth.com)** | **[AI Product Fellowship](https://jobright.ai/jobs/info/69d01400366bb95ba551b3c2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d00f08cdb525785fba7120?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d00d0a366bb95ba551afd7?utm_campaign=1047&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 03 |
 | ↳ | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d00d0954f00230c6d0ec7f?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | Hybrid | Apr 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/699648f981476f6176ae0aa5?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d004c454f00230c6d0e51d?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d0247754f00230c6d0f6bc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d004c454f00230c6d0e51d?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d004b6366bb95ba551a92f?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d004980b098b7a67075a12?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity Software](https://jobright.ai/jobs/info/699657f181476f6176ae22cc?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Apr 03 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Apr 03 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c1ff912c312363dcd54ab1?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 03 |
+| **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Apr 03 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Data Intern](https://jobright.ai/jobs/info/69b36a33a8ac8e70ff67a99d?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 03 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b7982f56973837413cbc6e?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c129402c312363dcd3ecde?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
@@ -82,12 +86,13 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
+| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf1ac9366bb95ba5512b9c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | ↳ | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05eeb?utm_campaign=1047&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
+| **[National Safety Apparel](http://thinknsa.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d0232e891d7b11cfcd8d57?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf0354891d7b11cfccf466?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[GAINS](https://gainsystems.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d0143bcfdc6132f9438329?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Micro-Intern](https://jobright.ai/jobs/info/69ceff89891d7b11cfccf356?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intrado](https://www.intrado.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc8a4ce1921223acc79200?utm_campaign=1047&utm_source=git)** | Longmont, CO | Hybrid | Mar 31 |
 | **[Transcarent](https://www.transcarent.com)** | **[Product Management Intern - Virtual Care](https://jobright.ai/jobs/info/69b0d3770b2db6275c058182?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Mar 31 |
 | **[Equip](http://equip.health)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cc7af8e1921223acc7620d?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 31 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: CampX Innovation, Product Strategy (Summer 2026)](https://jobright.ai/jobs/info/69cc6541cdb525785fb7b41f?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Mar 31 |
-| **[Nextech Systems](http://www.nextech.com)** | **[Product Development Program Management Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/69cc516f366bb95ba54eedec?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 31 |
-| **[UKG](https://www.ukg.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/69cc502bcfdc6132f940b9a4?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Mar 31 |
-| **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc4fd48130af1ac8337c61?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, USA | Hybrid | Mar 31 |
-| **[AMETEK](http://www.ametek.com)** | **[Product Management AI Intern](https://jobright.ai/jobs/info/69cc4b538130af1ac8337a2f?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
