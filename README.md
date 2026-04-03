@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD SYNNEX North America](http://www.techdata.com)** | **[Micro-Intern](https://jobright.ai/jobs/info/69ceff89891d7b11cfccf356?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Apr 02 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ceff57891d7b11cfccf32e?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 | **[RJ Schinner Co., Inc.](https://www.rjschinner.com/)** | **[Pricing & Product Intern](https://jobright.ai/jobs/info/69cee42a398fb071abf8a59a?utm_campaign=1047&utm_source=git)** | Branch 01, Menomonee Falls, WI, US | On Site | Apr 02 |
 | **[Jostens](http://jostens.com)** | **[Product Manager – Regalia](https://jobright.ai/jobs/info/6997a3f981476f6176afc178?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 02 |
@@ -74,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Business Product Manager Intern](https://jobright.ai/jobs/info/69cea604891d7b11cfccad66?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[MNP](http://www.mnp.ca)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b211f0548f140066e84055?utm_campaign=1047&utm_source=git)** | Calgary, AB | Hybrid | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b79e8756973837413cc035?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Analysis Intern](https://jobright.ai/jobs/info/69ce9d6054f00230c6d00d75?utm_campaign=1047&utm_source=git)** | Bedford Park,IL,US | On Site | Apr 02 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69bbd84a45e08b3dc1f78a7b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 02 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69bbd84a45e08b3dc1f78a7b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 02 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c22865c9ad035e829ae3bb?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 02 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Ulla Johnson](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cec331398fb071abf88c29?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 02 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Product and Strategy - Cargo Commercial (Summer 2026)](https://jobright.ai/jobs/info/69c918ebaa3c2c1995e2339b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69ce099d891d7b11cfcc43fc?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69ce0402cfdc6132f9423a6b?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
-| ↳ | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cdf58ecdb525785fb91fc5?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Mar 31 |
 | ↳ | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69cdf5a4398fb071abf7fab7?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Mar 31 |
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc7a89cfdc6132f940c81c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 31 |
 | **[Intrado](https://www.intrado.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69cc8a4ce1921223acc79200?utm_campaign=1047&utm_source=git)** | Longmont, CO | Hybrid | Mar 31 |
