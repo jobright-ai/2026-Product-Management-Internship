@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snyk](https://snyk.io   )** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b4ffce06c1ba00c5469e00?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Apr 04 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/69b467983b74eb1e2c819ce5?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd959fcfdc6132f941d6a4?utm_campaign=1047&utm_source=git)** | Hanover Park, IL 60133, USA | On Site | Apr 01 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd94e1891d7b11cfcbdc19?utm_campaign=1047&utm_source=git)** | Cary, IL 60013, USA | On Site | Apr 01 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d03bd6cdb525785fba8b36?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Apr 01 |
-| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/69cd92b054f00230c6cf4239?utm_campaign=1047&utm_source=git)** | US-California-Palo Alto | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
