@@ -131,14 +131,15 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ce5f6e54f00230c6cfe9fd?utm_campaign=1047&utm_source=git)** | Hanover Park, IL | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd00334828227293ff21bf?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce5da6366bb95ba550ab94?utm_campaign=1047&utm_source=git)** | Kalamazoo, MI | On Site | Apr 02 |
+| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Product Intern, Personal Lines](https://jobright.ai/jobs/info/69d0c1a554f00230c6d16139?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Flex](https://getflex.com)** | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131e54f00230c6cfb44f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | ↳ | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131d891d7b11cfcc4b34?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
 | ↳ | **[Lead Product Manager, Rent](https://jobright.ai/jobs/info/69ce3259cdb525785fb94f7f?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[OTC Alpha Product,6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c589441818a24cd84b79b5?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Rubrik](http://rubrik.com)** | **[Product Management MSP Intern, Summer 2026](https://jobright.ai/jobs/info/69cd7d64891d7b11cfcb9404?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Product Management Intern](https://jobright.ai/jobs/info/69cd73eb398fb071abf75664?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Apr 01 |
-| **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Digital Product Analyst Intern](https://jobright.ai/jobs/info/69cd33cc366bb95ba54f9a8c?utm_campaign=1047&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
