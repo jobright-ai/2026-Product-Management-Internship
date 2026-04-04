@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/69b467983b74eb1e2c819ce5?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Agile Product Owner Intern](https://jobright.ai/jobs/info/69b4cad106c1ba00c54647e6?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
 | **[Crusoe](https://crusoe.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d095ef54f00230c6d1378d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/69d05faccdb525785fba9aaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 03 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
+| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d0aa2d891d7b11cfcddc1f?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Apr 02 |
 | ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d09aab366bb95ba5520375?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ce5f6e54f00230c6cfe9fd?utm_campaign=1047&utm_source=git)** | Hanover Park, IL | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Element Electronics](https://elementelectronics.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d03bd6cdb525785fba8b36?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Apr 01 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/69cd92b054f00230c6cf4239?utm_campaign=1047&utm_source=git)** | US-California-Palo Alto | On Site | Apr 01 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 01 |
-| **[State Street](https://www.statestreet.com/)** | **[OTC Alpha Product,6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c589441818a24cd84b79b5?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| **[Rubrik](http://rubrik.com)** | **[Product Management MSP Intern, Summer 2026](https://jobright.ai/jobs/info/69cd7d64891d7b11cfcb9404?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
