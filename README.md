@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d084770b098b7a6707a483?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf1ac9366bb95ba5512b9c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | ↳ | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05eeb?utm_campaign=1047&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69ceba49366bb95ba550e962?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b4?utm_campaign=1047&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba01398fb071abf88208?utm_campaign=1047&utm_source=git)** | NY-New York | On Site | Apr 02 |
-| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c1?utm_campaign=1047&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb0d?utm_campaign=1047&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
+| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c1?utm_campaign=1047&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9eacdb525785fb9a84e?utm_campaign=1047&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | **[Volkswagen Group Regional After Sales Singapore](https://www.volkswagenag.com/)** | **[Scholar - Model Line Product Management](https://jobright.ai/jobs/info/69cffbb5366bb95ba551a65a?utm_campaign=1047&utm_source=git)** | Chattanooga, TN | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b79e8756973837413cc035?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69d042b30b098b7a67077e41?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 01 |
 | **[ProAmpac](http://www.proampac.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cd95a3cdb525785fb8ca7a?utm_campaign=1047&utm_source=git)** | Franklin Park, IL 60131, USA | On Site | Apr 01 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd959fcfdc6132f941d6a4?utm_campaign=1047&utm_source=git)** | Hanover Park, IL 60133, USA | On Site | Apr 01 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd94e1891d7b11cfcbdc19?utm_campaign=1047&utm_source=git)** | Cary, IL 60013, USA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
