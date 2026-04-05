@@ -104,9 +104,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d09aab366bb95ba5520375?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
-| ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d08b6d54f00230c6d132e6?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 02 |
-| ↳ | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d084770b098b7a6707a483?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d084770b098b7a6707a483?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf1ac9366bb95ba5512b9c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | ↳ | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05eeb?utm_campaign=1047&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/69cdcb8e54f00230c6cf658f?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
 | **[Rubrik](http://rubrik.com)** | **[Product Management MSP Intern, Summer 2026](https://jobright.ai/jobs/info/69cdb0db366bb95ba5501c1a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 01 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Management Group Manager](https://jobright.ai/jobs/info/69d042b30b098b7a67077e41?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 01 |
+| **[ProAmpac](http://www.proampac.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cd95a3cdb525785fb8ca7a?utm_campaign=1047&utm_source=git)** | Franklin Park, IL 60131, USA | On Site | Apr 01 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69cd959fcfdc6132f941d6a4?utm_campaign=1047&utm_source=git)** | Hanover Park, IL 60133, USA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
