@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Undergrad User Research - Slack](https://jobright.ai/jobs/info/69d41bb4cdb525785fbc61a4?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Apr 06 |
-| **[Scarlett Gasque](https://www.scarlettgasque.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d418ac891d7b11cfcf722d?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 06 |
+| **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior - PNC.com Digital Experience Strategy](https://jobright.ai/jobs/info/69d4321ce63cea7a8b657790?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
+| ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience Strategy](https://jobright.ai/jobs/info/69d4316fcfdc6132f9458730?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
+| ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience Strategy](https://jobright.ai/jobs/info/69d4316b54f00230c6d2ef31?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
+| **[IFF](http://iff.com)** | **[Intern](https://jobright.ai/jobs/info/69d42f52e63cea7a8b657675?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 06 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Product Management Intern (Endicott, NY)](https://jobright.ai/jobs/info/69d41ce5e63cea7a8b656d73?utm_campaign=1047&utm_source=git)** | Endicott, NY 13760, USA | On Site | Apr 06 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services Intern – Product Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69d41c73891d7b11cfcf7802?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 06 |
 | **[Hypertherm Associates](http://www.hyperthermassociates.com)** | **[Intern - Product Strategy & Market Intelligence](https://jobright.ai/jobs/info/69d41720366bb95ba553a46c?utm_campaign=1047&utm_source=git)** | Hanover, NH | On Site | Apr 06 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69d416e0cfdc6132f945761b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 06 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Snyk](https://snyk.io   )** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b4ffce06c1ba00c5469e00?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Apr 04 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Collectibles Summer 2026 Intern - Product - Physical Trading Cards](https://jobright.ai/jobs/info/69b467983b74eb1e2c819ce5?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Agile Product Owner Intern](https://jobright.ai/jobs/info/69b4cad106c1ba00c54647e6?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
 | **[Crusoe](https://crusoe.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d3cb75cfdc6132f9454410?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Apr 03 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/69d095ef54f00230c6d1378d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69bbd84a45e08b3dc1f78a7b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 02 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c22865c9ad035e829ae3bb?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 02 |
 | **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Ulla Johnson](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cec331398fb071abf88c29?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
-| **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ce5f6e54f00230c6cfe9fd?utm_campaign=1047&utm_source=git)** | Hanover Park, IL | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
