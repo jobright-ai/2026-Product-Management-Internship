@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 06 |
+| **[Xylem](https://heimplanet.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d3f93acdb525785fbc4fd9?utm_campaign=1047&utm_source=git)** | Morrisville, NC | On Site | Apr 06 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services Intern – Product Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69d3f344891d7b11cfcf5c00?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Apr 06 |
+| **[IFF](http://iff.com)** | **[Intern](https://jobright.ai/jobs/info/69d3f320e63cea7a8b6550bc?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Apr 06 |
+| **[Xylem](https://heimplanet.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d3f31a366bb95ba5538ed5?utm_campaign=1047&utm_source=git)** | Morrisville, North Carolina (Office) | On Site | Apr 06 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69d3dd0ae63cea7a8b65419e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Product Owner - Quality Measures](https://jobright.ai/jobs/info/69d3c90254f00230c6d2a524?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 06 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 06 |
@@ -135,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69ceba49366bb95ba550e962?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b4?utm_campaign=1047&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba01398fb071abf88208?utm_campaign=1047&utm_source=git)** | NY-New York | On Site | Apr 02 |
-| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb0d?utm_campaign=1047&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c1?utm_campaign=1047&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
+| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb0d?utm_campaign=1047&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9eacdb525785fb9a84e?utm_campaign=1047&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | **[Volkswagen Group Regional After Sales Singapore](https://www.volkswagenag.com/)** | **[Scholar - Model Line Product Management](https://jobright.ai/jobs/info/69cffbb5366bb95ba551a65a?utm_campaign=1047&utm_source=git)** | Chattanooga, TN | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b79e8756973837413cc035?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
-| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd00334828227293ff21bf?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
-| ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce5da6366bb95ba550ab94?utm_campaign=1047&utm_source=git)** | Kalamazoo, MI | On Site | Apr 02 |
-| **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Product Intern, Personal Lines](https://jobright.ai/jobs/info/69d0c1a554f00230c6d16139?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Flex](https://getflex.com)** | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131e54f00230c6cfb44f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
