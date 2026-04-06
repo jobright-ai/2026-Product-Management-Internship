@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weedmaps](http://weedmaps.com)** | **[Staff Product Manager, Enterprise Business Applications (Remote)](https://jobright.ai/jobs/info/69d3982c366bb95ba5535455?utm_campaign=1047&utm_source=git)** | Irvine, CA | Remote | Apr 06 |
+| ↳ | **[Staff Product Manager - Community (Remote)](https://jobright.ai/jobs/info/69d39812891d7b11cfcf2048?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d32acecfdc6132f944e6f5?utm_campaign=1047&utm_source=git)** | Bedford, Massachusetts | Hybrid | Apr 05 |
 | **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69a782542672cb0acb4bf9f1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 05 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
+| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69d31970366bb95ba5530e87?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Product Intern, Personal Lines](https://jobright.ai/jobs/info/69d0c1a554f00230c6d16139?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 02 |
 | **[Flex](https://getflex.com)** | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131e54f00230c6cfb44f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | ↳ | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131d891d7b11cfcc4b34?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
-| ↳ | **[Lead Product Manager, Rent](https://jobright.ai/jobs/info/69ce3259cdb525785fb94f7f?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 01 |
-| **[ProAmpac](http://www.proampac.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69cde0cf398fb071abf7d6ea?utm_campaign=1047&utm_source=git)** | Hanover Park, IL | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
