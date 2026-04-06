@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69d3dd0ae63cea7a8b65419e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Product Owner - Quality Measures](https://jobright.ai/jobs/info/69d3c90254f00230c6d2a524?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 06 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 06 |
 | **[Weedmaps](http://weedmaps.com)** | **[Staff Product Manager, Enterprise Business Applications (Remote)](https://jobright.ai/jobs/info/69d3982c366bb95ba5535455?utm_campaign=1047&utm_source=git)** | Irvine, CA | Remote | Apr 06 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
+| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf1ac9366bb95ba5512b9c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 02 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ce5f6e54f00230c6cfe9fd?utm_campaign=1047&utm_source=git)** | Hanover Park, IL | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
+| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Business Credit Cards](https://jobright.ai/jobs/info/69ce5da6366bb95ba550ab94?utm_campaign=1047&utm_source=git)** | Kalamazoo, MI | On Site | Apr 02 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Product Intern, Personal Lines](https://jobright.ai/jobs/info/69d0c1a554f00230c6d16139?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 02 |
-| **[Flex](https://getflex.com)** | **[Senior Product Manager, Onboarding](https://jobright.ai/jobs/info/69ce131e54f00230c6cfb44f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
