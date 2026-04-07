@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program-Product Analyst ](https://jobright.ai/jobs/info/69d5497b366bb95ba5543baf?utm_campaign=1047&utm_source=git)** | Fishers, Indiana | On Site | Apr 07 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d5411be63cea7a8b65fc26?utm_campaign=1047&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 07 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d540f5366bb95ba5543918?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 07 |
-| **[Crown Fund](https://crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d53e2fcdb525785fbcf4b4?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Apr 07 |
 | **[Oobli](https://oobli.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69d53e2c891d7b11cfd005db?utm_campaign=1047&utm_source=git)** | Davis , California, United States | On Site | Apr 07 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/69d53234891d7b11cfd00037?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Apr 07 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Clinical Programs- Product Intern](https://jobright.ai/jobs/info/69d531fbcfdc6132f9460545?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 07 |
@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Apr 03 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Data Intern](https://jobright.ai/jobs/info/69b36a33a8ac8e70ff67a99d?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 03 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b7982f56973837413cbc6e?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Apr 03 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c129402c312363dcd3ecde?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 03 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Development, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/698d2f8d0f6f7e7a2ce8f61e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c34c0894007a2195df9da0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Apr 03 |
 | **[Sandisk](https://www.sandisk.com)** | **[MBA Summer 2026 Intern - Technical Product Management](https://jobright.ai/jobs/info/697a770c8dbbf73badc79b4d?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Apr 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf1ac9366bb95ba5512b9c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
+| ↳ | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf0e8354f00230c6d05eeb?utm_campaign=1047&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
