@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4fa09706f771673b9fea6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 07 |
+| **[Provation](https://www.provationmedical.com)** | **[Product Content & Enablement Intern](https://jobright.ai/jobs/info/69d4f8e2891d7b11cfcfeb87?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b875d506c1ba00c54a6a1f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Apr 07 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Product Management/ Marketing Intern](https://jobright.ai/jobs/info/69ba833856973837413ffe55?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Apr 07 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69d495b6891d7b11cfcfbff4?utm_campaign=1047&utm_source=git)** | SD Metro Area | Remote | Apr 06 |
 | **[Commvault](https://www.commvault.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69d485ebcdb525785fbca44e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d47050e63cea7a8b659892?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 06 |
-| ↳ | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d44a92cfdc6132f9459619?utm_campaign=1047&utm_source=git)** | Burlington Massachusetts | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d43992cfdc6132f9459046?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | ↳ | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4392a891d7b11cfcf8a07?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
 | **[IFF](http://iff.com)** | **[Intern](https://jobright.ai/jobs/info/69d42f52e63cea7a8b657675?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Automotive Service Group (ASG) Product Analyst Internship Summer 2026](https://jobright.ai/jobs/info/69b19d92548f140066e76eae?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ced2b8398fb071abf89567?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69ceba49366bb95ba550e962?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Apr 02 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b4?utm_campaign=1047&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
