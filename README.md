@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69d495b6891d7b11cfcfbff4?utm_campaign=1047&utm_source=git)** | SD Metro Area | Remote | Apr 06 |
 | **[Commvault](https://www.commvault.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69d485ebcdb525785fbca44e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d47050e63cea7a8b659892?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 06 |
 | ↳ | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d44a92cfdc6132f9459619?utm_campaign=1047&utm_source=git)** | Burlington Massachusetts | On Site | Apr 06 |
@@ -99,7 +100,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Agile Product Owner Intern](https://jobright.ai/jobs/info/69b4cad106c1ba00c54647e6?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
 | **[Crusoe](https://crusoe.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d3cb75cfdc6132f9454410?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Apr 03 |
-| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/69d095ef54f00230c6d1378d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
+| **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69d48fd0366bb95ba553f1b9?utm_campaign=1047&utm_source=git)** | Glenview, IL | Hybrid | Apr 03 |
+| **[Crusoe](https://crusoe.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d095ef54f00230c6d1378d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 03 |
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - Corporate Strategy AI/ML Intern](https://jobright.ai/jobs/info/69d03c3dcdb525785fba8c46?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/69d05faccdb525785fba9aaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 03 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d04c41cfdc6132f943a5e6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 03 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69ceba49366bb95ba550e962?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b4?utm_campaign=1047&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba01398fb071abf88208?utm_campaign=1047&utm_source=git)** | NY-New York | On Site | Apr 02 |
-| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb0d?utm_campaign=1047&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c1?utm_campaign=1047&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
-| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9eacdb525785fb9a84e?utm_campaign=1047&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
