@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/69d53234891d7b11cfd00037?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Apr 07 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Clinical Programs- Product Intern](https://jobright.ai/jobs/info/69d531fbcfdc6132f9460545?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 07 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/69d531edcfdc6132f9460509?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Apr 07 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Apr 07 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Clinical Programs- Product Intern](https://jobright.ai/jobs/info/69d52bc4cfdc6132f9460201?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing](https://jobright.ai/jobs/info/69bc6fbf45e08b3dc1f92463?utm_campaign=1047&utm_source=git)** | Augusta, KS | On Site | Apr 07 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69b94bf806c1ba00c54b6808?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d51a02706f771673ba085b?utm_campaign=1047&utm_source=git)** | Rochester | On Site | Apr 07 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[CLEAResult](http://www.clearesult.com)** | **[Product and Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69d00190cdb525785fba67fb?utm_campaign=1047&utm_source=git)** | Austin TX - Bridgepoint Parkway | Hybrid | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 03 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Apr 03 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c1ff912c312363dcd54ab1?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 03 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69c2d0aeec22f8310ab0beb1?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Apr 03 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Data Intern](https://jobright.ai/jobs/info/69b36a33a8ac8e70ff67a99d?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 03 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b7982f56973837413cbc6e?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Apr 03 |
@@ -144,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
+| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf92fccfdc6132f9434617?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 03 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Artificial Intelligence Product Intern](https://jobright.ai/jobs/info/69cf1ac9366bb95ba5512b9c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Safety Apparel](http://thinknsa.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d0232e891d7b11cfcd8d57?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69cf0354891d7b11cfccf466?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
 | **[GAINS](https://gainsystems.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d0143bcfdc6132f9438329?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 02 |
-| **[Crusoe](https://crusoe.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d05d4ecfdc6132f943a9c3?utm_campaign=1047&utm_source=git)** | San Francisco, CA - US | On Site | Apr 02 |
-| **[TD SYNNEX North America](http://www.techdata.com)** | **[Micro-Intern](https://jobright.ai/jobs/info/69ceff89891d7b11cfccf356?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Apr 02 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ceff57891d7b11cfccf32e?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
-| **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
