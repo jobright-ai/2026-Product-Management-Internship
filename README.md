@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d43992cfdc6132f9459046?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
+| ↳ | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4392a891d7b11cfcf8a07?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior - PNC.com Digital Experience Strategy](https://jobright.ai/jobs/info/69d4321ce63cea7a8b657790?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 06 |
 | ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience Strategy](https://jobright.ai/jobs/info/69d4316fcfdc6132f9458730?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 06 |
 | ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience Strategy](https://jobright.ai/jobs/info/69d4316b54f00230c6d2ef31?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 06 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/69ceba49366bb95ba550e962?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b4?utm_campaign=1047&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceba01398fb071abf88208?utm_campaign=1047&utm_source=git)** | NY-New York | On Site | Apr 02 |
-| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c1?utm_campaign=1047&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb0d?utm_campaign=1047&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
+| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c1?utm_campaign=1047&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69ceb9eacdb525785fb9a84e?utm_campaign=1047&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | **[Volkswagen Group Regional After Sales Singapore](https://www.volkswagenag.com/)** | **[Scholar - Model Line Product Management](https://jobright.ai/jobs/info/69cffbb5366bb95ba551a65a?utm_campaign=1047&utm_source=git)** | Chattanooga, TN | On Site | Apr 02 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69b79e8756973837413cc035?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69bbd84a45e08b3dc1f78a7b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 02 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c22865c9ad035e829ae3bb?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 02 |
-| **[Healthfirst](https://healthfirst.org)** | **[IT Product Intern &#8211; 2026 Summer Internship](https://jobright.ai/jobs/info/6986b7d20f6f7e7a2ce1d1fb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
