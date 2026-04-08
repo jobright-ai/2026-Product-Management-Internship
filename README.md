@@ -82,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d59f64cfdc6132f94639d0?utm_campaign=1047&utm_source=git)** | Mequon, WI | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d59e22706f771673ba46fa?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9e63cea7a8b6625f3?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9cdb525785fbd1f8d?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
 | ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/69d5e01d366bb95ba55498d6?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Apr 07 |
@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69d3dd0ae63cea7a8b65419e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Product Owner - Quality Measures](https://jobright.ai/jobs/info/69d3c90254f00230c6d2a524?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 06 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 06 |
-| **[Weedmaps](http://weedmaps.com)** | **[Staff Product Manager - Community (Remote)](https://jobright.ai/jobs/info/69d39812891d7b11cfcf2048?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d32acecfdc6132f944e6f5?utm_campaign=1047&utm_source=git)** | Bedford, Massachusetts | Hybrid | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Product Intern - AI & Innovation - Remote](https://jobright.ai/jobs/info/69d029b7cfdc6132f9438b77?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 03 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, Prescriber Experience](https://jobright.ai/jobs/info/69d0247bcdb525785fba7aa3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Apr 03 |
 | **[Hibiscus Health](https://hibiscushealth.com)** | **[AI Product Fellowship](https://jobright.ai/jobs/info/69d01400366bb95ba551b3c2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d00f08cdb525785fba7120?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
