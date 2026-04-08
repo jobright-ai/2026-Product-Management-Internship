@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst](http://www.hearst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d6ac7fcfdc6132f946c3d7?utm_campaign=1047&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Apr 08 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d6a4aa48f0c8161d2f910e?utm_campaign=1047&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Apr 08 |
+| **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 08 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/69d508eee63cea7a8b65e5ca?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Apr 08 |
 | ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/69d68fb852a5bf5800129823?utm_campaign=1047&utm_source=git)** | South Burlington, VT | On Site | Apr 08 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Product Manager 2-3, Aftermarket](https://jobright.ai/jobs/info/69967b66e0bddb6acac4f518?utm_campaign=1047&utm_source=git)** | Avon, OH | On Site | Apr 08 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[onsemi](http://www.onsemi.com)** | **[Summer 2026 - Corporate Strategy AI/ML Intern](https://jobright.ai/jobs/info/69d03c3dcdb525785fba8c46?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d04c41cfdc6132f943a5e6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 03 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Product and Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69d047d8891d7b11cfcda7a7?utm_campaign=1047&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 03 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69d57f71cdb525785fbd1610?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 03 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[Product Intern - AI & Innovation - Remote](https://jobright.ai/jobs/info/69d029b7cfdc6132f9438b77?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 03 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, Prescriber Experience](https://jobright.ai/jobs/info/69d0247bcdb525785fba7aa3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Apr 03 |
 | **[Hibiscus Health](https://hibiscushealth.com)** | **[AI Product Fellowship](https://jobright.ai/jobs/info/69d01400366bb95ba551b3c2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d00f08cdb525785fba7120?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d00d0a366bb95ba551afd7?utm_campaign=1047&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
