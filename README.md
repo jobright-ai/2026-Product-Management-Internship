@@ -132,8 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69d3dd0ae63cea7a8b65419e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Product Owner - Quality Measures](https://jobright.ai/jobs/info/69d3c90254f00230c6d2a524?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 06 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 06 |
-| **[Weedmaps](http://weedmaps.com)** | **[Staff Product Manager, Enterprise Business Applications (Remote)](https://jobright.ai/jobs/info/69d3982c366bb95ba5535455?utm_campaign=1047&utm_source=git)** | Irvine, CA | Remote | Apr 06 |
-| ↳ | **[Staff Product Manager - Community (Remote)](https://jobright.ai/jobs/info/69d39812891d7b11cfcf2048?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Apr 06 |
+| **[Weedmaps](http://weedmaps.com)** | **[Staff Product Manager - Community (Remote)](https://jobright.ai/jobs/info/69d39812891d7b11cfcf2048?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d32acecfdc6132f944e6f5?utm_campaign=1047&utm_source=git)** | Bedford, Massachusetts | Hybrid | Apr 05 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, Prescriber Experience](https://jobright.ai/jobs/info/69d0247bcdb525785fba7aa3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Apr 03 |
 | **[Hibiscus Health](https://hibiscushealth.com)** | **[AI Product Fellowship](https://jobright.ai/jobs/info/69d01400366bb95ba551b3c2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d00f08cdb525785fba7120?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d00d0a366bb95ba551afd7?utm_campaign=1047&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
