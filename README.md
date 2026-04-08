@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69c21e94c9ad035e829ad1b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 08 |
+| **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Apr 08 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/69a6eee52672cb0acb4b5462?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Apr 08 |
+| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern (AI, Product & Growth)](https://jobright.ai/jobs/info/69d66a32706f771673baa85f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d00d0954f00230c6d0ec7f?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | Hybrid | Apr 03 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/699648f981476f6176ae0aa5?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d0247754f00230c6d0f6bc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
-| ↳ | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d004c454f00230c6d0e51d?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d004b6366bb95ba551a92f?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation Product Management - Intern Summer/Fall 2026](https://jobright.ai/jobs/info/69d004980b098b7a67075a12?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
