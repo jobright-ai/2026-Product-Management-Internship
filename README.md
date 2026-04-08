@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
+| **[Alcon](http://www.alcon.com)** | **[Summer 2026 Intern - Digital Product Management](https://jobright.ai/jobs/info/69d594bccdb525785fbd1f9d?utm_campaign=1047&utm_source=git)** | Fort Worth, Texas | On Site | Apr 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9cdb525785fbd1f8d?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
+| **[Not A Very Good Teacher](www.notaverygoodteacher.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d59194891d7b11cfd02fb4?utm_campaign=1047&utm_source=git)** | Alexandria, VA | Hybrid | Apr 07 |
+| **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
+| ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69d58551706f771673ba3d03?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | ↳ | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69d584f0e63cea7a8b661f0c?utm_campaign=1047&utm_source=git)** | Sunnyvale, TX | On Site | Apr 07 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern - Software Products](https://jobright.ai/jobs/info/69d57222366bb95ba55452a8?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Apr 07 |
@@ -88,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Resmed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69d495b6891d7b11cfcfbff4?utm_campaign=1047&utm_source=git)** | SD Metro Area | Remote | Apr 06 |
 | **[Commvault](https://www.commvault.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/69d485ebcdb525785fbca44e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d51a0fcfdc6132f945fa45?utm_campaign=1047&utm_source=git)** | Burlington Massachusetts | On Site | Apr 06 |
+| **[Xylem](https://heimplanet.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d590d3cdb525785fbd1e29?utm_campaign=1047&utm_source=git)** | Morrisville, NC | On Site | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d43992cfdc6132f9459046?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | ↳ | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4392a891d7b11cfcf8a07?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services Intern – Product Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69d580b5891d7b11cfd02847?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Development, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/698d2f8d0f6f7e7a2ce8f61e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69c34c0894007a2195df9da0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Apr 03 |
 | **[Sandisk](https://www.sandisk.com)** | **[MBA Summer 2026 Intern - Technical Product Management](https://jobright.ai/jobs/info/697a770c8dbbf73badc79b4d?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Apr 03 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
