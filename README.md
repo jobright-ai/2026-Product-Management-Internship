@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Apr 09 |
+| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/69d7f3b6869c7e25d8592876?utm_campaign=1047&utm_source=git)** | US-California-Palo Alto | On Site | Apr 09 |
 | **[RJ Schinner Co., Inc.](https://www.rjschinner.com/)** | **[Pricing & Product Intern](https://jobright.ai/jobs/info/69cf04e2891d7b11cfccf4df?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Apr 09 |
-| **[GenPark](https://genpark.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d7f0e4f4ea471a51fe2921?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[American National Bank of Texas](https://www.anbtx.com/)** | **[Product Internship](https://jobright.ai/jobs/info/69d7eff49f97a42dc9c190c8?utm_campaign=1047&utm_source=git)** | Terrell, TX | On Site | Apr 09 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/69d759b348f0c8161d2ffe54?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
-| **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d7d596b67cec4f9b098a4a?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 09 |
 | **[State Street](https://www.statestreet.com/)** | **[OTC Alpha Product,6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c589441818a24cd84b79b5?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/69bb6dfb06c1ba00c54de0eb?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Apr 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Business Innovation Intern- Summer 2026](https://jobright.ai/jobs/info/69d7cee8b861c42857c4575c?utm_campaign=1047&utm_source=git)** | VA-RICHMOND, 2015 STAPLES MILL RD, | Hybrid | Apr 09 |
@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/69b293a3ad360c0340a768dc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 08 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Apr 08 |
+| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/69d7fd80b67cec4f9b0998f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 07 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b88ae556973837413decd3?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Apr 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 07 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69b877763b74eb1e2c864a47?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
