@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d821209f97a42dc9c1a71e?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69b0cff10b2db6275c05740f?utm_campaign=1047&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 09 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d80903b861c42857c47d52?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | Hybrid | Apr 09 |
@@ -129,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d59e22706f771673ba46fa?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d6d8f0366bb95ba5550489?utm_campaign=1047&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9e63cea7a8b6625f3?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9cdb525785fbd1f8d?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
 | ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/69d5e01d366bb95ba55498d6?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d5acd5366bb95ba5546c21?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b875d506c1ba00c54a6a1f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/699d586a81476f6176b62f38?utm_campaign=1047&utm_source=git)** | Roanoke, IN | On Site | Apr 07 |
-| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
