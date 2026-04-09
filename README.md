@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spot & Tango](http://www.spotandtango.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69bba36a06c1ba00c54e39ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 09 |
+| **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Product Analyst 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d7b4d8f4ea471a51fdffa7?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Apr 09 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/69bb612c56973837414161ca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69d0a00a366bb95ba552066c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/69a0136253d97f23ee65cd74?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
@@ -64,7 +66,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb549406c1ba00c54dcb40?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Apr 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
-| ↳ | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 09 |
+| **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[New Product Development Manager, Senior](https://jobright.ai/jobs/info/69d7b452b861c42857c44be3?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Apr 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Technical Product Owner II](https://jobright.ai/jobs/info/69d735be366bb95ba5552932?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69d72ef9cfdc6132f946fbf5?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69d72e76366bb95ba55525e5?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Apr 08 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69d6d84de63cea7a8b66c964?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Apr 08 |
 | **[Hearst](http://www.hearst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d6d13848f0c8161d2fb51d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[UST](https://www.ust.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d7aa22738f2f099e895666?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
-| **[UST HealthProof](https://usthealthproof.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d7aa20869c7e25d858e97f?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Product Business Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d36d?utm_campaign=1047&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[REHAU Window Solutions](https://window.rehau.com/)** | **[Product Management Intern - Business  (Strategy & Analytics Focus)](https://jobright.ai/jobs/info/69d6bfd148f0c8161d2fac1a?utm_campaign=1047&utm_source=git)** | Leesburg, Virginia, United States | Hybrid | Apr 08 |
 | ↳ | **[Product Management Intern – Technical (Engineering Focus)](https://jobright.ai/jobs/info/69d6bfcb52a5bf580012baad?utm_campaign=1047&utm_source=git)** | Leesburg, Virginia, United States | Hybrid | Apr 08 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Apr 08 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/69a6eee52672cb0acb4b5462?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Apr 08 |
-| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/69d7aa2ab67cec4f9b09569e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 08 |
@@ -109,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d59e22706f771673ba46fa?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d6d8f0366bb95ba5550489?utm_campaign=1047&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9cdb525785fbd1f8d?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9e63cea7a8b6625f3?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
 | ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/69d5e01d366bb95ba55498d6?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Apr 07 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hypertherm Associates](http://www.hyperthermassociates.com)** | **[Intern - Product Strategy & Market Intelligence](https://jobright.ai/jobs/info/69d41720366bb95ba553a46c?utm_campaign=1047&utm_source=git)** | Hanover, NH | On Site | Apr 06 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69d416e0cfdc6132f945761b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 06 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Business Innovation Intern- Summer 2026](https://jobright.ai/jobs/info/69d40ef0cfdc6132f945729f?utm_campaign=1047&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Apr 06 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight Department](https://jobright.ai/jobs/info/69d408e0cfdc6132f945700d?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 06 |
 | ↳ | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight Department](https://jobright.ai/jobs/info/69d408df891d7b11cfcf6c31?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
