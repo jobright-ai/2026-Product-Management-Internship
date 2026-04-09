@@ -67,6 +67,8 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d004b6366bb95ba551a92f?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Apr 08 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69d6d84de63cea7a8b66c964?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Apr 08 |
 | **[Hearst](http://www.hearst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d6d13848f0c8161d2fb51d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[UST](https://www.ust.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d77601e63cea7a8b671ee7?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d76e2d366bb95ba55550f8?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Product Business Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d36d?utm_campaign=1047&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
 | **[REHAU Window Solutions](https://window.rehau.com/)** | **[Product Management Intern - Business  (Strategy & Analytics Focus)](https://jobright.ai/jobs/info/69d6bfd148f0c8161d2fac1a?utm_campaign=1047&utm_source=git)** | Leesburg, Virginia, United States | Hybrid | Apr 08 |
 | ↳ | **[Product Management Intern – Technical (Engineering Focus)](https://jobright.ai/jobs/info/69d6bfcb52a5bf580012baad?utm_campaign=1047&utm_source=git)** | Leesburg, Virginia, United States | Hybrid | Apr 08 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Apr 08 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, API Commercial](https://jobright.ai/jobs/info/69a6eee52672cb0acb4b5462?utm_campaign=1047&utm_source=git)** | Hazelwood, MO | On Site | Apr 08 |
+| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/69d7761c706f771673bb3d82?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 08 |
@@ -97,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d59e22706f771673ba46fa?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d6d8f0366bb95ba5550489?utm_campaign=1047&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9cdb525785fbd1f8d?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9e63cea7a8b6625f3?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
 | ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/69d5e01d366bb95ba55498d6?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 06 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d32acecfdc6132f944e6f5?utm_campaign=1047&utm_source=git)** | Bedford, Massachusetts | Hybrid | Apr 05 |
-| **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/69d723e9706f771673bb024b?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 05 |
-| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
