@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KIOTI Tractor](http://kioti.com/)** | **[Product Business Intern](https://jobright.ai/jobs/info/69d6f6bfe63cea7a8b66d376?utm_campaign=1047&utm_source=git)** | Wendell, NC | On Site | Apr 08 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/69d004b6366bb95ba551a92f?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Apr 08 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d6dc96366bb95ba55506b1?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
-| **[UST](https://www.ust.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d6db66e63cea7a8b66c993?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69d6d84de63cea7a8b66c964?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Apr 08 |
 | **[Hearst](http://www.hearst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d6d13848f0c8161d2fb51d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Product Business Intern](https://jobright.ai/jobs/info/69d6c664cfdc6132f946d36d?utm_campaign=1047&utm_source=git)** | Wendell, NC, US | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 04 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Agile Product Owner Intern](https://jobright.ai/jobs/info/69b4cad106c1ba00c54647e6?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Apr 04 |
-| **[Crusoe](https://crusoe.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d3cb75cfdc6132f9454410?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
