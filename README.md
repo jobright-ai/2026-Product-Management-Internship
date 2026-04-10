@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
+| **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d88bd59f97a42dc9c1cf75?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877af869c7e25d8595d42?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877a6869c7e25d8595d0a?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69d877a6b67cec4f9b09cd26?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d86a18869c7e25d8595601?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69d86a0fb861c42857c4a566?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69d851ac9f97a42dc9c1b873?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | Apr 09 |
-| **[GenPark](https://genpark.ai)** | **[Product Operation Intern](https://jobright.ai/jobs/info/69d8519f869c7e25d8594d3c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 | **[JM Test Systems, LLC.](https://jmtest.com/)** | **[Spring 2026-IT Internship Product Manager](https://jobright.ai/jobs/info/69d84e47b861c42857c49c95?utm_campaign=1047&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Fall 2026](https://jobright.ai/jobs/info/69d84081738f2f099e89b8f4?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | ↳ | **[Technical Product Management Intern, Enterprise Products - Fall 2026](https://jobright.ai/jobs/info/69d83751738f2f099e89b71d?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Apr 09 |
@@ -106,11 +107,11 @@ For a complete list, click the following sortable link below:
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[New Product Development Manager, Senior](https://jobright.ai/jobs/info/69d7b452b861c42857c44be3?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Apr 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Technical Product Owner II](https://jobright.ai/jobs/info/69d735be366bb95ba5552932?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69d88b71738f2f099e89d2e8?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 08 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69d72ef9cfdc6132f946fbf5?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69d72e76366bb95ba55525e5?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Apr 08 |
 | ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69d72e75706f771673bb0823?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d72ab7706f771673bb0547?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 08 |
-| **[DEMDACO](https://www.demdaco.com/)** | **[Product Development & Brand Creative Intern](https://jobright.ai/jobs/info/69d87d06738f2f099e89d083?utm_campaign=1047&utm_source=git)** | Leawood, KS | On Site | Apr 08 |
 | **[shyva AI](https://shyvlandingpage.lovable.app)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d71d7e366bb95ba5551d21?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 08 |
 | **[KIOTI Tractor](http://kioti.com/)** | **[Product Business Intern](https://jobright.ai/jobs/info/69d6f6bfe63cea7a8b66d376?utm_campaign=1047&utm_source=git)** | Wendell, NC | On Site | Apr 08 |
@@ -134,11 +135,9 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/69b293a3ad360c0340a768dc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 08 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Apr 08 |
-| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/69d87f26b67cec4f9b09d0ca?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 08 |
-| **[Scarlett Gasque](https://www.scarlettgasque.com)** | **[Product Development/tech design paid internship](https://jobright.ai/jobs/info/69d5aff9cfdc6132f9463fdb?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Apr 08 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/696b45d05fc86241853a9d33?utm_campaign=1047&utm_source=git)** | Greater Bismarck Area | On Site | Apr 08 |
 | **[Nominet](https://www.nominet.uk/)** | **[Product Manager](https://jobright.ai/jobs/info/69d618bf706f771673ba97cd?utm_campaign=1047&utm_source=git)** | Home, KS | Hybrid | Apr 08 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Product Management/ Marketing Intern](https://jobright.ai/jobs/info/69d7534f950d1a0760b7e1b7?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Apr 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69d584f0e63cea7a8b661f0c?utm_campaign=1047&utm_source=git)** | Sunnyvale, TX | On Site | Apr 07 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern - Software Products](https://jobright.ai/jobs/info/69d57222366bb95ba55452a8?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Apr 07 |
 | ↳ | **[Product Management Intern - High Speed Imaging Solutions](https://jobright.ai/jobs/info/69d5721b366bb95ba5545290?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Apr 07 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
