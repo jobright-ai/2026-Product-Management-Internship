@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d88bd59f97a42dc9c1cf75?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877af869c7e25d8595d42?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877a6869c7e25d8595d0a?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69d877a6b67cec4f9b09cd26?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
+| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877a6869c7e25d8595d0a?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69d87795b67cec4f9b09ccc2?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d8777f9f97a42dc9c1c7b8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d8777df4ea471a51fe608f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
