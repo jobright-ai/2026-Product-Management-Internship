@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69d851ac9f97a42dc9c1b873?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | Apr 09 |
+| **[GenPark](https://genpark.ai)** | **[Product Operation Intern](https://jobright.ai/jobs/info/69d8519f869c7e25d8594d3c?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
+| **[JM Test Systems, LLC.](https://jmtest.com/)** | **[Spring 2026-IT Internship Product Manager](https://jobright.ai/jobs/info/69d84e47b861c42857c49c95?utm_campaign=1047&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Fall 2026](https://jobright.ai/jobs/info/69d84081738f2f099e89b8f4?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
 | ↳ | **[Technical Product Management Intern, Enterprise Products - Fall 2026](https://jobright.ai/jobs/info/69d83751738f2f099e89b71d?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Apr 09 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d821209f97a42dc9c1a71e?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Apr 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d51a02706f771673ba085b?utm_campaign=1047&utm_source=git)** | Rochester | On Site | Apr 07 |
 | **[ANDREW an Amphenol company](https://www.andrew.com/)** | **[Product Line Intern](https://jobright.ai/jobs/info/69d60b50e63cea7a8b667450?utm_campaign=1047&utm_source=git)** | Richardson, TX, USA | On Site | Apr 07 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Content & Enablement Intern](https://jobright.ai/jobs/info/69d50754706f771673ba02c8?utm_campaign=1047&utm_source=git)** | 533 S. 3rd Street, Minneapolis, MN, 55415, US | On Site | Apr 07 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4fa09706f771673b9fea6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 07 |
-| **[Provation](https://www.provationmedical.com)** | **[Product Content & Enablement Intern](https://jobright.ai/jobs/info/69d4f8e2891d7b11cfcfeb87?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
-| **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d5acd5366bb95ba5546c21?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
