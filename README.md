@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
-| **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d88bd59f97a42dc9c1cf75?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877af869c7e25d8595d42?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69d877a6b67cec4f9b09cd26?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877a6869c7e25d8595d0a?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
 | ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/69d5e01d366bb95ba55498d6?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Apr 07 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69d58551706f771673ba3d03?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
