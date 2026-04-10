@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d88bd59f97a42dc9c1cf75?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877af869c7e25d8595d42?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877a6869c7e25d8595d0a?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69d877a6b67cec4f9b09cd26?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
+| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d877a6869c7e25d8595d0a?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69d87795b67cec4f9b09ccc2?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d8777f9f97a42dc9c1c7b8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d8777df4ea471a51fe608f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
@@ -148,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d59e22706f771673ba46fa?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d6d8f0366bb95ba5550489?utm_campaign=1047&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9e63cea7a8b6625f3?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9cdb525785fbd1f8d?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d58f0ae63cea7a8b66245a?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Apr 07 |
 | ↳ | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
 | **[First American](http://www.firstam.com)** | **[Product Research Intern - REMOTE](https://jobright.ai/jobs/info/69d5e01d366bb95ba55498d6?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | Remote | Apr 07 |
