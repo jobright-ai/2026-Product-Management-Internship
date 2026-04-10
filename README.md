@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d960c3869c7e25d859aa8c?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
 | **[TI Automotive](http://www.tiautomotive.com)** | **[Summer Intern – Global Product Management (Business Focus)](https://jobright.ai/jobs/info/69d9529d9f97a42dc9c20ae3?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Informatics Intern](https://jobright.ai/jobs/info/69a5712a0da45516f16e235b?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Apr 10 |
 | **[Amazon](https://amazon.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d943605356a60f40fd89cb?utm_campaign=1047&utm_source=git)** | Newark, New Jersey, USA | On Site | Apr 10 |
@@ -66,18 +67,19 @@ For a complete list, click the following sortable link below:
 | **[Hyatt](http://www.hyatt.com/)** | **[Intern, Digital Product Management – Sales and Events (Chicago- Hybrid)](https://jobright.ai/jobs/info/69d9263c9f97a42dc9c1fc79?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69d92106869c7e25d8598f91?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | Apr 10 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Apr 10 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/69d95f35738f2f099e8a1799?utm_campaign=1047&utm_source=git)** | San Jose, California, United States | On Site | Apr 10 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d912af869c7e25d8598c84?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc78684828227293fe5a29?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Apr 10 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Software Business Analyst Intern](https://jobright.ai/jobs/info/69bc5d4b5b89c002acf1f34c?utm_campaign=1047&utm_source=git)** | Hercules, CA | On Site | Apr 10 |
 | **[Jack Rogers USA](http://jackrogersusa.com)** | **[Product and Operations Intern](https://jobright.ai/jobs/info/69d90f759f97a42dc9c1f3f8?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Intern, Digital Product Management – Planner Experience (Chicago- Hybrid)](https://jobright.ai/jobs/info/69d934b1f748bc5d08a49b53?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
+| **[Turck USA](https://www.turck.us)** | **[Technical Product Benchmarking Intern](https://jobright.ai/jobs/info/69d95f55f748bc5d08a4aed1?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Apr 10 |
 | **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Deputy Vice President - Strategic Product](https://jobright.ai/jobs/info/69d90618b67cec4f9b09f763?utm_campaign=1047&utm_source=git)** | Western, WV | On Site | Apr 10 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship, Product Management-Technology (HR Reporting & Analytics)](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 10 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69d877a6b67cec4f9b09cd26?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d8777df4ea471a51fe608f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69d851ac9f97a42dc9c1b873?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | Apr 09 |
 | **[JM Test Systems, LLC.](https://jmtest.com/)** | **[Spring 2026-IT Internship Product Manager](https://jobright.ai/jobs/info/69d84e47b861c42857c49c95?utm_campaign=1047&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Fall 2026](https://jobright.ai/jobs/info/69d84081738f2f099e89b8f4?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/69b293a3ad360c0340a768dc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 08 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Product Transitions](https://jobright.ai/jobs/info/699cb17f81476f6176b5446e?utm_campaign=1047&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Apr 08 |
+| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/69d95e8cb67cec4f9b0a19bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[HealthEdge](http://www.healthedge.com)** | **[Product Documentation Internship - Summer 2026](https://jobright.ai/jobs/info/69bb8cee3b74eb1e2c8a0d0e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 08 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d5a8d0cdb525785fbd2718?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Apr 07 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d59f64cfdc6132f94639d0?utm_campaign=1047&utm_source=git)** | Mequon, WI | Hybrid | Apr 07 |
 | **[Medica](https://www.medica.com)** | **[Medicaid Product Intern](https://jobright.ai/jobs/info/69d59e22706f771673ba46fa?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 07 |
-| **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d6d8f0366bb95ba5550489?utm_campaign=1047&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
-| **[Rheem Manufacturing](http://www.rheem.com)** | **[Commercial Product Management Intern](https://jobright.ai/jobs/info/69d594d2706f771673ba446e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Apr 07 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/69d594b9e63cea7a8b6625f3?utm_campaign=1047&utm_source=git)** | Mequon, Wisconsin, United States | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
