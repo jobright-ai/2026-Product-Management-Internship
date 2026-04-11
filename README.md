@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Custom Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c3?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69da7853869c7e25d85a28b0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[INTERN: Product Management](https://jobright.ai/jobs/info/69c8a0b783ea553769feb066?utm_campaign=1047&utm_source=git)** | East Granby, CT | On Site | Apr 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cdc5e5cdb525785fb8e8e9?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Apr 11 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 11 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bde9a9393a1008f743bd98?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69da061df748bc5d08a511c3?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Apr 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c01b9f97a42dc9c24072?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | ↳ | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69d9bfaa869c7e25d859d50d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 10 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69daa490738f2f099e8abc7b?utm_campaign=1047&utm_source=git)** | Vancouver, BC | Hybrid | Apr 10 |
 | **[Rite-Hite](https://www.ritehite.com)** | **[Graduate Intern – Product & Sustainability](https://jobright.ai/jobs/info/69d9b0c8b67cec4f9b0a404d?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Apr 10 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d9ae6df748bc5d08a4d2c8?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 10 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d9ae54b67cec4f9b0a3ce9?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
@@ -102,12 +104,12 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae47?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae49?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d976009f97a42dc9c2189c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d976009f97a42dc9c2189a?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d976009f97a42dc9c2189b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 09 |
+| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae47?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae48?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d976009f97a42dc9c2189c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
+| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae49?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69d851ac9f97a42dc9c1b873?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | Apr 09 |
 | **[JM Test Systems, LLC.](https://jmtest.com/)** | **[Spring 2026-IT Internship Product Manager](https://jobright.ai/jobs/info/69d84e47b861c42857c49c95?utm_campaign=1047&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Fall 2026](https://jobright.ai/jobs/info/69d84081738f2f099e89b8f4?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iconectiv](http://www.iconectiv.com/)** | **[Intern, Product Management - Job ID 3100](https://jobright.ai/jobs/info/69d7d826869c7e25d8591e68?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Apr 08 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69d6d84de63cea7a8b66c964?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Apr 08 |
 | **[Hearst](http://www.hearst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d6d13848f0c8161d2fb51d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[UST](https://www.ust.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d7aa21b67cec4f9b095668?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
-| **[UST HealthProof](https://usthealthproof.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d7ec2db861c42857c47422?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
