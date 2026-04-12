@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Docusign](http://www.docusign.com)** | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a234260da45516f16b7c9d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 12 |
+| ↳ | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a24c87b600907a9628967d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 12 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69be99394828227293015a4b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69d72e76366bb95ba55525e5?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Apr 08 |
 | ↳ | **[Deposit Product Strategy Summer Intern](https://jobright.ai/jobs/info/69d72e75706f771673bb0823?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 08 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist / Intern](https://jobright.ai/jobs/info/69d72ab7706f771673bb0547?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 08 |
-| **[shyva AI](https://shyvlandingpage.lovable.app)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d71d7e366bb95ba5551d21?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
