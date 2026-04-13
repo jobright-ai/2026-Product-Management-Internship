@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jelmar, maker of CLR Brands](http://www.clrbrands.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dd4df2bc6f6622c991145a?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Apr 13 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Product Development & Strategy Intern, R&D Software-Centric Products](https://jobright.ai/jobs/info/69dd45b65356a60f40fed5b5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Verc](verc.ai)** | **[Founding Product & GTM MBA Intern](https://jobright.ai/jobs/info/69dd37c55356a60f40fed200?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 13 |
 | **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Product Manager Analyst Summer Intern](https://jobright.ai/jobs/info/69dd34c99f97a42dc9c34fad?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Apr 13 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69d92106869c7e25d8598f91?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | Apr 13 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Summer Intern - Product Corporate Actions - S&P Global](https://jobright.ai/jobs/info/69dd4d9e9f97a42dc9c353eb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 13 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69dd1fec738f2f099e8b4be0?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 13 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Product Analyst 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d7c620b861c42857c4553e?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | **[ETA hand2mind](http://www.hand2mind.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d7c55a869c7e25d8590424?utm_campaign=1047&utm_source=git)** | hand2mind, Vernon Hills, IL, US | On Site | Apr 09 |
 | **[iconectiv](http://www.iconectiv.com/)** | **[Intern, Product Management - Job ID 3100](https://jobright.ai/jobs/info/69d7c556b861c42857c45358?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ, US | Hybrid | Apr 09 |
-| **[Educational Insights](http://www.educationalinsights.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d7c54cf4ea471a51fe0603?utm_campaign=1047&utm_source=git)** | hand2mind, Vernon Hills, IL, US | On Site | Apr 09 |
-| **[American National Bank of Texas](https://www.anbtx.com/)** | **[Product Internship](https://jobright.ai/jobs/info/69d7c5379f97a42dc9c16d63?utm_campaign=1047&utm_source=git)** | Terrell, Texas, United States | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
