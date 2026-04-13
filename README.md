@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Promega Corporation](http://www.promega.com/es)** | **[Product Development & Strategy Intern, R&D Software-Centric Products](https://jobright.ai/jobs/info/69dd45b65356a60f40fed5b5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Verc](verc.ai)** | **[Founding Product & GTM MBA Intern](https://jobright.ai/jobs/info/69dd37c55356a60f40fed200?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 13 |
 | **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Product Manager Analyst Summer Intern](https://jobright.ai/jobs/info/69dd34c99f97a42dc9c34fad?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Apr 13 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69d92106869c7e25d8598f91?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | Apr 13 |
@@ -128,9 +129,9 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69db46e8b67cec4f9b0ae712?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69dc6d37869c7e25d85aa2dd?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
+| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae48?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d976009f97a42dc9c2189a?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae47?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae48?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69db1a2ab67cec4f9b0ad028?utm_campaign=1047&utm_source=git)** | Boston, KY | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69db1aa9f748bc5d08a56a66?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69d851ac9f97a42dc9c1b873?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iconectiv](http://www.iconectiv.com/)** | **[Intern, Product Management - Job ID 3100](https://jobright.ai/jobs/info/69d7c556b861c42857c45358?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ, US | Hybrid | Apr 09 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d7c54cf4ea471a51fe0603?utm_campaign=1047&utm_source=git)** | hand2mind, Vernon Hills, IL, US | On Site | Apr 09 |
 | **[American National Bank of Texas](https://www.anbtx.com/)** | **[Product Internship](https://jobright.ai/jobs/info/69d7c5379f97a42dc9c16d63?utm_campaign=1047&utm_source=git)** | Terrell, Texas, United States | On Site | Apr 09 |
-| **[DEMDACO](https://www.demdaco.com/)** | **[Product Development & Brand Creative Intern](https://jobright.ai/jobs/info/69dd0996738f2f099e8b42e6?utm_campaign=1047&utm_source=git)** | Leawood, KS | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
