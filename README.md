@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[Jelmar, maker of CLR Brands](http://www.clrbrands.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dd4df2bc6f6622c991145a?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Apr 13 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Product Development & Strategy Intern, R&D Software-Centric Products](https://jobright.ai/jobs/info/69dd45b65356a60f40fed5b5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[Verc](verc.ai)** | **[Founding Product & GTM MBA Intern](https://jobright.ai/jobs/info/69dd37c55356a60f40fed200?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 13 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69d88c02f4ea471a51fe687a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69db46e8b67cec4f9b0ae712?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69dc6d37869c7e25d85aa2dd?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae48?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d976009f97a42dc9c2189a?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Apr 09 |
+| ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae48?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69d975f2869c7e25d859ae47?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69db1a2ab67cec4f9b0ad028?utm_campaign=1047&utm_source=git)** | Boston, KY | On Site | Apr 09 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69db1aa9f748bc5d08a56a66?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grasshopper Bank](https://www.grasshopper.bank)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d7c65e738f2f099e8972c2?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Apr 09 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Product Analyst 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d7c620b861c42857c4553e?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | **[ETA hand2mind](http://www.hand2mind.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d7c55a869c7e25d8590424?utm_campaign=1047&utm_source=git)** | hand2mind, Vernon Hills, IL, US | On Site | Apr 09 |
-| **[iconectiv](http://www.iconectiv.com/)** | **[Intern, Product Management - Job ID 3100](https://jobright.ai/jobs/info/69d7c556b861c42857c45358?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ, US | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
