@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Intelligent Automation Product Manager - Hybrid - 139136](https://jobright.ai/jobs/info/69dd6ae4738f2f099e8b6133?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[Jelmar, maker of CLR Brands](http://www.clrbrands.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dd4df2bc6f6622c991145a?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Apr 13 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Product Development & Strategy Intern, R&D Software-Centric Products](https://jobright.ai/jobs/info/69dd45b65356a60f40fed5b5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Sr Technical Product Manager - Gemini](https://jobright.ai/jobs/info/699f2c1794ef206f184e4ceb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 09 |
 | **[Grasshopper Bank](https://www.grasshopper.bank)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d7c65e738f2f099e8972c2?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Apr 09 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Product Analyst 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d7c620b861c42857c4553e?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 09 |
-| **[ETA hand2mind](http://www.hand2mind.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d7c55a869c7e25d8590424?utm_campaign=1047&utm_source=git)** | hand2mind, Vernon Hills, IL, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
