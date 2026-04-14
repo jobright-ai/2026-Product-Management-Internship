@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LA Clippers](http://www.clippers.com)** | **[Ticket Product and Strategy Intern](https://jobright.ai/jobs/info/69deb6a836823d1b42583693?utm_campaign=1047&utm_source=git)** | Inglewood, CA | Hybrid | Apr 14 |
 | **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69deb29f18cf504166e2f57b?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 14 |
 | **[Nemetschek Group](https://www.nemetschek.com/en)** | **[Product & Strategy Intern](https://jobright.ai/jobs/info/69dea6c2433ac8430e0db92c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
-| **[LA Clippers](http://www.clippers.com)** | **[Ticket Product and Strategy Intern](https://jobright.ai/jobs/info/69dea367e34484770f1a3bda?utm_campaign=1047&utm_source=git)** | Inglewood, CA | Hybrid | Apr 14 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69de977336823d1b425826f9?utm_campaign=1047&utm_source=git)** | USA, California, Santa Fe Springs, 90670 | On Site | Apr 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Product Management and Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69de958c36823d1b4258253d?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Apr 14 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Management Intern (Richmond, VA)](https://jobright.ai/jobs/info/69de957e433ac8430e0db00b?utm_campaign=1047&utm_source=git)** | US-VA Richmond | On Site | Apr 14 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69dd9a5600040935c0145a6d?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Apr 13 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69dd7e43bc6f6622c9912706?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
 | ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69dd7e3bbc6f6622c99126e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
-| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Intelligent Automation Product Manager - Hybrid - 139136](https://jobright.ai/jobs/info/69dd6ae4738f2f099e8b6133?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
 | **[Nestig](https://www.nestig.com)** | **[MBA Intern](https://jobright.ai/jobs/info/69dda35e433ac8430e0d5bb3?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 13 |
 | **[Tronox](http://www.tronox.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69de9d31aba61f14173166df?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
@@ -115,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69da7853869c7e25d85a28b0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[INTERN: Product Management](https://jobright.ai/jobs/info/69c8a0b783ea553769feb066?utm_campaign=1047&utm_source=git)** | East Granby, CT | On Site | Apr 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cdc5e5cdb525785fb8e8e9?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Apr 11 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 11 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bde9a9393a1008f743bd98?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69b0cff10b2db6275c05740f?utm_campaign=1047&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 09 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d80903b861c42857c47d52?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | Hybrid | Apr 09 |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
