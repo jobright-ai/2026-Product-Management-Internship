@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbed35913ad339813a346?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[Golden State Foods](http://www.goldenstatefoods.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311db1?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Apr 13 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69dd7e43bc6f6622c9912706?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
 | **[Tronox](http://www.tronox.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69dd7e42bc6f6622c99126ff?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 13 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69dd7e3bbc6f6622c99126e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
-| **[New Balance](http://www.newbalance.com)** | **[Lifestyle Footwear Internship](https://jobright.ai/jobs/info/69dd7bc59f97a42dc9c3661e?utm_campaign=1047&utm_source=git)** | Boston, MA Headquarters - (NB) | Hybrid | Apr 13 |
 | **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Intelligent Automation Product Manager - Hybrid - 139136](https://jobright.ai/jobs/info/69dd6ae4738f2f099e8b6133?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
 | **[Nestig](https://www.nestig.com)** | **[MBA Intern](https://jobright.ai/jobs/info/69dda35e433ac8430e0d5bb3?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
