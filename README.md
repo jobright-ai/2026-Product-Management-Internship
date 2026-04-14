@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Balance](http://www.newbalance.com)** | **[Lifestyle Footwear Internship](https://jobright.ai/jobs/info/69ddb2878182b27d34741289?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69ddb24caba61f1417311afe?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Apr 13 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Intelligent Automation Product Manager - Hybrid - 139136](https://jobright.ai/jobs/info/69dda2574d3bec4144b4cc9a?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69dd9a5600040935c0145a6d?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Apr 13 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69dd7e43bc6f6622c9912706?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Product Analyst 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d7b4d8f4ea471a51fdffa7?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Apr 09 |
 | **[AAIS (American Association of Insurance Services)](https://aaisonline.com)** | **[Speed to Market Product Intern](https://jobright.ai/jobs/info/69d0a00a366bb95ba552066c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Flex](https://getflex.com)** | **[Director of Product, Martech](https://jobright.ai/jobs/info/6966d1695ad3a93f8232377f?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 09 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
-| **[Airgas](http://airgas.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bb549406c1ba00c54dcb40?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
