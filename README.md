@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69deb29f18cf504166e2f57b?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 14 |
 | **[Nemetschek Group](https://www.nemetschek.com/en)** | **[Product & Strategy Intern](https://jobright.ai/jobs/info/69dea6c2433ac8430e0db92c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 14 |
 | **[LA Clippers](http://www.clippers.com)** | **[Ticket Product and Strategy Intern](https://jobright.ai/jobs/info/69dea367e34484770f1a3bda?utm_campaign=1047&utm_source=git)** | Inglewood, CA | Hybrid | Apr 14 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69de977336823d1b425826f9?utm_campaign=1047&utm_source=git)** | USA, California, Santa Fe Springs, 90670 | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69b0cff10b2db6275c05740f?utm_campaign=1047&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 09 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d80903b861c42857c47d52?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | Hybrid | Apr 09 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
