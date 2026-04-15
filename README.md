@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ulta Beauty](https://www.ulta.com)** | **[Intern Product Management](https://jobright.ai/jobs/info/69ded9675913ad33981406ef?utm_campaign=1047&utm_source=git)** | Bolingbrook, IL | Hybrid | Apr 14 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Management Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decaa65913ad33981401da?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Apr 14 |
 | **[LA Clippers](http://www.clippers.com)** | **[Ticket Product and Strategy Intern](https://jobright.ai/jobs/info/69deb6a836823d1b42583693?utm_campaign=1047&utm_source=git)** | Inglewood, CA | Hybrid | Apr 14 |
 | **[Resultant](https://resultant.com/)** | **[Product Operations Intern (Hybrid in Indianapolis IN, Summer 2026)](https://jobright.ai/jobs/info/69deb29f18cf504166e2f57b?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 14 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d9ae54b67cec4f9b0a3ce9?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d9980d5356a60f40fda790?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Apr 10 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 10 |
-| **[SharkNinja France](http://www.sharkninja.com)** | **[SUMMER 2026: APP PRODUCT DEVELOPMENT INTERN (JUNE THROUGH AUGUST)](https://jobright.ai/jobs/info/69d988c15356a60f40fda357?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 10 |
 | **[Hirose Electric Americas](https://www.hirose.com/us/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69d98253738f2f099e8a23d3?utm_campaign=1047&utm_source=git)** | Downers Grove,IL,US | On Site | Apr 10 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d960c3869c7e25d859aa8c?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
 | **[TI Automotive](http://www.tiautomotive.com)** | **[Summer Intern – Global Product Management (Business Focus)](https://jobright.ai/jobs/info/69d9529d9f97a42dc9c20ae3?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
