@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e00557aba61f141731f19e?utm_campaign=1047&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
+| **[KIKI DE MONTPARNASSE](https://kikidm.com)** | **[Design / Product Development Intern](https://jobright.ai/jobs/info/69e001e25913ad33981474f0?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e0012314bf245fc7a6f392?utm_campaign=1047&utm_source=git)** | San Francisco, California, US | Hybrid | Apr 15 |
+| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e000d9433ac8430e0e3b5b?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 15 |
+| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69dfffe3e34484770f1abf88?utm_campaign=1047&utm_source=git)** | Seattle, Washington, US | Hybrid | Apr 15 |
+| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69dfffd05913ad33981472d3?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Apr 15 |
 | **[State of Minnesota](https://mn.gov)** | **[Early Childhood Product Management Specialist / Product Management Specialist](https://jobright.ai/jobs/info/69dfec5de34484770f1ab553?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Apr 15 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
@@ -65,8 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Poshmark](http://poshmark.com)** | **[Produc Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3e3e34484770f1ab11a?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[AC Vehicle-to-Grid Product Intern](https://jobright.ai/jobs/info/69dfc2d3e34484770f1aa504?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d5c737e63cea7a8b664da7?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 15 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2ef5913ad33981450d1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 15 |
-| ↳ | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2bcaba61f141731cbef?utm_campaign=1047&utm_source=git)** | Hybrid - MI | Hybrid | Apr 15 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2bcaba61f141731cbef?utm_campaign=1047&utm_source=git)** | Hybrid - MI | Hybrid | Apr 15 |
 | **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dfabb1433ac8430e0e16f2?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 15 |
 | **[InQuest Technologies](http://www.inquesttechnologies.com/)** | **[Product Development Intern (Unpaid Opportunity)](https://jobright.ai/jobs/info/69dfab0b4920452a85dceb6b?utm_campaign=1047&utm_source=git)** | Rockville,MD,US | On Site | Apr 15 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69df0b1eaba61f1417319c50?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d9ae54b67cec4f9b0a3ce9?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69d9980d5356a60f40fda790?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Apr 10 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 10 |
-| **[Hirose Electric Americas](https://www.hirose.com/us/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69d98253738f2f099e8a23d3?utm_campaign=1047&utm_source=git)** | Downers Grove,IL,US | On Site | Apr 10 |
-| **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d960c3869c7e25d859aa8c?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
-| **[TI Automotive](http://www.tiautomotive.com)** | **[Summer Intern – Global Product Management (Business Focus)](https://jobright.ai/jobs/info/69d9529d9f97a42dc9c20ae3?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
-| **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Informatics Intern](https://jobright.ai/jobs/info/69a5712a0da45516f16e235b?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
