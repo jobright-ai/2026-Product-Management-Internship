@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
 | **[Scene+](https://www.sceneplus.ca/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69dfcbb7aba61f141731d8cb?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69b4f5b606c1ba00c54693e2?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
+| **[Poshmark](http://poshmark.com)** | **[Produc Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3e3e34484770f1ab11a?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[AC Vehicle-to-Grid Product Intern](https://jobright.ai/jobs/info/69dfc2d3e34484770f1aa504?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
 | **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d5c737e63cea7a8b664da7?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 15 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2ef5913ad33981450d1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 15 |
@@ -108,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69dd7e43bc6f6622c9912706?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
 | ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69dd7e3bbc6f6622c99126e9?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Apr 13 |
 | **[Nestig](https://www.nestig.com)** | **[MBA Intern](https://jobright.ai/jobs/info/69dda35e433ac8430e0d5bb3?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 13 |
-| **[Tronox](http://www.tronox.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69de9d31aba61f14173166df?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Product Development & Strategy Intern, R&D Software-Centric Products](https://jobright.ai/jobs/info/69dd45b65356a60f40fed5b5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Apr 13 |
 | **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Product Manager Analyst Summer Intern](https://jobright.ai/jobs/info/69dd34c99f97a42dc9c34fad?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TI Automotive](http://www.tiautomotive.com)** | **[Summer Intern – Global Product Management (Business Focus)](https://jobright.ai/jobs/info/69d9529d9f97a42dc9c20ae3?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | On Site | Apr 10 |
 | **[QuidelOrtho](http://QuidelOrtho.com)** | **[Global Product Management - Informatics Intern](https://jobright.ai/jobs/info/69a5712a0da45516f16e235b?utm_campaign=1047&utm_source=git)** | Raritan, NJ | Hybrid | Apr 10 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 10 |
-| **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Product Management Intern, Commercial Mobility](https://jobright.ai/jobs/info/69d9426c5356a60f40fd890b?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
