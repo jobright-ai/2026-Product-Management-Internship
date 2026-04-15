@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ab954e7e1fab39d3830228?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69aaa6ab2ebd316bece26fcb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
+| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
+| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ab954e7e1fab39d3830228?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcc8004828227293feb4a0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Alpha Data Services Intern – Product Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/69d580b5891d7b11cfd02847?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Headwear Product Development and Merchandising](https://jobright.ai/jobs/info/69df1edaaba61f141731a2ab?utm_campaign=1047&utm_source=git)** | Overland Park, KS, US | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69df39b9433ac8430e0dff0e?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 09 |
 | ↳ | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69df32f9aba61f141731b0a8?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69df327a433ac8430e0df9b8?utm_campaign=1047&utm_source=git)** | Boston, KY | On Site | Apr 09 |
-| **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69df37bf5913ad33981435de?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
