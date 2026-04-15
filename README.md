@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d5c737e63cea7a8b664da7?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 15 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2ef5913ad33981450d1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 15 |
 | ↳ | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2bcaba61f141731cbef?utm_campaign=1047&utm_source=git)** | Hybrid - MI | Hybrid | Apr 15 |
 | **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dfabb1433ac8430e0e16f2?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt](http://www.hyatt.com/)** | **[Intern, Digital Product Management – Sales and Events (Chicago- Hybrid)](https://jobright.ai/jobs/info/69d9263c9f97a42dc9c1fc79?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Apr 10 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d912af869c7e25d8598c84?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 10 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc78684828227293fe5a29?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
