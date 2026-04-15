@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2ef5913ad33981450d1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 15 |
+| ↳ | **[Innovation Intern](https://jobright.ai/jobs/info/69dfb2bcaba61f141731cbef?utm_campaign=1047&utm_source=git)** | Hybrid - MI | Hybrid | Apr 15 |
+| **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dfabb1433ac8430e0e16f2?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 15 |
+| **[InQuest Technologies](http://www.inquesttechnologies.com/)** | **[Product Development Intern (Unpaid Opportunity)](https://jobright.ai/jobs/info/69dfab0b4920452a85dceb6b?utm_campaign=1047&utm_source=git)** | Rockville,MD,US | On Site | Apr 15 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
+| **[Forbes Chocolate](https://forbeschocolate.com/)** | **[Product Development Internship (Summer – Paid)](https://jobright.ai/jobs/info/69dfabac433ac8430e0e16ee?utm_campaign=1047&utm_source=git)** | Broadview Heights, OH | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Product Management and Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69df838e4920452a85dce11f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Gen](https://www.gendigital.com)** | **[Summer Internship (Product Management – Marketplace / Auto Vertical)](https://jobright.ai/jobs/info/69c30b4694007a2195df2e8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69d5c36e706f771673ba657c?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Apr 15 |
@@ -127,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69da7853869c7e25d85a28b0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[INTERN: Product Management](https://jobright.ai/jobs/info/69c8a0b783ea553769feb066?utm_campaign=1047&utm_source=git)** | East Granby, CT | On Site | Apr 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cdc5e5cdb525785fb8e8e9?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Apr 11 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 11 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bde9a9393a1008f743bd98?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Culture Biosciences](https://www.culturebiosciences.com)** | **[Product Intern](https://jobright.ai/jobs/info/69a60c2d359fe034b1d0d903?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Apr 10 |
 | **[Nextech Systems](http://www.nextech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d912af869c7e25d8598c84?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[New Product Introduction Project Mgmt Intern](https://jobright.ai/jobs/info/69bc78684828227293fe5a29?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Apr 10 |
-| **[Jack Rogers USA](http://jackrogersusa.com)** | **[Product and Operations Intern](https://jobright.ai/jobs/info/69d90f759f97a42dc9c1f3f8?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Intern, Digital Product Management – Planner Experience (Chicago- Hybrid)](https://jobright.ai/jobs/info/69d934b1f748bc5d08a49b53?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 10 |
-| **[Jainam Share Consultants Pvt Ltd.](http://www.jainam.in)** | **[Deputy Vice President - Strategic Product](https://jobright.ai/jobs/info/69d90618b67cec4f9b09f763?utm_campaign=1047&utm_source=git)** | Western, WV | On Site | Apr 10 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Product / Summer 2026 Internship](https://jobright.ai/jobs/info/69dd9f3f8182b27d3473ff89?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship, Product Management-Technology (HR Reporting & Analytics)](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
