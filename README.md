@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 16 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Business Analyst - Pharmacy](https://jobright.ai/jobs/info/69e14f2ffd1c0456f3fada24?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 16 |
 | **[Nestig](https://www.nestig.com)** | **[MBI Intern](https://jobright.ai/jobs/info/69e14959d612782e61147eca?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Natco Home Group](http://natcohome.com)** | **[Product Development Internship](https://jobright.ai/jobs/info/69e1477dff71e82d604b625a?utm_campaign=1047&utm_source=git)** | West Warwick, RI | On Site | Apr 16 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d6b4d5a1016e98dc3389?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/69d6b6aa52a5bf580012b46d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Zello](https://zello.com/)** | **[Product Research Intern](https://jobright.ai/jobs/info/69c456ea6f4f855eeda6cbe6?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 16 |
-| **[4As](http://www.aaaa.org/)** | **[EVP, Product](https://jobright.ai/jobs/info/69e14391d612782e61147bef?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Apr 16 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Intern](https://jobright.ai/jobs/info/69e10916fd1c0456f3fac309?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 13 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698669fa0f6f7e7a2ce15dca?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 13 |
 | **[OnLogic](https://www.onlogic.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/69dcfc3f5356a60f40feba92?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Apr 13 |
-| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
