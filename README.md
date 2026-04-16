@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e04e189564e855a25dc9b7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
+| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e0499d5913ad3398148b91?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 15 |
+| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e0499a433ac8430e0e53c7?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 15 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e03e54e34484770f1ad56c?utm_campaign=1047&utm_source=git)** | US - CA, Sunnyvale | On Site | Apr 15 |
 | ↳ | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e03e4f14bf245fc7a70aa1?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Apr 15 |
 | **[Luminator Technology Group](https://luminator.com)** | **[Product Management Intern – Passenger Information Systems (Summer 2026)](https://jobright.ai/jobs/info/69e02a7ae34484770f1acdd3?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Apr 15 |
+| **[Poshmark](http://poshmark.com)** | **[Product Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e04778e34484770f1ad774?utm_campaign=1047&utm_source=git)** | US California (Redwood City) - Office | On Site | Apr 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern - Family Search (full time - 4 months)](https://jobright.ai/jobs/info/69e014685913ad3398147bf9?utm_campaign=1047&utm_source=git)** | Lehi, UT, United States | Hybrid | Apr 15 |
 | **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e01441e34484770f1ac7b6?utm_campaign=1047&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69e00557aba61f141731f19e?utm_campaign=1047&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69da7853869c7e25d85a28b0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 11 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[INTERN: Product Management](https://jobright.ai/jobs/info/69c8a0b783ea553769feb066?utm_campaign=1047&utm_source=git)** | East Granby, CT | On Site | Apr 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cdc5e5cdb525785fb8e8e9?utm_campaign=1047&utm_source=git)** | Yocumtown, PA | On Site | Apr 11 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864ddb8da7a612046100d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69864eb48da7a612046101c8?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 11 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2026](https://jobright.ai/jobs/info/69854303348f733a5c3987d9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Apr 11 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69a11a3881476f6176bb719b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69bde9a9393a1008f743bd98?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
 | **[Planet](http://www.planet.com)** | **[Senior Product Manager, AI Geo Assistant](https://jobright.ai/jobs/info/69a1335c5218a81676726e82?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 11 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69af7b49749500645093fb3f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Apr 11 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69da061df748bc5d08a511c3?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Apr 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c01b9f97a42dc9c24072?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69daa490738f2f099e8abc7b?utm_campaign=1047&utm_source=git)** | Vancouver, BC | Hybrid | Apr 10 |
-| **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69df0b1eaba61f1417319c50?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
