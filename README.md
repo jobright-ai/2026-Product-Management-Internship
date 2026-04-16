@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d6b4d5a1016e98dc3389?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/69d6b6aa52a5bf580012b46d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
+| **[Zello](https://zello.com/)** | **[Product Research Intern](https://jobright.ai/jobs/info/69c456ea6f4f855eeda6cbe6?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Apr 16 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Product Intern](https://jobright.ai/jobs/info/69e10916fd1c0456f3fac309?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Product Intern](https://jobright.ai/jobs/info/69e04d93bdc95144cc13983b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Product Owner](https://jobright.ai/jobs/info/69dcc1e2bc6f6622c990e887?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Apr 13 |
-| ↳ | **[Product Owner](https://jobright.ai/jobs/info/69dcc51b738f2f099e8b2e02?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Apr 13 |
-| ↳ | **[Product Owner](https://jobright.ai/jobs/info/69dcc658bfa7f40fd6f77c8c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Apr 13 |
-| **[Docusign](http://www.docusign.com)** | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a234260da45516f16b7c9d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
