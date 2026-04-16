@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Performance](https://jobright.ai/jobs/info/69c5242db8cc6d68505eeca9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 16 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b6560f3b74eb1e2c84135c?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Apr 16 |
 | **[Poshmark](http://poshmark.com)** | **[Product Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e07b27c17d1d5254334c9b?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e05a259564e855a25dcebc?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems ) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69d9bfaa869c7e25d859d50d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 11 |
-| **[SanMar](http://www.sanmar.com)** | **[Custom Intern](https://jobright.ai/jobs/info/69bd3b364828227293ff77c3?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 11 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: App Product Development Intern (June through August)](https://jobright.ai/jobs/info/69da7853869c7e25d85a28b0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
