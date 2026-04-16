@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e03e54e34484770f1ad56c?utm_campaign=1047&utm_source=git)** | US - CA, Sunnyvale | On Site | Apr 15 |
+| ↳ | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e03e4f14bf245fc7a70aa1?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Apr 15 |
 | **[Luminator Technology Group](https://luminator.com)** | **[Product Management Intern – Passenger Information Systems (Summer 2026)](https://jobright.ai/jobs/info/69e02a7ae34484770f1acdd3?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Apr 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern - Family Search (full time - 4 months)](https://jobright.ai/jobs/info/69e014685913ad3398147bf9?utm_campaign=1047&utm_source=git)** | Lehi, UT, United States | Hybrid | Apr 15 |
 | **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e01441e34484770f1ac7b6?utm_campaign=1047&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69dfabb1433ac8430e0e16f2?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 15 |
 | **[InQuest Technologies](http://www.inquesttechnologies.com/)** | **[Product Development Intern (Unpaid Opportunity)](https://jobright.ai/jobs/info/69dfab0b4920452a85dceb6b?utm_campaign=1047&utm_source=git)** | Rockville,MD,US | On Site | Apr 15 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
-| **[Forbes Chocolate](https://forbeschocolate.com/)** | **[Product Development Internship (Summer – Paid)](https://jobright.ai/jobs/info/69dfabac433ac8430e0e16ee?utm_campaign=1047&utm_source=git)** | Broadview Heights, OH | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Product Management and Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69df838e4920452a85dce11f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Gen](https://www.gendigital.com)** | **[Summer Internship (Product Management – Marketplace / Auto Vertical)](https://jobright.ai/jobs/info/69c30b4694007a2195df2e8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69d5c36e706f771673ba657c?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c01b9f97a42dc9c24072?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69daa490738f2f099e8abc7b?utm_campaign=1047&utm_source=git)** | Vancouver, BC | Hybrid | Apr 10 |
 | **[PNC](http://www.pnc.com)** | **[Senior Retirement Product Manager](https://jobright.ai/jobs/info/69df0b1eaba61f1417319c50?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 10 |
-| **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d9ae54b67cec4f9b0a3ce9?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
