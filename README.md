@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Product Intern](https://jobright.ai/jobs/info/69e04d93bdc95144cc13983b?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 16 |
+| **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
+| **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69e014984920452a85dd1823?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Apr 16 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Product Performance](https://jobright.ai/jobs/info/69c5242db8cc6d68505eeca9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 16 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcc8004828227293feb4a0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 15 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Headwear Product Development and Merchandising](https://jobright.ai/jobs/info/69df1edaaba61f141731a2ab?utm_campaign=1047&utm_source=git)** | Overland Park, KS, US | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df02d936823d1b42585837?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69def5a9e34484770f1a61d6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 14 |
-| ↳ | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69def5a936823d1b42585352?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 14 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69def5a936823d1b42585352?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 14 |
+| ↳ | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69def5a9e34484770f1a61d6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 14 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Intern Product Management](https://jobright.ai/jobs/info/69ded9675913ad33981406ef?utm_campaign=1047&utm_source=git)** | Bolingbrook, IL | Hybrid | Apr 14 |
 | **[Poshmark](http://poshmark.com)** | **[Produc Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfcb7a4920452a85dcf980?utm_campaign=1047&utm_source=git)** | US California (Redwood City) - Office | On Site | Apr 14 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Management Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decaa65913ad33981401da?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Owner](https://jobright.ai/jobs/info/69dcc658bfa7f40fd6f77c8c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Apr 13 |
 | **[Docusign](http://www.docusign.com)** | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a234260da45516f16b7c9d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 12 |
 | ↳ | **[B2I Product Manager Intern](https://jobright.ai/jobs/info/69a24c87b600907a9628967d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 12 |
-| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 12 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Apr 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
-| ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
