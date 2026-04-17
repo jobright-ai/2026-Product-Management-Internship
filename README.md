@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a73ce36005badbebd6?utm_campaign=1047&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e2799a2f28653593076ced?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | Apr 17 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/69c5ed071b5ad0288737ad7d?utm_campaign=1047&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 17 |
 | **[Nemetschek Group](https://www.nemetschek.com/en)** | **[Product Strategy & Analytics Intern](https://jobright.ai/jobs/info/69e272093ce36005badbe3ef?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 14 |
-| **[Tronox](http://www.tronox.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e06a4bb20fd532b4ae1571?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
