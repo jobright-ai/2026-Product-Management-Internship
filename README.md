@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8ef507ac93962b708d616?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
+| ↳ | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 17 |
 | **[NETSCOUT](http://www.netscout.com)** | **[INTERN - DDOS PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/69e1e560ff71e82d604bb8a7?utm_campaign=1047&utm_source=git)** | Ann Arbor, MI | On Site | Apr 17 |
 | **[Blue Heron Capital](http://www.blueheroncap.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69e1da4a6c20aa11495438b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69e1a9c140a62c1fa93b982b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden State Foods](http://www.goldenstatefoods.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311db1?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Apr 13 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69ddb24caba61f1417311afe?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Apr 13 |
 | **[UC San Diego Health](https://health.ucsd.edu/)** | **[Intelligent Automation Product Manager - Hybrid - 139136](https://jobright.ai/jobs/info/69dda2574d3bec4144b4cc9a?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Apr 13 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69dd9a5600040935c0145a6d?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
