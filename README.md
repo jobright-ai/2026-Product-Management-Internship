@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Scowtt](https://www.scowtt.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e17e24d612782e61148f5e?utm_campaign=1047&utm_source=git)** | Seattle | Hybrid | Apr 16 |
+| **[New York Post](http://nypost.com/)** | **[Newsroom Products & Innovation Intern](https://jobright.ai/jobs/info/69e1a9c140a62c1fa93b982b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/69e1a9acfd1c0456f3faf609?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[Scowtt](https://www.scowtt.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e1a1c740a62c1fa93b946c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
+| ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/69e17e24d612782e61148f5e?utm_campaign=1047&utm_source=git)** | Seattle | Hybrid | Apr 16 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e17753d612782e61148d9c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 16 |
 | **[Amcor](http://www.amcor.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69e16fefff71e82d604b7092?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Apr 16 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e16a8640a62c1fa93b854f?utm_campaign=1047&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Apr 16 |
@@ -81,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 16 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b6560f3b74eb1e2c84135c?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
+| ↳ | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Apr 16 |
 | **[Poshmark](http://poshmark.com)** | **[Product Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e07b27c17d1d5254334c9b?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e05a259564e855a25dcebc?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Apr 15 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[InQuest Technologies](http://www.inquesttechnologies.com/)** | **[Product Development Intern (Unpaid Opportunity)](https://jobright.ai/jobs/info/69dfab0b4920452a85dceb6b?utm_campaign=1047&utm_source=git)** | Rockville,MD,US | On Site | Apr 15 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Product Management and Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69df838e4920452a85dce11f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
-| **[Gen](https://www.gendigital.com)** | **[Summer Internship (Product Management – Marketplace / Auto Vertical)](https://jobright.ai/jobs/info/69c30b4694007a2195df2e8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Baldwin Richardson Foods](http://brfoods.com)** | **[Internship - Product Line Management](https://jobright.ai/jobs/info/69d5c36e706f771673ba657c?utm_campaign=1047&utm_source=git)** | Macedon, NY | Hybrid | Apr 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69aaa6ab2ebd316bece26fcb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
 | ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
@@ -124,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df02d936823d1b42585837?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69def5a936823d1b42585352?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Apr 14 |
 | ↳ | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69def5a9e34484770f1a61d6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Apr 14 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Product Manager, Quadrupole LC/MS](https://jobright.ai/jobs/info/69e19c7ad612782e611496f0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 14 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Intern Product Management](https://jobright.ai/jobs/info/69ded9675913ad33981406ef?utm_campaign=1047&utm_source=git)** | Bolingbrook, IL | Hybrid | Apr 14 |
 | **[Poshmark](http://poshmark.com)** | **[Produc Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfcb7a4920452a85dcf980?utm_campaign=1047&utm_source=git)** | US California (Redwood City) - Office | On Site | Apr 14 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Management Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decaa65913ad33981401da?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nestig](https://www.nestig.com)** | **[MBA Intern](https://jobright.ai/jobs/info/69dda35e433ac8430e0d5bb3?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 13 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Product Development & Strategy Intern, R&D Software-Centric Products](https://jobright.ai/jobs/info/69dd45b65356a60f40fed5b5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Apr 13 |
-| **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Product Manager Analyst Summer Intern](https://jobright.ai/jobs/info/69dd34c99f97a42dc9c34fad?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
