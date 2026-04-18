@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d5dd11891d7b11cfd063ee?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69e32f3bbe46fa3a4ef59789?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda5fd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
@@ -89,15 +90,15 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d6b4d5a1016e98dc3389?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/69d6b6aa52a5bf580012b46d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Zello](https://zello.com/)** | **[Product Research Intern](https://jobright.ai/jobs/info/69c456ea6f4f855eeda6cbe6?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 16 |
-| **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Apr 16 |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Product Associate](https://jobright.ai/jobs/info/69a7796776bbe83d3afaddf9?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Apr 16 |
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/69e014984920452a85dd1823?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Apr 16 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 16 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b6560f3b74eb1e2c84135c?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
-| ↳ | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Apr 16 |
 | **[Poshmark](http://poshmark.com)** | **[Product Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e07b27c17d1d5254334c9b?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e05a259564e855a25dcebc?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jelmar, maker of CLR Brands](http://www.clrbrands.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69de64feaba61f1417314acd?utm_campaign=1047&utm_source=git)** | Skokie, IL | Hybrid | Apr 14 |
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Product Internship - NYC](https://jobright.ai/jobs/info/69c183b72c312363dcd472ea?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
