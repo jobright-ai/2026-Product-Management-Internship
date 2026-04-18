@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69e32f3bbe46fa3a4ef59789?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda5fd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e2a5485c44d4710fe2602d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 17 |
 | ↳ | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e2c2073770bd5361cd9e71?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69a64b53d706a731db382a60?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 14 |
-| **[Tronox](http://www.tronox.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e06a4bb20fd532b4ae1571?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
