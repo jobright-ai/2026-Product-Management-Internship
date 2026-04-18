@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samba TV](http://www.samba.tv)** | **[Product Intern](https://jobright.ai/jobs/info/69c72c201818a24cd84cc4f4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 14 |
 | ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67b57e567421f42577cf2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69de6ca3e34484770f1a1f0a?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
-| **[Jelmar, maker of CLR Brands](http://www.clrbrands.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69de64feaba61f1417314acd?utm_campaign=1047&utm_source=git)** | Skokie, IL | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
