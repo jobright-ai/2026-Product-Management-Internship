@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698bf98091fdda424d58b4cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 19 |
+| **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69ab02437e1fab39d3829318?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 19 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Samba TV](http://www.samba.tv)** | **[Product Intern](https://jobright.ai/jobs/info/69c72c201818a24cd84cc4f4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
-| **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d5dd11891d7b11cfd063ee?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
+| **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d5dd11891d7b11cfd063ee?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69e32f3bbe46fa3a4ef59789?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda5fd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e2a5485c44d4710fe2602d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alnylam Pharmaceuticals](http://www.alnylam.com)** | **[Director, Global Content Enablement Platforms](https://jobright.ai/jobs/info/698fee5b6ea51a7610f2515c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Apr 14 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a67d4ad706a731db386bc4?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
 | ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67e84e567421f425781cb?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 14 |
-| ↳ | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a681b2e567421f42578734?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 14 |
-| ↳ | **[BXP Product Manager Intern](https://jobright.ai/jobs/info/69a67b57e567421f42577cf2?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69de6ca3e34484770f1a1f0a?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
