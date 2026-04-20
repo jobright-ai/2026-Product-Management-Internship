@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crunchtime Ops Execution (formerly Zenput)](https://www.zenput.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e66f0ff8fa2f3ec32a1cdc?utm_campaign=1047&utm_source=git)** | Boston | On Site | Apr 20 |
 | **[Prysmian](https://www.prysmian.com)** | **[Intern](https://jobright.ai/jobs/info/69e664c47820c036924d0376?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Internship - 100% Remote](https://jobright.ai/jobs/info/69e6622d3aa0c47964393c32?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | Apr 20 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Ad Products Internships – Academic Year](https://jobright.ai/jobs/info/69e65f8fe0cd471b2f12547f?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Apr 20 |
@@ -99,10 +100,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab5f8fa2f3ec32a0686?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69e63abdf8fa2f3ec32a06b1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab07820c036924cf020?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
-| **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69e32f3bbe46fa3a4ef59789?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649adf8fa2f3ec32a0a54?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Apr 17 |
-| ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649c2e0cd471b2f12488d?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 17 |
 | ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 17 |
+| ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649c2e0cd471b2f12488d?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 17 |
 | ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b2?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda5fd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a73ce36005badbebd6?utm_campaign=1047&utm_source=git)** | New York | Hybrid | Apr 17 |
