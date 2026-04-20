@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/69d5dcf4cfdc6132f9466898?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 20 |
+| **[RBC](https://www.rbc.com)** | **[2026 Wealth Management, Fall Distribution Product Management Intern (12 months)](https://jobright.ai/jobs/info/69e5eef0f8fa2f3ec329f366?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 19 |
 | **[Flex](https://getflex.com)** | **[Senior Director of Product, New Venture](https://jobright.ai/jobs/info/691e408e3f782d2f1afb2ebe?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69aaf90e7e1fab39d3828c7a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698bf98091fdda424d58b4cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Management Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decaa65913ad33981401da?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Apr 14 |
 | **[LA Clippers](http://www.clippers.com)** | **[Ticket Product and Strategy Intern](https://jobright.ai/jobs/info/69deb6a836823d1b42583693?utm_campaign=1047&utm_source=git)** | Inglewood, CA | Hybrid | Apr 14 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69de977336823d1b425826f9?utm_campaign=1047&utm_source=git)** | USA, California, Santa Fe Springs, 90670 | On Site | Apr 14 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Product Management and Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69de958c36823d1b4258253d?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Apr 14 |
-| **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Management Intern (Richmond, VA)](https://jobright.ai/jobs/info/69de957e433ac8430e0db00b?utm_campaign=1047&utm_source=git)** | US-VA Richmond | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
