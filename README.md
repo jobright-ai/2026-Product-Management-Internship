@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prysmian](https://www.prysmian.com)** | **[Intern](https://jobright.ai/jobs/info/69e664c47820c036924d0376?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 20 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Internship - 100% Remote](https://jobright.ai/jobs/info/69e6622d3aa0c47964393c32?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | Apr 20 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Ad Products Internships – Academic Year](https://jobright.ai/jobs/info/69e65f8fe0cd471b2f12547f?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Apr 20 |
 | **[Crown Fund](https://crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e657b89b6eb37e26f7f93a?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Apr 20 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6536f9b6eb37e26f7f7cd?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Apr 20 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e63c493cfd986aa6f845d4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 20 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e44334cfcea71ec9f8fc3f?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
+| ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e650eff8fa2f3ec32a0cef?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 20 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Apr 20 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e6516df8fa2f3ec32a0eeb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
@@ -78,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Tangerine](https://www.tangerine.ca/en/index.html)** | **[Velocity - Tangerine Client Solutions (Product) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6b13cfd986aa6f832a4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Flexera](https://www.flexera.com)** | **[Product Manager Intern - Agentic AI](https://jobright.ai/jobs/info/69d5dcf4cfdc6132f9466898?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 20 |
 | **[RBC](https://www.rbc.com)** | **[2026 Wealth Management, Fall Distribution Product Management Intern (12 months)](https://jobright.ai/jobs/info/69e5eef0f8fa2f3ec329f366?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 19 |
+| **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e65b7d3aa0c4796439397d?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Apr 19 |
 | **[Flex](https://getflex.com)** | **[Senior Director of Product, New Venture](https://jobright.ai/jobs/info/691e408e3f782d2f1afb2ebe?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[Precisely](https://www.precisely.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69aaf90e7e1fab39d3828c7a?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698bf98091fdda424d58b4cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 19 |
@@ -91,13 +96,13 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69d5dd11891d7b11cfd063ee?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63b109b6eb37e26f7edd6?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
-| ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab07820c036924cf020?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
-| ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69e63abdf8fa2f3ec32a06b1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab5f8fa2f3ec32a0686?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
+| ↳ | **[Digital Product Manager Senior - PNC.com Digital Experience](https://jobright.ai/jobs/info/69e63abdf8fa2f3ec32a06b1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
+| ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab07820c036924cf020?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Management Intern : NA Category Team](https://jobright.ai/jobs/info/69e32f3bbe46fa3a4ef59789?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649adf8fa2f3ec32a0a54?utm_campaign=1047&utm_source=git)** | Wilmington, DE | On Site | Apr 17 |
-| ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 17 |
 | ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649c2e0cd471b2f12488d?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 17 |
+| ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 17 |
 | ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b2?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda5fd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a73ce36005badbebd6?utm_campaign=1047&utm_source=git)** | New York | Hybrid | Apr 17 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[Culligan International](http://www.culligan.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69533a37f1f8465b79ea89d8?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 16 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b6560f3b74eb1e2c84135c?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
-| ↳ | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Apr 16 |
 | **[Poshmark](http://poshmark.com)** | **[Product Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69e07b27c17d1d5254334c9b?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e05a259564e855a25dcebc?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69dfffd05913ad33981472d3?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Apr 15 |
 | **[State of Minnesota](https://mn.gov)** | **[Early Childhood Product Management Specialist / Product Management Specialist](https://jobright.ai/jobs/info/69dfec5de34484770f1ab553?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Apr 15 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
-| **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
-| **[Scene+](https://www.sceneplus.ca/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69dfcbb7aba61f141731d8cb?utm_campaign=1047&utm_source=git)** | Toronto, ON | Hybrid | Apr 15 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69b4f5b606c1ba00c54693e2?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
-| **[Poshmark](http://poshmark.com)** | **[Produc Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3e3e34484770f1ab11a?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
-| **[State Street](https://www.statestreet.com/)** | **[Product Enablement and Documentation Intern -6 months- CRD - July- Dec](https://jobright.ai/jobs/info/69d5c737e63cea7a8b664da7?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
