@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LA Clippers](http://www.clippers.com)** | **[Ticket Product and Strategy Intern](https://jobright.ai/jobs/info/69e71c9b9b6eb37e26f83046?utm_campaign=1047&utm_source=git)** | Inglewood, CA | Hybrid | Apr 20 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Internship](https://jobright.ai/jobs/info/69e70f919b6eb37e26f82d09?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | Apr 20 |
 | **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e6b955f8fa2f3ec32a3602?utm_campaign=1047&utm_source=git)** | Canada | Remote | Apr 20 |
 | **[Prysmian](https://www.prysmian.com)** | **[Intern](https://jobright.ai/jobs/info/69e6832af8fa2f3ec32a2502?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 20 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Ad Products Internships – Academic Year](https://jobright.ai/jobs/info/69e65f8fe0cd471b2f12547f?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Apr 20 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6536e9b6eb37e26f7f7c4?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Apr 20 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d33955cdb525785fbbd89c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69e6c6ca7820c036924d22de?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e6c6ca7820c036924d22de?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69d33955cdb525785fbbd89c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e63c493cfd986aa6f845d4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 20 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63b109b6eb37e26f7edd6?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
-| ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab5f8fa2f3ec32a0686?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab07820c036924cf020?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
+| ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab5f8fa2f3ec32a0686?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649c2e0cd471b2f12488d?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 17 |
 | ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/69e1e02c6c20aa1149545524?utm_campaign=1047&utm_source=git)** | Ocoee, FL, US | On Site | Apr 15 |
 | **[InQuest Technologies](http://www.inquesttechnologies.com/)** | **[Product Development Summer Intern (Unpaid Opportunity)](https://jobright.ai/jobs/info/69dfab0b4920452a85dceb6b?utm_campaign=1047&utm_source=git)** | Rockville,MD,US | On Site | Apr 15 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Product Management and Engineering Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69df838e4920452a85dce11f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
