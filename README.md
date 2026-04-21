@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swift](http://www.swift.com)** | **[Identity & Access Management Product Manager Intern](https://jobright.ai/jobs/info/69caa92e466f1e133aac5a27?utm_campaign=1047&utm_source=git)** | Tysons Corner, VA | On Site | Apr 21 |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69e795d63aa0c4796439ad29?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Apr 21 |
 | **[Optimum](http://www.optimum.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e77e153aa0c4796439a48f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d6bedae63cea7a8b66ba23?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e65195e0cd471b2f124d64?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 20 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651a3e0cd471b2f124dab?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 20 |
 | **[Mercedes-Benz.io](http://www.mercedes-benz.io)** | **[User Research Specialist - Internship  (f/m/x)](https://jobright.ai/jobs/info/69e652bce0cd471b2f124e75?utm_campaign=1047&utm_source=git)** | Hybrid, PT | Hybrid | Apr 20 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651b89b6eb37e26f7f6b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 20 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Apr 20 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Apr 20 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651b89b6eb37e26f7f6b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 20 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651f33cfd986aa6f84d60?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 20 |
 | ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e651f33cfd986aa6f84d6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 20 |
@@ -92,19 +94,17 @@ For a complete list, click the following sortable link below:
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e65b7d3aa0c4796439397d?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Apr 19 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698bf98091fdda424d58b4cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 19 |
 | **[Bread](https://www.breadpayments.com/)** | **[Senior Manager - Product Agentic AI](https://jobright.ai/jobs/info/69e5c7fe3cfd986aa6f82ab5?utm_campaign=1047&utm_source=git)** | Marion County, IN | Hybrid | Apr 18 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 18 |
 | **[Bread](https://www.breadpayments.com/)** | **[Senior Product Owner - Agentic AI](https://jobright.ai/jobs/info/69e5c7fc3cfd986aa6f82ab3?utm_campaign=1047&utm_source=git)** | Marion County, IN | Hybrid | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
 | **[Drivemode](https://www.drivemode.com/)** | **[Product Manager Internship (MBA) - Bilingual Japanese](https://jobright.ai/jobs/info/69e4ce129b6eb37e26f7c2cb?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Apr 18 |
-| **[Samba TV](http://www.samba.tv)** | **[Product Intern](https://jobright.ai/jobs/info/69c72c201818a24cd84cc4f4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 18 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63b109b6eb37e26f7edd6?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Apr 18 |
-| ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab07820c036924cf020?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
 | ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab5f8fa2f3ec32a0686?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
+| ↳ | **[Digital Product Manager Senior – PNC.com Retail Experience Strategy](https://jobright.ai/jobs/info/69e63ab07820c036924cf020?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 18 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69c69534b773006330b71360?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Apr 18 |
 | **[PNC](http://www.pnc.com)** | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e649c2e0cd471b2f12488d?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Apr 17 |
-| ↳ | **[Product Manager Senior- Payments](https://jobright.ai/jobs/info/69e64a1e3cfd986aa6f848b2?utm_campaign=1047&utm_source=git)** | Miamisburg, OH | On Site | Apr 17 |
 | **[Zola](http://www.zola.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e2d6b23770bd5361cda5fd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69e294a73ce36005badbebd6?utm_campaign=1047&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e2799a2f28653593076ced?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | Apr 17 |
