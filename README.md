@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e6c6ca7820c036924d22de?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e63c493cfd986aa6f845d4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 20 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
-| ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e650eff8fa2f3ec32a0cef?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 20 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Apr 20 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e6516df8fa2f3ec32a0eeb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 20 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e00557aba61f141731f19e?utm_campaign=1047&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e0012314bf245fc7a6f392?utm_campaign=1047&utm_source=git)** | San Francisco, California, US | Hybrid | Apr 15 |
 | ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69e000d9433ac8430e0e3b5b?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | Hybrid | Apr 15 |
-| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69dfffe3e34484770f1abf88?utm_campaign=1047&utm_source=git)** | Seattle, Washington, US | Hybrid | Apr 15 |
-| ↳ | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/69dfffd05913ad33981472d3?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Apr 15 |
 | **[State of Minnesota](https://mn.gov)** | **[Early Childhood Product Management Specialist / Product Management Specialist](https://jobright.ai/jobs/info/69dfec5de34484770f1ab553?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Apr 15 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
 | **[Docusign](http://www.docusign.com)** | **[B2B Product Manager Intern](https://jobright.ai/jobs/info/69a68238d706a731db3871cf?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 15 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Analyst 2026 Summer Intern-Washington, DC](https://jobright.ai/jobs/info/69b4f5b606c1ba00c54693e2?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Apr 15 |
+| **[Poshmark](http://poshmark.com)** | **[Produc Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69dfe3e3e34484770f1ab11a?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
