@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Global Product Information Intern - Summer 2026](https://jobright.ai/jobs/info/69e8df8de0cd471b2f138ac8?utm_campaign=1047&utm_source=git)** | Fort Wayne, IN | On Site | Apr 22 |
+| **[Equip](http://equip.health)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/69cc7af8e1921223acc7620d?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Chemistry](https://jobright.ai/jobs/info/69cc0031366bb95ba54ed0a2?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 22 |
 | **[Golden State Foods](http://www.goldenstatefoods.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311db1?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Apr 22 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship- Heaters & Air Quality](https://jobright.ai/jobs/info/698d05f20f6f7e7a2ce8b4a2?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69b6560f3b74eb1e2c84135c?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
-| ↳ | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
+| ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 16 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Apr 16 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e05a259564e855a25dcebc?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Apr 15 |
 | ↳ | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e059fdc17d1d5254333e4f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Apr 15 |
@@ -151,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e03e54e34484770f1ad56c?utm_campaign=1047&utm_source=git)** | US - CA, Sunnyvale | On Site | Apr 15 |
 | ↳ | **[Software Product Management Intern](https://jobright.ai/jobs/info/69e03e4f14bf245fc7a70aa1?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Apr 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern - Family Search (full time - 4 months)](https://jobright.ai/jobs/info/69e014685913ad3398147bf9?utm_campaign=1047&utm_source=git)** | Lehi, UT, United States | Hybrid | Apr 15 |
-| **[Solera Holdings, LLC.](https://www.solera.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e00557aba61f141731f19e?utm_campaign=1047&utm_source=git)** | Westlake, Texas | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
