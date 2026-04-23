@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 22 |
 | **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e977da3aa0c479643aa188?utm_campaign=1047&utm_source=git)** | US | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
-| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e844a14b0fa35a7076130f?utm_campaign=1047&utm_source=git)** | Kennesaw, GA, 30144, United States | On Site | Apr 22 |
-| ↳ | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e957067820c036924e77ba?utm_campaign=1047&utm_source=git)** | Kennesaw, GA | On Site | Apr 22 |
-| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
+| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e957067820c036924e77ba?utm_campaign=1047&utm_source=git)** | Kennesaw, GA | On Site | Apr 22 |
+| ↳ | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e844a14b0fa35a7076130f?utm_campaign=1047&utm_source=git)** | Kennesaw, GA, 30144, United States | On Site | Apr 22 |
+| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
-| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e92cb27820c036924e633e?utm_campaign=1047&utm_source=git)** | California - San Francisco, US | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Product Management Intern (Home Solution)](https://jobright.ai/jobs/info/69b04f9a0b2db6275c03fccb?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Apr 22 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e1a1c740a62c1fa93b946c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 16 |
 | ↳ | **[Intern - Product Management](https://jobright.ai/jobs/info/69e17e24d612782e61148f5e?utm_campaign=1047&utm_source=git)** | Seattle | Hybrid | Apr 16 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Business Analyst - Pharmacy](https://jobright.ai/jobs/info/69e14f2ffd1c0456f3fada24?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 16 |
-| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[KHAITE](https://khaite.com/)** | **[Product Development, RTW Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d6b4d5a1016e98dc3389?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/69d6b6aa52a5bf580012b46d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
-| **[Zello](https://zello.com/)** | **[Product Research Intern](https://jobright.ai/jobs/info/69c456ea6f4f855eeda6cbe6?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
