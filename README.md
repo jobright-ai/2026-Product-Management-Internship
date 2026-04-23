@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Temenos](http://www.temenos.com)** | **[Intern - Product Operations (PMO)](https://jobright.ai/jobs/info/69e9c7337820c036924e9d80?utm_campaign=1047&utm_source=git)** | Orlando, FL | Hybrid | Apr 23 |
 | ↳ | **[Intern - Product Strategy](https://jobright.ai/jobs/info/69e9c71f0a6e09555303db25?utm_campaign=1047&utm_source=git)** | Orlando, FL | Hybrid | Apr 23 |
-| **[Blue Heron Capital](http://www.blueheroncap.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69e9de070a6e09555303dcc4?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69e9c6ed0a6e09555303da7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Data Analytics - Assortment Planner Intern & Co-Op](https://jobright.ai/jobs/info/69e99ec63aa0c479643ab0c2?utm_campaign=1047&utm_source=git)** | VA-Chesapeake, US | On Site | Apr 22 |
 | ↳ | **[Data Analytics - Assortment Planner Intern & Co-Op](https://jobright.ai/jobs/info/69e99ebd0a6e09555303d02c?utm_campaign=1047&utm_source=git)** | VA-Chesapeake, US | Hybrid | Apr 22 |
@@ -72,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e9973a4b0fa35a7076f68f?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
 | **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
-| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e957067820c036924e77ba?utm_campaign=1047&utm_source=git)** | Kennesaw, GA | On Site | Apr 22 |
-| ↳ | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e844a14b0fa35a7076130f?utm_campaign=1047&utm_source=git)** | Kennesaw, GA, 30144, United States | On Site | Apr 22 |
+| **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e844a14b0fa35a7076130f?utm_campaign=1047&utm_source=git)** | Kennesaw, GA, 30144, United States | On Site | Apr 22 |
+| ↳ | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e957067820c036924e77ba?utm_campaign=1047&utm_source=git)** | Kennesaw, GA | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nemetschek Group](https://www.nemetschek.com/en)** | **[Product Strategy & Analytics Intern](https://jobright.ai/jobs/info/69e272093ce36005badbe3ef?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 17 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e25e802f286535930765a7?utm_campaign=1047&utm_source=git)** | Lehi, Utah | On Site | Apr 17 |
 | **[State Street](https://www.statestreet.com/)** | **[Alpha Data Services – Product Analyst 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d7c620b861c42857c4553e?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 17 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/698cbebb0f6f7e7a2ce873a4?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
