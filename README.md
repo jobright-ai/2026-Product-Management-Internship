@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69ebe5417820c036924f7ea0?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 24 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebc9f316b2612c2a11f04f?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 24 |
 | **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
+| **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d6bedae63cea7a8b66ba23?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebb6584b0fa35a7077dc69?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Apr 24 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Advanced Solutions Product Management Intern, Palo Alto / Summer 2026](https://jobright.ai/jobs/info/69ebafac0a6e09555304997d?utm_campaign=1047&utm_source=git)** | Clearwater, Florida, United States of America | On Site | Apr 24 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Digital Experiences & Product](https://jobright.ai/jobs/info/69ebaf5958811370cb13bd45?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[TD SYNNEX Multi-Country Area (English)](https://lac.tdsynnex.com/mca/en/)** | **[Advanced Solutions Product Management Intern, Palo Alto / Summer 2026](https://jobright.ai/jobs/info/69eba1b858811370cb13b610?utm_campaign=1047&utm_source=git)** | Clearwater, Florida, United States, US | Hybrid | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eaa8e058811370cb134a6e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 24 |
-| **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/69ebc38816b2612c2a11e686?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Apr 24 |
+| **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebc38816b2612c2a11e686?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Apr 24 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eb99e558811370cb13b369?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ebaf6adc35f7132c4b2933?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 24 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69eb93d958811370cb13a76e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Product Planning Summer Intern (On-Site)](https://jobright.ai/jobs/info/69e844a14b0fa35a7076130f?utm_campaign=1047&utm_source=git)** | Kennesaw, GA, 30144, United States | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e92cb27820c036924e633e?utm_campaign=1047&utm_source=git)** | California - San Francisco, US | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e918c5e0cd471b2f13a53e?utm_campaign=1047&utm_source=git)** | New York | On Site | Apr 21 |
 | **[automotiveMastermind Inc.](https://www.automotivemastermind.com/)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69e822a5f8fa2f3ec32aba1c?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Apr 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69e7fdd6e0cd471b2f12eae6?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Apr 21 |
-| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 21 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/69e7e284f8fa2f3ec32aa1fa?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
 | **[Construction Innovations, LLC](http://constructioninnovations.com/)** | **[Product Development - Intern](https://jobright.ai/jobs/info/69e80b4458811370cb120279?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Apr 21 |
 | **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/69d5d836cfdc6132f94666d9?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
@@ -148,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e7b2880a6e09555302bd72?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Apr 21 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69e795d63aa0c4796439ad29?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Apr 21 |
-| **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d6bedae63cea7a8b66ba23?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 21 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Apr 21 |
 | **[Luminator Technology Group](https://luminator.com)** | **[Product Management Intern – Passenger Information Systems (Summer 2026)](https://jobright.ai/jobs/info/69e8481358811370cb121d55?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Apr 21 |
