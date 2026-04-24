@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
+| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebb6584b0fa35a7077dc69?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Apr 24 |
+| **[TD SYNNEX North America](http://www.techdata.com)** | **[Advanced Solutions Product Management Intern, Palo Alto / Summer 2026](https://jobright.ai/jobs/info/69ebafac0a6e09555304997d?utm_campaign=1047&utm_source=git)** | Clearwater, Florida, United States of America | On Site | Apr 24 |
+| **[IMAX](http://www.imax.com)** | **[Intern, Digital Experiences & Product](https://jobright.ai/jobs/info/69ebaf5958811370cb13bd45?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | **[TD SYNNEX Multi-Country Area (English)](https://lac.tdsynnex.com/mca/en/)** | **[Advanced Solutions Product Management Intern, Palo Alto / Summer 2026](https://jobright.ai/jobs/info/69eba1b858811370cb13b610?utm_campaign=1047&utm_source=git)** | Clearwater, Florida, United States, US | Hybrid | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eaa8e058811370cb134a6e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eb99e558811370cb13b369?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ebaf6adc35f7132c4b2933?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 24 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69eb93d958811370cb13a76e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[N.A. Williams Company](https://www.nawilliams.com/)** | **[Summer Internship, Automotive Aftermarket](https://jobright.ai/jobs/info/69eb91190a6e095553047ca0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
@@ -90,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 23 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
+| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | **[Temenos](http://www.temenos.com)** | **[Intern - Product Operations (PMO)](https://jobright.ai/jobs/info/69e9c7337820c036924e9d80?utm_campaign=1047&utm_source=git)** | Orlando, FL | Hybrid | Apr 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crunchtime Ops Execution (formerly Zenput)](https://www.zenput.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e66f0ff8fa2f3ec32a1cdc?utm_campaign=1047&utm_source=git)** | Boston | On Site | Apr 20 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6536e9b6eb37e26f7f7c4?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Apr 20 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e6c6ca7820c036924d22de?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
-| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e63c493cfd986aa6f845d4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 20 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
-| ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e650eff8fa2f3ec32a0cef?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
