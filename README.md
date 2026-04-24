@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 23 |
 | ↳ | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eaaf7958811370cb134bb8?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 23 |
@@ -140,13 +141,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
 | **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69e6c6ca7820c036924d22de?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e63c493cfd986aa6f845d4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 20 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
-| ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
+| ↳ | **[Intern - Digital Product](https://jobright.ai/jobs/info/69c1cb9675f7ff1cd8102210?utm_campaign=1047&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Apr 20 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e650eff8fa2f3ec32a0cef?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 20 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651a3e0cd471b2f124dab?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 20 |
 | **[Mercedes-Benz.io](http://www.mercedes-benz.io)** | **[User Research Specialist - Internship  (f/m/x)](https://jobright.ai/jobs/info/69e652bce0cd471b2f124e75?utm_campaign=1047&utm_source=git)** | Hybrid, PT | Hybrid | Apr 20 |
-| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651b89b6eb37e26f7f6b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 20 |
-| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Apr 20 |
+| **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/698670ee8da7a612046139de?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | Apr 20 |
+| ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651b89b6eb37e26f7f6b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 20 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69e651f33cfd986aa6f84d60?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Apr 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 20 |
 | **[Tangerine](https://www.tangerine.ca/en/index.html)** | **[Velocity - Tangerine Client Solutions (Product) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6b13cfd986aa6f832a4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bread](https://www.breadpayments.com/)** | **[Senior Manager - Product Agentic AI](https://jobright.ai/jobs/info/69e5c7fe3cfd986aa6f82ab5?utm_campaign=1047&utm_source=git)** | Marion County, IN | Hybrid | Apr 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 18 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/698fa6416ea51a7610f20fb6?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 18 |
-| **[Bread](https://www.breadpayments.com/)** | **[Senior Product Owner - Agentic AI](https://jobright.ai/jobs/info/69e5c7fc3cfd986aa6f82ab3?utm_campaign=1047&utm_source=git)** | Marion County, IN | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
