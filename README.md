@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eb5f340a6e095553046dc6?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Apr 24 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 - Product Strategy, Research Governance and Oversight](https://jobright.ai/jobs/info/69da56479f97a42dc9c28a61?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 24 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd00334828227293ff21bf?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
@@ -113,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e92cb27820c036924e633e?utm_campaign=1047&utm_source=git)** | California - San Francisco, US | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Crunchtime Ops Execution (formerly Zenput)](https://www.zenput.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e66f0ff8fa2f3ec32a1cdc?utm_campaign=1047&utm_source=git)** | Boston | On Site | Apr 20 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6536e9b6eb37e26f7f7c4?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Apr 20 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
+| **[Practising Law Institute (PLI)](https://pli.edu)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e63c493cfd986aa6f845d4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
