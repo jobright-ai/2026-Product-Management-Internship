@@ -84,15 +84,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd00334828227293ff21bf?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 24 |
-| **[Lynco Products](http://www.lyncoproducts.net)** | **[Category Management Intern - Summer 2026](https://jobright.ai/jobs/info/69ec37130a6e09555304d601?utm_campaign=1047&utm_source=git)** | IL - Rock Island - Rock Island, IL 61201 | On Site | Apr 23 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 23 |
 | **[SageNet](http://www.sagenet.com/)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69ec1185dc35f7132c4b5585?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Apr 23 |
 | **[BBG Ventures](http://www.bbgventures.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69eb4445dc35f7132c4af1f2?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69eb25d54b0fa35a7077880a?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/69eb0c4b0a6e0955530442a1?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
 | **[STERIS](http://steris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea66674b0fa35a70773dbf?utm_campaign=1047&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Apr 23 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ea959c58811370cb13443d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/69ea3eeddc35f7132c4a8e47?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Apr 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 20 |
 | **[Crunchtime Ops Execution (formerly Zenput)](https://www.zenput.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e66f0ff8fa2f3ec32a1cdc?utm_campaign=1047&utm_source=git)** | Boston | On Site | Apr 20 |
 | **[Lennox AES](https://www.aescurb.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6536e9b6eb37e26f7f7c4?utm_campaign=1047&utm_source=git)** | US-SC-West Columbia | On Site | Apr 20 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69e6534d3cfd986aa6f84e80?utm_campaign=1047&utm_source=git)** | West Columbia, SC, US | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
