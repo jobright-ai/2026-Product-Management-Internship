@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b7982f56973837413cbc6e?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e92cb27820c036924e633e?utm_campaign=1047&utm_source=git)** | California - San Francisco, US | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Apr 21 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad577a8c1822476e209ca?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Apr 21 |
 | ↳ | **[Intern - Product Management, Ecosystem Development](https://jobright.ai/jobs/info/69cad946e565c26a700417d1?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | Apr 21 |
-| **[Scene+](https://www.sceneplus.ca/)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69e817f6f8fa2f3ec32ab717?utm_campaign=1047&utm_source=git)** | Toronto - Hybrid, ON, Canada | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
