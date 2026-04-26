@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jack Rogers USA](http://jackrogersusa.com)** | **[Product and Operations Intern](https://jobright.ai/jobs/info/69edb76c16b2612c2a125441?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity](https://jobright.ai/jobs/info/6998f30fe0bddb6acac7e057?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Apr 25 |
 | **[SWBC](https://www.swbc.com)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/69bf61e02c312363dcd21280?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 25 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69b7982f56973837413cbc6e?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Apr 25 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eb99e558811370cb13b369?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ebaf6adc35f7132c4b2933?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 24 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern - Security](https://jobright.ai/jobs/info/69eb93d958811370cb13a76e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
-| **[N.A. Williams Company](https://www.nawilliams.com/)** | **[Summer Internship, Automotive Aftermarket](https://jobright.ai/jobs/info/69eb91190a6e095553047ca0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eb5f340a6e095553046dc6?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Apr 24 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e92cb27820c036924e633e?utm_campaign=1047&utm_source=git)** | California - San Francisco, US | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
