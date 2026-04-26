@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 26 |
+| **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/69d723e9706f771673bb024b?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
 | **[Snyk](https://snyk.io   )** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b4ffce06c1ba00c5469e00?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 | **[Jack Rogers USA](http://jackrogersusa.com)** | **[Product and Operations Intern](https://jobright.ai/jobs/info/69edb76c16b2612c2a125441?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Product Manager Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0aad4b0fa35a70780688?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69ebe5417820c036924f7ea0?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 24 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebc9f316b2612c2a11f04f?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 24 |
 | **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern](https://jobright.ai/jobs/info/69ca9a9f466f1e133aac5253?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e7b2880a6e09555302bd72?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Apr 21 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69e795d63aa0c4796439ad29?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
