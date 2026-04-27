@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 27 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/69ef9e874b0fa35a7078a8af?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Apr 27 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69ef9ae258811370cb14757f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, CA | On Site | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ef8dc94b0fa35a7078a1f3?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 27 |
+| **[RTX](http://rtx.com/)** | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69efabeb58811370cb147af4?utm_campaign=1047&utm_source=git)** | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, US | On Site | Apr 27 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69ef835f4b0fa35a70789bd4?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 26 |
 | **[SWIVEL](https://www.getswivel.io)** | **[Product Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/69d723e9706f771673bb024b?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 26 |
-| **[Snyk](https://snyk.io   )** | **[Product Manager Intern](https://jobright.ai/jobs/info/69b4ffce06c1ba00c5469e00?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 | **[Jack Rogers USA](http://jackrogersusa.com)** | **[Product and Operations Intern](https://jobright.ai/jobs/info/69edb76c16b2612c2a125441?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Apr 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity](https://jobright.ai/jobs/info/6998f30fe0bddb6acac7e057?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[automotiveMastermind Inc.](https://www.automotivemastermind.com/)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69e822a5f8fa2f3ec32aba1c?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Apr 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69e7fdd6e0cd471b2f12eae6?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Apr 21 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/69e7e284f8fa2f3ec32aa1fa?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
-| **[Construction Innovations, LLC](http://constructioninnovations.com/)** | **[Product Development - Intern](https://jobright.ai/jobs/info/69e80b4458811370cb120279?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
