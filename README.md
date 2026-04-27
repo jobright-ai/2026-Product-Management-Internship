@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[SageNet](http://www.sagenet.com/)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69ec1185dc35f7132c4b5585?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Apr 23 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69eb25d54b0fa35a7077880a?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/69eb0c4b0a6e0955530442a1?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
 | **[STERIS](http://steris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea66674b0fa35a70773dbf?utm_campaign=1047&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Apr 23 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ea959c58811370cb13443d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/69ea3eeddc35f7132c4a8e47?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Apr 23 |
@@ -124,14 +124,12 @@ For a complete list, click the following sortable link below:
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69e9c6ed0a6e09555303da7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 22 |
 | **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e977da3aa0c479643aa188?utm_campaign=1047&utm_source=git)** | US | Remote | Apr 22 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e9973a4b0fa35a7076f68f?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
-| **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
+| ↳ | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - ES Product Management, Digital Experience and Research](https://jobright.ai/jobs/info/69e92cb27820c036924e633e?utm_campaign=1047&utm_source=git)** | California - San Francisco, US | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
 | **[WorkSpace+](https://workspaceplus.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e977b458811370cb12d863?utm_campaign=1047&utm_source=git)** | De Pere, WI, US | On Site | Apr 22 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e908cb4b0fa35a7076b180?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[automotiveMastermind Inc.](https://www.automotivemastermind.com/)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69e822a5f8fa2f3ec32aba1c?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Apr 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/69e7fdd6e0cd471b2f12eae6?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Apr 21 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/69e7e284f8fa2f3ec32aa1fa?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 21 |
+| **[Construction Innovations, LLC](http://constructioninnovations.com/)** | **[Product Development - Intern](https://jobright.ai/jobs/info/69e80b4458811370cb120279?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Apr 21 |
+| **[Epicor](https://www.epicor.com)** | **[Intern / Product Developer – Prophet 21](https://jobright.ai/jobs/info/69d5d836cfdc6132f94666d9?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
