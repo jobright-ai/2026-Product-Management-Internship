@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69f07d43b27fee43e8cd37ad?utm_campaign=1047&utm_source=git)** | aurora, Colorado, United States of America | On Site | Apr 28 |
+| **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[ByteDance](http://bytedance.com)** | **[AI Product Manager Intern (Applied Machine Learning) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69f061b9ecbc8c2f731ff773?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[Product Management Operations Intern](https://jobright.ai/jobs/info/69f027b58feca91f14919d4f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Chemistry](https://jobright.ai/jobs/info/69cc0031366bb95ba54ed0a2?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 22 |
 | **[Golden State Foods](http://www.goldenstatefoods.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311db1?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Apr 22 |
-| **[Diligent](http://diligent.com)** | **[Product Builder Intern - Diligent Boards](https://jobright.ai/jobs/info/69b0cad80b2db6275c0562dc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
