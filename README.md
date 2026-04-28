@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69ef9ae258811370cb14757f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, CA | On Site | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ef8dc94b0fa35a7078a1f3?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[RTX](http://rtx.com/)** | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69efabeb58811370cb147af4?utm_campaign=1047&utm_source=git)** | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75, US | On Site | Apr 27 |
-| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69ef835f4b0fa35a70789bd4?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product & Design](https://jobright.ai/jobs/info/69efe61716b2612c2a12c6c8?utm_campaign=1047&utm_source=git)** | USA - New York, NY | On Site | Apr 26 |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Apr 22 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3f90a6e09555303791e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 22 |
 | ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3e758811370cb1292ef?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 22 |
+| **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e958467820c036924e77f4?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
