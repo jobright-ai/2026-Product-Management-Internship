@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[Summer AI Product Management Internship](https://jobright.ai/jobs/info/69f0f56062b48c6838792e1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f0f49862b48c6838792d28?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[DecoPac, Inc.](https://www.decopac.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f0cfd1ecbc8c2f73201f3b?utm_campaign=1047&utm_source=git)** | Anoka, MN, US | Hybrid | Apr 28 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69f0cc1decbc8c2f73201e9b?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4fa09706f771673b9fea6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69f0a5ed825a315d7ca330b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
@@ -75,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f01fd6825a315d7ca31057?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69effd4658811370cb14a129?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Apr 27 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS AI Product Management Intern](https://jobright.ai/jobs/info/69effc264b0fa35a7078d4ae?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Apr 27 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69eff3814b0fa35a7078d34b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[Unison](https://unisonglobal.com)** | **[VAO Product Operations Intern](https://jobright.ai/jobs/info/69efe6c158811370cb149745?utm_campaign=1047&utm_source=git)** | US | On Site | Apr 27 |
 | ↳ | **[VAO Product Operations Intern](https://jobright.ai/jobs/info/69efe5c00a6e095553058073?utm_campaign=1047&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Apr 27 |
@@ -145,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
 | **[WorkSpace+](https://workspaceplus.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e977b458811370cb12d863?utm_campaign=1047&utm_source=git)** | De Pere, WI, US | On Site | Apr 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3f90a6e09555303791e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 22 |
 | ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3e758811370cb1292ef?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 22 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69e958467820c036924e77f4?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Apr 22 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Ad Products Internships – Academic Year](https://jobright.ai/jobs/info/69e65f8fe0cd471b2f12547f?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Apr 22 |
+| **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Global Product Information Intern - Summer 2026](https://jobright.ai/jobs/info/69e9414d7820c036924e6dab?utm_campaign=1047&utm_source=git)** | US - Indiana - Fort Wayne | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
