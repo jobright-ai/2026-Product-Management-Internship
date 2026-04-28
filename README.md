@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69effd4658811370cb14a129?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Apr 27 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS AI Product Management Intern](https://jobright.ai/jobs/info/69effc264b0fa35a7078d4ae?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Apr 27 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69eff3814b0fa35a7078d34b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[Grace Hill](http://www.gracehill.com/)** | **[Product Management Operations Intern](https://jobright.ai/jobs/info/69efe813fbe0994a40eb961e?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Unison](https://unisonglobal.com)** | **[VAO Product Operations Intern](https://jobright.ai/jobs/info/69efe6c158811370cb149745?utm_campaign=1047&utm_source=git)** | US | On Site | Apr 27 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebc9f316b2612c2a11f04f?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 24 |
 | **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
-| **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d6bedae63cea7a8b66ba23?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebb6584b0fa35a7077dc69?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69eaa8e058811370cb134a6e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 24 |
 | **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[SageNet](http://www.sagenet.com/)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69ec1185dc35f7132c4b5585?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Apr 23 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69eb25d54b0fa35a7077880a?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/69eb0c4b0a6e0955530442a1?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
 | **[STERIS](http://steris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea66674b0fa35a70773dbf?utm_campaign=1047&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Apr 23 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ea959c58811370cb13443d?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Apr 23 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/69ea3eeddc35f7132c4a8e47?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Apr 23 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 23 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
+| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69e9c6ed0a6e09555303da7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management AI Intern](https://jobright.ai/jobs/info/69cc4b538130af1ac8337a2f?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 22 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Development Intern, Corporate](https://jobright.ai/jobs/info/69af3089749500645093ab9b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 22 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e883fe58811370cb126a21?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 22 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69e849ca58811370cb12224e?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
