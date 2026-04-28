@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69f07d43b27fee43e8cd37ad?utm_campaign=1047&utm_source=git)** | aurora, Colorado, United States of America | On Site | Apr 28 |
+| **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69f08b36b27fee43e8cd385c?utm_campaign=1047&utm_source=git)** | Aurora, CO | On Site | Apr 28 |
+| ↳ | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69f07d43b27fee43e8cd37ad?utm_campaign=1047&utm_source=git)** | aurora, Colorado, United States of America | On Site | Apr 28 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[ByteDance](http://bytedance.com)** | **[AI Product Manager Intern (Applied Machine Learning) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69f061b9ecbc8c2f731ff773?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 27 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 23 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2026](https://jobright.ai/jobs/info/698e45d378b4502f12a50ef2?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
+| ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69e9c6ed0a6e09555303da7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equip](http://equip.health)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/69cc7af8e1921223acc7620d?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
 | **[HID](http://www.hidglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69b09461dfaeda6ff59ab4d2?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Chemistry](https://jobright.ai/jobs/info/69cc0031366bb95ba54ed0a2?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 22 |
-| **[Golden State Foods](http://www.goldenstatefoods.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69ddb944aba61f1417311db1?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
