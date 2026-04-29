@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMETEK](http://www.ametek.com)** | **[Product Management Intern - Software Products](https://jobright.ai/jobs/info/69d57222366bb95ba55452a8?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Apr 29 |
+| **[Medica](https://www.medica.com)** | **[Commercial Product Intern](https://jobright.ai/jobs/info/69d58f07cfdc6132f946342c?utm_campaign=1047&utm_source=git)** | Hopkins, MN | Hybrid | Apr 29 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/696b45d05fc86241853a9d33?utm_campaign=1047&utm_source=git)** | Greater Bismarck Area | On Site | Apr 29 |
 | **[Bright Machines](https://www.brightmachines.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f1b16e825a315d7ca399a8?utm_campaign=1047&utm_source=git)** | San Francisco, California | Hybrid | Apr 29 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/69f135928d8d624381a9adc8?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 28 |
@@ -151,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
 | **[WorkSpace+](https://workspaceplus.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e977b458811370cb12d863?utm_campaign=1047&utm_source=git)** | De Pere, WI, US | On Site | Apr 22 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e908cb4b0fa35a7076b180?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
