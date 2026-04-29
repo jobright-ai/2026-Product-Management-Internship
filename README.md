@@ -146,15 +146,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e98e197820c036924e8fc0?utm_campaign=1047&utm_source=git)** | Glynn County, GA | Remote | Apr 22 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e950247820c036924e7500?utm_campaign=1047&utm_source=git)** | De Pere, WI | On Site | Apr 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Apr 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[Injective](https://injectivelabs.org)** | **[Product Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69e95cb658811370cb12cf18?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Apr 22 |
 | **[WorkSpace+](https://workspaceplus.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69e977b458811370cb12d863?utm_campaign=1047&utm_source=git)** | De Pere, WI, US | On Site | Apr 22 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e908cb4b0fa35a7076b180?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 22 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e8f6257820c036924e3f3a?utm_campaign=1047&utm_source=git)** | 11 E Hawthorn Pkwy, Vernon Hills, IL, 60061, US | On Site | Apr 22 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e8f59d0a6e095553037a45?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 22 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Apr 22 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3f90a6e09555303791e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 22 |
-| ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3e758811370cb1292ef?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
