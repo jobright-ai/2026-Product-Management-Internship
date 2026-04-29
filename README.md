@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/69f135928d8d624381a9adc8?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f141e98feca91f1491f817?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
-| **[Chanly AI](https://www.chanly.ai)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/69f1358e8d8d624381a9adb7?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 28 |
 | **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Product Development & Production Intern (University Credit)](https://jobright.ai/jobs/info/69f103a462b48c68387931d3?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Summer AI Product Management Internship](https://jobright.ai/jobs/info/69f0f56062b48c6838792e1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f0f49862b48c6838792d28?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[KION Group](http://www.kiongroup.com/)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e8f59d0a6e095553037a45?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | Apr 22 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Retail Supply Chain](https://jobright.ai/jobs/info/699e3b9fce78e77b4fe34f9d?utm_campaign=1047&utm_source=git)** | Oconomowoc, WI | On Site | Apr 22 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3f90a6e09555303791e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 22 |
+| ↳ | **[Product Manager 2026 Intern](https://jobright.ai/jobs/info/69e8f3e758811370cb1292ef?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
