@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2438e8d8d624381a9ff85?utm_campaign=1047&utm_source=git)** | San Francisco, US | On Site | Apr 29 |
+| ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2437df154d768fbaa612a?utm_campaign=1047&utm_source=git)** | San Jose, US | On Site | Apr 29 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69f229ef8feca91f1492359a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 29 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only)](https://jobright.ai/jobs/info/69f222e6825a315d7ca3ae85?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | Apr 29 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing](https://jobright.ai/jobs/info/69bc6fbf45e08b3dc1f92463?utm_campaign=1047&utm_source=git)** | Augusta, KS | On Site | Apr 29 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Product Development & Production Intern (University Credit)](https://jobright.ai/jobs/info/69f103a462b48c68387931d3?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Summer AI Product Management Internship](https://jobright.ai/jobs/info/69f0f56062b48c6838792e1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f0f49862b48c6838792d28?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[Nutanix Indonesia](https://www.nutanix.com/)** | **[Product Management Intern - (UNDERGRAD Only)](https://jobright.ai/jobs/info/69f243c8ecbc8c2f73209a37?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 28 |
 | **[DecoPac, Inc.](https://www.decopac.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f0cfd1ecbc8c2f73201f3b?utm_campaign=1047&utm_source=git)** | Anoka, MN, US | Hybrid | Apr 28 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4fa09706f771673b9fea6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69f0a5ed825a315d7ca330b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
-| **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern (MBA) SaaS](https://jobright.ai/jobs/info/69e9c6ed0a6e09555303da7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 22 |
-| **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 22 |
-| **[Zonda](https://zondahome.com/)** | **[Product Management Intern - Digital Software Solutions](https://jobright.ai/jobs/info/69e977da3aa0c479643aa188?utm_campaign=1047&utm_source=git)** | US | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
