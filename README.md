@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f2a0968d8d624381aa1deb?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Apr 29 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Technical Product Systems Intern (AI & PLM)](https://jobright.ai/jobs/info/69f29d77ab4ec4779fffa155?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
+| **[Windstream](https://www.windstream.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f29a45f154d768fbaa8094?utm_campaign=1047&utm_source=git)** | Rochester, NY, USA | On Site | Apr 29 |
+| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Apr 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Apr 29 |
 | **[The C.H. Hanson Company](https://www.chhanson.com/)** | **[Internship for Associate Product Manager](https://jobright.ai/jobs/info/69f27834ecbc8c2f7320a985?utm_campaign=1047&utm_source=git)** | Naperville, IL | On Site | Apr 29 |
@@ -150,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69ea8db73aa0c479643b081e?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 23 |
 | **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b34611423772304eb5d54?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
+| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b36751136d179eeeeb380?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
