@@ -132,8 +132,7 @@ For a complete list, click the following sortable link below:
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebc9f316b2612c2a11f04f?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 24 |
 | **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebb6584b0fa35a7077dc69?utm_campaign=1047&utm_source=git)** | Remote, Remote, United States | Remote | Apr 24 |
-| **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
 | **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 24 |
@@ -145,6 +144,4 @@ For a complete list, click the following sortable link below:
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 23 |
 | **[SageNet](http://www.sagenet.com/)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69ec1185dc35f7132c4b5585?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Apr 23 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69eb25d54b0fa35a7077880a?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 23 |
-| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80847820c036924ee593?utm_campaign=1047&utm_source=git)** | Richardson, TX, US | On Site | Apr 23 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
