@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69eb92e4dc35f7132c4b16cd?utm_campaign=1047&utm_source=git)** | Boston, KY | On Site | Apr 30 |
+| **[Power Factors](http://www.powerfactors.com/)** | **[Intern - AI Tooling Research & Product Development Lifecycle (Summer)](https://jobright.ai/jobs/info/69f38ef558b23a2329da5eb6?utm_campaign=1047&utm_source=git)** | Massachusetts, United States | On Site | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Technical Product Owner II](https://jobright.ai/jobs/info/69d735be366bb95ba5552932?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
 | **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 30 |
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Sr Technical Product Manager - Gemini](https://jobright.ai/jobs/info/699f2c1794ef206f184e4ceb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 30 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2437df154d768fbaa612a?utm_campaign=1047&utm_source=git)** | San Jose, US | On Site | Apr 29 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69f229ef8feca91f1492359a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 29 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing](https://jobright.ai/jobs/info/69bc6fbf45e08b3dc1f92463?utm_campaign=1047&utm_source=git)** | Augusta, KS | On Site | Apr 29 |
+| **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only)](https://jobright.ai/jobs/info/69f389391f90bd6ae23d0007?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | Apr 29 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Apr 29 |
-| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Pricing & Commercialization](https://jobright.ai/jobs/info/699cfe5381476f6176b59141?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69f1ebd18feca91f149227d2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern - Software Products](https://jobright.ai/jobs/info/69d57222366bb95ba55452a8?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Apr 29 |
 | **[Integral Development Corp.](http://www.integral.com)** | **[Product Content Automation Intern (Summer 2026)](https://jobright.ai/jobs/info/69f224f78d8d624381a9f5b1?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 29 |
@@ -150,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69cf280ecdb525785fb9f10a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 24 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 23 |
-| **[SageNet](http://www.sagenet.com/)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69ec1185dc35f7132c4b5585?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
