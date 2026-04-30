@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/69d759b348f0c8161d2ffe54?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69eb92e4dc35f7132c4b16cd?utm_campaign=1047&utm_source=git)** | Boston, KY | On Site | Apr 30 |
 | **[Power Factors](http://www.powerfactors.com/)** | **[Intern - AI Tooling Research & Product Development Lifecycle (Summer)](https://jobright.ai/jobs/info/69f38ef558b23a2329da5eb6?utm_campaign=1047&utm_source=git)** | Massachusetts, United States | On Site | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Technical Product Owner II](https://jobright.ai/jobs/info/69d735be366bb95ba5552932?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
