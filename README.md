@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/699f0dcdce78e77b4fe4c013?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026 - Cambridge](https://jobright.ai/jobs/info/69eb57f916b2612c2a11b5ba?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Apr 30 |
+| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69f37267c78b9e4518954bb2?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Product Owner - Marketing](https://jobright.ai/jobs/info/69f366a858b23a2329da427b?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
@@ -145,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Apr 23 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 23 |
 | **[SageNet](http://www.sagenet.com/)** | **[Research and Development Internship](https://jobright.ai/jobs/info/69ec1185dc35f7132c4b5585?utm_campaign=1047&utm_source=git)** | Marietta, GA | On Site | Apr 23 |
-| **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69eb25d54b0fa35a7077880a?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
