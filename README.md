@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Icertis](https://www.icertis.com)** | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f3cf5fc78b9e4518957cc9?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Apr 30 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/69d759b348f0c8161d2ffe54?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Technical Product Owner II](https://jobright.ai/jobs/info/69d735be366bb95ba5552932?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
