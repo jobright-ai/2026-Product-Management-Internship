@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f2ccb6825a315d7ca3fc23?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Apr 29 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f2a0968d8d624381aa1deb?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Apr 29 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Technical Product Systems Intern (AI & PLM)](https://jobright.ai/jobs/info/69f29d77ab4ec4779fffa155?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
 | **[Windstream](https://www.windstream.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f29a45f154d768fbaa8094?utm_campaign=1047&utm_source=git)** | Rochester, NY, USA | On Site | Apr 29 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Apr 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
@@ -146,5 +145,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69ea80844b0fa35a70774d5c?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Apr 23 |
 | **[STERIS](http://steris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ea66674b0fa35a70773dbf?utm_campaign=1047&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Apr 23 |
 | **[Fair Oaks Farms](https://fofarms.com)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/69ea3cb30a6e09555303f9c8?utm_campaign=1047&utm_source=git)** | La Crosse, WI, US | On Site | Apr 23 |
-| **[DwyerOmega](https://www.dwyeromega.com/en-us)** | **[Product Management Intern - Pressure & Force](https://jobright.ai/jobs/info/69cd8d80cfdc6132f941d187?utm_campaign=1047&utm_source=git)** | Michigan City, IN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
