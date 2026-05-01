@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HaciGroup](hacigroup.org)** | **[Product Manager](https://jobright.ai/jobs/info/69f510bd0b36ff03547505f7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f501a612f2811ab5a626b9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f4d557a3d34b4f76f521d6?utm_campaign=1047&utm_source=git)** | Chicago, IL, US | On Site | May 01 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69eabf500a6e095553042ad7?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | On Site | May 01 |
@@ -106,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f30adeecbc8c2f7320ff85?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Apr 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f141e98feca91f1491f817?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
+| **[Nutanix Indonesia](https://www.nutanix.com/)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/69f51c3ca3d34b4f76f53ae6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 28 |
 | **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Product Development & Production Intern (University Credit)](https://jobright.ai/jobs/info/69f103a462b48c68387931d3?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Summer AI Product Management Internship](https://jobright.ai/jobs/info/69f0f56062b48c6838792e1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f0f49862b48c6838792d28?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
