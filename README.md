@@ -146,7 +146,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
 | **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern -Application/Product Delivery](https://jobright.ai/jobs/info/69cf98a5366bb95ba5517878?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Apr 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 24 |
-| ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
-| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd00334828227293ff21bf?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
