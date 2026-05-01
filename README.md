@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[2026 Raytheon Full Time Intern-Platform Product Design (Onsite)](https://jobright.ai/jobs/info/69f07d43b27fee43e8cd37ad?utm_campaign=1047&utm_source=git)** | aurora, Colorado, United States of America | On Site | Apr 28 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[ByteDance](http://bytedance.com)** | **[AI Product Manager Intern (Applied Machine Learning) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69f061b9ecbc8c2f731ff773?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
+| **[NetApp Learning Services](https://www.netapp.com/us/services-support/university/index.aspx)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69f44d90461b9b613a6264e9?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f01fd6825a315d7ca31057?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69effd4658811370cb14a129?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Apr 27 |
@@ -142,9 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Product Manager Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0aad4b0fa35a70780688?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69ebe5417820c036924f7ea0?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 24 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/69ebc9f316b2612c2a11f04f?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 24 |
 | **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/69ebc3930a6e09555304a19a?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 24 |
-| **[Bluebeam](http://www.bluebeam.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69ceec6054f00230c6d04db4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
