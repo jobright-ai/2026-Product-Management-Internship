@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69f3f77b1f90bd6ae23d2fe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
+| **[HydraPak, LLC](https://hydrapak.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f3f658c78b9e4518958d35?utm_campaign=1047&utm_source=git)** | Oakland, CA | On Site | Apr 30 |
 | **[Icertis](https://www.icertis.com)** | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f3cf5fc78b9e4518957cc9?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Apr 30 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/69d759b348f0c8161d2ffe54?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
