@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Icertis](https://www.icertis.com)** | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f423fc461b9b613a625bdf?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| ↳ | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f423f21f90bd6ae23d3ae1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69f3f77b1f90bd6ae23d2fe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
 | **[HydraPak, LLC](https://hydrapak.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f3f658c78b9e4518958d35?utm_campaign=1047&utm_source=git)** | Oakland, CA | On Site | Apr 30 |
 | **[Icertis](https://www.icertis.com)** | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f3cf5fc78b9e4518957cc9?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Apr 30 |
