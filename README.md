@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f4d557a3d34b4f76f521d6?utm_campaign=1047&utm_source=git)** | Chicago, IL, US | On Site | May 01 |
+| **[BSI Financial Services](https://www.bsifinancial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f4cc1ddb88714bcdfafe2f?utm_campaign=1047&utm_source=git)** | Irving, TX 75063, USA | On Site | May 01 |
 | **[Acuity](https://www.acuityinc.com)** | **[Summer Internship, Product Management-Technology (HR Reporting & Analytics)](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
