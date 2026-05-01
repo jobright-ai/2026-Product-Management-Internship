@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HaciGroup](hacigroup.org)** | **[Product Manager](https://jobright.ai/jobs/info/69f510bd0b36ff03547505f7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f501a612f2811ab5a626b9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f4d557a3d34b4f76f521d6?utm_campaign=1047&utm_source=git)** | Chicago, IL, US | On Site | May 01 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69eabf500a6e095553042ad7?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | On Site | May 01 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69ec9898dc35f7132c4b70a7?utm_campaign=1047&utm_source=git)** | US-TX-Dallas | Hybrid | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | ↳ | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Product Development](https://jobright.ai/jobs/info/69ec328358811370cb13f2bb?utm_campaign=1047&utm_source=git)** | Rohnert Park, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
