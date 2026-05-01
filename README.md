@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f501a612f2811ab5a626b9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f4d557a3d34b4f76f521d6?utm_campaign=1047&utm_source=git)** | Chicago, IL, US | On Site | May 01 |
+| **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69eabf500a6e095553042ad7?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | On Site | May 01 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f4cc1ddb88714bcdfafe2f?utm_campaign=1047&utm_source=git)** | Irving, TX 75063, USA | On Site | May 01 |
 | **[Acuity](https://www.acuityinc.com)** | **[Summer Internship, Product Management-Technology (HR Reporting & Analytics)](https://jobright.ai/jobs/info/69ab3c07142d5b4265fc84bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/69d759b348f0c8161d2ffe54?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/699fc52181476f6176b97f9f?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Technical Product Owner II](https://jobright.ai/jobs/info/69d735be366bb95ba5552932?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 30 |
-| **[IMO Health](https://www.imohealth.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/699dead9e0bddb6acacd4e54?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Apr 30 |
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Sr Technical Product Manager - Gemini](https://jobright.ai/jobs/info/699f2c1794ef206f184e4ceb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 30 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69f37267c78b9e4518954bb2?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | ↳ | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Product Development](https://jobright.ai/jobs/info/69ec328358811370cb13f2bb?utm_campaign=1047&utm_source=git)** | Rohnert Park, CA | On Site | Apr 24 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
