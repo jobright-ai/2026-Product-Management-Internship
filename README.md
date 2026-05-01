@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Signal and Identity Product ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/699fb8db81476f6176b971c0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
+| ↳ | **[Product Operations Intern (SMB Product Vertical) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Icertis](https://www.icertis.com)** | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f423fc461b9b613a625bdf?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | ↳ | **[Legal Product Management Intern](https://jobright.ai/jobs/info/69f423f21f90bd6ae23d3ae1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69f3f77b1f90bd6ae23d2fe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
@@ -144,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Product Manager Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0aad4b0fa35a70780688?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69ebe5417820c036924f7ea0?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/69b32bd1ad360c0340a84fc8?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 24 |
-| **[TheIncLab](https://www.theinclab.com/)** | **[Product Intern](https://jobright.ai/jobs/info/69ebb835dc35f7132c4b2b08?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
