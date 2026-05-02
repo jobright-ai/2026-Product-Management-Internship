@@ -146,6 +146,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[Catalyst](https://catalystintro.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69ec98a64b0fa35a70782807?utm_campaign=1047&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 25 |
 | ↳ | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69ec9898dc35f7132c4b70a7?utm_campaign=1047&utm_source=git)** | US-TX-Dallas | Hybrid | Apr 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Ad Signals Intern (Signal and Identity Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b35a01423772304eb5e3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| ↳ | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
