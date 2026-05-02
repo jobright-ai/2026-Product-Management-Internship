@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Glammatic](http://www.glammatic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69f544470b36ff03547516f5?utm_campaign=1047&utm_source=git)** | United States | Remote | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f530180b36ff0354751042?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Brimar Industries](http://brimar.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f52a3581706a5bd2165316?utm_campaign=1047&utm_source=git)** | Jessup, PA | On Site | May 01 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69af7b49749500645093fb3f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | May 01 |
@@ -144,6 +143,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697bdd561423772304ec179f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development](https://jobright.ai/jobs/info/697adf2a17b11b1c2e41ad8c?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Apr 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform-Product Solutions and Operations Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b38901136d179eeeeb5b4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 25 |
-| **[Catalyst](https://catalystintro.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69ec98a64b0fa35a70782807?utm_campaign=1047&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 25 |
-| ↳ | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69ec9898dc35f7132c4b70a7?utm_campaign=1047&utm_source=git)** | US-TX-Dallas | Hybrid | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
