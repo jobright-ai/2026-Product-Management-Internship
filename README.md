@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Besty AI](https://getbesty.ai)** | **[AI Product Intern (Summer 2026, NYC)](https://jobright.ai/jobs/info/69f5a6b4a3d34b4f76f5606e?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 02 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Representative Intern](https://jobright.ai/jobs/info/69f57d4212f2811ab5a64ec8?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | May 01 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management - Internship](https://jobright.ai/jobs/info/69f57c5adb88714bcdfb3e5a?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c2ea3d34b4f76f556a4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
