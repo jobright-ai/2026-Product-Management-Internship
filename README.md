@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69d5411be63cea7a8b65fc26?utm_campaign=1047&utm_source=git)** | Rolling Meadows, IL | On Site | Apr 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2438e8d8d624381a9ff85?utm_campaign=1047&utm_source=git)** | San Francisco, US | On Site | Apr 29 |
 | ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2437df154d768fbaa612a?utm_campaign=1047&utm_source=git)** | San Jose, US | On Site | Apr 29 |
-| **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69f229ef8feca91f1492359a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 29 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing](https://jobright.ai/jobs/info/69bc6fbf45e08b3dc1f92463?utm_campaign=1047&utm_source=git)** | Augusta, KS | On Site | Apr 29 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only)](https://jobright.ai/jobs/info/69f389391f90bd6ae23d0007?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | Apr 29 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Apr 29 |
