@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f530180b36ff0354751042?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Brimar Industries](http://brimar.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f52a3581706a5bd2165316?utm_campaign=1047&utm_source=git)** | Jessup, PA | On Site | May 01 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69af7b49749500645093fb3f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | May 01 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f501a612f2811ab5a626b9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 01 |
