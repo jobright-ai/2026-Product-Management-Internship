@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc6b6245e08b3dc1f91923?utm_campaign=1047&utm_source=git)** | Pittsburgh Region | On Site | May 02 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 02 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d9ae54b67cec4f9b0a3ce9?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c01b9f97a42dc9c24072?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
