@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/696b45d05fc86241853a9d33?utm_campaign=1047&utm_source=git)** | Greater Bismarck Area | On Site | Apr 29 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern](https://jobright.ai/jobs/info/69f1f328f154d768fbaa4967?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 29 |
 | **[Bright Machines](https://www.brightmachines.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f1b16e825a315d7ca399a8?utm_campaign=1047&utm_source=git)** | San Francisco, California | Hybrid | Apr 29 |
-| **[Bright Machines](https://www.brightmachines.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f69d36b1fc847fc1ae4265?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Apr 28 |
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f30adeecbc8c2f7320ff85?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Apr 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f141e98feca91f1491f817?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
@@ -147,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ef8dc94b0fa35a7078a1f3?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 | **[Gen](https://www.gendigital.com)** | **[Product & Design Intern](https://jobright.ai/jobs/info/69efe61716b2612c2a12c6c8?utm_campaign=1047&utm_source=git)** | USA - New York, NY | On Site | Apr 26 |
-| **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
