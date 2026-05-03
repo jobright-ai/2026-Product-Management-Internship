@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 03 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 02 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc6b6245e08b3dc1f91923?utm_campaign=1047&utm_source=git)** | Pittsburgh Region | On Site | May 02 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 02 |
