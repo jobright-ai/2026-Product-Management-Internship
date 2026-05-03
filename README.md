@@ -146,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69ef9ae258811370cb14757f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, CA | On Site | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ef8dc94b0fa35a7078a1f3?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
-| **[Gen](https://www.gendigital.com)** | **[Intern, Product & Design](https://jobright.ai/jobs/info/69efe61716b2612c2a12c6c8?utm_campaign=1047&utm_source=git)** | USA - New York, NY | On Site | Apr 26 |
+| **[Gen](https://www.gendigital.com)** | **[Product & Design Intern](https://jobright.ai/jobs/info/69efe61716b2612c2a12c6c8?utm_campaign=1047&utm_source=git)** | USA - New York, NY | On Site | Apr 26 |
 | **[Gates Ventures](https://www.gatesnotes.com/)** | **[Alzheimer’s Disease Summer Intern- Product Management](https://jobright.ai/jobs/info/69e15133fd1c0456f3fadae4?utm_campaign=1047&utm_source=git)** | Seattle WA | On Site | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
