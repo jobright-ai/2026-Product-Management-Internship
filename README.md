@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Music Commerce Internship](https://jobright.ai/jobs/info/69f83a47db88714bcdfba5c2?utm_campaign=1047&utm_source=git)** | United States | Remote | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f82471a3d34b4f76f5c90c?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Product Control Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8219ba3d34b4f76f5c85b?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 03 |
