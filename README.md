@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Konexial](http://www.konexial.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f8cfb5db88714bcdfbb970?utm_campaign=1047&utm_source=git)** | Knoxville, TN | Hybrid | May 04 |
+| **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Music Commerce Internship](https://jobright.ai/jobs/info/69f83a47db88714bcdfba5c2?utm_campaign=1047&utm_source=git)** | United States | Remote | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f82471a3d34b4f76f5c90c?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Product Control Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8219ba3d34b4f76f5c85b?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern](https://jobright.ai/jobs/info/69f1f328f154d768fbaa4967?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 29 |
 | **[Bright Machines](https://www.brightmachines.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f1b16e825a315d7ca399a8?utm_campaign=1047&utm_source=git)** | San Francisco, California | Hybrid | Apr 29 |
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f30adeecbc8c2f7320ff85?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Apr 28 |
-| **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f141e98feca91f1491f817?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
 | **[Nutanix Indonesia](https://www.nutanix.com/)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/69f51c3ca3d34b4f76f53ae6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 28 |
 | **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Product Development & Production Intern (University Credit)](https://jobright.ai/jobs/info/69f103a462b48c68387931d3?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
@@ -133,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[NetApp Learning Services](https://www.netapp.com/us/services-support/university/index.aspx)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69f44d90461b9b613a6264e9?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 27 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 27 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f01fd6825a315d7ca31057?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 27 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69effd4658811370cb14a129?utm_campaign=1047&utm_source=git)** | United States - Remote | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
