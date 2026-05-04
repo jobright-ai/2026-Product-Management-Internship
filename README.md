@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f8db88714bcdfbc121?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| **[Snap Finance](http://snapfinance.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/69f8e5ab81706a5bd216e9ed?utm_campaign=1047&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | May 04 |
+| **[Globus Medical](http://www.globusmedical.com)** | **[Product Development Internship](https://jobright.ai/jobs/info/69f8de99b1fc847fc1ae8d9e?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
+| ↳ | **[Product Manager, Intern](https://jobright.ai/jobs/info/69f8de96db88714bcdfbbc64?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | **[Konexial](http://www.konexial.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f8cfb5db88714bcdfbb970?utm_campaign=1047&utm_source=git)** | Knoxville, TN | Hybrid | May 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Music Commerce Internship](https://jobright.ai/jobs/info/69f83a47db88714bcdfba5c2?utm_campaign=1047&utm_source=git)** | United States | Remote | May 03 |
