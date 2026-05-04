@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Terumo](https://www.terumo.com)** | **[Sr AI Portfolio Manager](https://jobright.ai/jobs/info/69f902b8582f810f9c8cfc2b?utm_campaign=1047&utm_source=git)** | Lakewood, CO | On Site | May 04 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Product Manager Intern– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/69f907f5db88714bcdfbd22a?utm_campaign=1047&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f93681706a5bd216faef?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | May 04 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f8d6b1fc847fc1aea115?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | May 04 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f8c9db88714bcdfbce12?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | May 04 |
@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Music Commerce Internship](https://jobright.ai/jobs/info/69f83a47db88714bcdfba5c2?utm_campaign=1047&utm_source=git)** | United States | Remote | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f82471a3d34b4f76f5c90c?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Product Control Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8219ba3d34b4f76f5c85b?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
+| **[Adaptive Security](https://www.adaptivesecurity.com)** | **[AI Product Operations Intern](https://jobright.ai/jobs/info/69f90d550b36ff035475cd1a?utm_campaign=1047&utm_source=git)** | NYC | On Site | May 03 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 03 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ea7a2758811370cb133aa4?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 03 |
