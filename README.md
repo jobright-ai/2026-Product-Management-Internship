@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing](https://jobright.ai/jobs/info/69bc6fbf45e08b3dc1f92463?utm_campaign=1047&utm_source=git)** | Augusta, KS | On Site | Apr 29 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only)](https://jobright.ai/jobs/info/69f389391f90bd6ae23d0007?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | Apr 29 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Apr 29 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2026 Intern - Business Ops](https://jobright.ai/jobs/info/69f1ebd18feca91f149227d2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern - Software Products](https://jobright.ai/jobs/info/69d57222366bb95ba55452a8?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Apr 29 |
 | **[Integral Development Corp.](http://www.integral.com)** | **[Product Content Automation Intern (Summer 2026)](https://jobright.ai/jobs/info/69f224f78d8d624381a9f5b1?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 29 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 29 |
@@ -144,5 +143,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[VAO Product Operations Intern](https://jobright.ai/jobs/info/69efe5c00a6e095553058073?utm_campaign=1047&utm_source=git)** | UNAVAILABLE, UNAVAILABLE, US | On Site | Apr 27 |
 | **[Box](http://www.box.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69efdea9fbe0994a40eb8dc3?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Apr 27 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69efd6be16b2612c2a12bf01?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 27 |
-| ↳ | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc68216b2612c2a12ba6f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
