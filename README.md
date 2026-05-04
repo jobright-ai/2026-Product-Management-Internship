@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Box](http://www.box.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69efdea9fbe0994a40eb8dc3?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Apr 27 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69efd6be16b2612c2a12bf01?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Apr 27 |
 | ↳ | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc68216b2612c2a12ba6f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
