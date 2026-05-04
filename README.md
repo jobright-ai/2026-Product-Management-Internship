@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f82471a3d34b4f76f5c90c?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
+| **[BMO](http://www.bmo.com)** | **[Product Control Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f8219ba3d34b4f76f5c85b?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 03 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69ea7a2758811370cb133aa4?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 03 |
@@ -145,5 +147,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc68216b2612c2a12ba6f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | Apr 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69ef8dc94b0fa35a7078a1f3?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 27 |
-| ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
