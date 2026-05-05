@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Konexial](http://www.konexial.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa060f582f810f9c8d3aa6?utm_campaign=1047&utm_source=git)** | Knoxville, TN | Hybrid | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbed35913ad339813a346?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Pulmuone Foods USA, Inc.](http://wildwoodfoods.com)** | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2e0b1fc847fc1ae9c98?utm_campaign=1047&utm_source=git)** | Fullerton, CA, USA | On Site | May 04 |
 | ↳ | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2b5db88714bcdfbc95f?utm_campaign=1047&utm_source=git)** | Buena Park, CA, USA | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f8db88714bcdfbc121?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
-| **[Snap Finance](http://snapfinance.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/69f8e5ab81706a5bd216e9ed?utm_campaign=1047&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | May 04 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Product Development Internship](https://jobright.ai/jobs/info/69f8de99b1fc847fc1ae8d9e?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | ↳ | **[Product Manager, Intern](https://jobright.ai/jobs/info/69f8de96db88714bcdfbbc64?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Integral Development Corp.](http://www.integral.com)** | **[Product Content Automation Intern (Summer 2026)](https://jobright.ai/jobs/info/69f224f78d8d624381a9f5b1?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 29 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Product Operations Summer Intern](https://jobright.ai/jobs/info/699c8cfdce78e77b4fe15867?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Apr 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 29 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/696b45d05fc86241853a9d33?utm_campaign=1047&utm_source=git)** | Greater Bismarck Area | On Site | Apr 29 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern](https://jobright.ai/jobs/info/69f1f328f154d768fbaa4967?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 29 |
 | **[Bright Machines](https://www.brightmachines.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f1b16e825a315d7ca399a8?utm_campaign=1047&utm_source=git)** | San Francisco, California | Hybrid | Apr 29 |
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f30adeecbc8c2f7320ff85?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Apr 28 |
