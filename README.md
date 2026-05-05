@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f30adeecbc8c2f7320ff85?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f141e98feca91f1491f817?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
 | **[Nutanix Indonesia](https://www.nutanix.com/)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/69f51c3ca3d34b4f76f53ae6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 28 |
-| **[Christopher John Rogers](https://christopherjohnrogers.com)** | **[Fashion Product Development & Production Intern (University Credit)](https://jobright.ai/jobs/info/69f103a462b48c68387931d3?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
