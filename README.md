@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | May 05 |
 | **[Prox Shopping](www.joinprox.com)** | **[Product Management Intern (Unpaid)](https://jobright.ai/jobs/info/69fa27d4582f810f9c8d461a?utm_campaign=1047&utm_source=git)** | Santa Monica, CA | On Site | May 05 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69fa146081706a5bd2173b63?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | ↳ | **[Technical Product Management Intern - 100% Remote / Part-Time](https://jobright.ai/jobs/info/69fa140ca3d34b4f76f63da1?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Pulmuone Foods USA, Inc.](http://wildwoodfoods.com)** | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2e0b1fc847fc1ae9c98?utm_campaign=1047&utm_source=git)** | Fullerton, CA, USA | On Site | May 04 |
 | ↳ | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2b5db88714bcdfbc95f?utm_campaign=1047&utm_source=git)** | Buena Park, CA, USA | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f8db88714bcdfbc121?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| **[Snap Finance](http://snapfinance.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/69fa361d81706a5bd2174530?utm_campaign=1047&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | May 04 |
 | **[Globus Medical](http://www.globusmedical.com)** | **[Product Development Internship](https://jobright.ai/jobs/info/69f8de99b1fc847fc1ae8d9e?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | ↳ | **[Product Manager, Intern](https://jobright.ai/jobs/info/69f8de96db88714bcdfbbc64?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Sr Technical Product Manager - Gemini](https://jobright.ai/jobs/info/699f2c1794ef206f184e4ceb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 30 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69f37267c78b9e4518954bb2?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Apr 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
-| **[Shop Online New York](https://www.topofny.com)** | **[Product Owner - Marketing](https://jobright.ai/jobs/info/69f366a858b23a2329da427b?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330ee461b9b613a61f024?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
