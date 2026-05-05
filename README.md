@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoMaterials](https://www.gomaterials.com/)** | **[Product & AI Enablement Intern - Fall 2026](https://jobright.ai/jobs/info/69f92839db88714bcdfbe2c8?utm_campaign=1047&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
 | **[NetApp](http://netapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f91b3e582f810f9c8d081a?utm_campaign=1047&utm_source=git)** | San Jose, CA, USA Office | On Site | May 04 |
 | **[Temenos](http://www.temenos.com)** | **[Intern - Product Operations (PMO)](https://jobright.ai/jobs/info/69f914f0582f810f9c8d033d?utm_campaign=1047&utm_source=git)** | Orlando, US | Hybrid | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Product Manager Intern– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/69f907f5db88714bcdfbd22a?utm_campaign=1047&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
