@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Globus Medical](http://www.globusmedical.com)** | **[Product Development Internship](https://jobright.ai/jobs/info/69f8de99b1fc847fc1ae8d9e?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | ↳ | **[Product Manager, Intern](https://jobright.ai/jobs/info/69f8de96db88714bcdfbbc64?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69f962f781706a5bd21716db?utm_campaign=1047&utm_source=git)** | Orlando, FL, US, 32809 | On Site | May 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
 | **[CENENCE](https://www.linkedin.com/company/105336376)** | **[College Credit - Music Commerce Internship](https://jobright.ai/jobs/info/69f83a47db88714bcdfba5c2?utm_campaign=1047&utm_source=git)** | United States | Remote | May 03 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f82471a3d34b4f76f5c90c?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
@@ -141,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69f0a5ed825a315d7ca330b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b875d506c1ba00c54a6a1f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f09129825a315d7ca322ce?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b88ae556973837413decd3?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
