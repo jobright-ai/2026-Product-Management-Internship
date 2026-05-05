@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prox Shopping](www.joinprox.com)** | **[Product Management Intern (Unpaid)](https://jobright.ai/jobs/info/69fa27d4582f810f9c8d461a?utm_campaign=1047&utm_source=git)** | Santa Monica, CA | On Site | May 05 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69fa146081706a5bd2173b63?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | ↳ | **[Technical Product Management Intern - 100% Remote / Part-Time](https://jobright.ai/jobs/info/69fa140ca3d34b4f76f63da1?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Product Info & Insights](https://jobright.ai/jobs/info/69fa137eb1fc847fc1aee0e3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 05 |
