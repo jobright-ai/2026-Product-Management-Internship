@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f93a700b36ff035475dc12?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Product & AI Enablement Intern - Fall 2026](https://jobright.ai/jobs/info/69f92839db88714bcdfbe2c8?utm_campaign=1047&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
 | **[NetApp](http://netapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f91b3e582f810f9c8d081a?utm_campaign=1047&utm_source=git)** | San Jose, CA, USA Office | On Site | May 04 |
 | **[Temenos](http://www.temenos.com)** | **[Intern - Product Operations (PMO)](https://jobright.ai/jobs/info/69f914f0582f810f9c8d033d?utm_campaign=1047&utm_source=git)** | Orlando, US | Hybrid | May 04 |
@@ -142,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f09129825a315d7ca322ce?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69b88ae556973837413decd3?utm_campaign=1047&utm_source=git)** | Schenectady, NY | Hybrid | Apr 28 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Apr 28 |
-| **[ByteDance](http://bytedance.com)** | **[AI Product Manager Intern (Applied Machine Learning) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69f061b9ecbc8c2f731ff773?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
