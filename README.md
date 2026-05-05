@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Intern](https://jobright.ai/jobs/info/69f1f328f154d768fbaa4967?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 29 |
 | **[Bright Machines](https://www.brightmachines.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f1b16e825a315d7ca399a8?utm_campaign=1047&utm_source=git)** | San Francisco, California | Hybrid | Apr 29 |
 | **[Medacta USA, Inc.](http://www.medacta.us.com/)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/69f30adeecbc8c2f7320ff85?utm_campaign=1047&utm_source=git)** | FRANKLIN, Tennessee | On Site | Apr 28 |
-| **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f141e98feca91f1491f817?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
