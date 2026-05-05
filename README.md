@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NiCE](http://nice.com)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fa54b9a3d34b4f76f651c2?utm_campaign=1047&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fa446f582f810f9c8d4f3a?utm_campaign=1047&utm_source=git)** | Itasca, IL | On Site | May 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fa3e08582f810f9c8d4e8f?utm_campaign=1047&utm_source=git)** | Itasca, Illinois, United States | On Site | May 05 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | May 05 |
-| **[Prox Shopping](www.joinprox.com)** | **[Product Management Intern (Unpaid)](https://jobright.ai/jobs/info/69fa27d4582f810f9c8d461a?utm_campaign=1047&utm_source=git)** | Santa Monica, CA | On Site | May 05 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69fa146081706a5bd2173b63?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | ↳ | **[Technical Product Management Intern - 100% Remote / Part-Time](https://jobright.ai/jobs/info/69fa140ca3d34b4f76f63da1?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Product Info & Insights](https://jobright.ai/jobs/info/69fa137eb1fc847fc1aee0e3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 05 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69dd7e43bc6f6622c9912706?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | May 05 |
 | **[Konexial](http://www.konexial.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa060f582f810f9c8d3aa6?utm_campaign=1047&utm_source=git)** | Knoxville, TN | Hybrid | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbed35913ad339813a346?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
