@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[IMAX](http://www.imax.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f0f49862b48c6838792d28?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/69d4fa09706f771673b9fea6?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 28 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/69f0a5ed825a315d7ca330b1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 28 |
-| **[Magnera Corporation](https://magnera.com/)** | **[Product Line Management Intern, Personal Care](https://jobright.ai/jobs/info/69b875d506c1ba00c54a6a1f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
