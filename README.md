@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sojo Industries](https://sojoindustries.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fb661e86d5cd46527d5779?utm_campaign=1047&utm_source=git)** | Bristol, PA | On Site | May 06 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb651186d5cd46527d55b2?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 06 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Product & Data Analyst Intern](https://jobright.ai/jobs/info/69e9250558811370cb12b273?utm_campaign=1047&utm_source=git)** | Dresher, PA | Hybrid | May 06 |
+| **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | May 06 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | May 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df02d936823d1b42585837?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 06 |
+| ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb63f638179b6f1ae7806b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 06 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcc8004828227293feb4a0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ab954e7e1fab39d3830228?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 06 |
@@ -143,8 +148,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330ee461b9b613a61f024?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f2a0968d8d624381aa1deb?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Apr 29 |
-| **[Windstream](https://www.windstream.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f29a45f154d768fbaa8094?utm_campaign=1047&utm_source=git)** | Rochester, NY, USA | On Site | Apr 29 |
-| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Apr 29 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
