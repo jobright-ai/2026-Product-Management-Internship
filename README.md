@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f2ccb6825a315d7ca3fc23?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f93a700b36ff035475dc12?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
+| **[Adaptive Security](https://www.adaptivesecurity.com)** | **[AI Product Operations Intern](https://jobright.ai/jobs/info/69faf04186d5cd46527d10b6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Product & AI Enablement Intern - Fall 2026](https://jobright.ai/jobs/info/69f92839db88714bcdfbe2c8?utm_campaign=1047&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
 | **[NetApp](http://netapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f91b3e582f810f9c8d081a?utm_campaign=1047&utm_source=git)** | San Jose, CA, USA Office | On Site | May 04 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f93681706a5bd216faef?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | May 04 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f8d6b1fc847fc1aea115?utm_campaign=1047&utm_source=git)** | RTP, North Carolina, US | On Site | May 04 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f8c9db88714bcdfbce12?utm_campaign=1047&utm_source=git)** | Richardson, Texas, US | On Site | May 04 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Digital Product](https://jobright.ai/jobs/info/69fadfcdd21cf86d1e3cd562?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 04 |
 | **[Pulmuone Foods USA, Inc.](http://wildwoodfoods.com)** | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2e0b1fc847fc1ae9c98?utm_campaign=1047&utm_source=git)** | Fullerton, CA, USA | On Site | May 04 |
 | ↳ | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2b5db88714bcdfbc95f?utm_campaign=1047&utm_source=git)** | Buena Park, CA, USA | On Site | May 04 |
 | **[Intact](http://www.intactfc.com)** | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fae3b587a4820e6da82d1b?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
@@ -140,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Apr 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2438e8d8d624381a9ff85?utm_campaign=1047&utm_source=git)** | San Francisco, US | On Site | Apr 29 |
 | ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2437df154d768fbaa612a?utm_campaign=1047&utm_source=git)** | San Jose, US | On Site | Apr 29 |
-| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing](https://jobright.ai/jobs/info/69bc6fbf45e08b3dc1f92463?utm_campaign=1047&utm_source=git)** | Augusta, KS | On Site | Apr 29 |
-| **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only)](https://jobright.ai/jobs/info/69f389391f90bd6ae23d0007?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
