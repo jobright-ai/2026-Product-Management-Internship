@@ -58,15 +58,19 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HumanityOS](https://www.humanityos.in/)** | **[🚀 United States Internship Opportunity — Product Manager](https://jobright.ai/jobs/info/69faf3e518b94b2515bdde26?utm_campaign=1047&utm_source=git)** | United States | Remote | May 06 |
+| **[Pareto Labs](https://www.trypareto.ai/)** | **[Product Growth Intern](https://jobright.ai/jobs/info/69fb11e087a4820e6da84a40?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | May 06 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d540f5366bb95ba5543918?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69fa7043b1fc847fc1af038c?utm_campaign=1047&utm_source=git)** | New York, NY (55th St), US | On Site | May 05 |
 | **[NiCE](http://nice.com)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fa54b9a3d34b4f76f651c2?utm_campaign=1047&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fa446f582f810f9c8d4f3a?utm_campaign=1047&utm_source=git)** | Itasca, IL | On Site | May 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fa3e08582f810f9c8d4e8f?utm_campaign=1047&utm_source=git)** | Itasca, Illinois, United States | On Site | May 05 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | May 05 |
+| **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Product Info & Insights](https://jobright.ai/jobs/info/69fb198a87a4820e6da84c7d?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 05 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 05 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69fa146081706a5bd2173b63?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Product Info & Insights](https://jobright.ai/jobs/info/69fa137eb1fc847fc1aee0e3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 05 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69dd7e43bc6f6622c9912706?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | May 05 |
+| ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69fb0ec938179b6f1ae74c56?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | May 05 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbed35913ad339813a346?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
@@ -141,6 +145,5 @@ For a complete list, click the following sortable link below:
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Apr 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Apr 29 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2438e8d8d624381a9ff85?utm_campaign=1047&utm_source=git)** | San Francisco, US | On Site | Apr 29 |
-| ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f2437df154d768fbaa612a?utm_campaign=1047&utm_source=git)** | San Jose, US | On Site | Apr 29 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Technical Product Systems Intern (AI & PLM)](https://jobright.ai/jobs/info/69fb179b87a4820e6da84add?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
