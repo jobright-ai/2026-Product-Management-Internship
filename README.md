@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sojo Industries](https://sojoindustries.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fb661e86d5cd46527d5779?utm_campaign=1047&utm_source=git)** | Bristol, PA | On Site | May 06 |
+| **[NetApp](http://netapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fb7cbcd21cf86d1e3d3628?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | May 06 |
 | **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb651186d5cd46527d55b2?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 06 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Product & Data Analyst Intern](https://jobright.ai/jobs/info/69e9250558811370cb12b273?utm_campaign=1047&utm_source=git)** | Dresher, PA | Hybrid | May 06 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | May 06 |
@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 30 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330ee461b9b613a61f024?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 30 |
-| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f2a0968d8d624381aa1deb?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
