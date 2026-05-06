@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df02d936823d1b42585837?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 06 |
-| **[HumanityOS](https://www.humanityos.in/)** | **[🚀 United States Internship Opportunity — Product Manager](https://jobright.ai/jobs/info/69faf3e518b94b2515bdde26?utm_campaign=1047&utm_source=git)** | United States | Remote | May 06 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69fb344786d5cd46527d3ee5?utm_campaign=1047&utm_source=git)** | Glendale, CA | Hybrid | May 05 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d540f5366bb95ba5543918?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69fa7043b1fc847fc1af038c?utm_campaign=1047&utm_source=git)** | New York, NY (55th St), US | On Site | May 05 |
