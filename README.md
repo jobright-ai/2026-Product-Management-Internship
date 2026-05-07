@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Intern (100% Remote)](https://jobright.ai/jobs/info/69fc165ba5949019c55b3183?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 06 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69fc096976c60e7b70af1981?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | May 06 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/69fc22173802c7621fd8fb5b?utm_campaign=1047&utm_source=git)** | Georgia, United States | Hybrid | May 06 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69fc0f193802c7621fd8f791?utm_campaign=1047&utm_source=git)** | Brampton, ON, CA | On Site | May 06 |
-| **[maurices](https://www.maurices.com)** | **[Product Management & Sourcing Intern](https://jobright.ai/jobs/info/69fbef4776c60e7b70af0c54?utm_campaign=1047&utm_source=git)** | Duluth, MN | On Site | May 06 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Associate Intern](https://jobright.ai/jobs/info/69fbef5dc39b9a66c0c55490?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Canadian Deposits Product Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb02710?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fb976886d5cd46527d69b1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 06 |
@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fa3e08582f810f9c8d4e8f?utm_campaign=1047&utm_source=git)** | Itasca, Illinois, United States | On Site | May 05 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | May 05 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 05 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69fa146081706a5bd2173b63?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 05 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbed35913ad339813a346?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
