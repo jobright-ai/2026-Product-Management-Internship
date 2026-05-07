@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Canadian Deposits Product Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb02710?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fb976886d5cd46527d69b1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[NetApp](http://netapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fb7cbcd21cf86d1e3d3628?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | May 06 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb9b8cffa73664aeb0127e?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 06 |
