@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cocomint Inc.](www.tiktok.com/@cocomintbeauty)** | **[Product Development Intern (Beauty)](https://jobright.ai/jobs/info/69fd0f5f666f063d3d6d2f83?utm_campaign=1047&utm_source=git)** | Long Beach, CA | On Site | May 07 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69fcfb3e6b788e7e7a5c43b4?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, 07095, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcda5c432a3c4da8dff8ca?utm_campaign=1047&utm_source=git)** | Irvine, CA, US | On Site | May 07 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/69d6b6aa52a5bf580012b46d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[Thales](http://www.thalesgroup.com)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb0406b788e7e7a5c1dbb?utm_campaign=1047&utm_source=git)** | Irvine, US-CA, USA | On Site | May 07 |
 | ↳ | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb03f6b788e7e7a5c1dba?utm_campaign=1047&utm_source=git)** | Irvine,CA,92618,USA | On Site | May 07 |
-| **[Amazon](https://amazon.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc263b113035a9f8eb71e?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | May 07 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc242666f063d3d6d074c?utm_campaign=1047&utm_source=git)** | Newark, New Jersey, USA | On Site | May 07 |
+| **[Amazon](https://amazon.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc242666f063d3d6d074c?utm_campaign=1047&utm_source=git)** | Newark, New Jersey, USA | On Site | May 07 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc263b113035a9f8eb71e?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | May 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | May 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69aaa6ab2ebd316bece26fcb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f501a612f2811ab5a626b9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - LP Vision (Loan Origination System)](https://jobright.ai/jobs/info/69f4d557a3d34b4f76f521d6?utm_campaign=1047&utm_source=git)** | Chicago, IL, US | On Site | May 01 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69eabf500a6e095553042ad7?utm_campaign=1047&utm_source=git)** | Vernon Hills, IL | On Site | May 01 |
-| **[BSI Financial Services](https://www.bsifinancial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f4cc1ddb88714bcdfafe2f?utm_campaign=1047&utm_source=git)** | Irving, TX 75063, USA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
