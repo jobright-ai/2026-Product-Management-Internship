@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ab954e7e1fab39d3830228?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 06 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/69fb8f9918b94b2515be34ee?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[Abundant](https://www.abundantleader.com/)** | **[Summer Intern, Research Product Manager (RPM)](https://jobright.ai/jobs/info/69fbe769d21cf86d1e3d597f?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 05 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69d540f5366bb95ba5543918?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69fa7043b1fc847fc1af038c?utm_campaign=1047&utm_source=git)** | New York, NY (55th St), US | On Site | May 05 |
 | **[NiCE](http://nice.com)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fb265418b94b2515bdf8a3?utm_campaign=1047&utm_source=git)** | Hoboken, NJ | On Site | May 05 |
