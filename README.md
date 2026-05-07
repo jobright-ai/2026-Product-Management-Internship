@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcda5c432a3c4da8dff8ca?utm_campaign=1047&utm_source=git)** | Irvine, CA, US | On Site | May 07 |
 | **[Thales](http://www.thalesgroup.com)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb0406b788e7e7a5c1dbb?utm_campaign=1047&utm_source=git)** | Irvine, US-CA, USA | On Site | May 07 |
 | ↳ | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb03f6b788e7e7a5c1dba?utm_campaign=1047&utm_source=git)** | Irvine,CA,92618,USA | On Site | May 07 |
-| **[Amazon](https://amazon.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc263b113035a9f8eb71e?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | May 07 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc242666f063d3d6d074c?utm_campaign=1047&utm_source=git)** | Newark, New Jersey, USA | On Site | May 07 |
+| **[Amazon](https://amazon.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc242666f063d3d6d074c?utm_campaign=1047&utm_source=git)** | Newark, New Jersey, USA | On Site | May 07 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fcc263b113035a9f8eb71e?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | May 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | May 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 07 |
