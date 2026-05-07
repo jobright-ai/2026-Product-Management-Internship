@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thales](http://www.thalesgroup.com)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb0406b788e7e7a5c1dbb?utm_campaign=1047&utm_source=git)** | Irvine, US-CA, USA | On Site | May 07 |
+| ↳ | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb03f6b788e7e7a5c1dba?utm_campaign=1047&utm_source=git)** | Irvine,CA,92618,USA | On Site | May 07 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/69d80c8e9f97a42dc9c19ff8?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | May 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 07 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Product Management & Sourcing Intern](https://jobright.ai/jobs/info/69fc6159cf5c6d31006978f3?utm_campaign=1047&utm_source=git)** | Duluth, MN, US | On Site | May 06 |
 | ↳ | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fc51ae48ae180867212d6a?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, US | On Site | May 06 |
 | **[maurices](https://www.maurices.com)** | **[Product Management & Sourcing Intern](https://jobright.ai/jobs/info/69fc3127a5949019c55b3755?utm_campaign=1047&utm_source=git)** | Duluth, MN | On Site | May 06 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Intern (100% Remote)](https://jobright.ai/jobs/info/69fc165ba5949019c55b3183?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 06 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69fc096976c60e7b70af1981?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | May 06 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/69fc22173802c7621fd8fb5b?utm_campaign=1047&utm_source=git)** | Georgia, United States | Hybrid | May 06 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69fc0f193802c7621fd8f791?utm_campaign=1047&utm_source=git)** | Brampton, ON, CA | On Site | May 06 |
