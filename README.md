@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[maurices](https://www.maurices.com)** | **[Product Management & Sourcing Intern](https://jobright.ai/jobs/info/69fc3127a5949019c55b3755?utm_campaign=1047&utm_source=git)** | Duluth, MN | On Site | May 06 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Intern (100% Remote)](https://jobright.ai/jobs/info/69fc165ba5949019c55b3183?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 06 |
 | **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69fc096976c60e7b70af1981?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | May 06 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/69fc22173802c7621fd8fb5b?utm_campaign=1047&utm_source=git)** | Georgia, United States | Hybrid | May 06 |
