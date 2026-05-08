@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69fdf32e7714cd50b90fd2a2?utm_campaign=1047&utm_source=git)** | Morrisville, North Carolina | On Site | May 08 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/698d19b378b4502f12a39de9?utm_campaign=1047&utm_source=git)** | Lake Forest, CA | Hybrid | May 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[Cocomint Inc.](www.tiktok.com/@cocomintbeauty)** | **[Product Development Intern (Beauty)](https://jobright.ai/jobs/info/69fd0f5f666f063d3d6d2f83?utm_campaign=1047&utm_source=git)** | Long Beach, CA | On Site | May 07 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69fcfb3e6b788e7e7a5c43b4?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, 07095, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcda5c432a3c4da8dff8ca?utm_campaign=1047&utm_source=git)** | Irvine, CA, US | On Site | May 07 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f91b3e582f810f9c8d081a?utm_campaign=1047&utm_source=git)** | San Jose, CA, USA Office | On Site | May 04 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
-| **[Globus Medical](http://www.globusmedical.com)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fae467e156000841154259?utm_campaign=1047&utm_source=git)** | King of Prussia, PA | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Product Manager Intern– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/69f907f5db88714bcdfbd22a?utm_campaign=1047&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[Pulmuone Foods USA, Inc.](http://wildwoodfoods.com)** | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69fad9bed21cf86d1e3cd40f?utm_campaign=1047&utm_source=git)** | Buena Park, CA | On Site | May 04 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/69f8f93681706a5bd216faef?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | May 04 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2b5db88714bcdfbc95f?utm_campaign=1047&utm_source=git)** | Buena Park, CA, USA | On Site | May 04 |
 | **[Intact](http://www.intactfc.com)** | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fae3b587a4820e6da82d1b?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f8db88714bcdfbc121?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
-| **[Globus Medical](http://www.globusmedical.com)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69f8de96db88714bcdfbbc64?utm_campaign=1047&utm_source=git)** | Audubon, PA, US | On Site | May 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69f962f781706a5bd21716db?utm_campaign=1047&utm_source=git)** | Orlando, FL, US, 32809 | On Site | May 04 |
 | ↳ | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fabd31d21cf86d1e3ccb08?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 04 |
