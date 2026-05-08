@@ -153,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c2ea3d34b4f76f556a4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f530180b36ff0354751042?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Brimar Industries](http://brimar.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f52a3581706a5bd2165316?utm_campaign=1047&utm_source=git)** | Jessup, PA | On Site | May 01 |
-| **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern- Technology & AI Innovation (Product Management)](https://jobright.ai/jobs/info/69af7b49749500645093fb3f?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
