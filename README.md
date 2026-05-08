@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeec4b9bbf21744adb96?utm_campaign=1047&utm_source=git)** | US-NY-Melville | Hybrid | May 08 |
+| ↳ | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeeb7714cd50b90fd71e?utm_campaign=1047&utm_source=git)** | Melville, NY, US | Hybrid | May 08 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69fdf32e7714cd50b90fd2a2?utm_campaign=1047&utm_source=git)** | Morrisville, North Carolina | On Site | May 08 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/698d19b378b4502f12a39de9?utm_campaign=1047&utm_source=git)** | Lake Forest, CA | Hybrid | May 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 08 |
@@ -152,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Representative Intern](https://jobright.ai/jobs/info/69f57d4212f2811ab5a64ec8?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | May 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c2ea3d34b4f76f556a4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 01 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f530180b36ff0354751042?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[Brimar Industries](http://brimar.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f52a3581706a5bd2165316?utm_campaign=1047&utm_source=git)** | Jessup, PA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
