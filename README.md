@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing  (870)](https://jobright.ai/jobs/info/69febc83cdb965044a8646f6?utm_campaign=1047&utm_source=git)** | Augusta, KS 67010 | On Site | May 08 |
+| ↳ | **[Intern - Market Research Product Line (864)](https://jobright.ai/jobs/info/69febc781161630dd3b0403a?utm_campaign=1047&utm_source=git)** | Miami, FL 33122 | On Site | May 08 |
+| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[PSM Coordinating Intern](https://jobright.ai/jobs/info/69fe827b4b9bbf21744b1eff?utm_campaign=1047&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69fe7eb64b9bbf21744b1d75?utm_campaign=1047&utm_source=git)** | NY, US | Hybrid | May 08 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69fe662e6bcf315dc8f57743?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | May 08 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[PSM Coordinating Intern](https://jobright.ai/jobs/info/69fe39976bcf315dc8f55779?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 08 |
+| **[SOTI](http://www.soti.net/)** | **[Associate Product Manager Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/69feb28b1161630dd3b01a33?utm_campaign=1047&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Market Research Product Line](https://jobright.ai/jobs/info/69fe2b426bcf315dc8f55175?utm_campaign=1047&utm_source=git)** | Miami, FL, US | On Site | May 08 |
 | ↳ | **[Intern - Market Research Product Line (864)](https://jobright.ai/jobs/info/69fe2b2752e2b44f558aedc8?utm_campaign=1047&utm_source=git)** | Miami, FL, US | On Site | May 08 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69fe2b1aad691a11f34ec076?utm_campaign=1047&utm_source=git)** | Houston, TX, US | Hybrid | May 08 |
@@ -138,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Intact](http://www.intactfc.com)** | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fae3b587a4820e6da82d1b?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/69f8e6f8db88714bcdfbc121?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6cf2c1818a24cd84c8b21?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 04 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fe202a4b9bbf21744ae7a9?utm_campaign=1047&utm_source=git)** | St-Hyacinthe, Quebec, CAN, CA | On Site | May 04 |
-| ↳ | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fe1fd67714cd50b90fe42f?utm_campaign=1047&utm_source=git)** | Québec, Quebec, CAN, CA | On Site | May 04 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fe1fd67714cd50b90fe42f?utm_campaign=1047&utm_source=git)** | Québec, Quebec, CAN, CA | On Site | May 04 |
+| ↳ | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fe202a4b9bbf21744ae7a9?utm_campaign=1047&utm_source=git)** | St-Hyacinthe, Quebec, CAN, CA | On Site | May 04 |
 | ↳ | **[IT Business Analyst- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fe202c6bcf315dc8f54c5e?utm_campaign=1047&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69f962f781706a5bd21716db?utm_campaign=1047&utm_source=git)** | Orlando, FL, US, 32809 | On Site | May 04 |
 | ↳ | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fabd31d21cf86d1e3ccb08?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 03 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 02 |
-| **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69bc6b6245e08b3dc1f91923?utm_campaign=1047&utm_source=git)** | Pittsburgh Region | On Site | May 02 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c01b9f97a42dc9c24072?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
-| **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69a0ccb90836fe79d861cc50?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
