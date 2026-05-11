@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product manager intern](https://jobright.ai/jobs/info/6a01a7ffc4b08448a0b1f856?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern (100% Remote)](https://jobright.ai/jobs/info/6a0156c1a0eddc08c239f0ad?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 10 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 10 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 10 |
@@ -90,6 +89,8 @@ For a complete list, click the following sortable link below:
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | May 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[Revvity](https://www.revvity.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69c4a09fd5a1016e98dbf0c6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | May 07 |
+| **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Product Manager — Summer 2026 Intern](https://jobright.ai/jobs/info/6a01ce12238f143e8352e1fb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 07 |
+| **[Matterworks](https://www.matterworks.ai)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6a01ce3afa1aa73213d9465d?utm_campaign=1047&utm_source=git)** | United States | Remote | May 07 |
 | **[Cocomint Inc.](www.tiktok.com/@cocomintbeauty)** | **[Product Development Intern (Beauty)](https://jobright.ai/jobs/info/69fd0f5f666f063d3d6d2f83?utm_campaign=1047&utm_source=git)** | Long Beach, CA | On Site | May 07 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69fcfb3e6b788e7e7a5c43b4?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, 07095, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcda5c432a3c4da8dff8ca?utm_campaign=1047&utm_source=git)** | Irvine, CA, US | On Site | May 07 |
@@ -141,7 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Product Manager Intern– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/69f907f5db88714bcdfbd22a?utm_campaign=1047&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
-| **[Pulmuone Foods USA, Inc.](http://wildwoodfoods.com)** | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69fad9bed21cf86d1e3cd40f?utm_campaign=1047&utm_source=git)** | Buena Park, CA | On Site | May 04 |
-| ↳ | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2e0b1fc847fc1ae9c98?utm_campaign=1047&utm_source=git)** | Fullerton, CA, USA | On Site | May 04 |
-| ↳ | **[2026 Pulmuone Summer Internship](https://jobright.ai/jobs/info/69f8f2b5db88714bcdfbc95f?utm_campaign=1047&utm_source=git)** | Buena Park, CA, USA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
