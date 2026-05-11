@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Product manager intern](https://jobright.ai/jobs/info/6a01a7ffc4b08448a0b1f856?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern (100% Remote)](https://jobright.ai/jobs/info/6a0156c1a0eddc08c239f0ad?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 10 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 10 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 10 |
