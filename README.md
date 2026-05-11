@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6bc2ffb31f45369cc8?utm_campaign=1047&utm_source=git)** | Denver HQ T3, US | On Site | May 11 |
+| ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6afa1aa73213d96ca5?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
 | **[Elo Touch Solutions](http://www.elotouch.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6a0206e43053db70a1173ed4?utm_campaign=1047&utm_source=git)** | Milpitas, CA, US | Hybrid | May 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a01f4eac4b08448a0b21c89?utm_campaign=1047&utm_source=git)** | 2323 Bryan Street, Dallas, TX, 75201, US | On Site | May 11 |
 | **[Tangerine](https://www.tangerine.ca/en/index.html)** | **[Velocity - Tangerine Client Solutions (Product) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6b13cfd986aa6f832a4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
@@ -136,5 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 05 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fc698e938a651755f92da8?utm_campaign=1047&utm_source=git)** | Hoboken, NJ, US | Hybrid | May 04 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fc69dc666f063d3d6ccb9c?utm_campaign=1047&utm_source=git)** | Itasca, IL, US | On Site | May 04 |
-| **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f2ccb6825a315d7ca3fc23?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
