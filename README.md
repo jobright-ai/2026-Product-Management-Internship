@@ -154,5 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69f962f781706a5bd21716db?utm_campaign=1047&utm_source=git)** | Orlando, FL, US, 32809 | On Site | May 04 |
 | ↳ | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fabd31d21cf86d1e3ccb08?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 04 |
 | **[Primetals Technologies](https://primetals.com)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fafc1ad21cf86d1e3ceb26?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
