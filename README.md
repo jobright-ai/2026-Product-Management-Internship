@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a01f4eac4b08448a0b21c89?utm_campaign=1047&utm_source=git)** | 2323 Bryan Street, Dallas, TX, 75201, US | On Site | May 11 |
+| **[Tangerine](https://www.tangerine.ca/en/index.html)** | **[Velocity - Tangerine Client Solutions (Product) Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6b13cfd986aa6f832a4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Intern (100% Remote)](https://jobright.ai/jobs/info/6a0156c1a0eddc08c239f0ad?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 10 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 10 |
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 10 |
@@ -137,6 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69fc69dc666f063d3d6ccb9c?utm_campaign=1047&utm_source=git)** | Itasca, IL, US | On Site | May 04 |
 | **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f2ccb6825a315d7ca3fc23?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | May 04 |
 | **[Intact](http://www.intactfc.com)** | **[Product Manager Intern– 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69faf0a286d5cd46527d1199?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
-| **[Adaptive Security](https://www.adaptivesecurity.com)** | **[AI Product Operations Intern](https://jobright.ai/jobs/info/69faf04186d5cd46527d10b6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 04 |
-| **[GoMaterials](https://www.gomaterials.com/)** | **[Product & AI Enablement Intern - Fall 2026](https://jobright.ai/jobs/info/69f92839db88714bcdfbe2c8?utm_campaign=1047&utm_source=git)** | Montreal, QC | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
