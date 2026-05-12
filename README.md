@@ -57,9 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a03661122395b6dc6d9412a?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a036fa622395b6dc6d944bf?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Internship](https://jobright.ai/jobs/info/6a034f9eed6a637463f4e8e4?utm_campaign=1047&utm_source=git)** | United States | Remote | May 12 |
-| **[RTX](http://rtx.com/)** | **[Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/6a034a337c753c287f6e5936?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE, US | Remote | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
