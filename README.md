@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Internship](https://jobright.ai/jobs/info/6a034f9eed6a637463f4e8e4?utm_campaign=1047&utm_source=git)** | United States | Remote | May 12 |
+| **[RTX](http://rtx.com/)** | **[Intern - Product Lifecycle Services](https://jobright.ai/jobs/info/6a034a337c753c287f6e5936?utm_campaign=1047&utm_source=git)** | US-MA-REMOTE, US | Remote | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Topline Pro](https://www.toplinepro.com)** | **[MBA Intern, Product](https://jobright.ai/jobs/info/69e7467d58811370cb11c3ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 10 |
 | **[SoGal Ventures](http://sogalventures.com/)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6a02c63e22395b6dc6d8e56c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 10 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 10 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Product Development, Naturium](https://jobright.ai/jobs/info/69a66f0cd706a731db385e12?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | May 10 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698bf98091fdda424d58b4cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 10 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 09 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69fb1d82d21cf86d1e3cf9a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 09 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcc8004828227293feb4a0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ab954e7e1fab39d3830228?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 06 |
-| **[Abundant](https://www.abundantleader.com/)** | **[Summer Intern, Research Product Manager (RPM)](https://jobright.ai/jobs/info/69fbe769d21cf86d1e3d597f?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
