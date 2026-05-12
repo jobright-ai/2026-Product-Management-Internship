@@ -66,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
 | **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a02590d3053db70a11775a6?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ, US | On Site | May 11 |
 | **[Elo Touch Solutions](http://www.elotouch.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a030afff3d6cc51d6372b33?utm_campaign=1047&utm_source=git)** | Milpitas, CA | Hybrid | May 11 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON | On Site | May 11 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 11 |
 | ↳ | **[Intern, Product Operations](https://jobright.ai/jobs/info/697dfadf7f40342e15d6cd9d?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6bc2ffb31f45369cc8?utm_campaign=1047&utm_source=git)** | Denver HQ T3, US | On Site | May 11 |
 | ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6afa1aa73213d96ca5?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Digital Product Intern](https://jobright.ai/jobs/info/69fa7043b1fc847fc1af038c?utm_campaign=1047&utm_source=git)** | New York, NY (55th St), US | On Site | May 05 |
 | **[NiCE](http://nice.com)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fb265418b94b2515bdf8a3?utm_campaign=1047&utm_source=git)** | Hoboken, NJ | On Site | May 05 |
 | ↳ | **[Product Manager, Intern](https://jobright.ai/jobs/info/69fa54b9a3d34b4f76f651c2?utm_campaign=1047&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
-| **[Syntiant Corp.](https://www.syntiant.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69fa446f582f810f9c8d4f3a?utm_campaign=1047&utm_source=git)** | Itasca, IL | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
