@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vizo Financial Corporate CU](https://www.vfccu.org/)** | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a03246b7c753c287f6e40ad?utm_campaign=1047&utm_source=git)** | Middletown,PA,US | Remote | May 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | **[tiket.com](https://www.tiket.com/)** | **[Product Management Intern (Retention & Reactivation)](https://jobright.ai/jobs/info/6a02e6ccbc4184089f22d2f4?utm_campaign=1047&utm_source=git)** | Headquarters, ID | Hybrid | May 12 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/6a02cc89bc4184089f22c749?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | May 11 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6a02c6877c753c287f6e0efc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | May 11 |
