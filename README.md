@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management - Intern](https://jobright.ai/jobs/info/6a02a93322395b6dc6d8cfd4?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 11 |
+| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Operations](https://jobright.ai/jobs/info/697dfadf7f40342e15d6cd9d?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
+| ↳ | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[EnergyCAP](http://energycap.com)** | **[Product Operations Associate - Internship](https://jobright.ai/jobs/info/6a0259d9df52f1450d84a4fb?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 11 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
 | **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a02590d3053db70a11775a6?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ, US | On Site | May 11 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698bf98091fdda424d58b4cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 10 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 09 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69fb1d82d21cf86d1e3cf9a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 09 |
-| **[Cloud Security Web](https://cloudsecurityweb.com/)** | **[Product Manager Associate Intern](https://jobright.ai/jobs/info/69ffaa3574b5407dd46761d9?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | May 09 |
 | **[Geotab](http://www.geotab.com/)** | **[Solutions Delivery Intern, Verticals (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/69f93a700b36ff035475dc12?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 09 |
 | **[SanMar](http://www.sanmar.com)** | **[Global Sourcing Intern, Product Development](https://jobright.ai/jobs/info/69c6fc02b773006330b74c92?utm_campaign=1047&utm_source=git)** | Issaquah, WA | Hybrid | May 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8ef507ac93962b708d616?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
