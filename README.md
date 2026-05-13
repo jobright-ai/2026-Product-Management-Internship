@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 13 |
+| **[Vizo Financial Corporate CU](https://www.vfccu.org/)** | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a0458ee7c753c287f6ee6bb?utm_campaign=1047&utm_source=git)** | United States | Remote | May 13 |
+| ↳ | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a0458ed7c753c287f6ee6ba?utm_campaign=1047&utm_source=git)** | 1201 Fulling Mill Road, Suite 200, Middletown, PA 17057 | Remote | May 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management -  Internship](https://jobright.ai/jobs/info/6a043cf1f3d6cc51d637d5ff?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 12 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | May 12 |
 | ↳ | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a0414d3bc4184089f238145?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | May 12 |
