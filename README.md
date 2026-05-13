@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6a04d8b9bc4184089f23fdf7?utm_campaign=1047&utm_source=git)** | Seattle (WA), US | Hybrid | May 13 |
+| **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Product Managent Intern](https://jobright.ai/jobs/info/6a04d5574373b07358a37327?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 13 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04c54a7c753c287f6f308a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | May 13 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a04bfbb7c753c287f6f2b2f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Delta Dental of Colorado](https://www.deltadentalco.com/default.aspx)** | **[MBA Intern](https://jobright.ai/jobs/info/6a04a9c4bc4184089f23d8bb?utm_campaign=1047&utm_source=git)** | Greenwood Village, Colorado, United States | Hybrid | May 13 |
@@ -83,8 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a034176ed6a637463f4e377?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | May 12 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Product Portfolio Intern](https://jobright.ai/jobs/info/6a033fceed6a637463f4e2cb?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | May 12 |
-| ↳ | **[Product Portfolio Intern](https://jobright.ai/jobs/info/6a033fc4ed6a637463f4e2c8?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 12 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Product Portfolio Intern](https://jobright.ai/jobs/info/6a033fc4ed6a637463f4e2c8?utm_campaign=1047&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 12 |
 | **[CME Group](http://www.cmegroup.com)** | **[Product Data Analytics Intern](https://jobright.ai/jobs/info/6a033e93f3d6cc51d6374cab?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street, US | On Site | May 12 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69976a9481476f6176af8954?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 12 |
 | **[Vizo Financial Corporate CU](https://www.vfccu.org/)** | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a03246b7c753c287f6e40ad?utm_campaign=1047&utm_source=git)** | Middletown,PA,US | Remote | May 12 |
