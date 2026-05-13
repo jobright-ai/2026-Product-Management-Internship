@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management -  Internship](https://jobright.ai/jobs/info/6a043cf1f3d6cc51d637d5ff?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 12 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | May 12 |
 | ↳ | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a0414d3bc4184089f238145?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | May 12 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0419c8f811a04369607f94?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 12 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[EPCVIP, Inc.](https://www.epcvip.com/)** | **[Product Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6a03a821bc4184089f234999?utm_campaign=1047&utm_source=git)** | Calabasas, CA | On Site | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a036fa622395b6dc6d944bf?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Internship](https://jobright.ai/jobs/info/6a034f9eed6a637463f4e8e4?utm_campaign=1047&utm_source=git)** | United States | Remote | May 12 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a034176ed6a637463f4e377?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | May 12 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Product Portfolio Intern](https://jobright.ai/jobs/info/6a033fceed6a637463f4e2cb?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | May 12 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a040f01f3d6cc51d637bb33?utm_campaign=1047&utm_source=git)** | Denver Metropolitan Area | On Site | May 11 |
 | ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a0413d2bc4184089f237d54?utm_campaign=1047&utm_source=git)** | Twin Cities Area | On Site | May 11 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/6a040f1c22395b6dc6d99b6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
-| **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a0419917c753c287f6ec8ae?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[EnergyCAP](http://energycap.com)** | **[Product Operations Associate - Internship](https://jobright.ai/jobs/info/6a0259d9df52f1450d84a4fb?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 11 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Canadian Deposits Product Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb02710?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fb976886d5cd46527d69b1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb9b8cffa73664aeb0127e?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 06 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb651186d5cd46527d55b2?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
