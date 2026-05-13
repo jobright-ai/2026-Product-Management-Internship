@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Matterworks](https://www.matterworks.ai)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69fd18b6b113035a9f8ee780?utm_campaign=1047&utm_source=git)** | United States | Remote | May 06 |
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69fc0f193802c7621fd8f791?utm_campaign=1047&utm_source=git)** | Brampton, ON, CA | On Site | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Canadian Deposits Product Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb02710?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
-| **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fb976886d5cd46527d69b1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
