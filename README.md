@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Colorado](https://www.deltadentalco.com/default.aspx)** | **[MBA Intern](https://jobright.ai/jobs/info/6a04a9c4bc4184089f23d8bb?utm_campaign=1047&utm_source=git)** | Greenwood Village, Colorado, United States | Hybrid | May 13 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e883fe58811370cb126a21?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 13 |
 | **[Konexial](http://www.konexial.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a04988ef811a0436960cd17?utm_campaign=1047&utm_source=git)** | Knoxville, TN | Hybrid | May 13 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/6a0494127c753c287f6f143c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | May 13 |
@@ -148,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Product Management & Sourcing Intern](https://jobright.ai/jobs/info/69fc6159cf5c6d31006978f3?utm_campaign=1047&utm_source=git)** | Duluth, MN, US | On Site | May 06 |
 | ↳ | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fc51ae48ae180867212d6a?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, US | On Site | May 06 |
-| **[Aflac](http://www.aflac.com)** | **[Product Owner III](https://jobright.ai/jobs/info/69fc096976c60e7b70af1981?utm_campaign=1047&utm_source=git)** | Columbus, GA | Hybrid | May 06 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/69fc22173802c7621fd8fb5b?utm_campaign=1047&utm_source=git)** | Georgia, United States | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
