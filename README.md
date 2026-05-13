@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a04bfbb7c753c287f6f2b2f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Delta Dental of Colorado](https://www.deltadentalco.com/default.aspx)** | **[MBA Intern](https://jobright.ai/jobs/info/6a04a9c4bc4184089f23d8bb?utm_campaign=1047&utm_source=git)** | Greenwood Village, Colorado, United States | Hybrid | May 13 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e883fe58811370cb126a21?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 13 |
 | **[Konexial](http://www.konexial.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a04988ef811a0436960cd17?utm_campaign=1047&utm_source=git)** | Knoxville, TN | Hybrid | May 13 |
