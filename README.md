@@ -79,7 +79,8 @@ For a complete list, click the following sortable link below:
 | **[MASS Tech LLC](https://masstechllc.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6a03e164bc4184089f2364be?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | May 12 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/6a02cc89bc4184089f22c749?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | May 11 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6a02c6877c753c287f6e0efc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | May 11 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management - Intern](https://jobright.ai/jobs/info/6a02a93322395b6dc6d8cfd4?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | May 11 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a040f01f3d6cc51d637bb33?utm_campaign=1047&utm_source=git)** | Denver Metropolitan Area | On Site | May 11 |
+| **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/6a040f1c22395b6dc6d99b6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | May 11 |
 | **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[EnergyCAP](http://energycap.com)** | **[Product Operations Associate - Internship](https://jobright.ai/jobs/info/6a0259d9df52f1450d84a4fb?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 11 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
@@ -146,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[KION Group](http://www.kiongroup.com/)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb651186d5cd46527d55b2?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States, US | On Site | May 06 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Product & Data Analyst Intern](https://jobright.ai/jobs/info/69e9250558811370cb12b273?utm_campaign=1047&utm_source=git)** | Dresher, PA | Hybrid | May 06 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | May 06 |
-| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
