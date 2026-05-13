@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04c54a7c753c287f6f308a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | May 13 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a04bfbb7c753c287f6f2b2f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Delta Dental of Colorado](https://www.deltadentalco.com/default.aspx)** | **[MBA Intern](https://jobright.ai/jobs/info/6a04a9c4bc4184089f23d8bb?utm_campaign=1047&utm_source=git)** | Greenwood Village, Colorado, United States | Hybrid | May 13 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e883fe58811370cb126a21?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 13 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Podium](https://www.podium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69e2799a2f28653593076ced?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | May 09 |
 | **[VSE Aviation](http://www.vseaviation.com)** | **[Intern - Product Data & Pricing  (870)](https://jobright.ai/jobs/info/69febc83cdb965044a8646f6?utm_campaign=1047&utm_source=git)** | Augusta, KS 67010 | On Site | May 08 |
 | ↳ | **[Intern - Market Research Product Line (864)](https://jobright.ai/jobs/info/69febc781161630dd3b0403a?utm_campaign=1047&utm_source=git)** | Miami, FL 33122 | On Site | May 08 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Management](https://jobright.ai/jobs/info/69eac7ee58811370cb134fab?utm_campaign=1047&utm_source=git)** | United States | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[PSM Coordinating Intern](https://jobright.ai/jobs/info/69fe827b4b9bbf21744b1eff?utm_campaign=1047&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69fe7eb64b9bbf21744b1d75?utm_campaign=1047&utm_source=git)** | NY, US | Hybrid | May 08 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Product Manager Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0aad4b0fa35a70780688?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | May 08 |
