@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | May 12 |
 | **[MASS Tech LLC](https://masstechllc.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6a03ca05bc4184089f235c3a?utm_campaign=1047&utm_source=git)** | Greensboro, North Carolina, United States | On Site | May 12 |
 | **[EPCVIP, Inc.](https://www.epcvip.com/)** | **[Product Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6a03963af3d6cc51d63785d9?utm_campaign=1047&utm_source=git)** | Calabasas, US | On Site | May 12 |
 | **[Energetic Capital](http://www.energeticinsurance.com)** | **[Energetic Fellowship Experience (Summer 2026)](https://jobright.ai/jobs/info/6a0395f77c753c287f6e8c5d?utm_campaign=1047&utm_source=git)** | Greater Boston Area | Hybrid | May 12 |
