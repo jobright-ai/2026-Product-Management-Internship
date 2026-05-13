@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 13 |
+| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a04f471bc4184089f2410e9?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | May 13 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | ↳ | **[Technical Product Management Intern](https://jobright.ai/jobs/info/69be0e5a482822729300c0f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6a04d8b9bc4184089f23fdf7?utm_campaign=1047&utm_source=git)** | Seattle (WA), US | Hybrid | May 13 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69fe2b1aad691a11f34ec076?utm_campaign=1047&utm_source=git)** | Houston, TX, US | Hybrid | May 08 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeec4b9bbf21744adb96?utm_campaign=1047&utm_source=git)** | US-NY-Melville | Hybrid | May 08 |
 | ↳ | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeeb7714cd50b90fd71e?utm_campaign=1047&utm_source=git)** | Melville, NY, US | Hybrid | May 08 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/698d19b378b4502f12a39de9?utm_campaign=1047&utm_source=git)** | Lake Forest, CA | Hybrid | May 08 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e1a1c740a62c1fa93b946c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | May 08 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | May 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 08 |
