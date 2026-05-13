@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | **[MASS Tech LLC](https://masstechllc.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6a03e164bc4184089f2364be?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | May 12 |
 | **[Nutanix](http://www.nutanix.com)** | **[Product Management Intern - (UNDERGRAD Only) Hypervisor](https://jobright.ai/jobs/info/6a02cc89bc4184089f22c749?utm_campaign=1047&utm_source=git)** | San Jose, California | Hybrid | May 11 |
-| **[EnergyCAP](http://energycap.com)** | **[Product Operations Associate - Internship](https://jobright.ai/jobs/info/6a0419686c07461fe1709e4d?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6a02c6877c753c287f6e0efc?utm_campaign=1047&utm_source=git)** | California, United States | On Site | May 11 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a0413a57c753c287f6ec1c0?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
 | **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a0414baf811a04369607a04?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
@@ -149,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[SUN PHARMA](http://www.sunpharma.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/69fc0f193802c7621fd8f791?utm_campaign=1047&utm_source=git)** | Brampton, ON, CA | On Site | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[GTB - Canadian Deposits Product Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69fbdbaaffa73664aeb02710?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fb976886d5cd46527d69b1?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 06 |
-| **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/69fb9b8cffa73664aeb0127e?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
