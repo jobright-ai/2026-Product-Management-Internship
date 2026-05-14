@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 14 |
+| ↳ | **[Product & Program Management Intern](https://jobright.ai/jobs/info/6a06117d320bff2205ea7834?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 14 |
+| **[Select Custom Solutions](https://www.selectcustomsolutions.com)** | **[Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a060c2cbc4184089f24a496?utm_campaign=1047&utm_source=git)** | La Crosse, WI | On Site | May 14 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Product & Data Analyst Intern](https://jobright.ai/jobs/info/6a060b3ba88ea73abf7f66bf?utm_campaign=1047&utm_source=git)** | Dresher, PA | Hybrid | May 14 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a0607cebc4184089f24a33b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 14 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/6a05f5bdbc4184089f249545?utm_campaign=1047&utm_source=git)** | El Segundo, CA | On Site | May 14 |
-| **[Dematic](http://www.dematic.com)** | **[Product & Program Management Intern](https://jobright.ai/jobs/info/69e91f5b4b0fa35a7076b803?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 14 |
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | May 14 |
 | **[SWBC](https://www.swbc.com)** | **[Auto Product Specialist Intern](https://jobright.ai/jobs/info/6a05e4d9bc4184089f24896c?utm_campaign=1047&utm_source=git)** | San Antonio, TX, US | On Site | May 14 |
 | **[SOTI](http://www.soti.net/)** | **[Product Manager Intern - Sales Enablement Products (September 2026 12 Months)](https://jobright.ai/jobs/info/6a05d6e9bc4184089f247df5?utm_campaign=1047&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 14 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a038f026c07461fe170555e?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | May 12 |
 | **[EPCVIP, Inc.](https://www.epcvip.com/)** | **[Product Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6a03a821bc4184089f234999?utm_campaign=1047&utm_source=git)** | Calabasas, CA | On Site | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a036fa622395b6dc6d944bf?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a034176ed6a637463f4e377?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | May 12 |
 | **[Vizo Financial Corporate CU](https://www.vfccu.org/)** | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a03246b7c753c287f6e40ad?utm_campaign=1047&utm_source=git)** | Middletown,PA,US | Remote | May 12 |
