@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SWBC](https://www.swbc.com)** | **[Auto Product Specialist Intern](https://jobright.ai/jobs/info/6a0645b9bc4184089f24d9bd?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | May 14 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a063fe2a88ea73abf7f9994?utm_campaign=1047&utm_source=git)** | United States | Remote | May 14 |
 | **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a0630dc7c753c287f70046f?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | May 14 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | May 14 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern Pangle (Advertisement Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c1f3d6cc51d638a17b?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | May 14 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/6a05a1347c753c287f6fa480?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | May 14 |
 | **[Magnera Corporation](https://magnera.com/)** | **[Product Development Intern, Corporate](https://jobright.ai/jobs/info/69af3089749500645093ab9b?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 14 |
-| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Product Data/AI Intern (Fall Semester)](https://jobright.ai/jobs/info/6a05490ca88ea73abf7f04bb?utm_campaign=1047&utm_source=git)** | Roswell, GA | Hybrid | May 13 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern, Consumer Products North American](https://jobright.ai/jobs/info/6a050feb6c07461fe1713704?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | May 13 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a0509b3bc4184089f2423df?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6a0504f322395b6dc6da3367?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | May 13 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a038f026c07461fe170555e?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | May 12 |
 | **[EPCVIP, Inc.](https://www.epcvip.com/)** | **[Product Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6a03a821bc4184089f234999?utm_campaign=1047&utm_source=git)** | Calabasas, CA | On Site | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a03661122395b6dc6d9412a?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550e?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550d?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341f77c753c287f6e550e?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a034176ed6a637463f4e377?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | May 12 |
 | **[Vizo Financial Corporate CU](https://www.vfccu.org/)** | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a03246b7c753c287f6e40ad?utm_campaign=1047&utm_source=git)** | Middletown,PA,US | Remote | May 12 |
