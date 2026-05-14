@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 14 |
+| **[AMETEK](http://www.ametek.com)** | **[Product Management AI Intern](https://jobright.ai/jobs/info/69cc4b538130af1ac8337a2f?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern Pangle (Advertisement Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c1f3d6cc51d638a17b?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | May 14 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/6a05a1347c753c287f6fa480?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | May 14 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Product Data/AI Intern (Fall Semester)](https://jobright.ai/jobs/info/6a05490ca88ea73abf7f04bb?utm_campaign=1047&utm_source=git)** | Roswell, GA | Hybrid | May 13 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[EPCVIP, Inc.](https://www.epcvip.com/)** | **[Product Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6a03a821bc4184089f234999?utm_campaign=1047&utm_source=git)** | Calabasas, CA | On Site | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a036fa622395b6dc6d944bf?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
 | **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Internship](https://jobright.ai/jobs/info/6a034f9eed6a637463f4e8e4?utm_campaign=1047&utm_source=git)** | United States | Remote | May 12 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a034176ed6a637463f4e377?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | May 12 |
 | **[CME Group](http://www.cmegroup.com)** | **[Product Data Analytics Intern](https://jobright.ai/jobs/info/6a033e93f3d6cc51d6374cab?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street, US | On Site | May 12 |
@@ -147,6 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Matterworks](https://www.matterworks.ai)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6a01ce3afa1aa73213d9465d?utm_campaign=1047&utm_source=git)** | United States | Remote | May 07 |
 | **[Cocomint Inc.](www.tiktok.com/@cocomintbeauty)** | **[Product Development Intern (Beauty)](https://jobright.ai/jobs/info/69fd0f5f666f063d3d6d2f83?utm_campaign=1047&utm_source=git)** | Long Beach, CA | On Site | May 07 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69fcfb3e6b788e7e7a5c43b4?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, 07095, United States | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcda5c432a3c4da8dff8ca?utm_campaign=1047&utm_source=git)** | Irvine, CA, US | On Site | May 07 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/69d6b6aa52a5bf580012b46d?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
