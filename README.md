@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOTI](http://www.soti.net/)** | **[Product Manager Intern - Sales Enablement Products (September 2026 12 Months)](https://jobright.ai/jobs/info/6a05d6e9bc4184089f247df5?utm_campaign=1047&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b229fcd04c69566c74dfb1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management AI Intern](https://jobright.ai/jobs/info/69cc4b538130af1ac8337a2f?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern Pangle (Advertisement Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a05a1c1f3d6cc51d638a17b?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | May 14 |
@@ -93,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a038f026c07461fe170555e?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | May 12 |
 | **[EPCVIP, Inc.](https://www.epcvip.com/)** | **[Product Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6a03a821bc4184089f234999?utm_campaign=1047&utm_source=git)** | Calabasas, CA | On Site | May 12 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a036fa622395b6dc6d944bf?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 12 |
-| **[Marketeq Media Inc.](http://marketeqmedia.co)** | **[Technical Product Management Internship](https://jobright.ai/jobs/info/6a034f9eed6a637463f4e8e4?utm_campaign=1047&utm_source=git)** | United States | Remote | May 12 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d6375069?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 12 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0341fcf3d6cc51d637506a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 12 |
 | **[Cisco](http://www.cisco.com)** | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a0341abbc4184089f230bf8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 12 |
 | ↳ | **[Customer Experience Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6a034176ed6a637463f4e377?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | May 12 |
@@ -108,12 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a0414baf811a04369607a04?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a040f01f3d6cc51d637bb33?utm_campaign=1047&utm_source=git)** | Denver Metropolitan Area | On Site | May 11 |
 | ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a0413d2bc4184089f237d54?utm_campaign=1047&utm_source=git)** | Twin Cities Area | On Site | May 11 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Category Management](https://jobright.ai/jobs/info/697e0225abff4c399a9cc894?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[EnergyCAP](http://energycap.com)** | **[Product Operations Associate - Internship](https://jobright.ai/jobs/info/6a0259d9df52f1450d84a4fb?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 11 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
 | **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a02590d3053db70a11775a6?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ, US | On Site | May 11 |
-| **[Global Industrial Company](https://www.globalindustrial.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/697dfe707f40342e15d6d39b?utm_campaign=1047&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 11 |
-| ↳ | **[Intern, Product Operations](https://jobright.ai/jobs/info/697dfadf7f40342e15d6cd9d?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6bc2ffb31f45369cc8?utm_campaign=1047&utm_source=git)** | Denver HQ T3, US | On Site | May 11 |
 | ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6afa1aa73213d96ca5?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a02fc866c07461fe16ff095?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 11 |
@@ -141,6 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69fe2b1aad691a11f34ec076?utm_campaign=1047&utm_source=git)** | Houston, TX, US | Hybrid | May 08 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeec4b9bbf21744adb96?utm_campaign=1047&utm_source=git)** | US-NY-Melville | Hybrid | May 08 |
 | ↳ | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeeb7714cd50b90fd71e?utm_campaign=1047&utm_source=git)** | Melville, NY, US | Hybrid | May 08 |
+| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a05d95c6c07461fe171934c?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e1a1c740a62c1fa93b946c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | May 08 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Product Line Management Intern - i-0055](https://jobright.ai/jobs/info/69a8d32d2580d3183f00f05d?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | May 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 08 |
