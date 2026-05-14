@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern, Consumer Products North American](https://jobright.ai/jobs/info/6a050feb6c07461fe1713704?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | May 13 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a0509b3bc4184089f2423df?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 13 |
 | **[Zoom](https://www.zoom.com)** | **[Intern - AI Product Management, Agentic Workflows](https://jobright.ai/jobs/info/6a0504f322395b6dc6da3367?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | May 13 |
 | **[TrueCommerce](https://www.truecommerce.com/uk-en)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a04fea022395b6dc6da2e5e?utm_campaign=1047&utm_source=git)** | United States | Remote | May 13 |
