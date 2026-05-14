@@ -153,6 +153,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Apps Intern](https://jobright.ai/jobs/info/69fcb03f6b788e7e7a5c1dba?utm_campaign=1047&utm_source=git)** | Irvine,CA,92618,USA | On Site | May 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69c4ecb7d5a1016e98dc5dec?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 07 |
 | ↳ | **[Product Operations Project Intern (NA Creative Product Ops) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69a8f02c2580d3183f011ac1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 07 |
-| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 07 |
-| **[AMETEK](http://www.ametek.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/69c42dc4d5a1016e98db3fb0?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
