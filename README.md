@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a0413d2bc4184089f237d54?utm_campaign=1047&utm_source=git)** | Twin Cities Area | On Site | May 11 |
 | **[EnergyCAP](http://energycap.com)** | **[Product Operations Associate - Internship](https://jobright.ai/jobs/info/6a0259d9df52f1450d84a4fb?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 11 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 11 |
-| **[Integrity](https://www.integrity.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a02590d3053db70a11775a6?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ, US | On Site | May 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6bc2ffb31f45369cc8?utm_campaign=1047&utm_source=git)** | Denver HQ T3, US | On Site | May 11 |
 | ↳ | **[Mass Market Strategy Business Intern - MN, CO, WI](https://jobright.ai/jobs/info/6a021f6afa1aa73213d96ca5?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401, US | On Site | May 11 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a02fc866c07461fe16ff095?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 11 |
