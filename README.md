@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wheely](https://wheely.com/en)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a06eb944b07a86277877d94?utm_campaign=1047&utm_source=git)** | Miami | Hybrid | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Trending Sports Product Operation Project Intern (TikTok-Search) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a0699eaf3d6cc51d63949cd?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Product Development](https://jobright.ai/jobs/info/6a06572fbc4184089f24ec30?utm_campaign=1047&utm_source=git)** | Rohnert Park, CA | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Trending Sports Product Operation Project Intern (TikTok-Search) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a06505e6c07461fe171f273?utm_campaign=1047&utm_source=git)** | San Jose | On Site | May 14 |
