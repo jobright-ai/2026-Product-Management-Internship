@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/69fe2b1aad691a11f34ec076?utm_campaign=1047&utm_source=git)** | Houston, TX, US | Hybrid | May 08 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeec4b9bbf21744adb96?utm_campaign=1047&utm_source=git)** | US-NY-Melville | Hybrid | May 08 |
 | ↳ | **[2026 Canon Insights Summer Internship - New Business Development and Product Planning Intern](https://jobright.ai/jobs/info/69fdfeeb7714cd50b90fd71e?utm_campaign=1047&utm_source=git)** | Melville, NY, US | Hybrid | May 08 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a05d95c6c07461fe171934c?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
