@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | May 19 |
+| **[Allego](http://www.allego.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a0c9e27538d03366dc8f2dd?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | May 19 |
 | **[Social Impact](https://socialimpact.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0c745ba235d749afa8cd60?utm_campaign=1047&utm_source=git)** | Arlington, VA | Hybrid | May 19 |
 | **[ByteDance](http://bytedance.com)** | **[AI Product Manager Intern (Applied Machine Learning) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0c739022d0d34036c945e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
-| **[Vibrantz Technologies Inc.](http://www.vibrantz.com)** | **[Product Stewardship Intern](https://jobright.ai/jobs/info/6a0c636822d0d34036c93f07?utm_campaign=1047&utm_source=git)** | Ashtabula, OH, US | On Site | May 19 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f0978e8feca91f1491aedc?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
@@ -68,8 +69,6 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Travel Product Intern](https://jobright.ai/jobs/info/6a0c0c43a235d749afa89ede?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | May 19 |
 | ↳ | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6a0c0c42a235d749afa89eda?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | May 19 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a0509b3bc4184089f2423df?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Travel Product Intern](https://jobright.ai/jobs/info/6a0baf044d93203636873680?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 18 |
-| ↳ | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6a0baf040411d7417a1b3719?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 18 |
 | **[Reveleer](https://www.reveleer.com)** | **[Product Management Intern- Prospective Intelligence](https://jobright.ai/jobs/info/6a0b5d5722d0d34036c8b69f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 18 |
 | **[Krones](http://www.krones.com)** | **[Product Specialist Summer Intern 1](https://jobright.ai/jobs/info/6a0b2519963f7a67d95cc887?utm_campaign=1047&utm_source=git)** | Wisconsin, US | On Site | May 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/696aa3e85fc8624185399b9e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 13 |
 | **[Vizo Financial Corporate CU](https://www.vfccu.org/)** | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a0458ee7c753c287f6ee6bb?utm_campaign=1047&utm_source=git)** | United States | Remote | May 13 |
 | ↳ | **[Paid Product Strategy Intern - Summer 2026 - REMOTE - MUST RESIDE IN PA](https://jobright.ai/jobs/info/6a0458ed7c753c287f6ee6ba?utm_campaign=1047&utm_source=git)** | 1201 Fulling Mill Road, Suite 200, Middletown, PA 17057 | Remote | May 13 |
+| **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
