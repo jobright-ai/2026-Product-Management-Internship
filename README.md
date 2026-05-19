@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Travel Product Intern](https://jobright.ai/jobs/info/6a0baf044d93203636873680?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 18 |
-| ↳ | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6a0baf040411d7417a1b3719?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 18 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6a0baf040411d7417a1b3719?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 18 |
+| ↳ | **[Digital Travel Product Intern](https://jobright.ai/jobs/info/6a0baf044d93203636873680?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 18 |
 | **[Reveleer](https://www.reveleer.com)** | **[Product Management Intern- Prospective Intelligence](https://jobright.ai/jobs/info/6a0b5d5722d0d34036c8b69f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 18 |
 | **[Krones](http://www.krones.com)** | **[Product Specialist Summer Intern 1](https://jobright.ai/jobs/info/6a0b2519963f7a67d95cc887?utm_campaign=1047&utm_source=git)** | Wisconsin, US | On Site | May 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6979a2550791bc1d723070eb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 18 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0708624a0a6a7e7d8220ff?utm_campaign=1047&utm_source=git)** | New York | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0704584a0a6a7e7d8208b6?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 15 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0704554a0a6a7e7d820886?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69fe662e6bcf315dc8f57743?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | May 15 |
-| ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a07044424dcb03739f1e1d4?utm_campaign=1047&utm_source=git)** | New York | Hybrid | May 15 |
+| **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a07044424dcb03739f1e1d4?utm_campaign=1047&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69fe662e6bcf315dc8f57743?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | May 15 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a0703c89f57175bd581e6f9?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | May 15 |
 | **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a025933238f143e8353378f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701f14a0a6a7e7d81ff3f?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 15 |
