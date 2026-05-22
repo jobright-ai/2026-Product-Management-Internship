@@ -59,14 +59,13 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[LA Clippers](http://www.clippers.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a0f987b12f8b43cf39807da?utm_campaign=1047&utm_source=git)** | Inglewood, CA | On Site | May 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f6ac512f8b43cf397ee90?utm_campaign=1047&utm_source=git)** | St Louis, MO | Remote | May 21 |
-| **[Vecima Networks Inc.](http://www.vecima.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/6a0f5ce872b52f7225f3d3de?utm_campaign=1047&utm_source=git)** | United States | Remote | May 21 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Buying Beauty & Jewelry – Intern](https://jobright.ai/jobs/info/6a0fa6f5619335383fb2e560?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 21 |
 | **[Sueep](https://sueep.com)** | **[Technology Strategy & Commercialization Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0f53d4619335383fb2af12?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f21ad9f654b3359ce2ebc?utm_campaign=1047&utm_source=git)** | US-MO-St. Louis | Remote | May 21 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f21ac9f654b3359ce2ebb?utm_campaign=1047&utm_source=git)** | St. Louis, MO, US | Remote | May 21 |
-| **[ConstructConnect](https://www.constructconnect.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e3?utm_campaign=1047&utm_source=git)** | Atlanta, GA, US | Hybrid | May 21 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e2?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | May 21 |
+| **[ConstructConnect](https://www.constructconnect.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e2?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | May 21 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e3?utm_campaign=1047&utm_source=git)** | Atlanta, GA, US | Hybrid | May 21 |
 | **[Wheely](https://wheely.com/en)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a06eb944b07a86277877d94?utm_campaign=1047&utm_source=git)** | Miami | Hybrid | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 21 |
 | ↳ | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | May 21 |
@@ -123,12 +122,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/6a084de5403fc339507ec6e6?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | Hybrid | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/69fc22173802c7621fd8fb5b?utm_campaign=1047&utm_source=git)** | Georgia, United States | Hybrid | May 16 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1c?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 15 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1d?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 15 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1d?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 15 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1c?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 15 |
 | **[Tencent Cloud](https://intl.cloud.tencent.com)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6a0775c3939a5f01db95041b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 15 |
 | ↳ | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6a0769e68f3e371eb61768a0?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 15 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6a0765c5a203b1052e43a27e?utm_campaign=1047&utm_source=git)** | California, United States | On Site | May 15 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a074495403fc339507e25d3?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0728821f7fa33581c9cefe?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0728811f7fa33581c9cefc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
