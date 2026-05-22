@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f21ad9f654b3359ce2ebc?utm_campaign=1047&utm_source=git)** | US-MO-St. Louis | Remote | May 21 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f21ac9f654b3359ce2ebb?utm_campaign=1047&utm_source=git)** | St. Louis, MO, US | Remote | May 21 |
-| **[ConstructConnect](https://www.constructconnect.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e3?utm_campaign=1047&utm_source=git)** | Atlanta, GA, US | Hybrid | May 21 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e2?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | May 21 |
+| **[ConstructConnect](https://www.constructconnect.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e2?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | May 21 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a0f20f072b52f7225f3b1e3?utm_campaign=1047&utm_source=git)** | Atlanta, GA, US | Hybrid | May 21 |
 | **[Wheely](https://wheely.com/en)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a06eb944b07a86277877d94?utm_campaign=1047&utm_source=git)** | Miami | Hybrid | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 21 |
 | ↳ | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | May 21 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a074495403fc339507e25d3?utm_campaign=1047&utm_source=git)** | Roswell, GA | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0728821f7fa33581c9cefe?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a0728811f7fa33581c9cefc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 15 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0efb6e80bf0430c763024e?utm_campaign=1047&utm_source=git)** | Ellisville, MO | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
