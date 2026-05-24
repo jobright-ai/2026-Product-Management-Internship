@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2483d714428982da55?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 23 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 23 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
 | ↳ | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c2ea3d34b4f76f556a4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[Save the Children US](http://savethechildren.org)** | **[Product & Delivery Intern (BTS)](https://jobright.ai/jobs/info/6a1116f09fdbf21f36cb2c7b?utm_campaign=1047&utm_source=git)** | Fairfield, CT | Hybrid | May 22 |
@@ -118,9 +118,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product & Delivery Intern (BTS)](https://jobright.ai/jobs/info/6a10a6b483d7144289827afe?utm_campaign=1047&utm_source=git)** | Fairfield, Town of, Connecticut, United States | Hybrid | May 19 |
 | ↳ | **[Product & Delivery Intern (BTS)](https://jobright.ai/jobs/info/6a10a6b383d7144289827afd?utm_campaign=1047&utm_source=git)** | Lexington, Kentucky, United States | Hybrid | May 19 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Data Digital Experiences & Product](https://jobright.ai/jobs/info/69f0f49862b48c6838792d28?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
-| **[Hootsuite](https://hootsuite.com)** | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0ca7cda235d749afa8ebdd?utm_campaign=1047&utm_source=git)** | Toronto | On Site | May 19 |
+| **[Hootsuite](https://hootsuite.com)** | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0ca7cda235d749afa8ebde?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | May 19 |
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0ca7cda235d749afa8ebdc?utm_campaign=1047&utm_source=git)** | Vancouver | On Site | May 19 |
-| ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0ca7cda235d749afa8ebde?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | May 19 |
+| ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0ca7cda235d749afa8ebdd?utm_campaign=1047&utm_source=git)** | Toronto | On Site | May 19 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/69d3704254f00230c6d27aa2?utm_campaign=1047&utm_source=git)** | Bedford, MA | Hybrid | May 19 |
 | **[Social Impact](https://socialimpact.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a0c745ba235d749afa8cd60?utm_campaign=1047&utm_source=git)** | Arlington, VA | Hybrid | May 19 |
 | **[ByteDance](http://bytedance.com)** | **[AI Product Manager Intern (Applied Machine Learning) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a0c739022d0d34036c945e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
