@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FlairX](https://www.flairx.ai/)** | **[Product Manager Intern (AI Products)](https://jobright.ai/jobs/info/6a15ee76dc845f4be5bda71c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | May 26 |
 | **[UMB Bank](https://www.umb.com/)** | **[Data Product Management Intern](https://jobright.ai/jobs/info/6a15b5b70073182bd92abf7a?utm_campaign=1047&utm_source=git)** | Kansas City, MO | Hybrid | May 26 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 26 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fabd31d21cf86d1e3ccb08?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 26 |
@@ -84,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2483d714428982da55?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 23 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 23 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems ) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69d9bfaa869c7e25d859d50d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 23 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
@@ -121,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 20 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Travel Product Intern](https://jobright.ai/jobs/info/6a0d45d44d932036368801e5?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA, US | On Site | May 19 |
 | **[Electronic Coating Technologies (ECT)](https://electroniccoating.com/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/6a0d33bf0411d7417a1c00e2?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | May 19 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Digital Travel Product Intern](https://jobright.ai/jobs/info/6a0fd41372b52f7225f40a1e?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
