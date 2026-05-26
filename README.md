@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fabd31d21cf86d1e3ccb08?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 26 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a1571a01935fa61b3c67c3f?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | May 26 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a15719d1935fa61b3c67c3a?utm_campaign=1047&utm_source=git)** | New York | Hybrid | May 26 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[AI Product Development Intern - US - Remote](https://jobright.ai/jobs/info/6a0ccc77a235d749afa90a51?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[Photon](https://www.photon.in)** | **[AI Product Development Intern - US - Remote](https://jobright.ai/jobs/info/6a0cc6a522d0d34036c9827e?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Intern - Product Operations](https://jobright.ai/jobs/info/6a0cc4da963f7a67d95db419?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 19 |
-| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/6a0cb7040411d7417a1bb982?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
