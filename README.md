@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teknor Apex Company](http://www.teknorapex.com/)** | **[Product Information Management (PIM) Enablement Intern](https://jobright.ai/jobs/info/6a16ec811430333075ccb82e?utm_campaign=1047&utm_source=git)** | Pawtucket, Rhode Island, United States | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb63f638179b6f1ae7806b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df02d936823d1b42585837?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a144dfa554b0e12c057ec8a?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086712f8b43cf398e31c?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | May 24 |
-| ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31a?utm_campaign=1047&utm_source=git)** | State College | On Site | May 24 |
+| ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69d9c01b9f97a42dc9c24072?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 24 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da59?utm_campaign=1047&utm_source=git)** | Toronto | Remote | May 23 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0ea31147fea1610bcab6f7?utm_campaign=1047&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a2e47fea1610bcab4ae?utm_campaign=1047&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Category Management](https://jobright.ai/jobs/info/6a0e5f8009ecfd704b3e8931?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 20 |
-| **[RozieAI](https://www.rozie.ai/home)** | **[Product Onboarding & Delivery Intern](https://jobright.ai/jobs/info/6a0e1efd09ecfd704b3e62e0?utm_campaign=1047&utm_source=git)** | Durham, North Carolina, United States | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
