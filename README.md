@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2483d714428982da55?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 23 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 23 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems ) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69d9bfaa869c7e25d859d50d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 23 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
@@ -126,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Bosch](http://www.bosch.com)** | **[Product Management - Internship (12 months)](https://jobright.ai/jobs/info/6a0e0956c152ac78244826f1?utm_campaign=1047&utm_source=git)** | W Central Rd, Mt Prospect, IL 60056, USA | Hybrid | May 20 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 20 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | May 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 20 |
-| ↳ | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696825fe639b452fb57db5b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
