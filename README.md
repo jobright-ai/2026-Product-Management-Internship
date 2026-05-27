@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a164197554b0e12c058ac5c?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a16403a128680351d969510?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | May 26 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb4a429fd279da9709b?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | Hybrid | May 26 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb3a429fd279da9709a?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | May 26 |
+| **[FlairX](https://www.flairx.ai/)** | **[Product Manager Intern (AI Products)](https://jobright.ai/jobs/info/6a1648271935fa61b3c705df?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a1616b2128680351d96789a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a1614b60073182bd92afda4?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
@@ -76,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Yieldmo](http://www.yieldmo.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a147251bc9bff375af012ff?utm_campaign=1047&utm_source=git)** | United States | Remote | May 25 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a146e3f554b0e12c057f15d?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 25 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a144dfa554b0e12c057ec8a?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 25 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a144dfa738a270c8bfa76cf?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086712f8b43cf398e31c?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | May 24 |
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
@@ -88,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2483d714428982da55?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 23 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (Creative and Creator Ecosystems ) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69d9bfaa869c7e25d859d50d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 23 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/698415ed348f733a5c37e22a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
