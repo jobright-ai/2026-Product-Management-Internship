@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PacePal](https://pace-pal.com)** | **[Summer 2026  - Product Management Intern](https://jobright.ai/jobs/info/6a17ea2154962c1bb4b05819?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Manager, Residential Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/6a17ae5ab7e0a45039a9ce49?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6a179e4c9005d858e94fb749?utm_campaign=1047&utm_source=git)** | Springfield, IL | Remote | May 27 |
 | **[Lightspeed](http://lsvp.com)** | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a179adef45c6530ce9ae1a2?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | May 27 |
@@ -102,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Yieldmo](http://www.yieldmo.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a147251bc9bff375af012ff?utm_campaign=1047&utm_source=git)** | United States | Remote | May 25 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a146e3f554b0e12c057f15d?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 25 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a144dfa554b0e12c057ec8a?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 25 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a144dfa738a270c8bfa76cf?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69855aad0f6f7e7a2ce00e03?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086712f8b43cf398e31c?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | May 24 |
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31a?utm_campaign=1047&utm_source=git)** | State College | On Site | May 24 |
