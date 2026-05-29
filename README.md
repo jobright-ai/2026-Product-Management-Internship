@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | May 29 |
+| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | May 29 |
 | **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f2ccb6825a315d7ca3fc23?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | May 29 |
 | **[Energetic Capital](http://www.energeticinsurance.com)** | **[Energetic Fellowship Experience (Summer 2026)](https://jobright.ai/jobs/info/6a199e95c2a87d6cd3df9cc7?utm_campaign=1047&utm_source=git)** | Greater Boston Area | Hybrid | May 29 |
 | **[Scowtt](https://www.scowtt.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e1a1c740a62c1fa93b946c?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | May 29 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
-| **[Roadie](https://www.roadie.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a14e3dd738a270c8bfa8ee6?utm_campaign=1047&utm_source=git)** | United States | Remote | May 25 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14d44bbc9bff375af02420?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
 | ↳ | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14b258128680351d95e604?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
 | **[Yieldmo](http://www.yieldmo.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a147251bc9bff375af012ff?utm_campaign=1047&utm_source=git)** | United States | Remote | May 25 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31a?utm_campaign=1047&utm_source=git)** | State College | On Site | May 24 |
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 24 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da5b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
-| ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da59?utm_campaign=1047&utm_source=git)** | Toronto | Remote | May 23 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da59?utm_campaign=1047&utm_source=git)** | Toronto | Remote | May 23 |
+| ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da5b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 | ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2483d714428982da55?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
