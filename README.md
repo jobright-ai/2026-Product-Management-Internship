@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a1a7f3e9111f771d1a0cbb5?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | May 29 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 29 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 29 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 29 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 29 |
 | **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/6a1a32d36b135014dbc89051?utm_campaign=1047&utm_source=git)** | United States | Remote | May 29 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2cd1e24ef3652582a456?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 29 |
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | May 29 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Windward Software Systems Inc.](http://www.windwardsoftware.com)** | **[AI Intern - Product Team](https://jobright.ai/jobs/info/6a18a4f954a441713ae86eb2?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 28 |
 | ↳ | **[AI Intern - Product Team](https://jobright.ai/jobs/info/6a189fe2abc8f63abac7a74e?utm_campaign=1047&utm_source=git)** | Canada - Penticton, BC, CA | Remote | May 28 |
 | ↳ | **[AI Intern - Product Team](https://jobright.ai/jobs/info/6a189fdeabc8f63abac7a74b?utm_campaign=1047&utm_source=git)** | Canada - Remote, CA | Remote | May 28 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/6a0a6aaa3b54ed42d74dfee0?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[Yieldmo](http://www.yieldmo.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a184d2b17492d3a389b3e22?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | May 28 |
 | **[Motion](https://www.motion.com)** | **[Product Information Management Intern](https://jobright.ai/jobs/info/69a929ac79f3f4037f43e744?utm_campaign=1047&utm_source=git)** | Birmingham, AL | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Fall 2026)](https://jobright.ai/jobs/info/6a181fbe17492d3a389b2d6d?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | May 28 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
 | ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a13086012f8b43cf398e31a?utm_campaign=1047&utm_source=git)** | State College | On Site | May 24 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d99130f748bc5d08a4bea7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 24 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da5b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
-| ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da59?utm_campaign=1047&utm_source=git)** | Toronto | Remote | May 23 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da59?utm_campaign=1047&utm_source=git)** | Toronto | Remote | May 23 |
+| ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2783d714428982da5b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 | ↳ | **[IP Product Operations Intern](https://jobright.ai/jobs/info/6a125d2483d714428982da55?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 23 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | May 23 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 23 |
