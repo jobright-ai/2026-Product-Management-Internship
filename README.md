@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 01 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 01 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359c1430333075cce89e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | May 31 |
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a1735a31430333075cce8a3?utm_campaign=1047&utm_source=git)** | Mountain View, CA (HQ) | Hybrid | May 31 |
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359a1430333075cce89c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | May 31 |
@@ -131,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
-| **[Dayforce](https://www.dayforce.com)** | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14d44bbc9bff375af02420?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
