@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Yieldmo](http://www.yieldmo.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a147251bc9bff375af012ff?utm_campaign=1047&utm_source=git)** | United States | Remote | May 25 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a146e3f554b0e12c057f15d?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 25 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a144dfa554b0e12c057ec8a?utm_campaign=1047&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
