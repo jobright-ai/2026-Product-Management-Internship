@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69e200db6c20aa1149546708?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a1a7f3e9111f771d1a0cbb5?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | May 29 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a13cc7012f8b43cf3990573?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 29 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 29 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 29 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 29 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 29 |
 | **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/6a1a32d36b135014dbc89051?utm_campaign=1047&utm_source=git)** | United States | Remote | May 29 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2cd1e24ef3652582a456?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 29 |
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | May 29 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14d44bbc9bff375af02420?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
-| ↳ | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14b258128680351d95e604?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
