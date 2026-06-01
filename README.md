@@ -132,6 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | **[Dayforce](https://www.dayforce.com)** | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14d44bbc9bff375af02420?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
 | ↳ | **[Product & AI Intern 4 Months - Fall 2026](https://jobright.ai/jobs/info/6a14b258128680351d95e604?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 25 |
-| **[Yieldmo](http://www.yieldmo.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a147251bc9bff375af012ff?utm_campaign=1047&utm_source=git)** | United States | Remote | May 25 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6a146e3f554b0e12c057f15d?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
