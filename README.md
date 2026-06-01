@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations  Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a1dd6fb3e538a28c204c51e?utm_campaign=1047&utm_source=git)** | New York | On Site | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69fb1d82d21cf86d1e3cf9a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a1dae239111f771d1a1a031?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, CA | On Site | Jun 01 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 01 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359c1430333075cce89e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | May 31 |
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a1735a31430333075cce8a3?utm_campaign=1047&utm_source=git)** | Mountain View, CA (HQ) | Hybrid | May 31 |
@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a19587dc2a87d6cd3df8ac2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 28 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 28 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/6a1df046c2a87d6cd3e0ee89?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[Windward Software Systems Inc.](http://www.windwardsoftware.com)** | **[AI Intern - Product Team](https://jobright.ai/jobs/info/6a18a4f954a441713ae86eb2?utm_campaign=1047&utm_source=git)** | Canada | Remote | May 28 |
 | ↳ | **[AI Intern - Product Team](https://jobright.ai/jobs/info/6a189fe2abc8f63abac7a74e?utm_campaign=1047&utm_source=git)** | Canada - Penticton, BC, CA | Remote | May 28 |
 | ↳ | **[AI Intern - Product Team](https://jobright.ai/jobs/info/6a189fdeabc8f63abac7a74b?utm_campaign=1047&utm_source=git)** | Canada - Remote, CA | Remote | May 28 |
