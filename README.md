@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a1f1858a507373dff6bd6a7?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Jun 02 |
 | **[Qualys](https://www.qualys.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1eba91a507373dff6bb30c?utm_campaign=1047&utm_source=git)** | Foster City, US | On Site | Jun 02 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Jun 02 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Product Data/AI Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1ea36d09442629a6854445?utm_campaign=1047&utm_source=git)** | Roswell, GA | Hybrid | Jun 02 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 01 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
-| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
+| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053b6b135014dbc9a21d?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053a6b135014dbc9a21b?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d5acdbcfdc6132f9463f6f?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Jun 01 |
