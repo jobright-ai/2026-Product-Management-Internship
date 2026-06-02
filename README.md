@@ -130,6 +130,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a16403a128680351d969510?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | May 26 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb4a429fd279da9709b?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | Hybrid | May 26 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb3a429fd279da9709a?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | May 26 |
-| **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a1616b2128680351d96789a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a1614b60073182bd92afda4?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
