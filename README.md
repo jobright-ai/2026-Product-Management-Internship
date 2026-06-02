@@ -128,8 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a16b5521935fa61b3c73353?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Acorns](https://www.acorns.com/)** | **[Growth Product Management Intern](https://jobright.ai/jobs/info/6a172b08f45c6530ce9a98f7?utm_campaign=1047&utm_source=git)** | United States | Remote | May 27 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a164197554b0e12c058ac5c?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a16403a128680351d969510?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | May 26 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb4a429fd279da9709b?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500, Mississauga, Ontario, Canada | Hybrid | May 26 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb3a429fd279da9709a?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
