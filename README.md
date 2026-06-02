@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualys](https://www.qualys.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1eba91a507373dff6bb30c?utm_campaign=1047&utm_source=git)** | Foster City, US | On Site | Jun 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
 | **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a1ea83b8049156781163de6?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 02 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Product Data/AI Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1ea36d09442629a6854445?utm_campaign=1047&utm_source=git)** | Roswell, GA | Hybrid | Jun 02 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 01 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Market Research Product Line (864)](https://jobright.ai/jobs/info/69febc781161630dd3b0403a?utm_campaign=1047&utm_source=git)** | Miami, FL 33122 | On Site | May 30 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a1a7f3e9111f771d1a0cbb5?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | May 29 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a13cc7012f8b43cf3990573?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 29 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 29 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 29 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 29 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | May 29 |
 | **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/6a1a32d36b135014dbc89051?utm_campaign=1047&utm_source=git)** | United States | Remote | May 29 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2cd1e24ef3652582a456?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 29 |
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | May 29 |
@@ -130,6 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a163cb3a429fd279da9709a?utm_campaign=1047&utm_source=git)** | 2680 Matheson Blvd East, Suite 500 | Hybrid | May 26 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a1616b2128680351d96789a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a1614b60073182bd92afda4?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
-| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
