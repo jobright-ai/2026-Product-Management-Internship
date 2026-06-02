@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
-| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
+| **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 01 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
+| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a1e2433e24ef3652583c513?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 01 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053b6b135014dbc9a21d?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053a6b135014dbc9a21b?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 01 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations  Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a1dd6fb3e538a28c204c51e?utm_campaign=1047&utm_source=git)** | New York | On Site | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69fb1d82d21cf86d1e3cf9a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a1dae239111f771d1a1a031?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, CA | On Site | Jun 01 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 01 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359c1430333075cce89e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | May 31 |
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a1735a31430333075cce8a3?utm_campaign=1047&utm_source=git)** | Mountain View, CA (HQ) | Hybrid | May 31 |
@@ -86,8 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | May 29 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Product & AI Enablement Intern - Fall 2026](https://jobright.ai/jobs/info/6a1a0dd12b206f3955eb228a?utm_campaign=1047&utm_source=git)** | Montreal, QC | Hybrid | May 29 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a19f1346b135014dbc87205?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | May 29 |
-| **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/69f07cececbc8c2f731ff94a?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | May 29 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a19cf822b206f3955eb0b2d?utm_campaign=1047&utm_source=git)** | 581 Main Street, Woodbridge, NJ07095 | On Site | May 29 |
+| ↳ | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a19cf822b206f3955eb0b2d?utm_campaign=1047&utm_source=git)** | 581 Main Street, Woodbridge, NJ07095 | On Site | May 29 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a05d95c6c07461fe171934c?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 29 |
 | **[Uniti Group Inc.](http://uniti.com)** | **[Student Intern-Nonexempt](https://jobright.ai/jobs/info/69f2ccb6825a315d7ca3fc23?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | May 29 |
 | **[Energetic Capital](http://www.energeticinsurance.com)** | **[Energetic Fellowship Experience (Summer 2026)](https://jobright.ai/jobs/info/6a199e95c2a87d6cd3df9cc7?utm_campaign=1047&utm_source=git)** | Greater Boston Area | Hybrid | May 29 |
@@ -138,6 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a1571a01935fa61b3c67c3f?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | May 26 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a15719d1935fa61b3c67c3a?utm_campaign=1047&utm_source=git)** | New York | Hybrid | May 26 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
-| ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6985649c348f733a5c39c449?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
