@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations  Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a1dd6fb3e538a28c204c51e?utm_campaign=1047&utm_source=git)** | New York | On Site | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69fb1d82d21cf86d1e3cf9a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
 | **[TD](https://www.td.com)** | **[Wealth - Gen AI Product & Enablement Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a1dae239111f771d1a1a031?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, CA | On Site | Jun 01 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 01 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359c1430333075cce89e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | May 31 |
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a1735a31430333075cce8a3?utm_campaign=1047&utm_source=git)** | Mountain View, CA (HQ) | Hybrid | May 31 |
@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 26 |
 | **[UMB Bank](https://www.umb.com/)** | **[Data Product Management Intern](https://jobright.ai/jobs/info/6a15b5b70073182bd92abf7a?utm_campaign=1047&utm_source=git)** | Kansas City, MO | Hybrid | May 26 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c1c9854d652f0447759f9f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | May 26 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/69fabd31d21cf86d1e3ccb08?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
