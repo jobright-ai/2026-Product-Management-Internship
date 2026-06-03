@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interac Corp.](http://www.interac.ca)** | **[Product Intern, Money Movement](https://jobright.ai/jobs/info/6a203882c00e701fe8367e17?utm_campaign=1047&utm_source=git)** | Toronto, CA | Hybrid | Jun 03 |
 | **[Unison](https://unisonglobal.com)** | **[Product Management Summer Intern (Federal Software Market)](https://jobright.ai/jobs/info/6a202805338c0123051172e9?utm_campaign=1047&utm_source=git)** | US | On Site | Jun 03 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2023a0c00e701fe83676bf?utm_campaign=1047&utm_source=git)** | US-NC-Huntersville | On Site | Jun 03 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a20239fc00e701fe83676be?utm_campaign=1047&utm_source=git)** | Huntersville, NC, US | On Site | Jun 03 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1c?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | Jun 03 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 03 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 03 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1c?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | Jun 03 |
 | **[Bybit](https://www.bybit.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a17faca3c1a380237ac0638?utm_campaign=1047&utm_source=git)** | APAC - Remote | Remote | Jun 02 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a17fac83c1a380237ac0633?utm_campaign=1047&utm_source=git)** | Remote General (Non-EU) | Remote | Jun 02 |
 | **[Influcio](https://www.influcio.com)** | **[AI PM Intern](https://jobright.ai/jobs/info/6a1f90d6c5277c00c64872f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
@@ -128,7 +129,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a18e96917492d3a389bab71?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69bcc8004828227293feb4a0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Manager, Residential Energy Engineering (Summer 2026)](https://jobright.ai/jobs/info/6a17ae5ab7e0a45039a9ce49?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee75b0a497d5210c847?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 27 |
-| ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee45b0a497d5210c80d?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | May 27 |
-| **[BMO](http://www.bmo.com)** | **[Card Products Internship, Fall 2026 (4 months)-Toronto, CA](https://jobright.ai/jobs/info/6a176cd39005d858e94f9c9e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
