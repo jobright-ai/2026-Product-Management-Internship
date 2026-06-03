@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[COMSOL, Inc.](http://www.comsol.fr)** | **[Product Information Intern](https://jobright.ai/jobs/info/6a1f8ea8b61b2c65b37b3207?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Jun 02 |
 | **[Hootsuite](https://hootsuite.com)** | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a1f72a7c5277c00c64869b7?utm_campaign=1047&utm_source=git)** | Vancouver | On Site | Jun 02 |
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a1f72a6c5277c00c64869b6?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jun 02 |
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a1f72a5c5277c00c64869b4?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 02 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f6db5a507373dff6c1276?utm_campaign=1047&utm_source=git)** | Norwalk, CT | On Site | Jun 02 |
 | **[Firestorm](https://www.launchfirestorm.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6a1f6904804915678116a18a?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jun 02 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Jun 02 |
-| **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f3c05dce5db1256d1389d?utm_campaign=1047&utm_source=git)** | Norwalk, CT, USA, US | On Site | Jun 02 |
-| ↳ | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f3c05dce5db1256d1389e?utm_campaign=1047&utm_source=git)** | New York, NY, USA, US | On Site | Jun 02 |
+| **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f3c05dce5db1256d1389e?utm_campaign=1047&utm_source=git)** | New York, NY, USA, US | On Site | Jun 02 |
+| ↳ | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f3c05dce5db1256d1389d?utm_campaign=1047&utm_source=git)** | Norwalk, CT, USA, US | On Site | Jun 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Fall 2026)](https://jobright.ai/jobs/info/6a1f53f3dce5db1256d1442b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a1f1858a507373dff6bd6a7?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Jun 02 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[SarvM.AI](https://sarvm.ai)** | **[Product Manager Intern Full Time (Remote)](https://jobright.ai/jobs/info/6a1dd7dbe24ef3652583a553?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations  Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a1dd6fb3e538a28c204c51e?utm_campaign=1047&utm_source=git)** | New York | On Site | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69fb1d82d21cf86d1e3cf9a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 01 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 01 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 01 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359c1430333075cce89e?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | May 31 |
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a1735a31430333075cce8a3?utm_campaign=1047&utm_source=git)** | Mountain View, CA (HQ) | Hybrid | May 31 |
@@ -135,7 +136,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69fb63f638179b6f1ae7806b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69a652bf2c0d8b0f5cd069d1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
 | ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69df02d936823d1b42585837?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
-| ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69ddbed35913ad339813a346?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
-| ↳ | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69dd618961f6ed54321fd2a5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 27 |
-| ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a16b5521935fa61b3c73353?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
