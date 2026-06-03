@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hootsuite](https://hootsuite.com)** | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a1f72a7c5277c00c64869b7?utm_campaign=1047&utm_source=git)** | Vancouver | On Site | Jun 02 |
+| ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a1f72a6c5277c00c64869b6?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jun 02 |
+| ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a1f72a5c5277c00c64869b4?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 02 |
+| **[Firestorm](https://www.launchfirestorm.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6a1f71c3dce5db1256d1594c?utm_campaign=1047&utm_source=git)** | San Diego | On Site | Jun 02 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6a1f6015dce5db1256d14a5a?utm_campaign=1047&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | On Site | Jun 02 |
+| **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f6e81a507373dff6c1290?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 02 |
+| ↳ | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f6db5a507373dff6c1276?utm_campaign=1047&utm_source=git)** | Norwalk, CT | On Site | Jun 02 |
+| **[Firestorm](https://www.launchfirestorm.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6a1f6904804915678116a18a?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jun 02 |
+| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69aa24492ebd316bece1dd39?utm_campaign=1047&utm_source=git)** | Sunnyvale, California - HQ | On Site | Jun 02 |
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f3c05dce5db1256d1389d?utm_campaign=1047&utm_source=git)** | Norwalk, CT, USA, US | On Site | Jun 02 |
 | ↳ | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/6a1f3c05dce5db1256d1389e?utm_campaign=1047&utm_source=git)** | New York, NY, USA, US | On Site | Jun 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Fall 2026)](https://jobright.ai/jobs/info/6a1f53f3dce5db1256d1442b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a1f1858a507373dff6bd6a7?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93b?utm_campaign=1047&utm_source=git)** | Torrington, Connecticut, United States | On Site | Jun 02 |
-| **[Qualys](https://www.qualys.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1eba91a507373dff6bb30c?utm_campaign=1047&utm_source=git)** | Foster City, US | On Site | Jun 02 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Jun 02 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1ed417a507373dff6bba2f?utm_campaign=1047&utm_source=git)** | US Nationwide - Remote, US | Remote | Jun 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
