@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Unison](https://unisonglobal.com)** | **[Product Management Summer Intern (Federal Software Market)](https://jobright.ai/jobs/info/6a202805338c0123051172e9?utm_campaign=1047&utm_source=git)** | US | On Site | Jun 03 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2023a0c00e701fe83676bf?utm_campaign=1047&utm_source=git)** | US-NC-Huntersville | On Site | Jun 03 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a20239fc00e701fe83676be?utm_campaign=1047&utm_source=git)** | Huntersville, NC, US | On Site | Jun 03 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 03 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1c?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | Jun 03 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | Jun 03 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 03 |
 | **[Bybit](https://www.bybit.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a17faca3c1a380237ac0638?utm_campaign=1047&utm_source=git)** | APAC - Remote | Remote | Jun 02 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a17fac83c1a380237ac0633?utm_campaign=1047&utm_source=git)** | Remote General (Non-EU) | Remote | Jun 02 |
 | **[Influcio](https://www.influcio.com)** | **[AI PM Intern](https://jobright.ai/jobs/info/6a1f90d6c5277c00c64872f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
