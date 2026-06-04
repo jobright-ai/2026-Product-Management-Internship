@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CIBC](https://www.cibc.com)** | **[Digital Product Analyst Co-op](https://jobright.ai/jobs/info/6a21ec3cc00e701fe8371e94?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | Jun 04 |
 | **[LifeMD](https://lifemd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a21d8d6338c012305120fd5?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Jun 04 |
 | **[Inference.ai](https://www.inference.ai/)** | **[AI Product & Strategy Intern (Ghost Platform)](https://jobright.ai/jobs/info/6a21c5f5338c012305120867?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Jun 04 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/6a1e16bf9111f771d1a1d2ed?utm_campaign=1047&utm_source=git)** | El Segundo, CA | On Site | Jun 04 |
@@ -64,11 +65,11 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 04 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a218fad4bdf8a5a96bd6502?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 04 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a218c517c30cc2cc516975f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jun 04 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee75b0a497d5210c847?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
 | ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee45b0a497d5210c80d?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 04 |
-| ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee75b0a497d5210c847?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 04 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 04 |
+| ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 04 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 04 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 04 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0f9f654b3359cf23bc?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | Jun 04 |
 | **[Wheely](https://wheely.com/en)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6a21856a902d19201c7b7b57?utm_campaign=1047&utm_source=git)** | Miami | Hybrid | Jun 04 |
