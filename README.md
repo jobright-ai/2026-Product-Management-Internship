@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Product and Strategy - Cargo Commercial (Fall 2026)](https://jobright.ai/jobs/info/6a207820338c012305119582?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jun 03 |
 | **[Ulteig](http://ulteig.com)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6a2073ae3a5f0145f4c14a41?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 03 |
 | ↳ | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6a207166902d19201c7b24f8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 03 |
-| **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a20239fc00e701fe83676be?utm_campaign=1047&utm_source=git)** | Huntersville, NC, US | On Site | Jun 03 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a2023a0c00e701fe83676bf?utm_campaign=1047&utm_source=git)** | US-NC-Huntersville | On Site | Jun 03 |
+| **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2023a0c00e701fe83676bf?utm_campaign=1047&utm_source=git)** | US-NC-Huntersville | On Site | Jun 03 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a20239fc00e701fe83676be?utm_campaign=1047&utm_source=git)** | Huntersville, NC, US | On Site | Jun 03 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a20542fca8f0b365d7a05ef?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Jun 03 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a20542fca8f0b365d7a05f0?utm_campaign=1047&utm_source=git)** | New York | Hybrid | Jun 03 |
 | **[Unison](https://unisonglobal.com)** | **[Product Management Summer Intern (Federal Software Market)](https://jobright.ai/jobs/info/6a202805338c0123051172e9?utm_campaign=1047&utm_source=git)** | US | On Site | Jun 03 |
