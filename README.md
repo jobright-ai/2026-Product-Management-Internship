@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 04 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a2190b1ca8f0b365d7a6ef3?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 04 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee45b0a497d5210c80d?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 04 |
-| ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
 | ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee75b0a497d5210c847?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
+| ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 04 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 04 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 04 |
@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6a207166902d19201c7b24f8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 03 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a20542fca8f0b365d7a05ef?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Jun 03 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a20542fca8f0b365d7a05f0?utm_campaign=1047&utm_source=git)** | New York | Hybrid | Jun 03 |
-| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c151?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | Jun 03 |
+| **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a07e07b403fc339507e8b1c?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | Jun 03 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a1a55eb9111f771d1a0c152?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 03 |
 | **[Influcio](https://www.influcio.com)** | **[AI PM Intern](https://jobright.ai/jobs/info/6a1f90d6c5277c00c64872f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
 | **[COMSOL, Inc.](http://www.comsol.fr)** | **[Product Information Intern](https://jobright.ai/jobs/info/6a1f8ea8b61b2c65b37b3207?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Jun 02 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a1f1858a507373dff6bd6a7?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Jun 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
-| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
+| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053b6b135014dbc9a21d?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053a6b135014dbc9a21b?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d5acdbcfdc6132f9463f6f?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Jun 01 |
@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern, Admin Console](https://jobright.ai/jobs/info/6a17359a1430333075cce89c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | May 31 |
 | **[Cresta](https://www.cresta.com)** | **[Product Design Intern for AI and Human Agents Platform](https://jobright.ai/jobs/info/6a1bb6ce2b206f3955eba71e?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[PSM Coordinating Intern](https://jobright.ai/jobs/info/69fe39976bcf315dc8f55779?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | May 30 |
-| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a1a7f3e9111f771d1a0cbb5?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
