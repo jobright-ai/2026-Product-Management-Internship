@@ -82,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a22fff1757ade085b6ad930?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Jun 04 |
 | **[Four Hands](https://fourhands.com)** | **[Key Account Product Development Intern](https://jobright.ai/jobs/info/6a21d3c0c00e701fe8371178?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jun 04 |
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/69e9836d0a6e09555303c99d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 04 |
-| **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a218fad4bdf8a5a96bd6502?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 04 |
+| **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a2190b1ca8f0b365d7a6ef3?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 04 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee75b0a497d5210c847?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
 | ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6a176ee45b0a497d5210c80d?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 04 |
 | ↳ | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e84733e0cd471b2f1305eb?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
