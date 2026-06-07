@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/6a2231b8338c0123051232fa?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a25d424757ade085b6b2343?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 07 |
+| ↳ | **[Product Solutions and Operations Intern (Content and Service Ads)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae33817b11b1c2e41b418?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 07 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management Product Development (Fall 2026)](https://jobright.ai/jobs/info/6a1f53f3dce5db1256d1442b?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 02 |
 | **[Moroccanoil](https://www.moroccanoil.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69fa36b881706a5bd2174659?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Jun 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
-| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc712b206f3955eb01b7?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 01 |
+| ↳ | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a19bc702b206f3955eb01b5?utm_campaign=1047&utm_source=git)** | Oakville | On Site | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053b6b135014dbc9a21d?utm_campaign=1047&utm_source=git)** | Oakville | Hybrid | Jun 01 |
 | ↳ | **[Product Content Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a1e053a6b135014dbc9a21b?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 01 |
 | **[Fresenius Kabi Canada](https://www.fresenius-kabi.com/en-ca/)** | **[Commercial Analytics Intern - Biopharma](https://jobright.ai/jobs/info/69d5acdbcfdc6132f9463f6f?utm_campaign=1047&utm_source=git)** | Toronto, ON | On Site | Jun 01 |
