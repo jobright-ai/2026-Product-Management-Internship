@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a29e959d3ec8317fe1413b2?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 10 |
 | **[Allstate Identity Protection](https://www.allstateidentityprotection.com)** | **[Summer  Intern – UX/Product Management -](https://jobright.ai/jobs/info/6a29d8b4c07d4b6ae1c4348f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Ria Money Transfer](https://in.riafinancial.com/home)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a29c8a8c07d4b6ae1c42d74?utm_campaign=1047&utm_source=git)** | , Remote, United States | Remote | Jun 10 |
 | **[Mujin](https://www.mujin.co.jp)** | **[Product Development-GT Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29ba932cde2824469be393?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Jun 10 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0cf31722d0d34036c9a580?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Jun 10 |
 | **[Amber](https://amberstudent.com)** | **[Apprentice- catalogue management](https://jobright.ai/jobs/info/6a296234d3ec8317fe13da24?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 10 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 10 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 10 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 10 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 10 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 10 |
