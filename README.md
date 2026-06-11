@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 05 |
 | **[SarvM.AI](https://sarvm.ai)** | **[Product Manager Intern Full Time (Remote)](https://jobright.ai/jobs/info/6a1dd7dbe24ef3652583a553?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Peakflo (YC W22)](https://peakflo.co)** | **[Product Manager Intern - (Paid - India/Remote)](https://jobright.ai/jobs/info/6a228923597131741415f1fd?utm_campaign=1047&utm_source=git)** | Remote (IN) | Remote | Jun 05 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[Internship: AI Product Strategy Intern](https://jobright.ai/jobs/info/6a225f11d1ab07243c7f7d8c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
