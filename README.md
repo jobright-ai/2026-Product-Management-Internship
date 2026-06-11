@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[Digital Product Analyst Co-op](https://jobright.ai/jobs/info/6a21ec3cc00e701fe8371e94?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | Jun 04 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a05d95c6c07461fe171934c?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/69e883fe58811370cb126a21?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 04 |
-| **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a28a6b92d6c332ee52e7646?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
