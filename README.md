@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Peakflo (YC W22)](https://peakflo.co)** | **[Product Manager Intern - (Paid - India/Remote)](https://jobright.ai/jobs/info/6a228923597131741415f1fd?utm_campaign=1047&utm_source=git)** | Remote (IN) | Remote | Jun 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Internship: AI Product Strategy Intern](https://jobright.ai/jobs/info/6a225f11d1ab07243c7f7d8c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Jun 04 |
 | **[CIBC](https://www.cibc.com)** | **[Digital Product Analyst Co-op](https://jobright.ai/jobs/info/6a21ec3cc00e701fe8371e94?utm_campaign=1047&utm_source=git)** | Toronto, ON, CA | On Site | Jun 04 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Associate Product Health Summer Intern](https://jobright.ai/jobs/info/6a05d95c6c07461fe171934c?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
