@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2c24e47cd40a338fae4e36?utm_campaign=1047&utm_source=git)** | Baltimore, MD, United States | Remote | Jun 12 |
+| ↳ | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2c24defc064474905486ca?utm_campaign=1047&utm_source=git)** | Columbia, MD, United States | Remote | Jun 12 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c1f7da1d15e3c552fa28b?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jun 12 |
 | **[WiCi Technologies, Inc.](https://wici.ai)** | **[AI Product Manager Associate](https://jobright.ai/jobs/info/6a2c0fc3c260bb1b8ae1448a?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jun 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
