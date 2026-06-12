@@ -129,6 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jun 05 |
-| **[NPR](http://www.npr.org)** | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae34?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 05 |
-| ↳ | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae33?utm_campaign=1047&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 05 |
+| **[NPR](http://www.npr.org)** | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae33?utm_campaign=1047&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 05 |
+| ↳ | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae34?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
