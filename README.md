@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f3353ec78b9e4518953a48?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
 | **[ASUS](https://rog.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2bcd56fc0644749054758d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Product Management, Global Revenue Science (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8413f691a293d0b8f8c?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
