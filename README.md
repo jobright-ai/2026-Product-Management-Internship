@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2c78c8fc0644749054a3d1?utm_campaign=1047&utm_source=git)** | Columbia, MD, United States | Remote | Jun 12 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Product & Program Management](https://jobright.ai/jobs/info/6a2c67e3fc06447490549bbb?utm_campaign=1047&utm_source=git)** | MVW Headquarters, US | Hybrid | Jun 12 |
+| **[IBM](http://www.ibm.com)** | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2c6c78c260bb1b8ae16559?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Jun 12 |
+| ↳ | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2c6c77c260bb1b8ae16558?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
+| ↳ | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2c6c73f1751b183c8186cf?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Jun 12 |
+| ↳ | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2c6b17c260bb1b8ae16503?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Jun 12 |
+| ↳ | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2c6ad4c260bb1b8ae164f2?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jun 12 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c38a5f1751b183c8175f2?utm_campaign=1047&utm_source=git)** | 581 Main Street, Woodbridge, NJ07095 | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c1f7da1d15e3c552fa28b?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jun 12 |
