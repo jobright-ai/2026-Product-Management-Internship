@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2bb41e3f691a293d0b8f52?utm_campaign=1047&utm_source=git)** | Columbia, MD, United States | Remote | Jun 12 |
 | **[Inflection Point Partners](www.inflectionpoint-partners.com)** | **[Product Development and G2M Internship](https://jobright.ai/jobs/info/6a2b911e2cde2824469c6d68?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jun 11 |
 | **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jun 11 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a2b737cc07d4b6ae1c4ac0c?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 11 |
@@ -129,6 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jun 05 |
-| **[NPR](http://www.npr.org)** | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae33?utm_campaign=1047&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 05 |
-| ↳ | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae34?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
