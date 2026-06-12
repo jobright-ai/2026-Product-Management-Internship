@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jun 11 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a2b737cc07d4b6ae1c4ac0c?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 11 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[IT Product & Process Management Intern](https://jobright.ai/jobs/info/6a2ae31ad3ec8317fe145a48?utm_campaign=1047&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | Jun 11 |
 | **[Teleflex](http://www.teleflex.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/6a2b57102cde2824469c6449?utm_campaign=1047&utm_source=git)** | Wyomissing PA USA | On Site | Jun 11 |
-| **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jun 11 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2b49fc1de59e0682a88f22?utm_campaign=1047&utm_source=git)** | Columbia, MD | Remote | Jun 11 |
 | **[Teleflex](http://www.teleflex.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/6a2b388e9bf7365df089cf15?utm_campaign=1047&utm_source=git)** | Wyomissing, PA | On Site | Jun 11 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2b23ad1de59e0682a8844a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 11 |
@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0cf31722d0d34036c9a580?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Jun 10 |
 | **[Amber](https://amberstudent.com)** | **[Apprentice- catalogue management](https://jobright.ai/jobs/info/6a296234d3ec8317fe13da24?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 10 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 10 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 10 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 10 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 10 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/69bcf3f04828227293ff0482?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 10 |
@@ -128,6 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b324617b11b1c2e424870?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jun 05 |
-| **[NPR](http://www.npr.org)** | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae33?utm_campaign=1047&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 05 |
-| ↳ | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae34?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 05 |
+| **[NPR](http://www.npr.org)** | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae34?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 05 |
+| ↳ | **[Product Operations and Support Strategy Internship - Fall 2026](https://jobright.ai/jobs/info/6a22d863dedf78312c7aae33?utm_campaign=1047&utm_source=git)** | Washington, DC - HQ | Hybrid | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
