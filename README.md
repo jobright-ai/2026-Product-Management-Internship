@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2bb41e3f691a293d0b8f52?utm_campaign=1047&utm_source=git)** | Columbia, MD, United States | Remote | Jun 12 |
-| **[Inflection Point Partners](www.inflectionpoint-partners.com)** | **[Product Development and G2M Internship](https://jobright.ai/jobs/info/6a2b911e2cde2824469c6d68?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jun 11 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Product Management, Global Revenue Science (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8413f691a293d0b8f8c?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| ↳ | **[Internship – Digital Product Management, Resort Guest Experience (Spring 2027)](https://jobright.ai/jobs/info/6a2bb825d3ec8317fe1492eb?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jun 11 |
 | **[Aquatech](http://www.aquatech.com)** | **[Intern - Product & Business Strategy](https://jobright.ai/jobs/info/6a2b737cc07d4b6ae1c4ac0c?utm_campaign=1047&utm_source=git)** | Canonsburg PA - Canonsburg, PA 15317 | On Site | Jun 11 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[IT Product & Process Management Intern](https://jobright.ai/jobs/info/6a2ae31ad3ec8317fe145a48?utm_campaign=1047&utm_source=git)** | 3740 W Market Center Dr, Bluffdale, UT, 84065, US | Hybrid | Jun 11 |
