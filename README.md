@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccccec260bb1b8ae17c67?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
+| **[Helm AI](www.visithelm.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2cca6ea1d15e3c552fd2aa?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jun 12 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a2c9f5fd3ec94183f4bdcbf?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2c9ec2a1d15e3c552fc9dc?utm_campaign=1047&utm_source=git)** | Hybrid @ Bellevue | Hybrid | Jun 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f296edecbc8c2f7320b755?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Jun 11 |
 | ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a2a80639bf7365df08997fd?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a2e47fea1610bcab4ae?utm_campaign=1047&utm_source=git)** | Kansas City, MO | On Site | Jun 11 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analytics Intern (Remote)](https://jobright.ai/jobs/info/6a2ccc61fc0644749054b45a?utm_campaign=1047&utm_source=git)** | Columbia, MD, United States | Remote | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a29e959d3ec8317fe1413b2?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 10 |
 | **[Allstate Identity Protection](https://www.allstateidentityprotection.com)** | **[Summer  Intern – UX/Product Management -](https://jobright.ai/jobs/info/6a29d8b4c07d4b6ae1c4348f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Mujin](https://www.mujin.co.jp)** | **[Product Development-GT Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29ba932cde2824469be393?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | Jun 10 |
@@ -126,6 +129,10 @@ For a complete list, click the following sortable link below:
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a27443e7d827633afff9d3a?utm_campaign=1047&utm_source=git)** | Ashburn, VA | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Management Intern, Unified Access - Fall 2026](https://jobright.ai/jobs/info/6a2742a27d827633afff9c75?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Danfoss](https://www.danfoss.com)** | **[Product Management and Marketing Intern](https://jobright.ai/jobs/info/6a273dd22056260dd6e86223?utm_campaign=1047&utm_source=git)** | Tallahassee, FL | On Site | Jun 08 |
+| **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 08 |
+| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 08 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 08 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 08 |
 | **[Digital Realty](http://www.digitalrealty.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a272ccd7d827633afff92fa?utm_campaign=1047&utm_source=git)** | 21625 Gresham Drive, Ashburn, VA, 20147, US | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Management Intern, Device Trust - Fall 2026](https://jobright.ai/jobs/info/6a2720c12056260dd6e854a3?utm_campaign=1047&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
 | ↳ | **[Product Management Intern, Unified Access - Fall 2026](https://jobright.ai/jobs/info/6a2720bdca77fd3096d25828?utm_campaign=1047&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
@@ -135,7 +142,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a6b370c4972328e7e8a58?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a27955cfd37e62bb47a5063?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Core Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2d4f1423772304eb5680?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
-| ↳ | **[Product Manager Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697b2e181423772304eb5853?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
-| ↳ | **[Product Manager Intern (Measurement Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697ae56b1423772304eace4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
