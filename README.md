@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
-| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
+| **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
+| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | **[WiCi Technologies, Inc.](https://wici.ai)** | **[AI Product Manager](https://jobright.ai/jobs/info/6a2cd932c260bb1b8ae17db7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jun 12 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Zoom](https://www.zoom.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2aea25c07d4b6ae1c47ffe?utm_campaign=1047&utm_source=git)** | Seattle (WA), US | On Site | Jun 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Product & Process Management Intern](https://jobright.ai/jobs/info/6a2acc789bf7365df089a6ae?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Jun 11 |
 | **[Goosehead Insurance](http://www.gooseheadinsurance.com)** | **[Product Management Technical Intern](https://jobright.ai/jobs/info/6a2b09b50ad4053b108ca5ff?utm_campaign=1047&utm_source=git)** | Westlake, US | On Site | Jun 11 |
-| **[equipifi](http://www.equipifi.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2b00640ad4053b108ca19f?utm_campaign=1047&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Jun 11 |
 | **[AirAdvisor](https://airadvisor.com/)** | **[Product Management and AI Automation Intern / Paid Internship](https://jobright.ai/jobs/info/6a2ac5359bf7365df089a49e?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 11 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Category Management](https://jobright.ai/jobs/info/6a0e5f8009ecfd704b3e8931?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f330ee461b9b613a61f024?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
@@ -139,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Pro Sales Product Team - Intern](https://jobright.ai/jobs/info/6a26fd082056260dd6e84775?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2a704cd3ec8317fe143b60?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2a6b370c4972328e7e8a58?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a27955cfd37e62bb47a5063?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
