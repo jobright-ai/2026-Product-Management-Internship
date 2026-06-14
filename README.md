@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 14 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2cd1e24ef3652582a456?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
-| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
+| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2cd1e24ef3652582a456?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69f57c2ea3d34b4f76f556a4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2e310b7cd40a338faea173?utm_campaign=1047&utm_source=git)** | New York | On Site | Jun 13 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Hootsuite](https://hootsuite.com)** | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0cf2ec538d03366dc92d6b?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 10 |
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0cf31722d0d34036c9a580?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Jun 10 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 10 |
-| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 10 |
+| **[Geotab](http://www.geotab.com/)** | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b5?utm_campaign=1047&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 10 |
+| ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0c9f654b3359cf23b4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 10 |
 | ↳ | **[Product Coordinator Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a120a0d9f654b3359cf23ba?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 10 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f0978e8feca91f1491aedc?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/697840c088e2b47213bc4b35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
