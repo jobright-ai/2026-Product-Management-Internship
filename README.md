@@ -61,10 +61,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2e13b9a1d15e3c552ff3e4?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 13 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Product & Program Management](https://jobright.ai/jobs/info/6a2c67e3fc06447490549bbb?utm_campaign=1047&utm_source=git)** | MVW Headquarters, US | Hybrid | Jun 13 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10f52669bd827926af16a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
-| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
+| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | **[WiCi Technologies, Inc.](https://wici.ai)** | **[AI Product Manager](https://jobright.ai/jobs/info/6a2cd932c260bb1b8ae17db7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccccec260bb1b8ae17c67?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a2c9f5fd3ec94183f4bdcbf?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 12 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Specialty Client Product Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a292167fd37e62bb47ad0ac?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | ↳ | **[Intern - Product Management Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29215b3442db3ffc36529f?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | **[Inference.ai](https://www.inference.ai/)** | **[AI Product & Strategy Intern](https://jobright.ai/jobs/info/6a2989292cde2824469bcbd2?utm_campaign=1047&utm_source=git)** | Redwood City, CA | On Site | Jun 09 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a289841883c0d3be6543131?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 09 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Pro Sales Product Team - Intern](https://jobright.ai/jobs/info/6a2874affd37e62bb47a9495?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
 | **[Railbookers Group](https://www.railbookersgroup.com/)** | **[Product Department Intern](https://jobright.ai/jobs/info/6a285fc7883c0d3be65418af?utm_campaign=1047&utm_source=git)** | Fully Remote | Remote | Jun 09 |
 | **[1Password](https://1password.com)** | **[Product Management Intern, Device Trust - Fall 2026](https://jobright.ai/jobs/info/6a298c95495d985b99424149?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 09 |
