@@ -62,8 +62,8 @@ For a complete list, click the following sortable link below:
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10f52669bd827926af16a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | **[WiCi Technologies, Inc.](https://wici.ai)** | **[AI Product Manager](https://jobright.ai/jobs/info/6a2cd932c260bb1b8ae17db7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jun 12 |
 | **[GenPark](https://genpark.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2cd5dcc260bb1b8ae17d47?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccccec260bb1b8ae17c67?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
@@ -71,9 +71,7 @@ For a complete list, click the following sortable link below:
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2c9ec2a1d15e3c552fc9dc?utm_campaign=1047&utm_source=git)** | Hybrid @ Bellevue | Hybrid | Jun 12 |
 | **[IBM](http://www.ibm.com)** | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2de2effc0644749054cee9?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jun 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69f29707f154d768fbaa7f20?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 12 |
-| **[IBM](http://www.ibm.com)** | **[Intern Conversion: Product Manager](https://jobright.ai/jobs/info/6a2c6c73f1751b183c8186cf?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Jun 12 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a28ea11883c0d3be6544c72?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 12 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c38a5f1751b183c8175f2?utm_campaign=1047&utm_source=git)** | 581 Main Street, Woodbridge, NJ07095 | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c1f7da1d15e3c552fa28b?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6976d6d2bc8e722e7b1b4cd5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
