@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a3181bb595881697001505d?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6a29acd30c4972328e7e50df?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jun 16 |
 | ↳ | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30ce3b43732c05812e3c01?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30da6443732c05812e3f5e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 15 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f0978e8feca91f1491aedc?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 15 |
 | **[ecobee](https://www.ecobee.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3063f7afabbe533fb8ad75?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 15 |
-| **[Home Bank](http://www.home24bank.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a306391eace377055eb6136?utm_campaign=1047&utm_source=git)** | Veterans Branch _ 1600 Veterans, Metairie, LA, US | On Site | Jun 15 |
 | **[Generac](https://www.generac.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a305bf989f8f147d3734fad?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 15 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jun 15 |
 | **[Home Bank](https://home.bank)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a31322ee7b7d514a3bd1e1e?utm_campaign=1047&utm_source=git)** | Metairie, LA, US | On Site | Jun 15 |
@@ -81,11 +81,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
 | ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2cd1e24ef3652582a456?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Product & Program Management](https://jobright.ai/jobs/info/6a2c67e3fc06447490549bbb?utm_campaign=1047&utm_source=git)** | MVW Headquarters, US | Hybrid | Jun 13 |
-| **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10f52669bd827926af16a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
+| **[Pebl](https://hellopebl.com/)** | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a1110769fdbf21f36cb28cf?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
+| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10f52669bd827926af16a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30e05589f8f147d37371ed?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
 | ↳ | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d2c189f8f147d3736f25?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
 | **[WiCi AI](https://wici.ai/)** | **[AI Product Manager](https://jobright.ai/jobs/info/6a2cd932c260bb1b8ae17db7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jun 12 |
