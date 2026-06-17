@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a326e6260e62008fe8be26b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
 | **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Jun 17 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a3210b12ee3ac1b4bef2515?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Jun 16 |
 | **[Applied BioCode, Inc.](http://apbiocode.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a31e46a0ff23769fdb20eb2?utm_campaign=1047&utm_source=git)** | Santa Fe Springs, CA | On Site | Jun 16 |
