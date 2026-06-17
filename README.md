@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Product & Program Management](https://jobright.ai/jobs/info/6a2c67e3fc06447490549bbb?utm_campaign=1047&utm_source=git)** | MVW Headquarters, US | Hybrid | Jun 13 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a1110769fdbf21f36cb28cf?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10f52669bd827926af16a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
-| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
+| ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 13 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30e05589f8f147d37371ed?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
@@ -121,6 +121,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a3022fa524fd5657fe0f053?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 10 |
 | **[Hootsuite](https://hootsuite.com)** | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0cf2ec538d03366dc92d6b?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 10 |
 | ↳ | **[Co-op/Intern, Product Management - Summer 2026](https://jobright.ai/jobs/info/6a0cf31722d0d34036c9a580?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 10 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Jun 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ff9f0afabbe533fb88626?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
