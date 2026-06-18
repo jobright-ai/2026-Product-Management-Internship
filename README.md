@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New Product Development Intern](https://jobright.ai/jobs/info/6a2b388e9bf7365df089cf15?utm_campaign=1047&utm_source=git)** | Wyomissing, PA | On Site | Jun 11 |
 | **[ST Engineering iDirect](http://www.idirect.net)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2b23ad1de59e0682a8844a?utm_campaign=1047&utm_source=git)** | Herndon, VA, US | On Site | Jun 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[IT Product & Process Management Intern](https://jobright.ai/jobs/info/6a2acc789bf7365df089a6ae?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Jun 11 |
-| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Category Management](https://jobright.ai/jobs/info/6a0e5f8009ecfd704b3e8931?utm_campaign=1047&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
