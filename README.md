@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship – Digital Product Management, Resort Guest Experience (Spring 2027)](https://jobright.ai/jobs/info/6a2bb825d3ec8317fe1492eb?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a323c16c477a5075f490ead?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Jun 11 |
 | ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a2f86c8093df201d07ae118?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
-| ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a32147fe7b7d514a3bd6d36?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
