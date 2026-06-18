@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d578afabbe533fb8c8ce?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
+| ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cae7b7d514a3bd6d87?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30429f43732c05812e1707?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 | **[Dura-Line](http://duraline.com)** | **[Product Development Intern Job Details / Orbia](https://jobright.ai/jobs/info/6a333f72910b7349107147c7?utm_campaign=1047&utm_source=git)** | Boston, MA, US, 02451 | Remote | Jun 17 |
