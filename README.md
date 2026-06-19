@@ -58,11 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Flexential](https://www.flexential.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a346fcc649fdf16292f5f69?utm_campaign=1047&utm_source=git)** | PA - Collegeville, US | On Site | Jun 18 |
-| **[Vene Health](https://venehealth.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a346381ce501060b5cf1041?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 18 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - AI Product Management & Merchandising](https://jobright.ai/jobs/info/6a341790ce501060b5cef42a?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 18 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 18 |
 | **[Astronomer](https://www.astronomer.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3417cd1232144fb155e152?utm_campaign=1047&utm_source=git)** | New York City | On Site | Jun 18 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a173ad49005d858e94f7a53?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 18 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - AI Product Management & Merchandising](https://jobright.ai/jobs/info/6a341790ce501060b5cef42a?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d578afabbe533fb8c8ce?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cae7b7d514a3bd6d87?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
@@ -75,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Moen](https://www.moen.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3301a7910b734910713581?utm_campaign=1047&utm_source=git)** | Deerfield, IL | On Site | Jun 17 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/6a2a41fe495d985b994283d3?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 17 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 17 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 17 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 17 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cf0ff23769fdb219c1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d523093df201d07b2d42?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a326e6260e62008fe8be26b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9ccf093df201d07ae28b?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | ↳ | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c1cd43732c05812e39b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a28ea11883c0d3be6544c72?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 14 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
-| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
+| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern - Product & Program Management](https://jobright.ai/jobs/info/6a2c67e3fc06447490549bbb?utm_campaign=1047&utm_source=git)** | MVW Headquarters, US | Hybrid | Jun 13 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a1110769fdbf21f36cb28cf?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
 | ↳ | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10f52669bd827926af16a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 13 |
@@ -118,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c1f7da1d15e3c552fa28b?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jun 12 |
 | **[Fair Oaks Farms](https://fofarms.com)** | **[Nutrition Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a33fac129c90c607e4dca6a?utm_campaign=1047&utm_source=git)** | La Crosse, WI, US | On Site | Jun 12 |
 | **[ASUS](https://rog.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | Jun 12 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Product Management, Global Revenue Science (Spring 2027)](https://jobright.ai/jobs/info/6a2bb8413f691a293d0b8f8c?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| ↳ | **[Internship – Digital Product Management, Resort Guest Experience (Spring 2027)](https://jobright.ai/jobs/info/6a2bb825d3ec8317fe1492eb?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
