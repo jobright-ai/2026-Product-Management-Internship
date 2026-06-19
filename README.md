@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 17 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/6a2a41fe495d985b994283d3?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 17 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 17 |
-| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 17 |
 | ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a15fe06dc845f4be5bdafb3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 17 |
+| ↳ | **[Product Manager Intern - Alfie (Conversational AI)](https://jobright.ai/jobs/info/6a10b8779f654b3359ced87b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cf0ff23769fdb219c1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d523093df201d07b2d42?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a326e6260e62008fe8be26b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
@@ -116,6 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34d1251232144fb156172c?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 12 |
 | **[WiCi AI](https://wici.ai/)** | **[AI Product Manager](https://jobright.ai/jobs/info/6a2cd932c260bb1b8ae17db7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jun 12 |
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2ccccec260bb1b8ae17c67?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 12 |
-| **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a2c9f5fd3ec94183f4bdcbf?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 12 |
-| **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2c9ec2a1d15e3c552fc9dc?utm_campaign=1047&utm_source=git)** | Hybrid @ Bellevue | Hybrid | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
