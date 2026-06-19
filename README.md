@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69f36753461b9b613a620274?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 12 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a2c1f7da1d15e3c552fa28b?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jun 12 |
 | **[Fair Oaks Farms](https://fofarms.com)** | **[Nutrition Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/6a33fac129c90c607e4dca6a?utm_campaign=1047&utm_source=git)** | La Crosse, WI, US | On Site | Jun 12 |
-| **[ASUS](https://rog.asus.com)** | **[Product Manager Assistant (Summer Internship)](https://jobright.ai/jobs/info/6a03fb5122395b6dc6d995ba?utm_campaign=1047&utm_source=git)** | Hybrid Remote, Fremont, California | Hybrid | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
