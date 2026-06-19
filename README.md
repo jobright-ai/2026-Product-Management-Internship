@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FXI](https://www.fxi.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a356319f6b55d12c791f8dd?utm_campaign=1047&utm_source=git)** | 120 Concord Road, Aston, PA19014 | Hybrid | Jun 19 |
 | **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Product Management Intern (Unpaid)](https://jobright.ai/jobs/info/6a354d787f3fdd180d4cce9b?utm_campaign=1047&utm_source=git)** | Daytona Beach, FL | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30c66f524fd5657fe121ed?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302268afabbe533fb89270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
