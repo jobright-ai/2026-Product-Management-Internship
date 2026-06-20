@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pareto Connect](https://apply.trypareto.ai/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a36e836649fdf16292fc691?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Remote | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a365f85ce501060b5cf6aee?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
 | ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a365f94649fdf16292fb5b3?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
@@ -114,6 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 14 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9ccf093df201d07ae28b?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | ↳ | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c1cd43732c05812e39b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
-| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
+| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
