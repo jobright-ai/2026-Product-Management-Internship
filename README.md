@@ -114,6 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 14 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9ccf093df201d07ae28b?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jun 14 |
 | ↳ | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30c1cd43732c05812e39b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
-| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/69d942d2869c7e25d8599d44?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Jun 14 |
+| ↳ | **[Product Management Intern (Clinical)](https://jobright.ai/jobs/info/6a1a2ccbe24ef3652582a452?utm_campaign=1047&utm_source=git)** | Menlo Park - 1035 | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
