@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a374d87ce501060b5cf8411?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 20 |
+| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a365f85ce501060b5cf6aee?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
 | ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a365f94649fdf16292fb5b3?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a28ea11883c0d3be6544c72?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 19 |
