@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39a0d76484fb75f2b32d9c?utm_campaign=1047&utm_source=git)** | San Jose, California | On Site | Jun 22 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921733442db3ffc3652b5?utm_campaign=1047&utm_source=git)** | New York, NY, US | Hybrid | Jun 22 |
 | **[1Password](https://1password.com)** | **[Product Management Intern, Unified Access - Fall 2026](https://jobright.ai/jobs/info/6a2720bdca77fd3096d25828?utm_campaign=1047&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 22 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 22 |
