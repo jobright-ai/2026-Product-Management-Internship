@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ecobee](https://www.ecobee.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a39534e649fdf16293003f7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 22 |
+| **[equipifi](http://www.equipifi.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a3948ca6484fb75f2b30789?utm_campaign=1047&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Jun 22 |
 | **[Lofty](https://lofty.com)** | **[AI-Native Product Management Intern](https://jobright.ai/jobs/info/6a27440212f0202342263bc1?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a390fcc6484fb75f2b2fce9?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a38beefce501060b5cf9fd5?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 21 |
