@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d55f093df201d07b2d4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
 | ↳ | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ba3bec07d4b6ae1c4b132?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30da6443732c05812e3f5e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 15 |
-| **[Generac](https://www.generac.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a305bf989f8f147d3734fad?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
