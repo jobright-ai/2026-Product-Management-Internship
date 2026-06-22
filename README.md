@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoom](https://www.zoom.com)** | **[Product Manager Intern, AI Services & Agentic Search](https://jobright.ai/jobs/info/6a39b380f6b55d12c7929ccb?utm_campaign=1047&utm_source=git)** | Seattle (WA), US | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39a0d76484fb75f2b32d9c?utm_campaign=1047&utm_source=git)** | San Jose, California | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921733442db3ffc3652b5?utm_campaign=1047&utm_source=git)** | New York, NY, US | Hybrid | Jun 22 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30ce3b43732c05812e3c01?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d55f093df201d07b2d4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
 | ↳ | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ba3bec07d4b6ae1c4b132?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30da6443732c05812e3f5e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
