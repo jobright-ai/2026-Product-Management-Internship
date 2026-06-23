@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 23 |
+| **[Astronomer](https://www.astronomer.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3417cd1232144fb155e152?utm_campaign=1047&utm_source=git)** | New York City | On Site | Jun 23 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3ae865dbedbf5680c71bec?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jun 23 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | ↳ | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 23 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Core Ads Project Intern (Ads Interface and Platform Product-Ads Manager) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a358e2fce501060b5cf4c5a?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
 | **[Danfoss](https://www.danfoss.com)** | **[Product Management and Marketing Intern](https://jobright.ai/jobs/info/6a34f51a649fdf16292f7954?utm_campaign=1047&utm_source=git)** | Tallahassee, FL | On Site | Jun 19 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jun 19 |
-| **[Astronomer](https://www.astronomer.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3417cd1232144fb155e152?utm_campaign=1047&utm_source=git)** | New York City | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30c66f524fd5657fe121ed?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302268afabbe533fb89270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3074cb89f8f147d37359aa?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
