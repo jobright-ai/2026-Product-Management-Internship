@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 23 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 23 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a39f2716484fb75f2b342f0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/6a39bef86484fb75f2b3381c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 22 |
