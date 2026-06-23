@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 23 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a39f2716484fb75f2b342f0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/6a39bef86484fb75f2b3381c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 22 |
@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cae7b7d514a3bd6d87?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30429f43732c05812e1707?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
-| **[Dura-Line](http://duraline.com)** | **[Product Development Intern Job Details / Orbia](https://jobright.ai/jobs/info/6a333f72910b7349107147c7?utm_campaign=1047&utm_source=git)** | Boston, MA, US, 02451 | Remote | Jun 17 |
 | **[MasterBorn](https://masterborn.com/)** | **[Intern Product Owner (Paid Internship)](https://jobright.ai/jobs/info/6a3330f3ce501060b5cec9a7?utm_campaign=1047&utm_source=git)** | Multnomah County, OR | Remote | Jun 17 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Product Line Management Associate (Internship)](https://jobright.ai/jobs/info/6a2a41fe495d985b994283d3?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 17 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a10b85d9fdbf21f36cb03fa?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 17 |
@@ -108,6 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Jun 17 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a3210b12ee3ac1b4bef2515?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Jun 16 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a31c972e7b7d514a3bd59e2?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Jun 16 |
-| **[Dura-Line](http://duraline.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a31b568c477a5075f48ebe1?utm_campaign=1047&utm_source=git)** | Boston, MA, US | Remote | Jun 16 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
