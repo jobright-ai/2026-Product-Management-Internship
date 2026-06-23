@@ -112,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6a29acd30c4972328e7e50df?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jun 16 |
 | ↳ | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a30ce3b43732c05812e3c01?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
-| ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d55f093df201d07b2d4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
-| ↳ | **[Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ba3bec07d4b6ae1c4b132?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
