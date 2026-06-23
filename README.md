@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a31c972e7b7d514a3bd59e2?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Jun 16 |
 | **[Dura-Line](http://duraline.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a31b568c477a5075f48ebe1?utm_campaign=1047&utm_source=git)** | Boston, MA, US | Remote | Jun 16 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 16 |
-| **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
