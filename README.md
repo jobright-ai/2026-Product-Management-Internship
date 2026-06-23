@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3ae865dbedbf5680c71bec?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jun 23 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
+| ↳ | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 23 |
 | **[Maven](http://www.mavenventures.com)** | **[Product Manager Intern, AI Services & Agentic Search](https://jobright.ai/jobs/info/6a3ac240dbedbf5680c70eee?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jun 23 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 23 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Zoom](https://www.zoom.com)** | **[Product Manager Intern, AI Services & Agentic Search](https://jobright.ai/jobs/info/6a39b380f6b55d12c7929ccb?utm_campaign=1047&utm_source=git)** | Seattle (WA), US | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39a0d76484fb75f2b32d9c?utm_campaign=1047&utm_source=git)** | San Jose, California | On Site | Jun 22 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921733442db3ffc3652b5?utm_campaign=1047&utm_source=git)** | New York, NY, US | Hybrid | Jun 22 |
-| **[1Password](https://1password.com)** | **[Product Management Intern, Unified Access - Fall 2026](https://jobright.ai/jobs/info/6a2720bdca77fd3096d25828?utm_campaign=1047&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 22 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Management Intern - Talent Solutions](https://jobright.ai/jobs/info/6a15fdfedc845f4be5bdaf9b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 22 |
 | **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/6a3987e8649fdf1629301710?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street, US | Hybrid | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39835e214ae004c7a1f120?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 22 |
@@ -107,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d523093df201d07b2d42?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a326e6260e62008fe8be26b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
 | **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Jun 17 |
-| **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a3210b12ee3ac1b4bef2515?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
