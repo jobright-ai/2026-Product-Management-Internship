@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/6a39bef86484fb75f2b3381c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 22 |
 | **[Zoom](https://www.zoom.com)** | **[Product Manager Intern, AI Services & Agentic Search](https://jobright.ai/jobs/info/6a39b380f6b55d12c7929ccb?utm_campaign=1047&utm_source=git)** | Seattle (WA), US | On Site | Jun 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39a0d76484fb75f2b32d9c?utm_campaign=1047&utm_source=git)** | San Jose, California | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
