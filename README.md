@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a3b3554649fdf1629307966?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jun 23 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3afe9806a4fd4b1fabfe3a?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Jun 23 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 23 |
-| ↳ | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
+| ↳ | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Astronomer](https://www.astronomer.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3417cd1232144fb155e152?utm_campaign=1047&utm_source=git)** | New York City | On Site | Jun 23 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3ae865dbedbf5680c71bec?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jun 23 |
@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cae7b7d514a3bd6d87?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30429f43732c05812e1707?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
-| **[MasterBorn](https://masterborn.com/)** | **[Intern Product Owner (Paid Internship)](https://jobright.ai/jobs/info/6a3330f3ce501060b5cec9a7?utm_campaign=1047&utm_source=git)** | Multnomah County, OR | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
