@@ -58,15 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3afe9806a4fd4b1fabfe3a?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Jun 23 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
-| ↳ | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 23 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 23 |
+| ↳ | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 23 |
 | **[Astronomer](https://www.astronomer.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3417cd1232144fb155e152?utm_campaign=1047&utm_source=git)** | New York City | On Site | Jun 23 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3ae865dbedbf5680c71bec?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jun 23 |
 | **[Maven](http://www.mavenventures.com)** | **[Product Manager Intern, AI Services & Agentic Search](https://jobright.ai/jobs/info/6a3ac240dbedbf5680c70eee?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Jun 23 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d8846b524ae49285a6979?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Jun 23 |
-| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
 | ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc4?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jun 23 |
+| ↳ | **[Product Strategy Intern - Fall 2026](https://jobright.ai/jobs/info/6a1d91f9b524ae49285a6cc5?utm_campaign=1047&utm_source=git)** | US East | On Site | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a39f2716484fb75f2b342f0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
 | **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/6a39bef86484fb75f2b3381c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 22 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3217cf0ff23769fdb219c1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d523093df201d07b2d42?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 17 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a326e6260e62008fe8be26b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 17 |
-| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
