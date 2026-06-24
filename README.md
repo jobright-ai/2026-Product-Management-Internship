@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c2fef882f121f56a33bca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non-IT Product Management and Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/6a3c2e00982bb239f812eaa4?utm_campaign=1047&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 24 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a3b3554649fdf1629307966?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jun 23 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3afe9806a4fd4b1fabfe3a?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Jun 23 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a3ae710797099171917c3d7?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 23 |
