@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3c123bd261407de97fc2cc?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 18 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f0978e8feca91f1491aedc?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 18 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Strategy (Fall 2026)](https://jobright.ai/jobs/info/6a164197554b0e12c058ac5c?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d578afabbe533fb8c8ce?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
