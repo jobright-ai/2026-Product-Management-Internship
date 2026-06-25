@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 25 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c39164d047136e0930008?utm_campaign=1047&utm_source=git)** | Soho, New York | Hybrid | Jun 24 |
 | ↳ | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c2fef882f121f56a33bca?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 24 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non-IT Product Management and Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/6a3c2e00982bb239f812eaa4?utm_campaign=1047&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 24 |
@@ -101,7 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302268afabbe533fb89270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3074cb89f8f147d37359aa?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 19 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - AI Product Management & Merchandising](https://jobright.ai/jobs/info/6a341790ce501060b5cef42a?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 18 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 18 |
-| **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3c123bd261407de97fc2cc?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 18 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/69f0978e8feca91f1491aedc?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
