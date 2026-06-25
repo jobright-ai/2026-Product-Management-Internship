@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altasciences](http://www.algopharm.com)** | **[Process Innovation - Product Management Intern](https://jobright.ai/jobs/info/6a3d906e8bfad862bc99dbad?utm_campaign=1047&utm_source=git)** | Overland Park, Kansas, CA | Remote | Jun 25 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Fall 2026)](https://jobright.ai/jobs/info/6a3d84c5882f121f56a37d96?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 25 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921733442db3ffc3652b5?utm_campaign=1047&utm_source=git)** | New York, NY, US | Hybrid | Jun 25 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non-IT Product Management and Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/6a3c2e00982bb239f812eaa4?utm_campaign=1047&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 25 |
@@ -64,10 +65,10 @@ For a complete list, click the following sortable link below:
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jun 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6a04c54a7c753c287f6f308a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | Jun 25 |
 | **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | **[S&P Global Mobility](https://www.spglobal.com/automotive-insights/en)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/6a164d7ca429fd279da975b9?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 25 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c39164d047136e0930008?utm_campaign=1047&utm_source=git)** | Soho, New York | Hybrid | Jun 24 |
