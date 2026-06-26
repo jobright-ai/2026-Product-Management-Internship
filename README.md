@@ -68,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6a3c9d84d261407de97fe2a1?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 25 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jun 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6a04c54a7c753c287f6f308a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | Jun 25 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a133f4783d7144289830548?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a133f4783d7144289830548?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
 | **[S&P Global Mobility](https://www.spglobal.com/automotive-insights/en)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/6a164d7ca429fd279da975b9?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a302f9989f8f147d3733f8a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Measurement Product) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6a365f85ce501060b5cf6aee?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
 | ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a365f94649fdf16292fb5b3?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 19 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a28ea11883c0d3be6544c72?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Jun 19 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Product Management Intern (Verified)](https://jobright.ai/jobs/info/6a35e1f8649fdf16292fa9e4?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
-| ↳ | **[AI Product Delivery Intern](https://jobright.ai/jobs/info/6a35e0fe7f3fdd180d4cf2ec?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
