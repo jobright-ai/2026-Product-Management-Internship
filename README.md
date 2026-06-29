@@ -92,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3d52178bfad862bc99c747?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 25 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jun 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6a04c54a7c753c287f6f308a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | Jun 25 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a133f4783d7144289830548?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | **[S&P Global Mobility](https://www.spglobal.com/automotive-insights/en)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/6a164d7ca429fd279da975b9?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 25 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3ae865dbedbf5680c71bec?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a39f2716484fb75f2b342f0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 22 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Payments Product intern](https://jobright.ai/jobs/info/6a399ece06a4fd4b1fabb33a?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Jun 22 |
-| **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/6a39bef86484fb75f2b3381c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
