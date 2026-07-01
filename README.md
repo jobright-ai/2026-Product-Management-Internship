@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Product Management Intern (Unpaid)](https://jobright.ai/jobs/info/6a4537d54f64ba41dcb4c9ad?utm_campaign=1047&utm_source=git)** | Daytona Beach, FL | On Site | Jul 01 |
+| **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a22552794d89a1392b5175d?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Remote | Jun 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3afe9806a4fd4b1fabfe3a?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Jun 30 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a434037cbf92c7bcd36f577?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 29 |
@@ -101,12 +103,11 @@ For a complete list, click the following sortable link below:
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3d52178bfad862bc99c747?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 25 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jun 25 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6a04c54a7c753c287f6f308a?utm_campaign=1047&utm_source=git)** | Canada, Remote | Remote | Jun 25 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a133f4783d7144289830548?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 25 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jun 25 |
 | **[S&P Global Mobility](https://www.spglobal.com/automotive-insights/en)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/6a164d7ca429fd279da975b9?utm_campaign=1047&utm_source=git)** | Michigan, United States | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a302f9989f8f147d3733f8a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
