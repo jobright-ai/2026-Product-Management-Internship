@@ -104,6 +104,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e38d9882f121f56a39a93?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3defd3122f340d29cf261d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/6a05a1347c753c287f6fa480?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Jun 25 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc63f88130af1ac83383a0?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3dca16882f121f56a38dec?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
