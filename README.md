@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - AI Product Management & Merchandising](https://jobright.ai/jobs/info/6a341790ce501060b5cef42a?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jul 02 |
 | **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a41eeb716b1493953284c45?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d2c2eace377055eb7c59?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a34d4897f3fdd180d4cbe53?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 02 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Emerging Verticals Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4310041cc9cc2b12fedc18?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jun 29 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a42d8666c326942b4e8464b?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 29 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3c123bd261407de97fc2cc?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 29 |
-| **[Astronomer](https://www.astronomer.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a3417cd1232144fb155e152?utm_campaign=1047&utm_source=git)** | New York City | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a42b95ba5e15b1068379f0f?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 29 |
 | **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/6a429749ff87fd527f984c07?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302ca089f8f147d3733dac?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
