@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30da6443732c05812e3f5e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 02 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Product Development Intern (Volunteer)](https://jobright.ai/jobs/info/6a46aee2c2d11a6a46670144?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 02 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - AI Product Management & Merchandising](https://jobright.ai/jobs/info/6a341790ce501060b5cef42a?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jul 02 |
 | **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a41eeb716b1493953284c45?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jul 02 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern Pangle (Advertisement Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302273093df201d07af906?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Jun 26 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/6a1e16bf9111f771d1a1d2ed?utm_campaign=1047&utm_source=git)** | El Segundo, CA | On Site | Jun 26 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| **[Cosm](https://www.cosm.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6a3c9d84d261407de97fe2a1?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 26 |
 | **[Altasciences](http://www.algopharm.com)** | **[Process Innovation - Product Management Intern](https://jobright.ai/jobs/info/6a3d906e8bfad862bc99dbad?utm_campaign=1047&utm_source=git)** | Overland Park, Kansas, CA | Remote | Jun 26 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Internship: AI Product Strategy Intern](https://jobright.ai/jobs/info/6a225f11d1ab07243c7f7d8c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30516d524fd5657fe1031a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
