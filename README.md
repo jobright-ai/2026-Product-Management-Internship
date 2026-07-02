@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Commerce Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46063b971cd25b06f8af13?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 01 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Product Manager Summer 2027 Intern](https://jobright.ai/jobs/info/6a45cd16c2d11a6a4666a1ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Jul 01 |
 | **[Love Happens Mag](https://www.lovehappensmag.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c7e63dbab558e29a2256?utm_campaign=1047&utm_source=git)** | Fairfax County, VA | Remote | Jul 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a459ce33dbab558e29a1d0e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 01 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Aftermarket Product Strategy and Business Development (Fall 2026)](https://jobright.ai/jobs/info/6a3d84c5882f121f56a37d96?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 25 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non-IT Product Management and Optimization Intern (Hybrid)](https://jobright.ai/jobs/info/6a3c2e00982bb239f812eaa4?utm_campaign=1047&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jun 25 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3d52178bfad862bc99c747?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 25 |
-| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
