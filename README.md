@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d2c2eace377055eb7c59?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
+| ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a34d4897f3fdd180d4cbe53?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 02 |
+| ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a2f86c8093df201d07ae118?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Commerce Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46063b971cd25b06f8af13?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 01 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Product Manager Summer 2027 Intern](https://jobright.ai/jobs/info/6a45cd16c2d11a6a4666a1ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Jul 01 |
 | **[Love Happens Mag](https://www.lovehappensmag.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c7e63dbab558e29a2256?utm_campaign=1047&utm_source=git)** | Fairfax County, VA | Remote | Jul 01 |
