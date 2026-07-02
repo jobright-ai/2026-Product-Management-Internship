@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Product Development Intern (Volunteer)](https://jobright.ai/jobs/info/6a46aee2c2d11a6a46670144?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 02 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - AI Product Management & Merchandising](https://jobright.ai/jobs/info/6a341790ce501060b5cef42a?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jul 02 |
 | **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a41eeb716b1493953284c45?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d2c2eace377055eb7c59?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a2f86c8093df201d07ae118?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Commerce Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46063b971cd25b06f8af13?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 01 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Product Manager Summer 2027 Intern](https://jobright.ai/jobs/info/6a45cd16c2d11a6a4666a1ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Jul 01 |
-| **[Love Happens Mag](https://www.lovehappensmag.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a45c7e63dbab558e29a2256?utm_campaign=1047&utm_source=git)** | Fairfax County, VA | Remote | Jul 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a459ce33dbab558e29a1d0e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 01 |
 | **[Tencent Cloud](https://intl.cloud.tencent.com)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6a458bce4f64ba41dcb4db64?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 01 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Product Intern / Fall 2026](https://jobright.ai/jobs/info/6a4569ef4f64ba41dcb4d4f8?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Jul 01 |
@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30516d524fd5657fe1031a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | ↳ | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e38d9882f121f56a39a93?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3defd3122f340d29cf261d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/6a05a1347c753c287f6fa480?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
