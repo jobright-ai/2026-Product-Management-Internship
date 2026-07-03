@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jun 27 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a3fa01a9dd7f954cafe7024?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
-| **[TikTok](https://www.tiktok.com)** | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
