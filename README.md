@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[Altasciences](http://www.algopharm.com)** | **[Process Innovation - Product Management Intern](https://jobright.ai/jobs/info/6a3d906e8bfad862bc99dbad?utm_campaign=1047&utm_source=git)** | Overland Park, Kansas, CA | Remote | Jun 26 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Internship: AI Product Strategy Intern](https://jobright.ai/jobs/info/6a225f11d1ab07243c7f7d8c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Jun 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30516d524fd5657fe1031a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
