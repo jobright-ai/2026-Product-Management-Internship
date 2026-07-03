@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c9ac8bca56ab2245a89?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI](https://jobright.ai/jobs/info/6a46d8040dd56c76cc2fb2bb?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30da6443732c05812e3f5e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 02 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Product Development Intern (Volunteer)](https://jobright.ai/jobs/info/6a46aee2c2d11a6a46670144?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 02 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a434037cbf92c7bcd36f577?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 29 |
 | **[SarvM.AI](https://sarvm.ai)** | **[Product Manager Intern Full Time (Remote)](https://jobright.ai/jobs/info/6a433110501d340b4a82e329?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432ec9cbf92c7bcd36e3ab?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 29 |
-| ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c9ac8bca56ab2245a89?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jun 29 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a432c85cbf92c7bcd36e061?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 29 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c81c8bca56ab22459cb?utm_campaign=1047&utm_source=git)** | New York | On Site | Jun 29 |
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c60b0f2553559ece1a0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 29 |
