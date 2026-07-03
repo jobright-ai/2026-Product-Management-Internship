@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://upstateinsurance.com)** | **[Product Management Development Program (PMDP) Internship - Summer 2027](https://jobright.ai/jobs/info/6a4734f9971cd25b06f91700?utm_campaign=1047&utm_source=git)** | CT - Hartford, United States of America | On Site | Jul 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Copyright Solution Product Manager Project Intern (TikTok-Music) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a47032d3dbab558e29a97f4?utm_campaign=1047&utm_source=git)** | San Jose, California, United States | On Site | Jul 02 |
 | ↳ | **[Product Strategist Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4702a63dbab558e29a97d1?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 02 |
 | ↳ | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c9ac8bca56ab2245a89?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 02 |
