@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern Pangle (Advertisement Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302273093df201d07af906?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Jun 26 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/6a1e16bf9111f771d1a1d2ed?utm_campaign=1047&utm_source=git)** | El Segundo, CA | On Site | Jun 26 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| **[Altasciences](http://www.algopharm.com)** | **[Process Innovation - Product Management Intern](https://jobright.ai/jobs/info/6a3d906e8bfad862bc99dbad?utm_campaign=1047&utm_source=git)** | Overland Park, Kansas, CA | Remote | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
