@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 27 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jun 27 |
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jun 27 |
-| **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a3fa01a9dd7f954cafe7024?utm_campaign=1047&utm_source=git)** | Toronto, Ontario | Hybrid | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
