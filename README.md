@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c39164d047136e0930008?utm_campaign=1047&utm_source=git)** | Soho, New York | Hybrid | Jul 05 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jul 04 |
 | **[SarvM.AI](https://sarvm.ai)** | **[Product Manager Intern Full Time (Remote)](https://jobright.ai/jobs/info/6a433110501d340b4a82e329?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a42b95ba5e15b1068379f0f?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 04 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a459ce33dbab558e29a1d0e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 01 |
 | **[Tencent Cloud](https://intl.cloud.tencent.com)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6a458bce4f64ba41dcb4db64?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 01 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Product Intern / Fall 2026](https://jobright.ai/jobs/info/6a4569ef4f64ba41dcb4d4f8?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Jul 01 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c39164d047136e0930008?utm_campaign=1047&utm_source=git)** | Soho, New York | Hybrid | Jul 01 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/69d52edacdb525785fbcecc1?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Jul 01 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a434037cbf92c7bcd36f577?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 29 |
