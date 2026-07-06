@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a42d8666c326942b4e8464b?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jun 29 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3c123bd261407de97fc2cc?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jun 29 |
 | **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - Product Manager](https://jobright.ai/jobs/info/6a429749ff87fd527f984c07?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302ca089f8f147d3733dac?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
