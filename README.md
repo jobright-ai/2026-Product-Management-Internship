@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a38beefce501060b5cf9fd5?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 05 |
 | **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 05 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 05 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c39164d047136e0930008?utm_campaign=1047&utm_source=git)** | Soho, New York | Hybrid | Jul 05 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jul 04 |
 | **[SarvM.AI](https://sarvm.ai)** | **[Product Manager Intern Full Time (Remote)](https://jobright.ai/jobs/info/6a433110501d340b4a82e329?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a42b95ba5e15b1068379f0f?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 04 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Product Innovation and Development](https://jobright.ai/jobs/info/6a3afe9806a4fd4b1fabfe3a?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, ON, CA | Hybrid | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/6a365f94649fdf16292fb5b3?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 03 |
 | ↳ | **[Product Solutions and Operations Project Intern ( Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a323c16c477a5075f490ead?utm_campaign=1047&utm_source=git)** | Austin, CO | On Site | Jul 03 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30e05589f8f147d37371ed?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 03 |
