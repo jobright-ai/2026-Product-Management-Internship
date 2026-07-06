@@ -64,10 +64,10 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Product Management Intern - Tools & Processes](https://jobright.ai/jobs/info/6a0615f2f3d6cc51d638ecb3?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jul 06 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jul 06 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jul 06 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a133f4783d7144289830548?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a133f4783d7144289830548?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a4bbbc24f64ba41dcb5ce8c?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jul 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a4baaa0c2d11a6a4667838b?utm_campaign=1047&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 06 |
@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Product Manager Summer 2027 Intern](https://jobright.ai/jobs/info/6a45cd16c2d11a6a4666a1ca?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Jul 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a459ce33dbab558e29a1d0e?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 01 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Product Intern / Fall 2026](https://jobright.ai/jobs/info/6a4569ef4f64ba41dcb4d4f8?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Jul 01 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a434037cbf92c7bcd36f577?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
