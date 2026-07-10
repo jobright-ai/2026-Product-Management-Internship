@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 10 |
 | **[Cresta](https://www.cresta.com)** | **[Product Design Intern for AI and Human Agents Platform](https://jobright.ai/jobs/info/6a50fe31ae4052672fe95d7f?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jul 10 |
-| **[DoorTix](doortix.com)** | **[Intern](https://jobright.ai/jobs/info/6a50f9a28d7d3e6cf1cbdc1a?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | Hybrid | Jul 10 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a50e77378e364789ca57218?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, United States | On Site | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d578afabbe533fb8c8ce?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 10 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a5060c4397d8d353c28e9e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d523093df201d07b2d42?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a326e6260e62008fe8be26b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jul 08 |
 | ↳ | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d55f093df201d07b2d4c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 07 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a4cc35899523700cbff393b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39835e214ae004c7a1f120?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 06 |
@@ -88,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jul 06 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2a56800c4972328e7e8635?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 06 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations, Ultraluxe Product](https://jobright.ai/jobs/info/6a3ae6fe1232144fb15709f6?utm_campaign=1047&utm_source=git)** | Toronto | On Site | Jul 06 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 06 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a4bbbc24f64ba41dcb5ce8c?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jul 06 |
