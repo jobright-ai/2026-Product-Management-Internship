@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a546d92e726ec56126aa3b3?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jul 12 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a543cc4c8eb0843027af3c6?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 12 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3d52178bfad862bc99c747?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | Hybrid | Jul 12 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a4cc35899523700cbff393b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a39835e214ae004c7a1f120?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 06 |
 | **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdcd0c4828227293004f77?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
-| **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2a56800c4972328e7e8635?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
