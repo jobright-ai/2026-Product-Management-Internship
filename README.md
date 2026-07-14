@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a55d0782ce8bf79a13a1649?utm_campaign=1047&utm_source=git)** | Irving, TX 75063, United States | On Site | Jul 13 |
 | **[1 Atelier](https://1atelier.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a55ca5805c65f7c8f4c792e?utm_campaign=1047&utm_source=git)** | 347 W 36th St, New York, NY 10018, USA | On Site | Jul 13 |
 | **[Denari](https://denari.ai)** | **[Summer '26 Product & Software Internship](https://jobright.ai/jobs/info/6a55c72b14f1040fa611baef?utm_campaign=1047&utm_source=git)** | Madison, WI, United States | Remote | Jul 13 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Copyright Solution Product Manager Project Intern (TikTok-Music) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a47032d3dbab558e29a97f4?utm_campaign=1047&utm_source=git)** | San Jose, California, United States | On Site | Jul 13 |
 | ↳ | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8843732c05812df43e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
-| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a32147fe7b7d514a3bd6d36?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30c66f524fd5657fe121ed?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a374d87ce501060b5cf8411?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/6a546d92e726ec56126aa3b3?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jul 12 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a543cc4c8eb0843027af3c6?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 12 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3c123bd261407de97fc2cc?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Jul 12 |
-| **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Jul 12 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Delivery Management Intern (Fall/September 2026, 12 Months)](https://jobright.ai/jobs/info/6a434037cbf92c7bcd36f577?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Jul 12 |
 | **[Hubs.is](https://www.hubs.is)** | **[Product Intern - Fall](https://jobright.ai/jobs/info/6a54b818ea8dc8115ea9abb3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jul 11 |
