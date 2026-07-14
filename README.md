@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6a5562772084cd792b4783a3?utm_campaign=1047&utm_source=git)** | California - San Francisco, United States of America | Hybrid | Jul 13 |
 | **[Adaptive Security](https://www.adaptivesecurity.com)** | **[AI Product Operations Intern](https://jobright.ai/jobs/info/6a554510377f983ce8a98e5c?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6a5562a5377f983ce8a99d59?utm_campaign=1047&utm_source=git)** | California - San Francisco, United States of America | Hybrid | Jul 13 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 13 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3d52178bfad862bc99c747?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | Hybrid | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a54f244f2c46727285eecab?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
