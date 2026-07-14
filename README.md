@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Product Analyst Intern](https://jobright.ai/jobs/info/6a565f0cf7517b519ad55266?utm_campaign=1047&utm_source=git)** | Washington, DC, United States | On Site | Jul 14 |
 | **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Product Management Intern (Unpaid)](https://jobright.ai/jobs/info/6a564a8010c4d945d8648a3d?utm_campaign=1047&utm_source=git)** | Daytona Beach, FL, United States | On Site | Jul 14 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6a5647a3efb06a45240d4b68?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Jul 14 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Copyright Solution Product Manager Project Intern (TikTok-Music) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a47032d3dbab558e29a97f4?utm_campaign=1047&utm_source=git)** | San Jose, California, United States | On Site | Jul 13 |
 | ↳ | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8843732c05812df43e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
-| ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a32147fe7b7d514a3bd6d36?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
+| ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a32147fe7b7d514a3bd6d36?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30c66f524fd5657fe121ed?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a374d87ce501060b5cf8411?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
