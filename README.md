@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a578872e9b77f668bd686ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c99e9b77f668bd667e3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a459ce33dbab558e29a1d0e?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 14 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a38beefce501060b5cf9fd5?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 13 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c81c8bca56ab22459cb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 13 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6a5562a5377f983ce8a99d59?utm_campaign=1047&utm_source=git)** | California - San Francisco, United States of America | Hybrid | Jul 13 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6a5562772084cd792b4783a3?utm_campaign=1047&utm_source=git)** | California - San Francisco, United States of America | Hybrid | Jul 13 |
 | **[Glean](https://www.glean.com)** | **[Product Management Intern, Admin Console (Summer 2026)](https://jobright.ai/jobs/info/6a3d52178bfad862bc99c747?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | Hybrid | Jul 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a54f244f2c46727285eecab?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 13 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a50e77378e364789ca57218?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, United States | On Site | Jul 10 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a5060c4397d8d353c28e9e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4f78b5fc327f422fef582c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
-| **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4eb39a0ea38951a6ff4306?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
