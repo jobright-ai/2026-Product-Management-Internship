@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c99e9b77f668bd667e3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 15 |
+| ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a459ce33dbab558e29a1d0e?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 14 |
-| ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c99e9b77f668bd667e3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
-| ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a51ca598d7d3e6cf1cc2fdc?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Legrand](https://www.legrandgroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a45b7824f64ba41dcb4e244?utm_campaign=1047&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 14 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a3fa01a9dd7f954cafe7024?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 14 |
@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a5060c4397d8d353c28e9e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a4f78b5fc327f422fef582c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4eb39a0ea38951a6ff4306?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 08 |
-| **[McKesson](https://mms.mckesson.com/)** | **[Product Business Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d3bf699523700cbff4e0c?utm_campaign=1047&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
