@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a51ca598d7d3e6cf1cc2fdc?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
 | **[Legrand](https://www.legrandgroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a45b7824f64ba41dcb4e244?utm_campaign=1047&utm_source=git)** | Syracuse, NY, United States | On Site | Jul 14 |
 | **[Univeris](http://www.univeris.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a3fa01a9dd7f954cafe7024?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jul 14 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Data Strategy and Operations Intern](https://jobright.ai/jobs/info/6a3c39164d047136e0930008?utm_campaign=1047&utm_source=git)** | Soho, New York | Hybrid | Jul 14 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a374d87ce501060b5cf8411?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Product Solutions and Operations Project Intern (Commerce Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46063b971cd25b06f8af13?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 13 |
 | ↳ | **[Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3dca16882f121f56a38dec?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 13 |
+| ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 13 |
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a51bd8057513b72e0c67032?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302268afabbe533fb89270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 11 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 11 |
 | **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2c9ec2a1d15e3c552fc9dc?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | Hybrid | Jul 11 |
-| **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a51ca598d7d3e6cf1cc2fdc?utm_campaign=1047&utm_source=git)** | New York, New York, United States | Hybrid | Jul 10 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | Remote | Jul 10 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, Product Manager Innovations & Partnerships - Fall 2026/Winter 2027](https://jobright.ai/jobs/info/6a4eb68b15b4965afd584699?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | Hybrid | Jul 10 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/6a0888ca8f3e371eb6180c9f?utm_campaign=1047&utm_source=git)** | Chicago, US | On Site | Jul 10 |
