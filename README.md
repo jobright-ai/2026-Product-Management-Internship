@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a57db639f1f56462cf66ef0?utm_campaign=1047&utm_source=git)** | ON, Canada | Remote | Jul 15 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6a5562a5377f983ce8a99d59?utm_campaign=1047&utm_source=git)** | California - San Francisco, United States of America | Hybrid | Jul 15 |
-| **[Revvity](https://www.revvity.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a57d0d910c4d945d8651343?utm_campaign=1047&utm_source=git)** | ON, Canada | Remote | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9ccf093df201d07ae28b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a578872e9b77f668bd686ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 15 |
@@ -110,10 +110,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a374d87ce501060b5cf8411?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Product Solutions and Operations Project Intern (Commerce Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46063b971cd25b06f8af13?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
-| ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 13 |
 | ↳ | **[Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3dca16882f121f56a38dec?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 13 |
-| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
+| ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 13 |
 | ↳ | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a51bd8057513b72e0c67032?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
+| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302268afabbe533fb89270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d2c2eace377055eb7c59?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
