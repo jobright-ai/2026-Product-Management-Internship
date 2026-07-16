@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revvity](https://www.revvity.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a57d0d910c4d945d8651343?utm_campaign=1047&utm_source=git)** | CAD Remote – ON, Canada | Remote | Jul 16 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a55d0782ce8bf79a13a1649?utm_campaign=1047&utm_source=git)** | Irving, TX 75063, USA | On Site | Jul 15 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a578872e9b77f668bd686ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States of America | Hybrid | Jul 15 |
