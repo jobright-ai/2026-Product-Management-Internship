@@ -153,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Product Management, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a05c0b36ff03547529a3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[CalAmp](http://www.calamp.com)** | **[Intern, Product Management - Carlsbad CA (Summer 2026)](https://jobright.ai/jobs/info/6a302262eace377055eb484f?utm_campaign=1047&utm_source=git)** | Carlsbad, CA, US | Hybrid | Jul 10 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 10 |
-| **[Cresta](https://www.cresta.com)** | **[Product Design Intern for AI and Human Agents Platform](https://jobright.ai/jobs/info/6a50fe31ae4052672fe95d7f?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
