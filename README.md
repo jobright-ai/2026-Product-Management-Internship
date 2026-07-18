@@ -143,5 +143,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d2c2eace377055eb7c59?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a543cc4c8eb0843027af3c6?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 12 |
-| **[Hubs.is](https://www.hubs.is)** | **[Product Intern - Fall](https://jobright.ai/jobs/info/6a54b818ea8dc8115ea9abb3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
