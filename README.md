@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a543cc4c8eb0843027af3c6?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 12 |
 | **[Hubs.is](https://www.hubs.is)** | **[Product Intern - Fall](https://jobright.ai/jobs/info/6a54b818ea8dc8115ea9abb3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 11 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
