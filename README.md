@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global Mobility](https://www.spglobal.com/automotive-insights/en)** | **[Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/6a50134d9469c066203500f0?utm_campaign=1047&utm_source=git)** | Southfield, MI, United States | On Site | Jul 17 |
+| **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 17 |
 | **[GeoComply](https://www.geocomply.com)** | **[Product Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5955b84da96a42cfd90910?utm_campaign=1047&utm_source=git)** | Vancouver, BC, Canada | On Site | Jul 16 |
 | **[Allen Flavors, Inc.](http://allenflavors.com)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/6a398310649fdf1629301576?utm_campaign=1047&utm_source=git)** | 230 South Plainfield - South Plainfield, NJ 07080 | On Site | Jul 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Copyright Solution Product Manager Project Intern (TikTok-Music) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a47032d3dbab558e29a97f4?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 16 |
@@ -74,12 +76,12 @@ For a complete list, click the following sortable link below:
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Product Analyst Intern](https://jobright.ai/jobs/info/6a591faf4da96a42cfd8f339?utm_campaign=1047&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
 | **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc63f88130af1ac83383a0?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 16 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/6a58f9da856af468ab00104c?utm_campaign=1047&utm_source=git)** | Stevens Point, WI, United States | On Site | Jul 16 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 16 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a56854d21f64463ad3552c5?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 16 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a277599b6099e359d282613?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 16 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69cc4ba38130af1ac8337a4a?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 16 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a1718ea9005d858e94f5c49?utm_campaign=1047&utm_source=git)** | San Francisco, California, United States | On Site | Jul 16 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a56854d21f64463ad3552c5?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a58ced3686b4755d1e0c5bd?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Jul 16 |
@@ -126,16 +128,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302ca089f8f147d3733dac?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | ↳ | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8843732c05812df43e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 13 |
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
-| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a32147fe7b7d514a3bd6d36?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| ↳ | **[AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a3229dd0ff23769fdb21e27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30c66f524fd5657fe121ed?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Development Business Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a374d87ce501060b5cf8411?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Product Solutions and Operations Project Intern (Commerce Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a46063b971cd25b06f8af13?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | ↳ | **[Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3dca16882f121f56a38dec?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Jul 13 |
 | ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Jul 13 |
-| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a51bd8057513b72e0c67032?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
+| ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
 | ↳ | **[Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302268afabbe533fb89270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/6a30d2c2eace377055eb7c59?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
@@ -143,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Hubs.is](https://www.hubs.is)** | **[Product Intern - Fall](https://jobright.ai/jobs/info/6a54b818ea8dc8115ea9abb3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 11 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 11 |
-| **[OfferUp](https://offerup.com)** | **[Product Management Intern - Summer 2026 (Hybrid @ Bellevue, WA)](https://jobright.ai/jobs/info/6a2c9ec2a1d15e3c552fc9dc?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | Hybrid | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
