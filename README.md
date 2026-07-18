@@ -143,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a543cc4c8eb0843027af3c6?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 12 |
 | **[Hubs.is](https://www.hubs.is)** | **[Product Intern - Fall](https://jobright.ai/jobs/info/6a54b818ea8dc8115ea9abb3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 11 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
