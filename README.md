@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a62605ad5caab4af8bad904?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
+| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
+| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a626314f805ef6ff4232944?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a62605ad5caab4af8bad904?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6a51ca598d7d3e6cf1cc2fdc?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, New York | Hybrid | Jul 23 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | On Site | Jul 22 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 22 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 22 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a564e76f7517b519ad54de8?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
+| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | ↳ | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 22 |
 | **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a606444193c4d692385e07f?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 21 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 21 |
 | **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Product Management - Intern](https://jobright.ai/jobs/info/6a5fa2f28c7fd835513ba0e6?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States of America | On Site | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a51bd8057513b72e0c67032?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 21 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5e9d03270e3033b045ef06?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 20 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69ec27304b0fa35a707811bd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a5c8ac0686b4755d1e1bf97?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 19 |
 | **[Brunswick Bowling Products LLC](http://www.brunswickbowling.com/)** | **[AFTERMARKET COORDINATOR/LANE CARE INTERN](https://jobright.ai/jobs/info/6a5c56993ac7627fe900a49b?utm_campaign=1047&utm_source=git)** | Muskegon, MI 49441, United States | On Site | Jul 18 |
