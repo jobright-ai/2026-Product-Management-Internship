@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | On Site | Jul 22 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 22 |
 | **[Clarity AI](https://clarity.ai)** | **[Product Research & Innovation Intern](https://jobright.ai/jobs/info/6a614db7d51f6101c8fbb168?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 22 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
+| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a564e76f7517b519ad54de8?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | ↳ | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 22 |
 | **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a606444193c4d692385e07f?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 21 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Liberated People](http://www.weareliberated.com)** | **[MBA Fashion Merchandise Management Internship](https://jobright.ai/jobs/info/6a5926824da96a42cfd8f6c7?utm_campaign=1047&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a592451c8e3a473cb8a53bb?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 16 |
 | **[The World Bank Group](https://www.worldbank.org/)** | **[WBG Pioneer - Product Analyst Intern](https://jobright.ai/jobs/info/6a591faf4da96a42cfd8f339?utm_campaign=1047&utm_source=git)** | Washington, DC, United States | On Site | Jul 16 |
-| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
+| **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a56854d21f64463ad3552c5?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 16 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a04f92dbc4184089f2414a4?utm_campaign=1047&utm_source=git)** | Canada | Remote | Jul 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a58ced3686b4755d1e0c5bd?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 16 |
