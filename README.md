@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6a962b1d4c22023a07938718?utm_campaign=1047&utm_source=git)** | Chatsworth, CA, United States | On Site | Sep 10 |
+| **[Mastercard](http://www.mastercard.com)** | **[Product Management – Technical Intern, Summer 2027 – St. Louis, MO, US](https://jobright.ai/jobs/info/6a984bc183fc633357630956?utm_campaign=1047&utm_source=git)** | O'Fallon, MO, United States | On Site | Sep 10 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a86111674e02153f145a2dc?utm_campaign=1047&utm_source=git)** | Bridgeton, MO, United States | On Site | Sep 10 |
 | **[Cambridge International Advisory Group (CIAG)](ciagus.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6aa23049a841402ec45aca35?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area, United States | Remote | Sep 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Spring/Summer 2027)](https://jobright.ai/jobs/info/6aa1c7dd0ffb3d4fea6b7179?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY, United States | On Site | Sep 09 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa1c458500b01124c77edb5?utm_campaign=1047&utm_source=git)** | Elgin, IL, United States | On Site | Sep 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Spring/Summer 2027)](https://jobright.ai/jobs/info/6aa1c33bdbc0e60e37e1375d?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY, United States | On Site | Sep 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist/Business Analyst)](https://jobright.ai/jobs/info/6aa168470ffb3d4fea6b4906?utm_campaign=1047&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6aa1683fdbc0e60e37e111cd?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
-| ↳ | **[Summer Associate Internship (Technical Product Analyst)](https://jobright.ai/jobs/info/6aa17f1f2f936e4a53dabea9?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
+| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6aa16329ef23570cae2439d9?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
+| ↳ | **[Summer Associate Internship (Technical Product Analyst)](https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | ↳ | **[Summer Associate Internship (Product Strategist - Student Loans)](https://jobright.ai/jobs/info/6aa16833500b01124c77c792?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | **[Immuta](http://www.immuta.com/)** | **[Product Research Internship - Summer 2027](https://jobright.ai/jobs/info/6aa1bc112f936e4a53dadae5?utm_campaign=1047&utm_source=git)** | College Park, MD, United States | Hybrid | Sep 09 |
 | **[CIBC](https://www.cibc.com)** | **[Payments (Product & Design Cash Management)  - Winter 2027 (4 or 8 Months)](https://jobright.ai/jobs/info/6aa1ae902f936e4a53dad751?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 09 |
@@ -139,7 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Product Strategy & Operation Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7431ed5b0056a938fff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
 | ↳ | **[Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc8a346cb6c8d5ed2d0?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
 | ↳ | **[Product Solutions and Operations Project Intern (Scaled Growth) - 2026 Start](https://jobright.ai/jobs/info/6a7ed1bbb56bea5779c073cc?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Sep 08 |
+| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Sep 08 |
 | ↳ | **[Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer](https://jobright.ai/jobs/info/6a73f2648dc3d52d8eda1e01?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
 | ↳ | **[Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer](https://jobright.ai/jobs/info/6a73f25e8dc3d52d8eda1dfe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
 | ↳ | **[Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3dca16882f121f56a38dec?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (TikTok Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
 | ↳ | **[Product Manager Intern (Scaled Growth) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2afe2030208f276aafe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 08 |
 | ↳ | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Sep 08 |
-| ↳ | **[Methodology Product Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30b41a093df201d07b26b0?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 08 |
-| ↳ | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8843732c05812df43e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
