@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product Integration](https://jobright.ai/jobs/info/6aa7a10ea77a53f5a1575aa1?utm_campaign=1047&utm_source=git)** | Vancouver, BC, Canada | On Site | Sep 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 13 |
 | **[Bain & Company](https://bain.com)** | **[Product Management & Innovation (PM&I) Intern - (Summer 2027)](https://jobright.ai/jobs/info/6aa4e94f82e82a31997bb357?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 13 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer](https://jobright.ai/jobs/info/6a8970254afae74a0834eb47?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 13 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Amgen](https://www.amgen.com.sg)** | **[Grad Intern – Digital Product – Amgen’s Technology & Medical Organizations (Summer 2027)](https://jobright.ai/jobs/info/6aa46cbdf3aa936e2cdb132f?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Sep 12 |
 | ↳ | **[Undergrad Intern – Digital Product – Amgen’s Technology & Medical Organizations (Summer 2027)](https://jobright.ai/jobs/info/6aa44a768275e3a21175fc6f?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Sep 12 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a876e00680f314a29d38d9c?utm_campaign=1047&utm_source=git)** | Canada | Remote | Sep 12 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Management Intern - CTJ - TS](https://jobright.ai/jobs/info/6aa472fd8275e3a21176066f?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Sep 12 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aa4e95042411952ff9a610f?utm_campaign=1047&utm_source=git)** | Lynchburg, VA, United States | On Site | Sep 12 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Management Intern - CTJ - TS](https://jobright.ai/jobs/info/6aa4914f422289703bd6711e?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Sep 12 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aa3e7cef3aa936e2cdae93a?utm_campaign=1047&utm_source=git)** | Lynchburg, VA, United States | On Site | Sep 12 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Sep 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a88ee484afae74a0834e21a?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 12 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Digital Product Operations Intern](https://jobright.ai/jobs/info/6a88b794d34f700f87fca19f?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 12 |
@@ -142,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist/Business Analyst)](https://jobright.ai/jobs/info/6aa16336dbc0e60e37e110f9?utm_campaign=1047&utm_source=git)** | Pensacola, FL, United States | Hybrid | Sep 09 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6aa16329ef23570cae2439d9?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | ↳ | **[Summer Associate Internship (Technical Product Analyst)](https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
-| ↳ | **[Summer Associate Internship (Product Strategist - Student Loans)](https://jobright.ai/jobs/info/6aa1631f3272060a8e3ef868?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
+| ↳ | **[Summer Associate Internship (Product Strategist - Student Loans)](https://jobright.ai/jobs/info/6aa16833500b01124c77c792?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Sep 09 |
 | **[Immuta](http://www.immuta.com/)** | **[Product Research Internship - Summer 2027](https://jobright.ai/jobs/info/6aa1bc112f936e4a53dadae5?utm_campaign=1047&utm_source=git)** | College Park, MD, United States | Hybrid | Sep 09 |
 | **[CIBC](https://www.cibc.com)** | **[Payments (Product & Design Cash Management)  - Winter 2027 (4 or 8 Months)](https://jobright.ai/jobs/info/6aa1ae902f936e4a53dad751?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 09 |
 | **[Immuta](http://www.immuta.com/)** | **[Product Research Internship - Summer 2027](https://jobright.ai/jobs/info/6aa1b936dbc0e60e37e13397?utm_campaign=1047&utm_source=git)** | College Park, MD, United States | Hybrid | Sep 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/6aa19955500b01124c77dc20?utm_campaign=1047&utm_source=git)** | Harrisburg, PA, United States | On Site | Sep 09 |
 | **[Bosch](http://www.bosch.com)** | **[Product Management AI-Tool Intern (8 months/40hrs per week)](https://jobright.ai/jobs/info/6aa1a7eedbc0e60e37e12dbe?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI, United States | On Site | Sep 09 |
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, Global Servicing- New York, NY](https://jobright.ai/jobs/info/6a8477c4d34f700f87fb8c98?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 09 |
-| **[U.S. News & World Report](https://usnews.com)** | **[Yearlong Product Intern, Senior Care](https://jobright.ai/jobs/info/6a85baeed34f700f87fbdc63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
