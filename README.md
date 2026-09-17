@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddf02e757fcb5c8b28ed?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Sep 17 |
+| ↳ | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddd83d96632d741a7ffd?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Product Manager (APM) Intern - Summer 2027](https://jobright.ai/jobs/info/6aabab6a0a5bd0a9bfaad1c4?utm_campaign=1047&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 17 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Retail Media Product Manager Intern](https://jobright.ai/jobs/info/6aab15bb4be87a72913a330c?utm_campaign=1047&utm_source=git)** | Quincy, MA, United States | Hybrid | Sep 17 |
-| ↳ | **[Retail Media Product Manager Intern](https://jobright.ai/jobs/info/6aab164ff6bd9d2d17c1b5fd?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 17 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Retail Media Product Manager Intern](https://jobright.ai/jobs/info/6aab164ff6bd9d2d17c1b5fd?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 17 |
+| ↳ | **[Retail Media Product Manager Intern](https://jobright.ai/jobs/info/6aab15bb4be87a72913a330c?utm_campaign=1047&utm_source=git)** | Quincy, MA, United States | Hybrid | Sep 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Product Manager (APM) Intern - Summer 2027](https://jobright.ai/jobs/info/6aab75e44be87a72913a46c8?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 16 |
 | **[Cambridge International Advisory Group (CIAG)](ciagus.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6aab7154f6bd9d2d17c1c8bb?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area, United States | Remote | Sep 16 |
 | **[TD](https://www.td.com)** | **[L&H Product Management Intern/Co-op (Winter 2027)](https://jobright.ai/jobs/info/6aab71b740807b73bd394fa8?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 16 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6aa912dd3387a3d9b67d3983?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 15 |
 | ↳ | **[Product Solutions and Operations Project Intern (Scaled Growth-Paid Search) - 2026 Start](https://jobright.ai/jobs/info/6aa9106f6d0edc2d91b082b9?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 15 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Multifamily Digital Product Analysis Intern – Summer 2027](https://jobright.ai/jobs/info/6a8cac2dcde3717f9e9be8ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Sep 15 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[AI Solutions Undergraduate Intern – Product & Content Management](https://jobright.ai/jobs/info/6aa84ba33a9f0a4fe6f18652?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 15 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[AI Solutions Undergraduate Intern – Product & Content Management](https://jobright.ai/jobs/info/6aa84cd03a9f0a4fe6f186af?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Sep 15 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Intern, Digital Product Management (Platforms & Guest Experience)](https://jobright.ai/jobs/info/6aa83b12654b2a9424cfb6d9?utm_campaign=1047&utm_source=git)** | Bolingbrook, IL, United States | Hybrid | Sep 14 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Data Product Analyst Spring 2027 Co-Op](https://jobright.ai/jobs/info/6aa9c9b23387a3d9b67d6f15?utm_campaign=1047&utm_source=git)** | Johns Creek, GA, United States | On Site | Sep 14 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Product Management Summer 2027 Internship (Euclid, Oh) Job Details / Lincoln Electric](https://jobright.ai/jobs/info/6a9abd4b1388387060594146?utm_campaign=1047&utm_source=git)** | Euclid, OH, United States | On Site | Sep 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OpenGov Inc.](http://opengov.com)** | **[Product Intern](https://jobright.ai/jobs/info/6aa873b182e82a31997c6066?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 14 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Product Strategy Intern](https://jobright.ai/jobs/info/6aa8b2ca83a6750b1adf9b92?utm_campaign=1047&utm_source=git)** | New York City, NY, United States | On Site | Sep 14 |
 | ↳ | **[Summer 2027 Internship Program – Newswires Business Management Intern](https://jobright.ai/jobs/info/6aa8b2bb3387a3d9b67d29b6?utm_campaign=1047&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 14 |
-| ↳ | **[Summer 2027 Internship Program – Business & Product Strategy Intern](https://jobright.ai/jobs/info/6aa8b29e83a6750b1adf9b7a?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 14 |
-| **[Agropur](https://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6aa48109f3aa936e2cdb17af?utm_campaign=1047&utm_source=git)** | Appleton, WI, United States | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
