@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Product Management - Intern](https://jobright.ai/jobs/info/6a9096c8d96ad228f1262139?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Sep 18 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2027 Intern - Product Management](https://jobright.ai/jobs/info/6a9085ffd96ad228f1261b8f?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 18 |
 | **[NVIDIA AI](https://developer.nvidia.com/blog/)** | **[Product Management MBA Intern, Data Center GPU - Summer 2027](https://jobright.ai/jobs/info/6aace1413dbb1f8967ceba05?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Sep 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6a9a474ba33d28569fb9993a?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 17 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 17 |
 | **[PwC](http://pwc.com)** | **[Advisory National - Commercial Tech & Innovation - Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9e6e128e24cb38513d248?utm_campaign=1047&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aaaf6e68e1bf0f764af788d?utm_campaign=1047&utm_source=git)** | Erie, PA, United States | On Site | Sep 17 |
-| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/6a97143fe4e60e4b8da5be99?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
-| ↳ | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/6a971450246d697dcee033ab?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 17 |
+| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/6a971450246d697dcee033ab?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 17 |
+| ↳ | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/6a97143fe4e60e4b8da5be99?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 17 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Owner Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6aaab678f6bd9d2d17c18d7b?utm_campaign=1047&utm_source=git)** | Glenridge Point, Georgia, United States | Hybrid | Sep 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Product Manager (APM) Intern - Summer 2027](https://jobright.ai/jobs/info/6aabab6a0a5bd0a9bfaad1c4?utm_campaign=1047&utm_source=git)** | Foster City, CA, United States | Hybrid | Sep 17 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363?utm_campaign=1047&utm_source=git)** | Greenville, South Carolina, United States | On Site | Sep 17 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Agency Product Intern](https://jobright.ai/jobs/info/6aac233e3e3ce93970c7bdd4?utm_campaign=1047&utm_source=git)** | Rock Island, IL, United States | On Site | Sep 17 |
 | **[United Airlines](https://www.united.com)** | **[Intern- Sales Products (Summer 2027)](https://jobright.ai/jobs/info/6aac207b95c707f49dfefa37?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac093595c707f49dfef109?utm_campaign=1047&utm_source=git)** | Downers Grove, IL, United States | Hybrid | Sep 17 |
-| ↳ | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac01ea3dbb1f8967ce83f0?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
-| ↳ | **[Early Career Intern - Private Markets Product](https://jobright.ai/jobs/info/6aac09453dbb1f8967ce8662?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 17 |
+| ↳ | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac09293e3ce93970c7b3ff?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
+| ↳ | **[Early Career Intern - Private Markets Product](https://jobright.ai/jobs/info/6aac01f72e757fcb5c8b32ea?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 17 |
 | **[United Airlines](https://www.united.com)** | **[Intern- Sales Products (Summer 2027)](https://jobright.ai/jobs/info/6aac34d595c707f49dff023f?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Agency Product Intern](https://jobright.ai/jobs/info/6aac105b2e757fcb5c8b3825?utm_campaign=1047&utm_source=git)** | Rock Island, IL, United States | Hybrid | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Product Development, Design & Consumer Insights Intern Opportunities](https://jobright.ai/jobs/info/6aac0cfe3e3ce93970c7b503?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cheiron](https://www.cheiron.bio)** | **[Technical Product Management Intern (Los Altos)](https://jobright.ai/jobs/info/6aa9da4628e24cb38513cbc0?utm_campaign=1047&utm_source=git)** | Los Altos, CA, United States | On Site | Sep 15 |
 | **[Datadog](https://www.datadoghq.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a831bfe2dbaf907b07665e1?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc1d77e8156a8e3155c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 15 |
-| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Digital Product Management - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6aa863d72ed333b4ea5cf374?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
