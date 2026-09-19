@@ -10,6 +10,11 @@
 
 ---
 
+### Related Canada student resource
+
+- [Hanzilla Jobs — Canada product, business, and student jobs](https://jobs.hanzilla.co/business/) - free daily-updated Canadian student/recent-grad job board with internships, co-ops, new grad, junior, and entry-level roles across product, business, finance, engineering, tech, sciences, arts, and more.
+
+
 <div align="center">
 <p>
     <a href="https://jobright.ai/?utm_campaign=1047&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
