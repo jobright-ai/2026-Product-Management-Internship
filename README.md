@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Private Brands Operations - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6ab0a1e7de327d3e210d8300?utm_campaign=1047&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 20 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Sep 20 |
 | ↳ | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a9e340b68f82b4036738e54?utm_campaign=1047&utm_source=git)** | Research Triangle Park, North Carolina, United States | Hybrid | Sep 20 |
 | ↳ | **[IBM Power Product Management Intern - Austin, TX - 2027](https://jobright.ai/jobs/info/6a9e2bd02c964816f65ebd66?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 20 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Scaled Growth) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2afe2030208f276aafe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 19 |
 | ↳ | **[AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer](https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 19 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Sep 19 |
-| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Private Brands Operations - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6ab0a1e7de327d3e210d8300?utm_campaign=1047&utm_source=git)** | Mooresville, NC, United States | On Site | Sep 19 |
 | **[General Motors](https://www.gm.com)** | **[2027 Summer Intern - Digital Product: Product Management (MBA)](https://jobright.ai/jobs/info/6aad7a803dbb1f8967cedb27?utm_campaign=1047&utm_source=git)** | Warren, MI, United States | Hybrid | Sep 19 |
 | **[PwC](http://pwc.com)** | **[Advisory National - Commercial Tech & Innovation - Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9e6e128e24cb38513d248?utm_campaign=1047&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 19 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Sep 19 |
@@ -147,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aac3a553d96632d741a9f1f?utm_campaign=1047&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Sep 17 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Agency Product Intern](https://jobright.ai/jobs/info/6aac233e3e3ce93970c7bdd4?utm_campaign=1047&utm_source=git)** | Rock Island, IL, United States | On Site | Sep 17 |
 | **[United Airlines](https://www.united.com)** | **[Intern- Sales Products (Summer 2027)](https://jobright.ai/jobs/info/6aac207b95c707f49dfefa37?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Sep 17 |
-| **[Invesco](https://www.invesco.com)** | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac01ea3e3ce93970c7b1c7?utm_campaign=1047&utm_source=git)** | Downers Grove, IL, United States | Hybrid | Sep 17 |
-| ↳ | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac01ea3dbb1f8967ce83f0?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
+| **[Invesco](https://www.invesco.com)** | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac01ea3dbb1f8967ce83f0?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 17 |
+| ↳ | **[Early Career Intern ETF Product](https://jobright.ai/jobs/info/6aac093595c707f49dfef109?utm_campaign=1047&utm_source=git)** | Downers Grove, IL, United States | Hybrid | Sep 17 |
 | ↳ | **[Early Career Intern - Private Markets Product](https://jobright.ai/jobs/info/6aac01f72e757fcb5c8b32ea?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | Hybrid | Sep 17 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Agency Product Intern](https://jobright.ai/jobs/info/6aac105b2e757fcb5c8b3825?utm_campaign=1047&utm_source=git)** | Rock Island, IL, United States | Hybrid | Sep 17 |
 | **[H-E-B, Inc.](https://www.linkedin.com/company/28983013)** | **[Internship - Product, Merchandising and Retailing Procurement](https://jobright.ai/jobs/info/6aac690e3dbb1f8967cea8e4?utm_campaign=1047&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 17 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2027 Merchandise Planning Internship with Victoria's Secret](https://jobright.ai/jobs/info/6a8f85688ffa38557e6c98d0?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH, United States | Hybrid | Sep 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddf02e757fcb5c8b28ed?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Sep 17 |
 | ↳ | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddd83d96632d741a7ffd?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 17 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Retail Media Product Manager Intern](https://jobright.ai/jobs/info/6aab164ff6bd9d2d17c1b5fd?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 17 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Retail Media Product Manager Intern](https://jobright.ai/jobs/info/6aab15bb4be87a72913a330c?utm_campaign=1047&utm_source=git)** | Quincy, MA, United States | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
