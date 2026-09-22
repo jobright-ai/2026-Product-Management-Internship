@@ -57,10 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist I (Intern) – United States](https://jobright.ai/jobs/info/6ab1fdbdd43eb922ca0c1a85?utm_campaign=1047&utm_source=git)** | Milpitas, CA, United States | On Site | Sep 21 |
-| ↳ | **[Engineering Product Management Specialist I (Intern) – United States](https://jobright.ai/jobs/info/6ab1fd6b32552369083e4d77?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 21 |
-| ↳ | **[Engineering Product Management Specialist I (Intern) – United States](https://jobright.ai/jobs/info/6ab1fd68d43eb922ca0c1a6d?utm_campaign=1047&utm_source=git)** | Triangle, NC, United States | On Site | Sep 21 |
-| ↳ | **[Engineering Product Management Specialist I (Intern) – United States](https://jobright.ai/jobs/info/6ab1fb88f9692ca98b04c603?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 21 |
+| **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist I (Intern) – United States](https://jobright.ai/jobs/info/6ab208a3f9692ca98b04c88e?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 21 |
 | **[OnePay](https://www.onepay.com)** | **[Product Intern](https://jobright.ai/jobs/info/6ab1d39832552369083e4664?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 21 |
 | **[ByteDance](http://bytedance.com)** | **[Product Management Project Intern (Global Payment) - 2027 Start](https://jobright.ai/jobs/info/6ab1ceefd2a93d5a97ebce5d?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 21 |
 | **[Rivian](http://www.rivian.com)** | **[MBA Intern - Product Management Product Development (Spring 2027 Co-Op)](https://jobright.ai/jobs/info/6ab1cd86d2a93d5a97ebcdf0?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Sep 21 |
@@ -130,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Bell](https://letstalk.bell.ca/en)** | **[2027 Graduate Program, Technology Services - Product and Initiative Management](https://jobright.ai/jobs/info/6aada36f0ebc8fb2313eab94?utm_campaign=1047&utm_source=git)** | Verdun, QC, Canada | Hybrid | Sep 18 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aae0e142e757fcb5c8bae85?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[Publicis Montréal](https://www.publicismontreal.ca)** | **[Product Manager Intern (Class of 2028)](https://jobright.ai/jobs/info/6aadb25d3d96632d741af5df?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Sep 18 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aad98bf3dbb1f8967cee786?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
+| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aad98e63dbb1f8967cee7a8?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6aada7eb0ebc8fb2313eadac?utm_campaign=1047&utm_source=git)** | Mequon, WI, United States | Hybrid | Sep 18 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Winter 2027)](https://jobright.ai/jobs/info/6aada1736956574eac8b6cc7?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 18 |
 | ↳ | **[Product Management Intern (Winter 2027)](https://jobright.ai/jobs/info/6aad9e626956574eac8b6c20?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Gordon Food Service](https://www.gfs.com)** | **[Digital Product Management Internship](https://jobright.ai/jobs/info/6aac644a3e3ce93970c7d518?utm_campaign=1047&utm_source=git)** | Wyoming, MI, United States | On Site | Sep 17 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Product Management, FIS University Program](https://jobright.ai/jobs/info/6aac65732e757fcb5c8b5619?utm_campaign=1047&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 17 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Product Management Analyst Intern (Claims)](https://jobright.ai/jobs/info/6aac6a8c636cddf7396f3fd9?utm_campaign=1047&utm_source=git)** | Manassas, VA, United States | On Site | Sep 17 |
+| **[Dayforce](http://www.dayforce.com)** | **[Product Management Intern 4 months - Winter 2027](https://jobright.ai/jobs/info/6aac5aeb95c707f49dff102d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Remote | Sep 17 |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a876e00680f314a29d38d9c?utm_campaign=1047&utm_source=git)** | Canada | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
