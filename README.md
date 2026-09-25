@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cencora](http://www.cencora.com)** | **[Intern,Technical Business Analyst / Product Owner](https://jobright.ai/jobs/info/6ab5d329b3db59402d0ff0db?utm_campaign=1047&utm_source=git)** | Carrollton, TX, United States | Hybrid | Sep 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Sep 24 |
 | **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Product Management](https://jobright.ai/jobs/info/6ab57e57d85922de20ce15a6?utm_campaign=1047&utm_source=git)** | Monroe, NC, United States | On Site | Sep 24 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Product Management & Risk Technology](https://jobright.ai/jobs/info/6ab5aa8f4873fd3fd852b80e?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 24 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6aa08bdb500b01124c779b73?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Sep 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Sep 24 |
 | **[Continental Electrical Construction Co.](https://cecco.com/)** | **[CECCO Intern - Summer 2027](https://jobright.ai/jobs/info/6ab58a3d9d4843569fe4a793?utm_campaign=1047&utm_source=git)** | Oak Brook, IL, United States | On Site | Sep 24 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e33f168f82b4036738e51?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 24 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Sep 24 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Sep 24 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e33f168f82b4036738e51?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Sep 24 |
 | **[Fortune Brands Innovations](https://www.fbin.com )** | **[Product Manager Intern](https://jobright.ai/jobs/info/6ab57cc89d4843569fe49f66?utm_campaign=1047&utm_source=git)** | Deerfield, IL, United States | On Site | Sep 24 |
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243baee751e0c79347dc6?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Mastercard](http://www.mastercard.com)** | **[Product Management Intern, Summer 2027 - United States](https://jobright.ai/jobs/info/6ab17b6cd43eb922ca0bf2d5?utm_campaign=1047&utm_source=git)** | Purchase, NY, United States | On Site | Sep 24 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Spira AI](https://spira.ai)** | **[AI Fullstack GTM (Intern)](https://jobright.ai/jobs/info/6ab57d5d9d4843569fe49f97?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA, United States | On Site | Sep 24 |
 | **[ICD Portal](http://icdportal.com)** | **[Summer 2027 Data Product Manager Internship](https://jobright.ai/jobs/info/6ab55f82634ec6aa7c0ce90c?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Sep 24 |
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern (Conferencing)](https://jobright.ai/jobs/info/6a989df011f73b6462c8fad5?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 24 |
-| ↳ | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a989de583fc63335763292c?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 24 |
+| ↳ | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a9a266d90a313642c65493f?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 24 |
 | **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist II (Intern) – United States](https://jobright.ai/jobs/info/6ab53900634ec6aa7c0cdae1?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 24 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Fragrance Product Development Intern](https://jobright.ai/jobs/info/6a7a3261b17cba5690365ddd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Sep 24 |
 | **[SPX Technologies](http://www.spx.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6ab552d14873fd3fd8528e0f?utm_campaign=1047&utm_source=git)** | Overland Park, KS, United States | Hybrid | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ](https://jobright.ai/jobs/info/6a9659f49fcec5442373253f?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Sep 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a560c8763a3a87ffb0af?utm_campaign=1047&utm_source=git)** | Northfield, IL, United States | Remote | Sep 22 |
 | **[ID.me](https://www.ID.me)** | **[Summer Intern 2027 - Product Intern](https://jobright.ai/jobs/info/6aa013ea3b5aa83237b06cbf?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 22 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Product Management Intern – Controls Lifecare Services - Summer 2027](https://jobright.ai/jobs/info/6a947df9c12c90443efcd80c?utm_campaign=1047&utm_source=git)** | Longmont, CO, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
