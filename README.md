@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Intern, Digital Product Management (Platforms & Guest Experience) at Ulta Beauty](https://jobright.ai/jobs/info/6abeedd80e027c0f3b39bdba?utm_campaign=1047&utm_source=git)** | Indiana, United States | Hybrid | Oct 01 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a876e00680f314a29d38d9c?utm_campaign=1047&utm_source=git)** | Canada | Remote | Oct 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities](https://jobright.ai/jobs/info/6abdf8aa8ff3fb9b3bc728da?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Oct 01 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management (Winter 2027)](https://jobright.ai/jobs/info/6abed490372c01f6cd7260ee?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 01 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Fortune Brands Innovations](https://www.fbin.com )** | **[Product Manager Intern](https://jobright.ai/jobs/info/6abe82824ac55253f5d61015?utm_campaign=1047&utm_source=git)** | Deerfield, IL, United States | On Site | Oct 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/6abe7c0b4ac55253f5d60cc8?utm_campaign=1047&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 01 |
 | **[ByteDance](http://bytedance.com)** | **[Product Management Project Intern (Global Payment) - 2027 Start](https://jobright.ai/jobs/info/6abea954372c01f6cd724d11?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 01 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6aa1683fdbc0e60e37e111cd?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6aa16329ef23570cae2439d9?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2027 Product & Sales Internship](https://jobright.ai/jobs/info/6aa200632f936e4a53daf26c?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[Rubrik](http://rubrik.com)** | **[Product Growth Intern (MBA), Summer 2027](https://jobright.ai/jobs/info/6abe69ab064da25272e0076b?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 01 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Residential Energy Product Strategy Intern- CO](https://jobright.ai/jobs/info/6aa19943ef23570cae244f4d?utm_campaign=1047&utm_source=git)** | Denver, CO, United States | Hybrid | Oct 01 |
@@ -81,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Stiles Machinery](http://www.stilesmachinery.com/)** | **[Product Coordinator Intern](https://jobright.ai/jobs/info/6abe69074ac55253f5d60456?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States | On Site | Oct 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Technical Product Analyst)](https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Yearlong Product Intern, Senior Care](https://jobright.ai/jobs/info/6a85baeed34f700f87fbdc63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 01 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 01 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 01 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 01 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ab7ac3739fd8792cb73e5fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 01 |
-| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 01 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e33f168f82b4036738e51?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2027 Digital Product Solutions Intern](https://jobright.ai/jobs/info/6abd4518372c01f6cd71f7df?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | On Site | Oct 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddd83d96632d741a7ffd?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc8a346cb6c8d5ed2d0?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Sep 30 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[R&D Product Development Internship - Summer 2027](https://jobright.ai/jobs/info/6aa03f275b2d5633ef3bd5dc?utm_campaign=1047&utm_source=git)** | Sheboygan Falls, WI, United States | On Site | Sep 30 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6aa05374dbc0e60e37e0ceba?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 30 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Digital Client](https://jobright.ai/jobs/info/6abd88118ff3fb9b3bc7133e?utm_campaign=1047&utm_source=git)** | Mequon, WI, United States | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
