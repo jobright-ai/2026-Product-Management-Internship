@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2027: Product Manager Intern](https://jobright.ai/jobs/info/6aa827992ed333b4ea5cda4f?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 06 |
+| **[Bell](https://letstalk.bell.ca/en)** | **[2027 Graduate Program, Technology Services - Product and Initiative Management Job Details / Bell](https://jobright.ai/jobs/info/6aae1415de327d3e210d5054?utm_campaign=1047&utm_source=git)** | Verdun, QC, Canada | Hybrid | Oct 06 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern - Summer 2027](https://jobright.ai/jobs/info/6aa06212a2266b538d22ff5f?utm_campaign=1047&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 06 |
 | ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Oct 06 |
@@ -71,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a765d6267a1ad0bc53ca0d3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 05 |
 | **[ByteDance](http://bytedance.com)** | **[Product Management Project Intern (Global Payment) - 2027 Start](https://jobright.ai/jobs/info/6ac40b7a372c01f6cd7339d5?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 05 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2027] Product Management Intern](https://jobright.ai/jobs/info/6a985287c8ed473c5c7634c5?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | Hybrid | Oct 05 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ab7ac3739fd8792cb73e5fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 05 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 05 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ab7ac3739fd8792cb73e5fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 05 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e33f168f82b4036738e51?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 05 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 05 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Management Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 05 |
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ](https://jobright.ai/jobs/info/6a9659ed9fcec5442373253d?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Oct 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer](https://jobright.ai/jobs/info/6a73f2648dc3d52d8eda1e01?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)](https://jobright.ai/jobs/info/6abec0498ff3fb9b3bc757fe?utm_campaign=1047&utm_source=git)** | Lake Mary, FL, United States | On Site | Oct 01 |
 | **[Fortune Brands Innovations](https://www.fbin.com )** | **[Product Manager Intern](https://jobright.ai/jobs/info/6abe82824ac55253f5d61015?utm_campaign=1047&utm_source=git)** | Deerfield, IL, United States | On Site | Oct 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/6abe7c0b4ac55253f5d60cc8?utm_campaign=1047&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Oct 01 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6aa16329ef23570cae2439d9?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Oct 01 |
-| **[Tradeweb](http://www.tradeweb.com/)** | **[Summer 2027 Product & Sales Internship](https://jobright.ai/jobs/info/6aa200632f936e4a53daf26c?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
