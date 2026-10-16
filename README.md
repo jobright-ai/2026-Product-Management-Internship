@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Intern (Conferencing)](https://jobright.ai/jobs/info/6a995d758a8b765bc55f2aaf?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
-| ↳ | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a9a266d90a313642c65493f?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 16 |
-| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac78c8dfe8f33a85d4fbe4c?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 16 |
+| **[C3 AI](https://c3.ai)** | **[AI Product Manager - MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6abffe48372c01f6cd72a001?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | On Site | Oct 16 |
+| **[CIRCOR International, Inc.](http://www.circor.com)** | **[Intern Product Management](https://jobright.ai/jobs/info/6ab57e57d85922de20ce15a6?utm_campaign=1047&utm_source=git)** | Monroe, NC, United States | On Site | Oct 16 |
+| **[Lyft](https://www.lyft.com/)** | **[Content Systems Intern (Summer 2027)](https://jobright.ai/jobs/info/6ab57b084873fd3fd8529c17?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 16 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[AI Product & Business Innovation - Summer 2027 Internship Pathway](https://jobright.ai/jobs/info/6ad267a2f04335fc70ed54b7?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 16 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Intern (Conferencing)](https://jobright.ai/jobs/info/6a989df011f73b6462c8fad5?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Spring 2027)](https://jobright.ai/jobs/info/6ac02c73372c01f6cd72b099?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Oct 16 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a989de583fc63335763292c?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & AI (Spring 2027)](https://jobright.ai/jobs/info/6ac014f64ac55253f5d67736?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Oct 16 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 16 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 16 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac91cefc3a8af9c54a09302?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 16 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac78c890e573df8adc72e7a?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | Hybrid | Oct 16 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 16 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 16 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Cross Car Line Feature Strategy Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ad13242256e49282e6535a9?utm_campaign=1047&utm_source=git)** | Franklin, TN, United States | On Site | Oct 16 |
 | **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist II (Intern) – United States](https://jobright.ai/jobs/info/6ab53900634ec6aa7c0cdae1?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[IT Systems Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7ce29dd77e8156a8e34d95?utm_campaign=1047&utm_source=git)** | Westerville, OH, United States | On Site | Oct 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://nm.optum.com)** | **[Product & Business Development Program (PBDP) Internship](https://jobright.ai/jobs/info/6ace82ff4391691a335ad239?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN, United States | On Site | Oct 13 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Tech Product Development Analyst Intern- Summer 2027](https://jobright.ai/jobs/info/6acee3924391691a335aecbf?utm_campaign=1047&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 13 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Management Intern - Office Seating](https://jobright.ai/jobs/info/6ace81fc680c80c8753bd3aa?utm_campaign=1047&utm_source=git)** | Holland, MI, United States | On Site | Oct 13 |
-| **[SEPHORA](https://www.sephora.com)** | **[Intern, Product Management, Connecting Clients, Channels and Fulfillment](https://jobright.ai/jobs/info/6ad02170c0dd9da253cf6508?utm_campaign=1047&utm_source=git)** | Remote, California, United States | Remote | Oct 13 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Product Development](https://jobright.ai/jobs/info/6ad0026bfe7a9bd5a6b9b2e9?utm_campaign=1047&utm_source=git)** | Greeneville, TN, United States | On Site | Oct 13 |
-| **[Assurant](https://www.assurant.com/)** | **[Summer 2027 Intern: Product Analyst Intern - Housing](https://jobright.ai/jobs/info/6abd8a2b0e027c0f3b3964c8?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 13 |
-| **[Travelers](https://www.travelers.com/)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/6a967872d13b4819f39dc069?utm_campaign=1047&utm_source=git)** | Hartford, CT, United States | On Site | Oct 13 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Agile Delivery & PI Planning [Newtown Square, PA]](https://jobright.ai/jobs/info/6abbeaf43217d1d13329bd2a?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 13 |
-| **[Prologis](http://www.prologis.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6ace87a44f3229123da3cc89?utm_campaign=1047&utm_source=git)** | Denver, CO, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
