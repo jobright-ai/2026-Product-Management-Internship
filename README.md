@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a626314f805ef6ff4232944?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Oct 17 |
+| **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/6a9b74e7138838706059818e?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 17 |
 | **[Pebl](https://hellopebl.com/)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6ad2868af04335fc70ed602a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 17 |
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a66d9f587cef057612d098b?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a88ee484afae74a0834e21a?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
@@ -79,11 +81,11 @@ For a complete list, click the following sortable link below:
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern (Conferencing)](https://jobright.ai/jobs/info/6a989df011f73b6462c8fad5?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
 | ↳ | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a989de583fc63335763292c?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & AI (Spring 2027)](https://jobright.ai/jobs/info/6ac014f64ac55253f5d67736?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Oct 16 |
-| **[IBM](http://www.ibm.com)** | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 16 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 16 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 16 |
+| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac78c8dfe8f33a85d4fbe4c?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 16 |
+| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac91cefc3a8af9c54a09302?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 16 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac78c890e573df8adc72e7a?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | Hybrid | Oct 16 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 16 |
-| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac91cefc3a8af9c54a09302?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 16 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Cross Car Line Feature Strategy Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ad13242256e49282e6535a9?utm_campaign=1047&utm_source=git)** | Franklin, TN, United States | On Site | Oct 16 |
 | **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist II (Intern) – United States](https://jobright.ai/jobs/info/6ab53900634ec6aa7c0cdae1?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[IT Systems Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7ce29dd77e8156a8e34d95?utm_campaign=1047&utm_source=git)** | Westerville, OH, United States | On Site | Oct 16 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6ab440757bd081371331697e?utm_campaign=1047&utm_source=git)** | Overland Park, KS, United States | Hybrid | Oct 15 |
 | **[Fortune Brands Innovations](https://www.fbin.com )** | **[Product Manager Intern](https://jobright.ai/jobs/info/6abe82824ac55253f5d61015?utm_campaign=1047&utm_source=git)** | Deerfield, IL, United States | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddd83d96632d741a7ffd?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 15 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 15 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 15 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 15 |
+| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 15 |
 | ↳ | **[Product Management Intern / Infrastructure Growth & Innovation 2027](https://jobright.ai/jobs/info/6a9e33f22c964816f65ebf22?utm_campaign=1047&utm_source=git)** | Poughkeepsie, New York, United States | Hybrid | Oct 15 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Fragrance Product Development Intern](https://jobright.ai/jobs/info/6a7a3261b17cba5690365ddd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 15 |
 | **[AMBA](https://amba.info)** | **[Product & Carrier Relations Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9d197eff87f571fc9bcb3?utm_campaign=1047&utm_source=git)** | Urbandale, IA, United States | On Site | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Community Product Management (Summer 2027)](https://jobright.ai/jobs/info/6a7a3636ab1385611f8fdf17?utm_campaign=1047&utm_source=git)** | Oak Brook, IL, United States | Hybrid | Oct 14 |
 | **[American Express](https://www.americanexpress.com/en-in/)** | **[Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY](https://jobright.ai/jobs/info/6a9659f33843db015990a6bb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 14 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2027 Product Design Office (PDO) – AI Design Internship](https://jobright.ai/jobs/info/6a96dba8d13b4819f39dd4d0?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 14 |
-| **[PrizePicks](https://prizepicks.com)** | **[Product Analytics Internship - Spring 2027](https://jobright.ai/jobs/info/6abd0ee1372c01f6cd71e110?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 14 |
-| **[Travelpro Products, Inc.](http://www.travelpro.com)** | **[Design & Product Management Intern](https://jobright.ai/jobs/info/6acfc83778d51ae69ce0814b?utm_campaign=1047&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
