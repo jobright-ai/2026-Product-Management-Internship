@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pebl](https://hellopebl.com/)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6ad2868af04335fc70ed602a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a88ee484afae74a0834e21a?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer](https://jobright.ai/jobs/info/6a9b7e829c24314c35f99623?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start （BS） - 2027 Start](https://jobright.ai/jobs/info/6ad30cc5810010ec72f5af48?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 16 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Product Management Intern – 7 Days to Die – Internship Winter 2027](https://jobright.ai/jobs/info/6ad2dc88c4290cef1412d5d0?utm_campaign=1047&utm_source=git)** | Montreal, QC, Canada | Hybrid | Oct 16 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Management Intern - Worksystems](https://jobright.ai/jobs/info/6acdbd009be8b2e4756636e1?utm_campaign=1047&utm_source=git)** | Holland, MI, United States | On Site | Oct 16 |
 | ↳ | **[Product Management Intern - Office Seating](https://jobright.ai/jobs/info/6ad1b0adb4df11f9224ef551?utm_campaign=1047&utm_source=git)** | Holland, MI, United States | On Site | Oct 16 |
-| **[Pebl](https://hellopebl.com/)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6ad2868af04335fc70ed602a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Oct 16 |
 | **[Hader Solutions](https://www.linkedin.com/company/109439043)** | **[Intern - Technical Business Analyst / Product Owner](https://jobright.ai/jobs/info/6ad2e4b325289a0b3bf593c4?utm_campaign=1047&utm_source=git)** | Carrollton, TX, United States | On Site | Oct 16 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[AI Product & Business Innovation - Summer 2027 Internship Pathway](https://jobright.ai/jobs/info/6ad267a2f04335fc70ed54b7?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 16 |
 | **[C3 AI](https://c3.ai)** | **[AI Product Manager - MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac0006d372c01f6cd72a0cf?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | On Site | Oct 16 |
@@ -79,9 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a989de583fc63335763292c?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Oct 16 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product Strategy & AI (Spring 2027)](https://jobright.ai/jobs/info/6ac014f64ac55253f5d67736?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Oct 16 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac78c890e573df8adc72e7a?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | Hybrid | Oct 16 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 16 |
+| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac78c8dfe8f33a85d4fbe4c?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 16 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 16 |
-| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 16 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 16 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac91cefc3a8af9c54a09302?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 16 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Cross Car Line Feature Strategy Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ad13242256e49282e6535a9?utm_campaign=1047&utm_source=git)** | Franklin, TN, United States | On Site | Oct 16 |
 | **[Cisco](http://www.cisco.com)** | **[Engineering Product Management Specialist II (Intern) – United States](https://jobright.ai/jobs/info/6ab53900634ec6aa7c0cdae1?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 16 |
@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6ab440757bd081371331697e?utm_campaign=1047&utm_source=git)** | Overland Park, KS, United States | Hybrid | Oct 15 |
 | **[Fortune Brands Innovations](https://www.fbin.com )** | **[Product Manager Intern](https://jobright.ai/jobs/info/6abe82824ac55253f5d61015?utm_campaign=1047&utm_source=git)** | Deerfield, IL, United States | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6aabddd83d96632d741a7ffd?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 15 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 15 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 15 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 15 |
+| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 15 |
 | ↳ | **[Product Management Intern / Infrastructure Growth & Innovation 2027](https://jobright.ai/jobs/info/6a9e33f22c964816f65ebf22?utm_campaign=1047&utm_source=git)** | Poughkeepsie, New York, United States | Hybrid | Oct 15 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Fragrance Product Development Intern](https://jobright.ai/jobs/info/6a7a3261b17cba5690365ddd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 15 |
 | **[AMBA](https://amba.info)** | **[Product & Carrier Relations Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9d197eff87f571fc9bcb3?utm_campaign=1047&utm_source=git)** | Urbandale, IA, United States | On Site | Oct 15 |
