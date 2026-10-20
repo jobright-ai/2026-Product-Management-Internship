@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Supplies & Sensors Product Manager](https://jobright.ai/jobs/info/6ad7834467bec1d0d9c75e91?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Oct 20 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Commercial Lines Product Summer Internship – Short Hills, NJ or Hartford, CT (Hybrid)](https://jobright.ai/jobs/info/6a9f949c352f093fc756ead0?utm_campaign=1047&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 20 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Supplies & Sensors Product Manager](https://jobright.ai/jobs/info/6ad7834467bec1d0d9c75e91?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Oct 20 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Product Management Intern - S](https://jobright.ai/jobs/info/6ad790c054bbabbab06ff9bd?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Oct 20 |
 | **[MechSpire](https://www.linkedin.com/company/92823876)** | **[Development Product Management Intern](https://jobright.ai/jobs/info/6ad78b97e4b94611ab845f8e?utm_campaign=1047&utm_source=git)** | East Aurora, NY, United States | On Site | Oct 20 |
 | **[ID.me](https://www.ID.me)** | **[Summer Intern 2027 - Product Intern](https://jobright.ai/jobs/info/6aa013ea3b5aa83237b06cbf?utm_campaign=1047&utm_source=git)** | Mountain View, CA, United States | On Site | Oct 20 |
@@ -137,11 +137,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer](https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
 | ↳ | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a9991d6ad752e2ad5500281?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ab7ac3739fd8792cb73e5fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 17 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 17 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 17 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac91cefc3a8af9c54a09302?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 17 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac78c8dfe8f33a85d4fbe4c?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 17 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 17 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a8e09b2581f2d7bfdfeabcc?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Oct 17 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 17 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6aabfca03e3ce93970c7b024?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 17 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a626314f805ef6ff4232944?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Oct 17 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/6a9b74e7138838706059818e?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 17 |
