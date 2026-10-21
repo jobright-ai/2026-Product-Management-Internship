@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6aa05374dbc0e60e37e0ceba?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
+| ↳ | **[Technical Product Intern](https://jobright.ai/jobs/info/6aa05386500b01124c7784a0?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
 | **[Genentech](http://gene.com)** | **[2027 Summer Intern - Product Technical Development - Digital Sciences Focus](https://jobright.ai/jobs/info/6ad7e64b67bec1d0d9c7a4a7?utm_campaign=1047&utm_source=git)** | South San Francisco, CA, United States | On Site | Oct 20 |
 | **[Vontier](https://www.vontier.com)** | **[Intern - Product Owner (Summer 2027)](https://jobright.ai/jobs/info/6ad801633dc655658d8f25a5?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 20 |
 | ↳ | **[Intern - Product Strategy (Summer 2027)](https://jobright.ai/jobs/info/6ad8015c67bec1d0d9c7b464?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 20 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Product Management Intern](https://jobright.ai/jobs/info/6ad820bf54bbabbab07055ef?utm_campaign=1047&utm_source=git)** | Mequon, WI, United States | On Site | Oct 20 |
 | **[Aptiv](http://www.aptiv.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6ad7f1b1e4b94611ab84ab0d?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Oct 20 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Management Intern - Worksystems](https://jobright.ai/jobs/info/6acdbd009be8b2e4756636e1?utm_campaign=1047&utm_source=git)** | Holland, MI, United States | On Site | Oct 20 |
 | **[GoFundMe](http://www.gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://jobright.ai/jobs/info/6ad80a13e4b94611ab84b3e2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 20 |
 | **[Haworth](http://www.haworth.com/)** | **[Year-Round Product Sourcing Intern, Architectural Solutions](https://jobright.ai/jobs/info/6ad7d84d950ef68d518448c7?utm_campaign=1047&utm_source=git)** | Holland, MI, United States | On Site | Oct 20 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Product Management (AI) Intern](https://jobright.ai/jobs/info/6ad8783767bec1d0d9c7d81b?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6aa08bdb500b01124c779b73?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 20 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/6ad64deb67bec1d0d9c6d4de?utm_campaign=1047&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a58ced3686b4755d1e0c5bd?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Oct 20 |
-| ↳ | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8843732c05812df43e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Oct 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8843732c05812df43e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Oct 20 |
+| ↳ | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a58ced3686b4755d1e0c5bd?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Oct 20 |
 | **[Vontier](https://www.vontier.com)** | **[Intern - Product Owner (Summer 2027)](https://jobright.ai/jobs/info/6ad7d1443dc655658d8f06ba?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 20 |
 | ↳ | **[Intern - Product Strategy (Summer 2027)](https://jobright.ai/jobs/info/6ad7d141950ef68d51844337?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 20 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Global Product Management (m/f/d)](https://jobright.ai/jobs/info/6a63ac8de8d8d22e3292a008?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 20 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer](https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 17 |
 | ↳ | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a9991d6ad752e2ad5500281?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ab7ac3739fd8792cb73e5fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 17 |
-| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 17 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 17 |
-| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 17 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ac91cefc3a8af9c54a09302?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Oct 17 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6ab6caf8d7fde2c08ec8979f?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Oct 17 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 17 |
+| ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ab58d1c9d4843569fe4a9a6?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Oct 17 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 17 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
