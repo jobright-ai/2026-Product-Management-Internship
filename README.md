@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddd0a4cc7090f98564f?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Oct 26 |
+| ↳ | **[Global Product Solutions and Operations - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ae00ddc0a4cc7090f98564d?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 26 |
 | **[Parallel](https://www.moveparallel.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6adfcc885dc7953215a43106?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 26 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6adfe4d7065c4e77efafca1f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Oct 26 |
 | ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ada780d950ef68d5185802b?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 26 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 26 |
 | ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Oct 26 |
+| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Oct 26 |
 | **[ABB](https://global.abb/group/en)** | **[Product Management Intern Drive Products - Summer 2027](https://jobright.ai/jobs/info/6adf8f629a8c91d5c3586a1e?utm_campaign=1047&utm_source=git)** | New Berlin, WI, United States | On Site | Oct 26 |
 | **[Mercedes-Benz Group AG](http://www.mercedes-benz.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6adfd3f6065c4e77efafbf82?utm_campaign=1047&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 26 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer 2027 - Product Planning Intern](https://jobright.ai/jobs/info/6adfc1580a4cc7090f982d41?utm_campaign=1047&utm_source=git)** | Kirkland, WA, United States | On Site | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 23 |
 | ↳ | **[Product Solutions and Operations Project Intern (Scaled Growth) - 2026 Start](https://jobright.ai/jobs/info/6a7ed1bbb56bea5779c073cc?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 23 |
 | ↳ | **[Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start](https://jobright.ai/jobs/info/6ac91767c3a8af9c54a090d8?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 23 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Product Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6adb662c46a8cabdc1ff2a58?utm_campaign=1047&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 23 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Intern- Product Management (Summer 2027)](https://jobright.ai/jobs/info/6adb6e7cc5c64fa3d9caf435?utm_campaign=1047&utm_source=git)** | Markham, Ontario, Canada | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
