@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EduRankAI](https://www.edurankai.in)** | **[Founder's Office Intern - Product & Strategy (Net-Profit Share only)](https://jobright.ai/jobs/info/6ae20e37de23f466ec8c2283?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | Remote | Oct 28 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027 - POUGHKEEPSIE](https://jobright.ai/jobs/info/6ae20c0feb7e8f715a609793?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 28 |
 | **[PrizePicks](https://prizepicks.com)** | **[Product Analytics Internship - Spring 2027](https://jobright.ai/jobs/info/6abd0ee1372c01f6cd71e110?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363?utm_campaign=1047&utm_source=git)** | Greenville, South Carolina, United States | On Site | Oct 28 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern – AI & Product Management, Mobile Memory (LPDRAM)](https://jobright.ai/jobs/info/6ae10c751f9d9308370a7186?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 28 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Intern](https://jobright.ai/jobs/info/6abff3ad4ac55253f5d66ad5?utm_campaign=1047&utm_source=git)** | Edina, MN, United States | On Site | Oct 27 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6ae125181f9d9308370a8045?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations project Intern (Ads Interface and Platform Product ) - 2026 Start](https://jobright.ai/jobs/info/6a6815202bf1fb2b71928606?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Oct 27 |
-| **[EduRankAI](https://www.edurankai.in)** | **[Founder's Office Intern — Product & Strategy (Net-Profit Share only)](https://jobright.ai/jobs/info/6ae14395829a3bada15fbeaa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
+| **[Sonos, Inc.](http://www.sonos.com)** | **[Software Product Management Intern (Seattle)](https://jobright.ai/jobs/info/6ae21086829a3bada1600ac4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Oct 27 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6ae200196679108488c46595?utm_campaign=1047&utm_source=git)** | Providence, RI, United States | Hybrid | Oct 27 |
 | **[Viget](http://viget.com)** | **[Project & Product Manager Intern (2027)](https://jobright.ai/jobs/info/6ac804d50e573df8adc75b90?utm_campaign=1047&utm_source=git)** | Boulder, CO, United States | On Site | Oct 27 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Management Intern - Office Seating](https://jobright.ai/jobs/info/6ad1b0adb4df11f9224ef551?utm_campaign=1047&utm_source=git)** | Holland, MI, United States | On Site | Oct 27 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Summer Intern - Strategy](https://jobright.ai/jobs/info/6ac3a90a4ac55253f5d6e6a6?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 26 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6adf90499a8c91d5c3586acf?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, United States | Hybrid | Oct 26 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Management - Manufacturing](https://jobright.ai/jobs/info/6adf7ded9a8c91d5c3585c96?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Oct 26 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Oct 26 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Oct 26 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Oct 26 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Vancouver](https://jobright.ai/jobs/info/6adf66fb065c4e77efaf72e6?utm_campaign=1047&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 26 |
 | **[Continental Electrical Construction Co.](https://cecco.com/)** | **[CECCO Intern - Summer 2027](https://jobright.ai/jobs/info/6ad90914b0725dc268dd8f5c?utm_campaign=1047&utm_source=git)** | Oak Brook, IL, United States | On Site | Oct 26 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Management Energy Products & Tariffs (m/f/d)](https://jobright.ai/jobs/info/6aba4056c1829c664952cee2?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Oct 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6ad9504ab0725dc268ddbe31?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 24 |
 | ↳ | **[Product Manager MBA Intern, Enterprise AI - Summer 2027](https://jobright.ai/jobs/info/6ad645d8e4b94611ab83c901?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 24 |
-| **[Atlassian](https://www.atlassian.com)** | **[Product Management Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 24 |
-| **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
