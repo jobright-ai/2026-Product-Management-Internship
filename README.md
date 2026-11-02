@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Product Owner - Costco Travel](https://jobright.ai/jobs/info/6ae8d89c777c336eb6d66da3?utm_campaign=1047&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Product Owner - Costco Travel](https://jobright.ai/jobs/info/6ae8da0c03f4a1104b25705e?utm_campaign=1047&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6ae8bff9061d6d7ff3d7cac0?utm_campaign=1047&utm_source=git)** | Portland, OR, United States | On Site | Nov 02 |
 | **[Tower Research Capital](https://tower-research.com/ventures/)** | **[Venture Capital Intern (Part-time, Fall/Winter)](https://jobright.ai/jobs/info/6acce4ffddd23cce28a0f9bf?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/6abe7c0b4ac55253f5d60cc8?utm_campaign=1047&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Nov 02 |
@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aae0e13de327d3e210d4ed8?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Private Brands Operations - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6ab0a1e7de327d3e210d8300?utm_campaign=1047&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 02 |
 | **[PNC](http://www.pnc.com)** | **[Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/6ae8a5ca777c336eb6d64b4a?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 01 |
+| **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Global Wealth & Asset Management](https://jobright.ai/jobs/info/6ae8e4fc777c336eb6d67650?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 01 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern- Insurance](https://jobright.ai/jobs/info/6ae8d25f6c51033758f43254?utm_campaign=1047&utm_source=git)** | Alpharetta, GA, United States | On Site | Nov 01 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 01 |
 | **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6aa08bdb500b01124c779b73?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 01 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6ae5506fd7424a2a828ecca0?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 01 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2028)](https://jobright.ai/jobs/info/6aae03186956574eac8b81ce?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | On Site | Nov 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI [Newtown Square, PA]](https://jobright.ai/jobs/info/6acf415a9f35fba28731f46c?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 31 |
-| ↳ | **[SAP iXp Intern - Product Management, Agile Delivery & PI Planning [Newtown Square, PA]](https://jobright.ai/jobs/info/6abbeaf43217d1d13329bd2a?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 31 |
 | ↳ | **[SAP iXp Intern - AI Product Management](https://jobright.ai/jobs/info/6ae524a777c09cb3bd4b2215?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
+| ↳ | **[SAP iXp Intern - Product Management, Agile Delivery & PI Planning [Newtown Square, PA]](https://jobright.ai/jobs/info/6abbeaf43217d1d13329bd2a?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Data Center GPU - Summer 2027](https://jobright.ai/jobs/info/6ae56a7eeab1f967309814f6?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 31 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Management Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6aaa2738120c360b6bd4ace2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/6aab0326f6bd9d2d17c1aee4?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD, United States | Hybrid | Oct 29 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 State Product Analyst Intern - Personal Lines](https://jobright.ai/jobs/info/6ae314c2d7424a2a828ddb82?utm_campaign=1047&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6aaa7c6b76707040fb080c5b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 29 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6aad98e63dbb1f8967cee7a8?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
