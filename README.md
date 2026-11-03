@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reviora](reviora.co)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6aea32b2897466e69e31c9bd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 03 |
 | **[IBM](http://www.ibm.com)** | **[AI Foundations - Technical Product Management - Internship 2027](https://jobright.ai/jobs/info/6aea0e1c440b469a1c0a9df3?utm_campaign=1047&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 03 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Product Analyst Intern (Part Time)](https://jobright.ai/jobs/info/6acd174be7a1d9333210fe9d?utm_campaign=1047&utm_source=git)** | Valley, NE, United States | Remote | Nov 03 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Card & Payment Products Intern](https://jobright.ai/jobs/info/6aea267bfc85f3a394330c30?utm_campaign=1047&utm_source=git)** | Rockland, MA, United States | On Site | Nov 03 |
@@ -70,16 +71,16 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Technical Program Management Intern - Product Management Product Development (Spring 2027 Co-Op)](https://jobright.ai/jobs/info/6ab1bdbbf9692ca98b04ba22?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 03 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Product Owner Intern](https://jobright.ai/jobs/info/6ae980c014b684da08de0554?utm_campaign=1047&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6adf8a0d9e3e874dbfbad56e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 02 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Nov 02 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ae934a6e50c01a743a87c34?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Product Management Internship](https://jobright.ai/jobs/info/6ae93563a291a1db4de22b9a?utm_campaign=1047&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 02 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Product Development (In Office Monday-Wednesday)](https://jobright.ai/jobs/info/6ae920a603f4a1104b259eee?utm_campaign=1047&utm_source=git)** | Livonia, MI, United States | On Site | Nov 02 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2027 Undergraduate Intern, Product & Technology Department](https://jobright.ai/jobs/info/6ae924aca2a252e21942d16d?utm_campaign=1047&utm_source=git)** | New York City, NY, United States | Remote | Nov 02 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/6aea1961897466e69e31b8b9?utm_campaign=1047&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 02 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[2027 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6aea0f31fc85f3a39432fa77?utm_campaign=1047&utm_source=git)** | Denton, TX, United States | On Site | Nov 02 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/6aea1b9a897466e69e31ba44?utm_campaign=1047&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 02 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Product Owner - Costco Travel](https://jobright.ai/jobs/info/6ae8d89c777c336eb6d66da3?utm_campaign=1047&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Product Owner - Costco Travel](https://jobright.ai/jobs/info/6ae8da0c03f4a1104b25705e?utm_campaign=1047&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Product Operations Manager Internship](https://jobright.ai/jobs/info/6ae920a1a2a252e21942cfa5?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 02 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Product Management & Market Intelligence Intern](https://jobright.ai/jobs/info/6ae5013e77c09cb3bd4b0f9e?utm_campaign=1047&utm_source=git)** | Gastonia, North Carolina, United States | Hybrid | Nov 02 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6ae8bff9061d6d7ff3d7cac0?utm_campaign=1047&utm_source=git)** | Portland, OR, United States | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teamworks](http://www.teamworks.com)** | **[Product MBA Intern](https://jobright.ai/jobs/info/6ae4b729d7424a2a828e7d52?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6ae4a7eeeab1f9673097b6b7?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Oct 30 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/6a971450246d697dcee033ab?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Oct 30 |
-| ↳ | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/6a97143fe4e60e4b8da5be99?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
