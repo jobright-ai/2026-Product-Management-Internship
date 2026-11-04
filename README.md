@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PACCAR](http://www.paccar.com/)** | **[2027 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6aea8c6c440b469a1c0af050?utm_campaign=1047&utm_source=git)** | Denton, TX, United States | On Site | Nov 03 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Transaction Banking Intern – Product Team – May – August 2027](https://jobright.ai/jobs/info/6aeac26ad22d4c08ec605e56?utm_campaign=1047&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 03 |
 | **[GoFundMe](http://www.gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://jobright.ai/jobs/info/6ad80a13e4b94611ab84b3e2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 03 |
+| **[PACCAR](http://www.paccar.com/)** | **[2027 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6aea8c6c440b469a1c0af050?utm_campaign=1047&utm_source=git)** | Denton, TX, United States | On Site | Nov 03 |
 | **[Hakkōda, an IBM Company](https://hakkoda.io)** | **[AI Foundations - Technical Product Management - Internship 2027](https://jobright.ai/jobs/info/6aea9dae913589212b1f81ec?utm_campaign=1047&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Management, Megapack Services 3 (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea815c4f991d64376ce8a9?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 03 |
 | ↳ | **[Internship, Product Management, Megapack Services (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aea815c913589212b1f765c?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 03 |
@@ -78,9 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Technical Program Management Intern - Product Management Product Development (Spring 2027 Co-Op)](https://jobright.ai/jobs/info/6ab1bdbbf9692ca98b04ba22?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 03 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[2027 Summer Product Owner Intern](https://jobright.ai/jobs/info/6ae980c014b684da08de0554?utm_campaign=1047&utm_source=git)** | Omaha, NE, United States | Hybrid | Nov 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ae934a6e50c01a743a87c34?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6adf8a0d9e3e874dbfbad56e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 02 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Nov 02 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Product Management Internship](https://jobright.ai/jobs/info/6ae93563a291a1db4de22b9a?utm_campaign=1047&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 02 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Product Development (In Office Monday-Wednesday)](https://jobright.ai/jobs/info/6ae920a603f4a1104b259eee?utm_campaign=1047&utm_source=git)** | Livonia, MI, United States | On Site | Nov 02 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/6aea1b9a897466e69e31ba44?utm_campaign=1047&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 02 |
@@ -89,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[The Cigna Group](https://www.cigna.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/6aea1961897466e69e31b8b9?utm_campaign=1047&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 02 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[2027 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6aea0f31fc85f3a39432fa77?utm_campaign=1047&utm_source=git)** | Denton, TX, United States | On Site | Nov 02 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com/)** | **[Auto Product Analyst Intern](https://jobright.ai/jobs/info/6aea3fd1897466e69e31d255?utm_campaign=1047&utm_source=git)** | Bloomington, IL, United States | Hybrid | Nov 02 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Product Owner - Costco Travel](https://jobright.ai/jobs/info/6ae8d89c777c336eb6d66da3?utm_campaign=1047&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - IT Product Owner - Costco Travel](https://jobright.ai/jobs/info/6ae8da0c03f4a1104b25705e?utm_campaign=1047&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Product Operations Manager Internship](https://jobright.ai/jobs/info/6ae920a1a2a252e21942cfa5?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 02 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Product Management & Market Intelligence Intern](https://jobright.ai/jobs/info/6ae5013e77c09cb3bd4b0f9e?utm_campaign=1047&utm_source=git)** | Gastonia, North Carolina, United States | Hybrid | Nov 02 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6ae8bff9061d6d7ff3d7cac0?utm_campaign=1047&utm_source=git)** | Portland, OR, United States | On Site | Nov 02 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6ac2ab3a372c01f6cd73001e?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 01 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6ae5506fd7424a2a828ecca0?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Management, Digital Platforms & AI [Newtown Square, PA]](https://jobright.ai/jobs/info/6acf415a9f35fba28731f46c?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 31 |
-| ↳ | **[SAP iXp Intern - Product Management, Agile Delivery & PI Planning [Newtown Square, PA]](https://jobright.ai/jobs/info/6abbeaf43217d1d13329bd2a?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 31 |
 | ↳ | **[SAP iXp Intern - AI Product Management](https://jobright.ai/jobs/info/6ae524a777c09cb3bd4b2215?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Oct 31 |
+| ↳ | **[SAP iXp Intern - Product Management, Agile Delivery & PI Planning [Newtown Square, PA]](https://jobright.ai/jobs/info/6abbeaf43217d1d13329bd2a?utm_campaign=1047&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Oct 31 |
 | **[HP](http://www.hp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6ae50ab4fb2cd420ace5c54e?utm_campaign=1047&utm_source=git)** | Spring, TX, United States | On Site | Oct 31 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027 - POUGHKEEPSIE](https://jobright.ai/jobs/info/6ae20c0feb7e8f715a609793?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Oct 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Signify](https://www.signify.com)** | **[Product Management Intern, Cooper Lighting Solutions - Spring 2027](https://jobright.ai/jobs/info/6ae4ffc1eab1f9673097ed14?utm_campaign=1047&utm_source=git)** | Aurora, CO, United States | On Site | Oct 30 |
 | **[Residex®](https://www.residex.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/6ae4f60677c09cb3bd4b0918?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | On Site | Oct 30 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern - Summer of 2027](https://jobright.ai/jobs/info/6ae50147eab1f9673097ee2a?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 30 |
-| **[CIBC](https://www.cibc.com)** | **[Product Analyst Co-op- Winter 2027](https://jobright.ai/jobs/info/6ae4d92dc3139b475b5b6884?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
