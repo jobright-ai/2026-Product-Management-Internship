@@ -57,21 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6aee208fd20350c7a5078dff?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 06 |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 IT-Product & Strategy Summer Intern](https://jobright.ai/jobs/info/6ac90835fcdafb60c6a4a607?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
+| **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6aee22f4d20350c7a50791e7?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 06 |
 | **[Nebulink](www.nebulinklabs.com)** | **[Founding Product & Growth Intern](https://jobright.ai/jobs/info/6aee1da15c81f621d3111d76?utm_campaign=1047&utm_source=git)** | United States | On Site | Nov 06 |
 | **[PACCAR Parts](https://www.paccarparts.com)** | **[Summer Internship - Product Definition Analytics](https://jobright.ai/jobs/info/6aee1b1fcaf8e660b87dac65?utm_campaign=1047&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer Internship - Product Definition Analytics](https://jobright.ai/jobs/info/6ad11dade2d41540d4a6e510?utm_campaign=1047&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a9a266d90a313642c65493f?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a989de583fc63335763292c?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Laptop - Summer 2027](https://jobright.ai/jobs/info/6ad12093ae21edea94fd3e1c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 06 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 IT-Product & Strategy Summer Intern](https://jobright.ai/jobs/info/6ac90835fcdafb60c6a4a607?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 06 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6aedf8ce5c81f621d310fe5c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 06 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Nov 06 |
+| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 06 |
+| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6adfe4d7065c4e77efafca1f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Nov 06 |
+| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ada780d950ef68d5185802b?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Nov 06 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6aedf8ce5c81f621d310fe5c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 06 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Nov 06 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Nov 06 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ae9f6042b0b1eb5805b525a?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Nov 06 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6adfe4d7065c4e77efafca1f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Nov 06 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Nov 06 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ada780d950ef68d5185802b?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | Hybrid | Nov 06 |
-| ↳ | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6ab7abca62bb1fbd451de2e1?utm_campaign=1047&utm_source=git)** | Poughkeepsie, NY, United States | On Site | Nov 06 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern - MBA (Summer 2027)](https://jobright.ai/jobs/info/6a7ca02983621355407aaa90?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Nov 06 |
 | ↳ | **[IT Systems Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7ce29dd77e8156a8e34d95?utm_campaign=1047&utm_source=git)** | Westerville, OH, United States | On Site | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Nov 06 |
@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/6aea7a89913589212b1f724c?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 04 |
 | **[US Foods](https://www.usfoods.com)** | **[Intern – Product Analyst, Supply Chain Technology (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/6aeb001e65311d97105b4515?utm_campaign=1047&utm_source=git)** | Rosemont, IL, United States | Hybrid | Nov 04 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/6a972120455eaf6a08c1ada4?utm_campaign=1047&utm_source=git)** | New Holland, PA, United States | On Site | Nov 04 |
-| **[Dell Technologies](https://www.dell.com)** | **[AI Solutions Undergraduate Intern – Product & Content Management](https://jobright.ai/jobs/info/6aa84ba33a9f0a4fe6f18652?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
-| ↳ | **[AI Solutions Undergraduate Intern – Product & Content Management](https://jobright.ai/jobs/info/6aea22191ba298c77776fc2f?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
+| **[Dell Technologies](https://www.dell.com)** | **[AI Solutions Undergraduate Intern – Product & Content Management](https://jobright.ai/jobs/info/6aea22191ba298c77776fc2f?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
+| ↳ | **[AI Solutions Undergraduate Intern – Product & Content Management](https://jobright.ai/jobs/info/6aa84ba33a9f0a4fe6f18652?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 04 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Transaction Banking Intern – Product Team – May – August 2027](https://jobright.ai/jobs/info/6aeac26ad22d4c08ec605e56?utm_campaign=1047&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 03 |
 | **[GoFundMe](http://www.gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://jobright.ai/jobs/info/6ad80a13e4b94611ab84b3e2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 03 |
 | **[PACCAR](http://www.paccar.com/)** | **[2027 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6aea8c6c440b469a1c0af050?utm_campaign=1047&utm_source=git)** | Denton, TX, United States | On Site | Nov 03 |
