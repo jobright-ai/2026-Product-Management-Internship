@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legrand](https://www.legrand.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6af32503769e9374033c3262?utm_campaign=1047&utm_source=git)** | Syracuse, NY, United States | On Site | Nov 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a51bd8057513b72e0c67032?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Nov 10 |
 | **[Boardwise](https://www.boardwise.io)** | **[Werkstudent Product & Projects](https://jobright.ai/jobs/info/6af30ca210c7aed778616db5?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Databricks](https://www.databricks.com)** | **[Product Design Intern (2027 Start)](https://jobright.ai/jobs/info/6ac975c96355f8776ff1917f?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 10 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 09 |
 | ↳ | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a66d9f587cef057612d098b?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 09 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a9afff690a313642c658191?utm_campaign=1047&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 09 |
-| **[Zoetis](https://www.zoetis.com)** | **[Data & Analytics Product Operations Intern](https://jobright.ai/jobs/info/6af209790cb834dad9322488?utm_campaign=1047&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 08 |
+| **[Zoetis](https://www.zoetis.com)** | **[Data & Analytics Product Operations Intern](https://jobright.ai/jobs/info/6af216661116f6f0a0764e3d?utm_campaign=1047&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 08 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Games Product Management Co-op: Needham, MA - January-May 2027](https://jobright.ai/jobs/info/6af1f591905985ccaa406f9c?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Nov 08 |
 | **[Snowflake](https://www.snowflake.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6af2bd0fd622b1b75451b05a?utm_campaign=1047&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 08 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, IT - Marketing Technology Product Management](https://jobright.ai/jobs/info/6af219cc1aaffa49f7380b79?utm_campaign=1047&utm_source=git)** | Rochester, NY, United States | On Site | Nov 08 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Shure](http://www.shure.com)** | **[Global Product Management Intern (Conferencing)](https://jobright.ai/jobs/info/6a995d758a8b765bc55f2aaf?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 07 |
 | **[WhiteOptics LLC](https://www.whiteoptics.com)** | **[Intern - Product Management Technology Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58b08022f8ddd319dbdb?utm_campaign=1047&utm_source=git)** | Conyers, GA, United States | Hybrid | Nov 07 |
 | ↳ | **[Finance AI Product Management Intern - Onsite Job Details / Acuity Inc.](https://jobright.ai/jobs/info/6aef58949f8e479a8bcfc947?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 07 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a8e09b2581f2d7bfdfeabcc?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Nov 07 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6aabfca03e3ce93970c7b024?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Nov 07 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Nov 07 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6ac7cb81fe8f33a85d4fd32d?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Nov 07 |
 | ↳ | **[Product Management Intern 2027](https://jobright.ai/jobs/info/6ae9f6042b0b1eb5805b525a?utm_campaign=1047&utm_source=git)** | Yorktown Heights, NY, United States | On Site | Nov 07 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Part-Time Technical Product Specialist Undergraduate Intern (R22605)](https://jobright.ai/jobs/info/6ad143ace2d41540d4a6f88a?utm_campaign=1047&utm_source=git)** | Irvine, CA, United States | Hybrid | Nov 06 |
 | **[PACCAR Parts](https://www.paccarparts.com)** | **[Summer Internship - Product Definition Analytics](https://jobright.ai/jobs/info/6aee1b1fcaf8e660b87dac65?utm_campaign=1047&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Summer Internship - Product Definition Analytics](https://jobright.ai/jobs/info/6ad11dade2d41540d4a6e510?utm_campaign=1047&utm_source=git)** | Renton, WA, United States | On Site | Nov 06 |
-| **[Shure](http://www.shure.com)** | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a989de583fc63335763292c?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
+| **[Shure](http://www.shure.com)** | **[Global Product Management Data Intern](https://jobright.ai/jobs/info/6a9a266d90a313642c65493f?utm_campaign=1047&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Spring Co-op 2027](https://jobright.ai/jobs/info/6a9e3424a7ba386c5d67105e?utm_campaign=1047&utm_source=git)** | Lowell, MA, United States | Hybrid | Nov 06 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6aedf8ce5c81f621d310fe5c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 06 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern - MBA (Summer 2027)](https://jobright.ai/jobs/info/6a7ca02983621355407aaa90?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/6aed9e82c7498922fe0c37d4?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 06 |
 | ↳ | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/6ad1230a256e49282e652f99?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 06 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Pricing Strategy Analyst Student Experience - Spring 2027](https://jobright.ai/jobs/info/6a9934028974952dfc949db8?utm_campaign=1047&utm_source=git)** | West Fargo, ND, United States | On Site | Nov 06 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ad105f2256e49282e651de4?utm_campaign=1047&utm_source=git)** | Colmar, Pennsylvania, United States | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
