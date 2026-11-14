@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumen Technologies](https://www.lumen.com)** | **[AI Product & Business Innovation - Summer 2027 Internship Pathway](https://jobright.ai/jobs/info/6af824d935427cce9bb2bd3a?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern (Lynchburg, VA))](https://jobright.ai/jobs/info/6af8232142ae65e2c8f3b187?utm_campaign=1047&utm_source=git)** | Lynchburg, VA, United States | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Creator Management Project Intern (TikTok Shop - US Operation) - 2026 Start （BS） - 2027 Start](https://jobright.ai/jobs/info/6ae5527777c09cb3bd4b3122?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | **[Waymo](https://waymo.com)** | **[2027 Summer Intern, MBA, Salesforce Product Owner](https://jobright.ai/jobs/info/6aa9b824eff87f571fc9af10?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 13 |
@@ -108,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[New Product Development Product Management Intern](https://jobright.ai/jobs/info/6af787e9e3d8d612bf424731?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Nov 12 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr Inbound Product Manager Intern (MBA Summer 2028)](https://jobright.ai/jobs/info/6af613fc80054650a5e7bc71?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 12 |
 | **[Entegris](http://www.entegris.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6af6284180054650a5e7ca9c?utm_campaign=1047&utm_source=git)** | Rockrimmon, Colorado Springs, CO, United States | On Site | Nov 12 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Sr Outbound Product Manager Intern (MBA Summer 2028)](https://jobright.ai/jobs/info/6af6140279862a378dcf077f?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 12 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Sr Outbound Product Manager Intern (MBA Summer 2028)](https://jobright.ai/jobs/info/6af613f0a4a5218a07e82f0f?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 12 |
 | ↳ | **[Sr Inbound Product Manager Intern (MBA Summer 2028)](https://jobright.ai/jobs/info/6af613f78cc703bba47af9ec?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 12 |
 | **[Epic Games](https://epicgames.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6abbf6ed7119e56191cea605?utm_campaign=1047&utm_source=git)** | Cary, NC, United States | On Site | Nov 12 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 12 |
@@ -120,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Technical Product Analyst)](https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 12 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Small Business Product Summer Internship - Short Hills, NJ (Hybrid)](https://jobright.ai/jobs/info/6a9f942da7ba386c5d675699?utm_campaign=1047&utm_source=git)** | Short Hills, NJ, United States | Hybrid | Nov 12 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Intern - Electronics](https://jobright.ai/jobs/info/6af5f99a79862a378dcef5b1?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
-| ↳ | **[Product Line Intern - Parts Supply](https://jobright.ai/jobs/info/6af5f99979862a378dcef5b0?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | ↳ | **[Product Line Representative Intern - Defense Distribution](https://jobright.ai/jobs/info/6af5f99979862a378dcef5ac?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
+| ↳ | **[Product Line Intern - Parts Supply](https://jobright.ai/jobs/info/6af5f99979862a378dcef5b0?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | ↳ | **[Product Line Rep Intern - Commercial Distribution](https://jobright.ai/jobs/info/6af5f99680054650a5e7aa32?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Product Development, Design & Consumer Insights Co-op Spring Opportunities (Jan-Jun 2027)](https://jobright.ai/jobs/info/6aac0d183e3ce93970c7b540?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 12 |
 | ↳ | **[Product Development, Design & Consumer Insights Intern Summer Opportunities (May-Aug 2027)](https://jobright.ai/jobs/info/6aac0cfe3e3ce93970c7b503?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | Hybrid | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2027 IT-Product & Strategy Summer Intern](https://jobright.ai/jobs/info/6ac90835fcdafb60c6a4a607?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | **[CHAMP](http://www.champtitles.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6af525669144106c56a2414d?utm_campaign=1047&utm_source=git)** | Cleveland, OH, United States | On Site | Nov 11 |
 | **[CLAAS](https://www.claas.de/)** | **[Ag Machinery Product Specialist - Summer Internship](https://jobright.ai/jobs/info/6af7ee2c34e2d29dcb752702?utm_campaign=1047&utm_source=git)** | Omaha, NE, United States | On Site | Nov 11 |
-| **[Rubrik](http://rubrik.com)** | **[Product Management Intern (MSP), Summer 2027](https://jobright.ai/jobs/info/6af4d30b1b2c5dcbbcd6474e?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
