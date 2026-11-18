@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oliver Healthcare Packaging](https://www.oliverhcp.com)** | **[Marketing Intern – Product Management (MBA)](https://jobright.ai/jobs/info/6afdccfc0324c008a17e1153?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Nov 18 |
 | **[ai.moms](https://aimoms.ai/)** | **[AI Product & Operations Intern](https://jobright.ai/jobs/info/6afda6d126d1f35210ca64fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Nov 18 |
 | **[SageSure](https://www.sagesure.com)** | **[Data Science Product Analyst Intern](https://jobright.ai/jobs/info/6ae107e41f9d9308370a6e98?utm_campaign=1047&utm_source=git)** | Fairfield, CA, United States | On Site | Nov 18 |
 | **[GoFundMe](http://www.gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://jobright.ai/jobs/info/6ad80a13e4b94611ab84b3e2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 18 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.dell.com)** | **[ISG Product Management Graduate Internship](https://jobright.ai/jobs/info/6ae3830c77c09cb3bd4a696e?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 17 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Fabric & Product Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6afcb9a6d86c15318a38d7cc?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Digital Product Management - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6aa863d72ed333b4ea5cf374?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 17 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6af61c8fa4a5218a07e8340c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
-| ↳ | **[Product Management Space Compute MBA Intern - Summer 2027](https://jobright.ai/jobs/info/6af205b062fb9f5fcd892d97?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management Space Compute MBA Intern - Summer 2027](https://jobright.ai/jobs/info/6af205b062fb9f5fcd892d97?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
+| ↳ | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6af61c8fa4a5218a07e8340c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
 | ↳ | **[Product Manager MBA Intern, Enterprise AI - Summer 2027](https://jobright.ai/jobs/info/6af39e324ac248020e8d32e6?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)](https://jobright.ai/jobs/info/6abec22e372c01f6cd725727?utm_campaign=1047&utm_source=git)** | Lake Mary, FL, United States | On Site | Nov 17 |
 | **[Adobe](http://www.adobe.com)** | **[2027 MBA Intern – Product Manager](https://jobright.ai/jobs/info/6abd88028ff3fb9b3bc7133b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 17 |
@@ -100,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://rtx.com/)** | **[Part Time Platform Product Design (Onsite)](https://jobright.ai/jobs/info/6afc5e281e98d304ea7f04ff?utm_campaign=1047&utm_source=git)** | Aurora, CO, United States | On Site | Nov 16 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Data Product Internship](https://jobright.ai/jobs/info/6af64c62323c531f31e31f23?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 16 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6ae8bff9061d6d7ff3d7cac0?utm_campaign=1047&utm_source=git)** | Portland, OR, United States | On Site | Nov 16 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Intern - Business & General Aviation](https://jobright.ai/jobs/info/6afb69a004af1c9f075c7c5f?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 16 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Intern - Business & General Aviation](https://jobright.ai/jobs/info/6afb5bf87f9ead6668ea13d2?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 16 |
 | **[Duetti](https://duetti.co)** | **[Summer 2027 Internship (MBA) - Product](https://jobright.ai/jobs/info/6afb3dc67f9ead6668e9ff52?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/6afb39db7d1820d918c27d00?utm_campaign=1047&utm_source=git)** | Arlington, TX, United States | Hybrid | Nov 16 |
 | **[Hourglass Cosmetics](https://www.hourglasscosmetics.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/6afb7c5bc5917ce34b5db61c?utm_campaign=1047&utm_source=git)** | West Hollywood, CA, United States | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Molex Product Management Internship 2027 - Aerospace & Defense Solutions](https://jobright.ai/jobs/info/6af7b168c7349029d709838b?utm_campaign=1047&utm_source=git)** | Georgetown, TX, United States | On Site | Nov 13 |
 | **[Addepar](https://addepar.com)** | **[Summer 2027 Internship - Product Analyst (Navigator)](https://jobright.ai/jobs/info/6af7972cd0eefb7d11b8e45b?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Spira AI](https://spira.ai)** | **[AI Agent Product Manager (intern)](https://jobright.ai/jobs/info/6af7a0e882422864006474a0?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 13 |
-| **[U.S. News & World Report](http://www.usnews.com)** | **[Yearlong Product Intern, Health Providers (DC or NY)](https://jobright.ai/jobs/info/6af78f11c7349029d70970bf?utm_campaign=1047&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
