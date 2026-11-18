@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ai.moms](https://aimoms.ai/)** | **[AI Product & Operations Intern](https://jobright.ai/jobs/info/6afda6d126d1f35210ca64fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Nov 18 |
+| **[SageSure](https://www.sagesure.com)** | **[Data Science Product Analyst Intern](https://jobright.ai/jobs/info/6ae107e41f9d9308370a6e98?utm_campaign=1047&utm_source=git)** | Fairfield, CA, United States | On Site | Nov 18 |
 | **[GoFundMe](http://www.gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://jobright.ai/jobs/info/6ad80a13e4b94611ab84b3e2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Nov 18 |
 | ↳ | **[Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 18 |
@@ -142,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/6af8956a35427cce9bb2e4c1?utm_campaign=1047&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 14 |
 | **[Camping World](https://investor.campingworld.com)** | **[New Product Development Product Management Intern](https://jobright.ai/jobs/info/6af787e9e3d8d612bf424731?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Nov 14 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Assortment Planning Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc6800a4cc7090f974a53?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 14 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist - Student Loans)](https://jobright.ai/jobs/info/6aa1631f3272060a8e3ef868?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist - Student Loans)](https://jobright.ai/jobs/info/6aa16833500b01124c77c792?utm_campaign=1047&utm_source=git)** | Vienna, VA, United States | Hybrid | Nov 14 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Product Pricing Analytics Intern - Summer 2027](https://jobright.ai/jobs/info/6adbc5595dc7953215a345b4?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 14 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Product Strategy Intern](https://jobright.ai/jobs/info/6adbc32e9e3e874dbfba1971?utm_campaign=1047&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 14 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analytics Product Management, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6adb71b69e3e874dbfb9fdf3?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Addepar](https://addepar.com)** | **[Summer 2027 Internship - Product Analyst (Navigator)](https://jobright.ai/jobs/info/6af7972cd0eefb7d11b8e45b?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Spira AI](https://spira.ai)** | **[AI Agent Product Manager (intern)](https://jobright.ai/jobs/info/6af7a0e882422864006474a0?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 13 |
 | **[U.S. News & World Report](http://www.usnews.com)** | **[Yearlong Product Intern, Health Providers (DC or NY)](https://jobright.ai/jobs/info/6af78f11c7349029d70970bf?utm_campaign=1047&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 13 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6af7958fe3d8d612bf425236?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Nov 13 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Sr Outbound Product Manager Intern (MBA Summer 2027)](https://jobright.ai/jobs/info/6af795868242286400646f9b?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
