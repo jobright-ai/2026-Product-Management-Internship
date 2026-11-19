@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6aff4f92b88323bd981bdc48?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Product Data Analyst Intern Job Details / Boston Scientific](https://jobright.ai/jobs/info/6afcf8bf94232f5ac42d3b77?utm_campaign=1047&utm_source=git)** | Marlborough, MA, United States | Hybrid | Nov 19 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Product Management Intern – Oils & Lubricants](https://jobright.ai/jobs/info/6a8daac2cc0cf2706852456b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | On Site | Nov 19 |
 | **[Haleon](http://www.haleon.com/)** | **[2027 Summer Intern: Product Development](https://jobright.ai/jobs/info/6ae21b1feb7e8f715a60a253?utm_campaign=1047&utm_source=git)** | Richmond, VA, United States | On Site | Nov 19 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Category Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6ac57451372c01f6cd739d28?utm_campaign=1047&utm_source=git)** | Dublin, OH, United States | On Site | Nov 19 |
@@ -80,13 +80,16 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Gaming Event and Content Operations Project Intern (TikTok Product-Gaming) - 2026 Start](https://jobright.ai/jobs/info/6afe439e758942b6422b8e24?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Nov 18 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product & Business Development Program (PBDP) Internship - Draper, UT](https://jobright.ai/jobs/info/6afdf0db0cde47528ec102bd?utm_campaign=1047&utm_source=git)** | Draper, UT, United States | Hybrid | Nov 18 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship - Summer 2027](https://jobright.ai/jobs/info/6afe379d758942b6422b88a3?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 18 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ae934a6e50c01a743a87c34?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6afe48190324c008a17e6088?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Nov 18 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ae934a6e50c01a743a87c34?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6adf8a0d9e3e874dbfbad56e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern](https://jobright.ai/jobs/info/6afe014b758942b6422b6737?utm_campaign=1047&utm_source=git)** | Woburn, MA, United States | Hybrid | Nov 18 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Product and Category Management](https://jobright.ai/jobs/info/6aff5a4772b9be3685290d81?utm_campaign=1047&utm_source=git)** | Saint-Laurent, QC, Canada | On Site | Nov 18 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/6aff55b3c1c02a9acd80af6d?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Nov 18 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Product Management and Development Intern](https://jobright.ai/jobs/info/6aff49feb88323bd981bd927?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | Hybrid | Nov 18 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Line Manager Intern – Photonics & Optical Networking](https://jobright.ai/jobs/info/6aff5f13c1c02a9acd80b4cb?utm_campaign=1047&utm_source=git)** | Westford, MA, United States | Hybrid | Nov 18 |
 | **[Doble-Megger](http://www.megger.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6aff42bbb88323bd981bd54b?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Golf Product Insights & Data Intern](https://jobright.ai/jobs/info/6afe0522758942b6422b68d8?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship - Summer 2027](https://jobright.ai/jobs/info/6afe37970324c008a17e5806?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 18 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Pyrotek](https://www.pyrotek.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6afe094df170d82b39670b3a?utm_campaign=1047&utm_source=git)** | Spokane, WA, United States | On Site | Nov 18 |
 | **[Consumer Technology Association](https://www.cta.tech/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/6afe0651f170d82b39670958?utm_campaign=1047&utm_source=git)** | Arlington, VA, United States | Hybrid | Nov 18 |
 | **[GoFundMe](http://www.gofundme.com)** | **[MBA Product Management Internship, Summer 2027](https://jobright.ai/jobs/info/6ad80a13e4b94611ab84b3e2?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 18 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Product Data Analyst Intern Job Details / Boston Scientific](https://jobright.ai/jobs/info/6afcf8bf94232f5ac42d3b77?utm_campaign=1047&utm_source=git)** | Marlborough, MA, United States | Hybrid | Nov 18 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/6afe06bc8cffea7c97c8f73d?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Nov 18 |
 | **[Oliver Healthcare Packaging](https://www.oliverhcp.com)** | **[Marketing Intern – Product Management (MBA)](https://jobright.ai/jobs/info/6afdccfc0324c008a17e1153?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Nov 18 |
 | **[HUB International](https://www.hubinternational.com)** | **[AI Product Analyst Intern](https://jobright.ai/jobs/info/6afddc30f3e7976cc610970c?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Intern, eCommerce Product Intern](https://jobright.ai/jobs/info/6afb218b484fef921e047d4a?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
 | ↳ | **[Intern, Product Management (PCL)](https://jobright.ai/jobs/info/6afb217f04af1c9f075c426b?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 IT Ecommerce Product Owner Intern](https://jobright.ai/jobs/info/6aab027d4be87a72913a2b8d?utm_campaign=1047&utm_source=git)** | Knoxville, TN, United States | On Site | Nov 16 |
-| **[Addepar](https://addepar.com)** | **[Technical Product Management Intern - ADX](https://jobright.ai/jobs/info/6afb151c04af1c9f075c3b01?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 16 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Product Management (PCL)](https://jobright.ai/jobs/info/6afb0e4b7f9ead6668e9dd26?utm_campaign=1047&utm_source=git)** | Doral, FL, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
