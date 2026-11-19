@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pyrotek](https://www.pyrotek.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6afe2620f170d82b39671bfa?utm_campaign=1047&utm_source=git)** | Spokane, WA, United States | On Site | Nov 18 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern - Product Management, Winter 2027](https://jobright.ai/jobs/info/6aeba977fbe13dfb53df6470?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 18 |
 | **[Uber](https://www.uber.com)** | **[2027 Product Management Intern, US](https://jobright.ai/jobs/info/6afcbcc32ac165125e4cc044?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 18 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2027 - IoT Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/6af8ad995c0a9086f36133b2?utm_campaign=1047&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 14 |
 | ↳ | **[Summer 2027 - IoT Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/6af8a5564ddfc50167b98c71?utm_campaign=1047&utm_source=git)** | Cary, NC, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/6af8956a35427cce9bb2e4c1?utm_campaign=1047&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 14 |
-| **[Camping World](https://investor.campingworld.com)** | **[New Product Development Product Management Intern](https://jobright.ai/jobs/info/6af787e9e3d8d612bf424731?utm_campaign=1047&utm_source=git)** | Illinois, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
