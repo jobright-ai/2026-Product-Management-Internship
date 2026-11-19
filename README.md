@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac6d7934ac55253f5d7c65e?utm_campaign=1047&utm_source=git)** | Franklin, TN, United States | On Site | Nov 19 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Management Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6afedcc7c1c02a9acd80741c?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ec0f0382b237ac80c2b7f?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Product Development Intern Summer 2027](https://jobright.ai/jobs/info/6aaab1d2c85610f4a4840eef?utm_campaign=1047&utm_source=git)** | Springfield, MO, United States | On Site | Nov 19 |
@@ -70,11 +71,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Gaming Event and Content Operations Project Intern (TikTok Product-Gaming) - 2026 Start](https://jobright.ai/jobs/info/6afe439e758942b6422b8e24?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Nov 18 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product & Business Development Program (PBDP) Internship - Draper, UT](https://jobright.ai/jobs/info/6afdf0db0cde47528ec102bd?utm_campaign=1047&utm_source=git)** | Draper, UT, United States | Hybrid | Nov 18 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship - Summer 2027](https://jobright.ai/jobs/info/6afe379d758942b6422b88a3?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Nov 18 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6afe48190324c008a17e6088?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Nov 18 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6ac44ae9372c01f6cd735269?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Nov 18 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ac6fbc4372c01f6cd73fc16?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6adf8a0d9e3e874dbfbad56e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6afe48190324c008a17e6088?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6ae934a6e50c01a743a87c34?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Nov 18 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/6adf8a0d9e3e874dbfbad56e?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 18 |
 | **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern](https://jobright.ai/jobs/info/6afe014b758942b6422b6737?utm_campaign=1047&utm_source=git)** | Woburn, MA, United States | Hybrid | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Golf Product Insights & Data Intern](https://jobright.ai/jobs/info/6afe0522758942b6422b68d8?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship - Summer 2027](https://jobright.ai/jobs/info/6afe37970324c008a17e5806?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Nov 18 |
@@ -111,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.dell.com)** | **[ISG Product Management Graduate Internship](https://jobright.ai/jobs/info/6ae3830c77c09cb3bd4a696e?utm_campaign=1047&utm_source=git)** | Round Rock, TX, United States | On Site | Nov 17 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Fabric & Product Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6afcb9a6d86c15318a38d7cc?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Digital Product Management - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6aa863d72ed333b4ea5cf374?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 17 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, Enterprise AI - Summer 2027](https://jobright.ai/jobs/info/6af39e324ac248020e8d32e6?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6af61c8fa4a5218a07e8340c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
+| ↳ | **[Product Manager MBA Intern, Enterprise AI - Summer 2027](https://jobright.ai/jobs/info/6af39e324ac248020e8d32e6?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
 | ↳ | **[Product Management Space Compute MBA Intern - Summer 2027](https://jobright.ai/jobs/info/6af205b062fb9f5fcd892d97?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
-| ↳ | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6af61c8fa4a5218a07e8340c?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 17 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)](https://jobright.ai/jobs/info/6abec22e372c01f6cd725727?utm_campaign=1047&utm_source=git)** | Lake Mary, FL, United States | On Site | Nov 17 |
 | **[Adobe](http://www.adobe.com)** | **[2027 MBA Intern – Product Manager](https://jobright.ai/jobs/info/6abd88028ff3fb9b3bc7133b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 17 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6afc826963fb67454cf79329?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Nov 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Management Dashboard Analytic Internship - Summer 2027](https://jobright.ai/jobs/info/6a89b3c2cde3717f9e9b88f2?utm_campaign=1047&utm_source=git)** | Middleton, WI, United States | On Site | Nov 16 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer](https://jobright.ai/jobs/info/6a9b7e829c24314c35f99623?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 16 |
 | ↳ | **[Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a88ee484afae74a0834e21a?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 16 |
-| **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (Pittsburgh, PA)](https://jobright.ai/jobs/info/6abec221d9621c5b28391300?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
