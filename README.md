@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Resonance](https://firstresonance.io)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6b03d6cf5da88988c83fe146?utm_campaign=1047&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 22 |
 | **[ai.moms™](https://aimoms.ai/)** | **[AI Product & Operations Intern](https://jobright.ai/jobs/info/6b038a61adf53adef40e03af?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Nov 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b0389f66300701fae1ad5f4?utm_campaign=1047&utm_source=git)** | Fremont, CA, United States | On Site | Nov 22 |
 | ↳ | **[Internship, Product Manager, Residential Energy Engineering (Winter/Spring 2027)](https://jobright.ai/jobs/info/6b0389e6754c32e575311ffb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
@@ -105,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/6aff55b3c1c02a9acd80af6d?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Nov 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6b00b32a89d8ca1e84958b59?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO, United States | On Site | Nov 20 |
 | **[Uber](https://www.uber.com)** | **[2027 Product Management Intern, US](https://jobright.ai/jobs/info/6afcbcc32ac165125e4cc044?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 20 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6aff742f6f4ca73dfeb44469?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management Space Compute MBA Intern - Summer 2027](https://jobright.ai/jobs/info/6aff742e6f4ca73dfeb44466?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 | ↳ | **[Product Management MBA Intern, GenAI Data Strategy - Summer 2027](https://jobright.ai/jobs/info/6aff9824b47661ae4a62e33b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
-| ↳ | **[Product Management Space Compute MBA Intern - Summer 2027](https://jobright.ai/jobs/info/6aff742e6f4ca73dfeb44466?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
+| ↳ | **[Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://jobright.ai/jobs/info/6aff742f6f4ca73dfeb44469?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 20 |
 | **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/6aa08bdb500b01124c779b73?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
 | **[Danaher](https://www.danaher.com)** | **[Product Management & Marketing Intern (Summer 2027 Intern)](https://jobright.ai/jobs/info/6ab2bbce326574570a002c95?utm_campaign=1047&utm_source=git)** | Logan, UT, United States | On Site | Nov 20 |
 | **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6aee208fd20350c7a5078dff?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 20 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6aac67da2e757fcb5c8b56d0?utm_campaign=1047&utm_source=git)** | Paso Robles, CA, United States | On Site | Nov 20 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 State Product Analyst Intern - Personal Lines](https://jobright.ai/jobs/info/6af0ff1e40b5de2d2b3159f2?utm_campaign=1047&utm_source=git)** | Des Moines, IA, United States | Hybrid | Nov 20 |
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/6a975492246d697dcee04ee2?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6aad98bf3dbb1f8967cee786?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6aae0e142e757fcb5c8bae85?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6aad98e63dbb1f8967cee7a8?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[ByteDance](http://bytedance.com)** | **[Product Management Project Intern (Global Payment) - 2027 Start](https://jobright.ai/jobs/info/6affeb97dd029d798066f11d?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Nov 19 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Product Team - Data Intelligence - 2027 Summer Internship](https://jobright.ai/jobs/info/6affdc456f4ca73dfeb46d8e?utm_campaign=1047&utm_source=git)** | Cambridge, MA, United States | On Site | Nov 19 |
 | ↳ | **[State Street Product Management Team - Business Analyst - Summer Internship 2027](https://jobright.ai/jobs/info/6affdc3b865dbcc3f26feee5?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | On Site | Nov 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6aff0bc1b88323bd981bb001?utm_campaign=1047&utm_source=git)** | Naperville, IL, United States | On Site | Nov 19 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6aff0aa897dcc4fc8dca8171?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 19 |
 | ↳ | **[Product Management and Analytics Intern](https://jobright.ai/jobs/info/6aff0aa7c1c02a9acd8080b0?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Nov 19 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Intern - Summer 2027 - Franklin, TN](https://jobright.ai/jobs/info/6ac6d7934ac55253f5d7c65e?utm_campaign=1047&utm_source=git)** | Franklin, TN, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
