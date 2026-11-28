@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Addepar](https://addepar.com)** | **[Product Analyst (Navigator) Intern - Summer 2027](https://jobright.ai/jobs/info/6af7972cd0eefb7d11b8e45b?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr Inbound Product Manager Intern (MBA Summer 2027)](https://jobright.ai/jobs/info/6af795788242286400646f8c?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 27 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Fall Part-Time Technical Product Specialist Undergraduate Intern (R22605)](https://jobright.ai/jobs/info/6ad143ace2d41540d4a6f88a?utm_campaign=1047&utm_source=git)** | Irvine, CA, United States | Hybrid | Nov 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Laptop - Summer 2027](https://jobright.ai/jobs/info/6b07704c6c5083822fdc9aeb?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 27 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/6af69129af034cc4ddad1762?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 27 |
 | **[BMO](http://www.bmo.com)** | **[Product Associate, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6b093d9d3075e481a8f08546?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 26 |
 | **[Desjardins](https://www.desjardins.com)** | **[Internship, IT sector, Fall 2026](https://jobright.ai/jobs/info/6ae93949e50c01a743a87e02?utm_campaign=1047&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | Nov 26 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6ad5bff854bbabbab06eee16?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 26 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a95b6b44c22023a079354f5?utm_campaign=1047&utm_source=git)** | Coppell, TX, United States | On Site | Nov 26 |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a95b6b44c22023a079354f5?utm_campaign=1047&utm_source=git)** | Coppell, TX, United States | On Site | Nov 26 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6ad5bff854bbabbab06eee16?utm_campaign=1047&utm_source=git)** | Pleasanton, CA, United States | On Site | Nov 26 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/6b087096cc765a1208d9c513?utm_campaign=1047&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 26 |
 | **[Hourglass Cosmetics](https://www.hourglasscosmetics.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/6b00e57b0ae14188d58c2364?utm_campaign=1047&utm_source=git)** | West Hollywood, CA, United States | On Site | Nov 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/6aebace6765815f7d7462b6f?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Nov 26 |
@@ -92,12 +93,12 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/6b07f6ea0bb3d71a62319837?utm_campaign=1047&utm_source=git)** | New Holland, PA, United States | On Site | Nov 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2027](https://jobright.ai/jobs/info/6b0775b82c2b1d2eebe151cb?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 25 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e38d9882f121f56a39a93?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Nov 25 |
-| **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6b0712b708b131a5c6577729?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
-| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6aee208fd20350c7a5078dff?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
+| **[Docusign](http://www.docusign.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6b0714c920135524ca729992?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 25 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6b0712b708b131a5c6577729?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6b0736f6fbcb892eea5e16f6?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
-| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6b07437b6c5083822fdc83ac?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
-| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6b0714c920135524ca729992?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 25 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6aee208fd20350c7a5078dff?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6b00ace40f536e0ba7276185?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6b07437b6c5083822fdc83ac?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 25 |
 | **[QuEra Computing Inc.](https://www.quera.com)** | **[Internship – Technical Product Management](https://jobright.ai/jobs/info/6b0774b220135524ca72ccff?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | On Site | Nov 25 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Product Intern(AI)-W2 position](https://jobright.ai/jobs/info/6b07473a6c5083822fdc85f4?utm_campaign=1047&utm_source=git)** | Edison, NJ, United States | On Site | Nov 25 |
 | **[Uber](https://www.uber.com)** | **[2027 Product Management Intern, US](https://jobright.ai/jobs/info/6afcbcc32ac165125e4cc044?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2027 Summer Intern - Digital Product: Product Management (MBA)](https://jobright.ai/jobs/info/6aad7a803dbb1f8967cedb27?utm_campaign=1047&utm_source=git)** | Warren, MI, United States | Hybrid | Nov 23 |
 | **[First Resonance](https://firstresonance.io)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6b03d6cf5da88988c83fe146?utm_campaign=1047&utm_source=git)** | El Segundo, CA, United States | On Site | Nov 23 |
 | **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Private Brands Operations - Undergrad Internship - Summer 2027](https://jobright.ai/jobs/info/6ab0a1e7de327d3e210d8300?utm_campaign=1047&utm_source=git)** | Mooresville, NC, United States | On Site | Nov 23 |
-| **[Clearwater Analytics](https://clearwateranalytics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6b0501497bec27df08f9587d?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
